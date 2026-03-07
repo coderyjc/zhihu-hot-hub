@@ -17,7 +17,6 @@ HEADERS = {
     'x-api-version': '3.0.76',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'cookie': os.environ.get('ZHIHU_COOKIE', ''),
-    'cookie': ''
 }
 RETRIES = Retry(total=3,
                 backoff_factor=1,
