@@ -12,7 +12,7 @@ from urllib3.util.retry import Retry
 from util import logger
 
 HOT_QUESTION_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30'
-DAILY_REPORT = 'https://news-at.zhihu.com/api/3/stories/latest'
+DAILY_REPORT = 'https://apis.netstart.cn/zhihudaily/stories/latest'
 
 HEADERS = {
     'x-api-version': '3.0.76',
