@@ -2,6 +2,7 @@
 
 import contextlib
 import json
+import os
 
 import requests
 from bs4 import BeautifulSoup
@@ -10,19 +11,17 @@ from urllib3.util.retry import Retry
 
 from util import logger
 
-HOT_SEARCH_URL = 'https://www.zhihu.com/api/v4/search/top_search'
-HOT_QUESTION_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50'
-HOT_VIDEO_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/zvideo?limit=50'
-
-HOT_SEARCH_URL2 = 'https://www.zhihu.com/topsearch'
+HOT_QUESTION_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30'
+DAILY_REPORT = 'https://news-at.zhihu.com/api/3/stories/latest'
 
 HEADERS = {
     'x-api-version': '3.0.76',
-    'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1'
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'cookie': os.environ.get('ZHIHU_COOKIE', ''),
 }
 RETRIES = Retry(total=3,
                 backoff_factor=1,
-                status_forcelist=[k for k in range(400, 600)])
+                status_forcelist=[k for k in range(500, 600)])
 
 
 @contextlib.contextmanager
@@ -38,33 +37,6 @@ def request_session():
 
 
 class Zhihu:
-
-    def get_hot_search(self):
-        """热搜
-            {
-                "queryDisplay": "空军宣传片疑似出现轰 20 ",
-                "realQuery": "轰20",
-                "queryDescription": "暗示首飞在即？",
-                "redirectLink": "",
-                "type": 0,
-                "status": 0,
-                "isNew": false
-            }
-        """
-        items = []
-        resp = None
-        try:
-            with request_session() as s:
-                resp = s.get(HOT_SEARCH_URL2)
-                soup = BeautifulSoup(resp.text)
-                script = soup.find(
-                    'script', type='text/json', id='js-initialData')
-                if script:
-                    obj = json.loads(script.string)
-                    items = obj['initialState']['topsearch']['data']
-        except:
-            logger.exception('get hot search failed')
-        return (items, resp)
 
     def get_hot_question(self):
         """热门问题
@@ -107,96 +79,46 @@ class Zhihu:
             logger.exception('get hot question failed')
         return (items, resp)
 
-    def get_hot_video(self):
-        """热门视频
+    def get_daily_report(self):
+        """知乎日报
             {
-                "type": "hot_list_feed",
-                "style_type": "1",
-                "id": "0_1610377795.4384937",
-                "card_id": "ZV_1331729488393428992",
-                "feed_specific": { "answer_count": 0 },
-                "target": {
-                    "title_area": { "text": "因为看到同事被抬上救护车我被拼多多开除了" },
-                    "excerpt_area": { "text": "" },
-                    "image_area": {
-                    "url": "https://pic3.zhimg.com/50/v2-32df40175486b892fd1c77e12d280b87_b.jpg",
-                    "video_length": "15:18"
-                    },
-                    "metrics_area": { "text": "383 万领域热度" },
-                    "label_area": {
-                    "type": "trend",
-                    "trend": 0,
-                    "night_color": "#B7302D",
-                    "normal_color": "#F1403C"
-                    },
-                    "author_area": {
-                    "type": "people",
-                    "id": "f5c18526ffa5bb2a74c9a9bbd31c5594",
-                    "url_token": "wang-tai-xu",
-                    "url": "https://www.zhihu.com/people/wang-tai-xu",
-                    "is_following": False,
-                    "is_followed": False,
-                    "avatar_url": "https://pic2.zhimg.com/50/8b5819fd5ab1204e304248d984a08175_s.jpg",
-                    "name": "王太虚",
-                    "badge": [
-                        {
-                        "type": "identity",
-                        "description": "拼多多被辞退事件当事人",
-                        "topic_names": []
-                        }
-                    ],
-                    "badge_v2": {
-                        "title": "拼多多被辞退事件当事人",
-                        "merged_badges": [
-                        {
-                            "type": "identity",
-                            "detail_type": "identity",
-                            "title": "认证",
-                            "description": "拼多多被辞退事件当事人",
-                            "url": "https://www.zhihu.com/account/verification/intro",
-                            "sources": [],
-                            "icon": "",
-                            "night_icon": ""
-                        }
-                        ],
-                        "detail_badges": [
-                        {
-                            "type": "identity",
-                            "detail_type": "identity_people",
-                            "title": "已认证的个人",
-                            "description": "拼多多被辞退事件当事人",
-                            "url": "https://www.zhihu.com/account/verification/intro",
-                            "sources": [],
-                            "icon": "https://pic4.zhimg.com/v2-235258cecb8a0f184c4d38483cd6f6b6_l.png",
-                            "night_icon": "https://pic4.zhimg.com/v2-45e870b8f0982bcd7537ea4627afbd00_l.png"
-                        }
-                        ],
-                        "icon": "https://pic1.zhimg.com/v2-235258cecb8a0f184c4d38483cd6f6b6_l.png",
-                        "night_icon": "https://pic4.zhimg.com/v2-45e870b8f0982bcd7537ea4627afbd00_l.png"
-                    },
-                    "description": "拼多多被辞退事件当事人"
-                    },
-                    "link": { "url": "https://www.zhihu.com/zvideo/1331729488393428992" }
-                },
-                "attached_info": "CloI1OTArvDzveIlEGMaEzEzMzE3Mjk0ODgzOTM0Mjg5OTIg1p/s/wUwhgZAAEoCIAByEzEzMzE3Mjk0ODgzOTM0Mjg5OTJ4AKoBEGJpbGxib2FyZC16dmlkZW8="
+                "date": "20260307",
+                "stories": [
+                    {
+                        "image_hue": "0x506273",
+                        "title": "尸体埋在土里 20 厘米深能完全隔绝尸臭吗？",
+                        "url": "https://daily.zhihu.com/story/9788045",
+                        "hint": "祥昊 · 2 分钟阅读",
+                        "ga_prefix": "030707",
+                        "images": ["https://picx.zhimg.com/v2-3e8befe675e44703f9eae54e97adb4fe.jpg?source=8673f162"],
+                        "type": 0,
+                        "id": 9788045
+                    }
+                ],
+                "top_stories": [...]
             }
         """
         items = []
         resp = None
         try:
             with request_session() as s:
-                resp = s.get(HOT_VIDEO_URL)
-                items = resp.json()['data']
+                resp = s.get(DAILY_REPORT)
+                obj = resp.json()
+                items = obj['stories']
         except:
-            logger.exception('get hot video failed')
+            logger.exception('get daily report failed')
         return (items, resp)
 
 
 if __name__ == "__main__":
     zhihu = Zhihu()
-    # searches, resp = zhihu.get_hot_search()
-    # logger.info('%s', searches[0])
-    # questions, resp = zhihu.get_hot_question()
-    # logger.info('%s', questions[0])
-    videos, resp = zhihu.get_hot_video()
-    logger.info('%s', videos[0])
+    questions, resp = zhihu.get_hot_question()
+    if questions:
+        logger.info('%s', questions[0])
+    else:
+        logger.warning('no questions returned')
+    stories, resp = zhihu.get_daily_report()
+    if stories:
+        logger.info('%s', stories[0])
+    else:
+        logger.warning('no daily stories returned')

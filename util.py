@@ -24,7 +24,7 @@ def ensure_dir(file):
 
 def write_text(file: str, text: str):
     ensure_dir(file)
-    with open(file, mode='w') as f:
+    with open(file, mode='w', encoding='utf-8') as f:
         f.write(text)
 
 

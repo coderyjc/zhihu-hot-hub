@@ -20,7 +20,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: "3.8"
+          python-version: "3.9"
 
       # 安装python依赖
       - name: Install dependencies
@@ -39,6 +39,8 @@ jobs:
       # 运行
       - name: Run python
         run: python main.py
+        env:
+          ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
 
       # 更新仓库
       - name: Update repo

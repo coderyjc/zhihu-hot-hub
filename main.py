@@ -1,106 +1,78 @@
 import os
-import urllib.parse
-
-import requests
-from bs4 import BeautifulSoup
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
 import util
 from util import logger
 from zhihu import Zhihu
 
 
-def generate_archive_md(searches, questsions, videos):
+def generate_archive_md(questions, stories):
     """生成归档readme
     """
-    def search(item):
-        title = item['queryDisplay']
-        q = urllib.parse.quote(item['realQuery'])
-        url = 'https://www.zhihu.com/search?q={}'.format(q)
-        return '1. [{}]({})'.format(title, url)
-
     def question(item):
         target = item['target']
         title = target['title_area']['text']
         url = target['link']['url']
         return '1. [{}]({})'.format(title, url)
 
-    def video(item):
-        target = item['target']
-        title = target['title_area']['text']
-        url = target['link']['url']
-        return '1. [{}]({})'.format(title, url)
-
-    searchMd = '暂无数据'
-    if searches:
-        searchMd = '\n'.join([search(item) for item in searches])
+    def story(item):
+        title = item['title']
+        url = item['url']
+        hint = item.get('hint', '')
+        return '1. [{}]({}) `{}`'.format(title, url, hint)
 
     questionMd = '暂无数据'
-    if questsions:
-        questionMd = '\n'.join([question(item) for item in questsions])
+    if questions:
+        questionMd = '\n'.join([question(item) for item in questions])
 
-    videoMd = '暂无数据'
-    if videos:
-        videoMd = '\n'.join([video(item) for item in videos])
+    dailyMd = '暂无数据'
+    if stories:
+        dailyMd = '\n'.join([story(item) for item in stories])
 
     md = ''
     file = os.path.join('template', 'archive.md')
-    with open(file) as f:
+    with open(file, encoding='utf-8') as f:
         md = f.read()
 
     now = util.current_time()
     md = md.replace("{updateTime}", now)
-    md = md.replace("{searches}", searchMd)
     md = md.replace("{questions}", questionMd)
-    md = md.replace("{videos}", videoMd)
+    md = md.replace("{daily}", dailyMd)
 
     return md
 
 
-def generate_readme(searches, questsions, videos):
+def generate_readme(questions, stories):
     """生成readme
     """
-    def search(item):
-        title = item['queryDisplay']
-        q = urllib.parse.quote(item['realQuery'])
-        url = 'https://www.zhihu.com/search?q={}'.format(q)
-        return '1. [{}]({})'.format(title, url)
-
     def question(item):
         target = item['target']
         title = target['title_area']['text']
         url = target['link']['url']
         return '1. [{}]({})'.format(title, url)
 
-    def video(item):
-        target = item['target']
-        title = target['title_area']['text']
-        url = target['link']['url']
-        return '1. [{}]({})'.format(title, url)
-
-    searchMd = '暂无数据'
-    if searches:
-        searchMd = '\n'.join([search(item) for item in searches])
+    def story(item):
+        title = item['title']
+        url = item['url']
+        hint = item.get('hint', '')
+        return '1. [{}]({}) `{}`'.format(title, url, hint)
 
     questionMd = '暂无数据'
-    if questsions:
-        questionMd = '\n'.join([question(item) for item in questsions])
+    if questions:
+        questionMd = '\n'.join([question(item) for item in questions])
 
-    videoMd = '暂无数据'
-    if videos:
-        videoMd = '\n'.join([video(item) for item in videos])
+    dailyMd = '暂无数据'
+    if stories:
+        dailyMd = '\n'.join([story(item) for item in stories])
 
     readme = ''
     file = os.path.join('template', 'README.md')
-    with open(file) as f:
+    with open(file, encoding='utf-8') as f:
         readme = f.read()
 
     now = util.current_time()
     readme = readme.replace("{updateTime}", now)
-    readme = readme.replace("{searches}", searchMd)
     readme = readme.replace("{questions}", questionMd)
-    readme = readme.replace("{videos}", videoMd)
+    readme = readme.replace("{daily}", dailyMd)
 
     return readme
 
@@ -126,26 +98,22 @@ def saveRawContent(content: str, filePrefix: str, fileSuffix='json'):
 
 def run():
     zhihu = Zhihu()
-    # 热搜数据
-    searches, resp = zhihu.get_hot_search()
-    if resp:
-        saveRawContent(resp.text, 'hot-search', 'html')
-    # 问题数据
+    # 热门话题
     questions, resp = zhihu.get_hot_question()
     if resp:
         text = util.cnsafe_json(resp.text)
         saveRawContent(text, 'hot-question', 'json')
-    # 视频数据
-    videos, resp = zhihu.get_hot_video()
+    # 知乎日报
+    stories, resp = zhihu.get_daily_report()
     if resp:
         text = util.cnsafe_json(resp.text)
-        saveRawContent(text, 'hot-video', 'json')
+        saveRawContent(text, 'daily-report', 'json')
 
     # 最新数据
-    todayMd = generate_readme(searches, questions, videos)
+    todayMd = generate_readme(questions, stories)
     saveReadme(todayMd)
     # 归档
-    archiveMd = generate_archive_md(searches, questions, videos)
+    archiveMd = generate_archive_md(questions, stories)
     saveArchiveMd(archiveMd)
 
 
