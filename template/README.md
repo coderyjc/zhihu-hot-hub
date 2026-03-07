@@ -20,10 +20,6 @@
 
 {questions}
 
-## 知乎日报
-
-{daily}
-
 ## 历史归档
 
 [archives](archives)

@@ -12,12 +12,12 @@ from urllib3.util.retry import Retry
 from util import logger
 
 HOT_QUESTION_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=30'
-DAILY_REPORT = 'https://apis.netstart.cn/zhihudaily/stories/latest'
 
 HEADERS = {
     'x-api-version': '3.0.76',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'cookie': os.environ.get('ZHIHU_COOKIE', ''),
+    'cookie': ''
 }
 RETRIES = Retry(total=3,
                 backoff_factor=1,
@@ -79,36 +79,6 @@ class Zhihu:
             logger.exception('get hot question failed')
         return (items, resp)
 
-    def get_daily_report(self):
-        """知乎日报
-            {
-                "date": "20260307",
-                "stories": [
-                    {
-                        "image_hue": "0x506273",
-                        "title": "尸体埋在土里 20 厘米深能完全隔绝尸臭吗？",
-                        "url": "https://daily.zhihu.com/story/9788045",
-                        "hint": "祥昊 · 2 分钟阅读",
-                        "ga_prefix": "030707",
-                        "images": ["https://picx.zhimg.com/v2-3e8befe675e44703f9eae54e97adb4fe.jpg?source=8673f162"],
-                        "type": 0,
-                        "id": 9788045
-                    }
-                ],
-                "top_stories": [...]
-            }
-        """
-        items = []
-        resp = None
-        try:
-            with request_session() as s:
-                resp = s.get(DAILY_REPORT)
-                obj = resp.json()
-                items = obj['stories']
-        except:
-            logger.exception('get daily report failed')
-        return (items, resp)
-
 
 if __name__ == "__main__":
     zhihu = Zhihu()
@@ -117,8 +87,3 @@ if __name__ == "__main__":
         logger.info('%s', questions[0])
     else:
         logger.warning('no questions returned')
-    stories, resp = zhihu.get_daily_report()
-    if stories:
-        logger.info('%s', stories[0])
-    else:
-        logger.warning('no daily stories returned')
