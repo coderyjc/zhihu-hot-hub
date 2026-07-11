@@ -1,0 +1,888 @@
+{
+  "generated_at": "2026-07-11 12:34:56 +0800",
+  "global_path": "../raw/hot-question-history.json",
+  "dates": [
+    {
+      "date": "2026-07-11",
+      "path": "../raw/hot-question-2026-07-11.json",
+      "updated_at": "2026-07-11 12:16:39 +0800",
+      "item_count": 43,
+      "version": 2
+    },
+    {
+      "date": "2026-07-10",
+      "path": "../raw/hot-question-2026-07-10.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-09",
+      "path": "../raw/hot-question-2026-07-09.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-08",
+      "path": "../raw/hot-question-2026-07-08.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-07",
+      "path": "../raw/hot-question-2026-07-07.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-06",
+      "path": "../raw/hot-question-2026-07-06.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-05",
+      "path": "../raw/hot-question-2026-07-05.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-04",
+      "path": "../raw/hot-question-2026-07-04.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-03",
+      "path": "../raw/hot-question-2026-07-03.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-02",
+      "path": "../raw/hot-question-2026-07-02.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-07-01",
+      "path": "../raw/hot-question-2026-07-01.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-30",
+      "path": "../raw/hot-question-2026-06-30.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-29",
+      "path": "../raw/hot-question-2026-06-29.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-28",
+      "path": "../raw/hot-question-2026-06-28.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-27",
+      "path": "../raw/hot-question-2026-06-27.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-26",
+      "path": "../raw/hot-question-2026-06-26.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-25",
+      "path": "../raw/hot-question-2026-06-25.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-24",
+      "path": "../raw/hot-question-2026-06-24.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-23",
+      "path": "../raw/hot-question-2026-06-23.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-22",
+      "path": "../raw/hot-question-2026-06-22.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-21",
+      "path": "../raw/hot-question-2026-06-21.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-20",
+      "path": "../raw/hot-question-2026-06-20.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-19",
+      "path": "../raw/hot-question-2026-06-19.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-18",
+      "path": "../raw/hot-question-2026-06-18.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-17",
+      "path": "../raw/hot-question-2026-06-17.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-16",
+      "path": "../raw/hot-question-2026-06-16.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-15",
+      "path": "../raw/hot-question-2026-06-15.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-14",
+      "path": "../raw/hot-question-2026-06-14.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-13",
+      "path": "../raw/hot-question-2026-06-13.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-12",
+      "path": "../raw/hot-question-2026-06-12.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-11",
+      "path": "../raw/hot-question-2026-06-11.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-10",
+      "path": "../raw/hot-question-2026-06-10.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-09",
+      "path": "../raw/hot-question-2026-06-09.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-08",
+      "path": "../raw/hot-question-2026-06-08.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-07",
+      "path": "../raw/hot-question-2026-06-07.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-06",
+      "path": "../raw/hot-question-2026-06-06.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-05",
+      "path": "../raw/hot-question-2026-06-05.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-04",
+      "path": "../raw/hot-question-2026-06-04.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-03",
+      "path": "../raw/hot-question-2026-06-03.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-02",
+      "path": "../raw/hot-question-2026-06-02.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-06-01",
+      "path": "../raw/hot-question-2026-06-01.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-31",
+      "path": "../raw/hot-question-2026-05-31.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-30",
+      "path": "../raw/hot-question-2026-05-30.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-29",
+      "path": "../raw/hot-question-2026-05-29.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-28",
+      "path": "../raw/hot-question-2026-05-28.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-27",
+      "path": "../raw/hot-question-2026-05-27.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-26",
+      "path": "../raw/hot-question-2026-05-26.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-25",
+      "path": "../raw/hot-question-2026-05-25.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-24",
+      "path": "../raw/hot-question-2026-05-24.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-23",
+      "path": "../raw/hot-question-2026-05-23.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-22",
+      "path": "../raw/hot-question-2026-05-22.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-21",
+      "path": "../raw/hot-question-2026-05-21.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-20",
+      "path": "../raw/hot-question-2026-05-20.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-19",
+      "path": "../raw/hot-question-2026-05-19.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-18",
+      "path": "../raw/hot-question-2026-05-18.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-17",
+      "path": "../raw/hot-question-2026-05-17.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-16",
+      "path": "../raw/hot-question-2026-05-16.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-15",
+      "path": "../raw/hot-question-2026-05-15.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-14",
+      "path": "../raw/hot-question-2026-05-14.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-13",
+      "path": "../raw/hot-question-2026-05-13.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-12",
+      "path": "../raw/hot-question-2026-05-12.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-11",
+      "path": "../raw/hot-question-2026-05-11.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-10",
+      "path": "../raw/hot-question-2026-05-10.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-09",
+      "path": "../raw/hot-question-2026-05-09.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-08",
+      "path": "../raw/hot-question-2026-05-08.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-07",
+      "path": "../raw/hot-question-2026-05-07.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-06",
+      "path": "../raw/hot-question-2026-05-06.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-05",
+      "path": "../raw/hot-question-2026-05-05.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-04",
+      "path": "../raw/hot-question-2026-05-04.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-03",
+      "path": "../raw/hot-question-2026-05-03.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-02",
+      "path": "../raw/hot-question-2026-05-02.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-05-01",
+      "path": "../raw/hot-question-2026-05-01.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-30",
+      "path": "../raw/hot-question-2026-04-30.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-29",
+      "path": "../raw/hot-question-2026-04-29.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-28",
+      "path": "../raw/hot-question-2026-04-28.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-27",
+      "path": "../raw/hot-question-2026-04-27.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-26",
+      "path": "../raw/hot-question-2026-04-26.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-25",
+      "path": "../raw/hot-question-2026-04-25.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-24",
+      "path": "../raw/hot-question-2026-04-24.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-23",
+      "path": "../raw/hot-question-2026-04-23.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-22",
+      "path": "../raw/hot-question-2026-04-22.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-21",
+      "path": "../raw/hot-question-2026-04-21.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-20",
+      "path": "../raw/hot-question-2026-04-20.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-19",
+      "path": "../raw/hot-question-2026-04-19.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-18",
+      "path": "../raw/hot-question-2026-04-18.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-17",
+      "path": "../raw/hot-question-2026-04-17.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-15",
+      "path": "../raw/hot-question-2026-04-15.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-14",
+      "path": "../raw/hot-question-2026-04-14.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-13",
+      "path": "../raw/hot-question-2026-04-13.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-12",
+      "path": "../raw/hot-question-2026-04-12.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-11",
+      "path": "../raw/hot-question-2026-04-11.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-10",
+      "path": "../raw/hot-question-2026-04-10.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-09",
+      "path": "../raw/hot-question-2026-04-09.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-08",
+      "path": "../raw/hot-question-2026-04-08.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-07",
+      "path": "../raw/hot-question-2026-04-07.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-06",
+      "path": "../raw/hot-question-2026-04-06.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-05",
+      "path": "../raw/hot-question-2026-04-05.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-04",
+      "path": "../raw/hot-question-2026-04-04.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-03",
+      "path": "../raw/hot-question-2026-04-03.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-02",
+      "path": "../raw/hot-question-2026-04-02.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-04-01",
+      "path": "../raw/hot-question-2026-04-01.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-31",
+      "path": "../raw/hot-question-2026-03-31.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-30",
+      "path": "../raw/hot-question-2026-03-30.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-29",
+      "path": "../raw/hot-question-2026-03-29.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-28",
+      "path": "../raw/hot-question-2026-03-28.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-27",
+      "path": "../raw/hot-question-2026-03-27.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-26",
+      "path": "../raw/hot-question-2026-03-26.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-25",
+      "path": "../raw/hot-question-2026-03-25.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-24",
+      "path": "../raw/hot-question-2026-03-24.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-23",
+      "path": "../raw/hot-question-2026-03-23.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-22",
+      "path": "../raw/hot-question-2026-03-22.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-21",
+      "path": "../raw/hot-question-2026-03-21.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-20",
+      "path": "../raw/hot-question-2026-03-20.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-19",
+      "path": "../raw/hot-question-2026-03-19.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-18",
+      "path": "../raw/hot-question-2026-03-18.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-17",
+      "path": "../raw/hot-question-2026-03-17.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-16",
+      "path": "../raw/hot-question-2026-03-16.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-15",
+      "path": "../raw/hot-question-2026-03-15.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-14",
+      "path": "../raw/hot-question-2026-03-14.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-13",
+      "path": "../raw/hot-question-2026-03-13.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-12",
+      "path": "../raw/hot-question-2026-03-12.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-11",
+      "path": "../raw/hot-question-2026-03-11.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-10",
+      "path": "../raw/hot-question-2026-03-10.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-09",
+      "path": "../raw/hot-question-2026-03-09.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-08",
+      "path": "../raw/hot-question-2026-03-08.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    },
+    {
+      "date": "2026-03-07",
+      "path": "../raw/hot-question-2026-03-07.json",
+      "updated_at": "",
+      "item_count": 30,
+      "version": 1
+    }
+  ]
+}

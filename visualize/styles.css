@@ -1,0 +1,518 @@
+:root {
+  color-scheme: light;
+  --paper: #f4f0e8;
+  --paper-deep: #e7dfd0;
+  --ink: #1e211b;
+  --muted: #6b6f64;
+  --line: #c9c0ad;
+  --line-strong: #94866e;
+  --accent: #bd3927;
+  --accent-deep: #8f281c;
+  --teal: #176c69;
+  --gold: #b98525;
+  --panel: #fffcf4;
+  --shadow: 0 18px 45px rgba(37, 31, 21, 0.14);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  font-family: "Aptos", "Noto Sans CJK SC", "Microsoft YaHei UI", sans-serif;
+  background:
+    linear-gradient(rgba(30, 33, 27, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(30, 33, 27, 0.035) 1px, transparent 1px),
+    var(--paper);
+  background-size: 24px 24px;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.shell {
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.masthead {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 8px 0 22px;
+  border-bottom: 2px solid var(--ink);
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  color: var(--accent-deep);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2 {
+  margin: 0;
+  font-family: "Georgia", "Noto Serif CJK SC", "SimSun", serif;
+  letter-spacing: 0;
+}
+
+h1 {
+  font-size: clamp(28px, 4vw, 54px);
+  line-height: 1;
+}
+
+.status-strip {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 38px;
+  padding: 8px 12px;
+  border: 1px solid var(--line-strong);
+  background: var(--panel);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--gold);
+  box-shadow: 0 0 0 4px rgba(185, 133, 37, 0.16);
+}
+
+.status-strip.ready .status-dot {
+  background: var(--teal);
+  box-shadow: 0 0 0 4px rgba(23, 108, 105, 0.16);
+}
+
+.status-strip.error .status-dot {
+  background: var(--accent);
+  box-shadow: 0 0 0 4px rgba(189, 57, 39, 0.16);
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: 290px minmax(0, 1fr);
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.date-rail,
+.board,
+.drawer,
+.metric,
+.chart-panel {
+  border: 1px solid var(--line);
+  background: rgba(255, 252, 244, 0.92);
+}
+
+.date-rail {
+  position: sticky;
+  top: 18px;
+  height: calc(100vh - 138px);
+  min-height: 520px;
+  overflow: hidden;
+}
+
+.rail-head,
+.toolbar,
+.chart-head,
+.drawer-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.rail-head {
+  padding: 16px;
+  border-bottom: 1px solid var(--line);
+}
+
+.rail-head h2 {
+  font-size: 22px;
+}
+
+.rail-head span {
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.date-list {
+  height: calc(100% - 63px);
+  overflow: auto;
+  padding: 8px;
+}
+
+.date-item {
+  display: grid;
+  width: 100%;
+  gap: 4px;
+  padding: 12px;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
+  cursor: pointer;
+}
+
+.date-item:hover,
+.date-item.active {
+  border-color: var(--ink);
+  background: var(--paper-deep);
+}
+
+.date-value {
+  font-weight: 900;
+}
+
+.date-meta {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.board {
+  min-width: 0;
+  box-shadow: var(--shadow);
+}
+
+.toolbar {
+  flex-wrap: wrap;
+  padding: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.selected-date {
+  margin: 0;
+  font-size: 28px;
+  font-weight: 900;
+}
+
+.meta-line {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+}
+
+input,
+select {
+  height: 38px;
+  border: 1px solid var(--line-strong);
+  background: var(--panel);
+  color: var(--ink);
+  padding: 0 10px;
+}
+
+input {
+  width: min(32vw, 280px);
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  padding: 14px 18px;
+}
+
+.metric {
+  padding: 14px;
+  background: var(--paper);
+}
+
+.metric span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.metric strong {
+  display: block;
+  margin-top: 6px;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.table-wrap {
+  position: relative;
+  overflow: auto;
+  max-height: calc(100vh - 285px);
+  min-height: 380px;
+  border-top: 1px solid var(--line);
+}
+
+table {
+  width: 100%;
+  min-width: 980px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 11px 12px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 12px;
+  text-align: left;
+}
+
+tbody tr {
+  cursor: pointer;
+}
+
+tbody tr:hover {
+  background: #f0e6d6;
+}
+
+.rank-cell,
+.value-cell,
+.history-cell {
+  font-variant-numeric: tabular-nums;
+  font-weight: 800;
+}
+
+.rank-cell {
+  color: var(--accent-deep);
+}
+
+.title-cell {
+  max-width: 430px;
+  font-weight: 800;
+  line-height: 1.5;
+}
+
+.heat-cell,
+.first-cell,
+.last-cell {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.empty-state {
+  padding: 54px 18px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 4;
+  background: rgba(30, 33, 27, 0.28);
+}
+
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 5;
+  width: min(720px, 100vw);
+  height: 100vh;
+  padding: 20px;
+  overflow: auto;
+  transform: translateX(105%);
+  transition: transform 180ms ease;
+  box-shadow: -24px 0 60px rgba(37, 31, 21, 0.22);
+}
+
+.drawer.open {
+  transform: translateX(0);
+}
+
+.drawer h2 {
+  margin-right: 16px;
+  font-size: 26px;
+  line-height: 1.24;
+}
+
+.close-button {
+  width: 38px;
+  height: 38px;
+  border: 1px solid var(--line-strong);
+  background: var(--ink);
+  color: var(--paper);
+  cursor: pointer;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.drawer-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 18px 0;
+}
+
+.drawer-actions a,
+.ghost-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0 12px;
+  border: 1px solid var(--line-strong);
+  background: var(--panel);
+  color: var(--ink);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.ghost-button.active {
+  background: var(--teal);
+  color: #fff;
+  border-color: var(--teal);
+}
+
+.chart-panel {
+  padding: 14px;
+  background: var(--paper);
+}
+
+.chart-head {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+#heatChart {
+  display: block;
+  width: 100%;
+  height: 260px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+}
+
+.chart-area {
+  fill: rgba(23, 108, 105, 0.14);
+  stroke: none;
+}
+
+.chart-line {
+  fill: none;
+  stroke: var(--teal);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 3;
+}
+
+.chart-point {
+  fill: var(--panel);
+  stroke: var(--accent);
+  stroke-width: 2;
+}
+
+.chart-label,
+.chart-muted {
+  fill: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.chart-muted {
+  font-size: 14px;
+}
+
+.history-list {
+  margin: 18px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.history-list li {
+  display: grid;
+  grid-template-columns: minmax(150px, 1fr) 90px minmax(100px, 1fr);
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.history-list time {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  width: max-content;
+  min-height: 22px;
+  padding: 0 7px;
+  border: 1px solid var(--gold);
+  color: var(--accent-deep);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+@media (max-width: 980px) {
+  .shell {
+    padding: 14px;
+  }
+
+  .masthead {
+    align-items: start;
+    flex-direction: column;
+  }
+
+  .workspace {
+    grid-template-columns: 1fr;
+  }
+
+  .date-rail {
+    position: relative;
+    top: 0;
+    height: auto;
+    min-height: 0;
+  }
+
+  .date-list {
+    display: flex;
+    height: auto;
+    overflow-x: auto;
+  }
+
+  .date-item {
+    min-width: 168px;
+  }
+
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .controls,
+  input,
+  select {
+    width: 100%;
+  }
+
+  .table-wrap {
+    max-height: none;
+  }
+
+  .history-list li {
+    grid-template-columns: 1fr;
+  }
+}

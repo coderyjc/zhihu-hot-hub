@@ -37,7 +37,9 @@ jobs:
 
       # 运行
       - name: Run python
-        run: python main.py
+        run: |
+          python main.py
+          python visualize/build_index.py
         env:
           ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
 

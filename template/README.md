@@ -25,6 +25,15 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 热度可视化
+
+```bash
+python visualize/build_index.py
+python -m http.server
+```
+
+然后访问 [http://localhost:8000/visualize/](http://localhost:8000/visualize/)，可以按日期浏览热榜、搜索话题，并查看单个话题的当天/全局热度轨迹。
+
 可选环境变量：
 
 - `ZHIHU_COOKIE`：知乎 Cookie。工作流会从 GitHub Secret `ZHIHU_COOKIE` 注入；本地不设置时会以空 Cookie 请求，是否可用取决于知乎接口当时的访问策略。
