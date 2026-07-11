@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>知乎热榜统计 Dashboard</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="shell dashboard-shell">
+      <header class="masthead">
+        <div>
+          <p class="eyebrow">zhihu-hot-hub / dashboard</p>
+          <h1>仓库统计总览</h1>
+        </div>
+        <div class="masthead-actions">
+          <a class="nav-link" href="./index.html">返回日期明细</a>
+          <div class="status-strip" id="statusStrip">
+            <span class="status-dot"></span>
+            <span id="statusText">正在载入统计数据</span>
+          </div>
+        </div>
+      </header>
+
+      <main class="dashboard-grid">
+        <section class="dashboard-card kpi-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">repository scope</p>
+              <h2>核心统计</h2>
+            </div>
+            <span id="generatedAt">--</span>
+          </div>
+          <div class="kpi-grid">
+            <div class="metric">
+              <span>数据天数</span>
+              <strong id="dayCount">0</strong>
+            </div>
+            <div class="metric">
+              <span>数据条目数</span>
+              <strong id="recordCount">0</strong>
+            </div>
+            <div class="metric">
+              <span>唯一话题数</span>
+              <strong id="uniqueCount">0</strong>
+            </div>
+            <div class="metric">
+              <span>轨迹点数</span>
+              <strong id="historyPointCount">0</strong>
+            </div>
+            <div class="metric">
+              <span>v2 文件</span>
+              <strong id="v2FileCount">0</strong>
+            </div>
+            <div class="metric">
+              <span>旧格式文件</span>
+              <strong id="legacyFileCount">0</strong>
+            </div>
+          </div>
+        </section>
+
+        <section class="dashboard-card line-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">daily aggregate</p>
+              <h2>每日总热度</h2>
+            </div>
+            <span id="dailyRange">--</span>
+          </div>
+          <svg id="dailyHeatChart" role="img" aria-label="每日总热度折线图"></svg>
+          <div class="daily-focus" id="dailyFocus">
+            <span>悬停或点击折线点查看某日摘要</span>
+          </div>
+        </section>
+
+        <section class="dashboard-card top-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">peak heat points</p>
+              <h2>最高热度 Top10</h2>
+            </div>
+            <span>全历史单点最高</span>
+          </div>
+          <ol class="top-list" id="topHeatList"></ol>
+        </section>
+      </main>
+    </div>
+
+    <script src="./dashboard.js"></script>
+  </body>
+</html>

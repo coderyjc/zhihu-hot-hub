@@ -50,6 +50,30 @@ select {
   border-bottom: 2px solid var(--ink);
 }
 
+.masthead-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 0 12px;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: var(--paper);
+  font-size: 13px;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  background: var(--accent-deep);
+  border-color: var(--accent-deep);
+}
+
 .eyebrow {
   margin: 0 0 6px;
   color: var(--accent-deep);
@@ -406,6 +430,14 @@ tbody tr:hover {
   border: 1px solid var(--line);
 }
 
+#dailyHeatChart {
+  display: block;
+  width: 100%;
+  height: 330px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+}
+
 .chart-area {
   fill: rgba(23, 108, 105, 0.14);
   stroke: none;
@@ -423,6 +455,17 @@ tbody tr:hover {
   fill: var(--panel);
   stroke: var(--accent);
   stroke-width: 2;
+}
+
+.daily-point {
+  cursor: pointer;
+}
+
+.daily-point:hover,
+.daily-point:focus {
+  fill: var(--accent);
+  outline: none;
+  r: 6;
 }
 
 .chart-label,
@@ -467,6 +510,138 @@ tbody tr:hover {
   font-weight: 800;
 }
 
+.dashboard-shell {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(380px, 0.75fr);
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.dashboard-card {
+  border: 1px solid var(--line);
+  background: rgba(255, 252, 244, 0.92);
+  box-shadow: var(--shadow);
+}
+
+.section-head {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.section-head h2 {
+  font-size: 26px;
+}
+
+.section-head > span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.kpi-panel,
+.line-panel {
+  grid-column: 1 / 2;
+}
+
+.top-panel {
+  grid-column: 2 / 3;
+  grid-row: 1 / span 2;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  padding: 18px;
+}
+
+.line-panel {
+  padding-bottom: 18px;
+}
+
+.line-panel #dailyHeatChart {
+  margin: 18px;
+  width: calc(100% - 36px);
+}
+
+.daily-focus {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 18px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.daily-focus strong {
+  color: var(--ink);
+}
+
+.daily-focus a {
+  color: var(--accent-deep);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.top-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.top-item {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) max-content;
+  gap: 12px;
+  align-items: start;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.top-rank {
+  color: var(--accent-deep);
+  font-weight: 900;
+  font-variant-numeric: tabular-nums;
+}
+
+.top-body a {
+  color: var(--ink);
+  font-weight: 900;
+  line-height: 1.45;
+  text-decoration: none;
+}
+
+.top-body a:hover {
+  color: var(--accent-deep);
+}
+
+.top-body p {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.top-item > strong {
+  color: var(--teal);
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
 @media (max-width: 980px) {
   .shell {
     padding: 14px;
@@ -475,6 +650,18 @@ tbody tr:hover {
   .masthead {
     align-items: start;
     flex-direction: column;
+  }
+
+  .masthead-actions {
+    align-items: stretch;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .nav-link,
+  .status-strip {
+    justify-content: center;
+    width: 100%;
   }
 
   .workspace {
@@ -514,5 +701,33 @@ tbody tr:hover {
 
   .history-list li {
     grid-template-columns: 1fr;
+  }
+
+  .dashboard-grid,
+  .kpi-panel,
+  .line-panel,
+  .top-panel {
+    display: block;
+  }
+
+  .dashboard-card {
+    margin-top: 14px;
+  }
+
+  .kpi-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-head {
+    align-items: start;
+    flex-direction: column;
+  }
+
+  .top-item {
+    grid-template-columns: 38px minmax(0, 1fr);
+  }
+
+  .top-item > strong {
+    grid-column: 2;
   }
 }
