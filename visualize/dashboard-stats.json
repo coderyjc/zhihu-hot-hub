@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-12 10:46:15 +0800",
+  "generated_at": "2026-07-12 13:59:51 +0800",
   "totals": {
     "day_count": 127,
-    "topic_record_count": 3903,
-    "unique_topic_count": 3791,
-    "history_point_count": 4050,
+    "topic_record_count": 3910,
+    "unique_topic_count": 3797,
+    "history_point_count": 4080,
     "v2_file_count": 2,
     "legacy_file_count": 125
   },
@@ -60,6 +60,16 @@
       "heat_value": 40690000
     },
     {
+      "date": "2026-07-12",
+      "title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2059262997873124815",
+      "key": "Q_2059262997873124815",
+      "rank": 1,
+      "observed_at": "2026-07-12 13:59:51 +0800",
+      "heat_text": "3845 万热度",
+      "heat_value": 38450000
+    },
+    {
       "date": "2026-06-07",
       "title": "如何评价 2026 年高考作文题？难度如何？你会怎么写？",
       "url": "https://www.zhihu.com/question/2046914203282306029",
@@ -98,16 +108,6 @@
       "observed_at": "2026-04-14 00:00:00 +0800",
       "heat_text": "3225 万热度",
       "heat_value": 32250000
-    },
-    {
-      "date": "2026-05-31",
-      "title": "小学六一晚会效果堪比演唱会，超 10 万网友在线观看，学校称得益于日常美育，怎样看待学校的教育方式？",
-      "url": "https://www.zhihu.com/question/2043990135130125315",
-      "key": "Q_2043990135130125315",
-      "rank": 1,
-      "observed_at": "2026-05-31 00:00:00 +0800",
-      "heat_text": "2915 万热度",
-      "heat_value": 29150000
     }
   ],
   "daily_series": [
@@ -1247,12 +1247,12 @@
     },
     {
       "date": "2026-07-12",
-      "total_heat_value": 82000000,
-      "max_heat_value": 8490000,
-      "topic_count": 58,
-      "history_point_count": 90,
-      "top_topic_title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
-      "top_topic_url": "https://www.zhihu.com/question/2059262837763961209"
+      "total_heat_value": 164060000,
+      "max_heat_value": 38450000,
+      "topic_count": 65,
+      "history_point_count": 120,
+      "top_topic_title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
+      "top_topic_url": "https://www.zhihu.com/question/2059262997873124815"
     }
   ]
 }
