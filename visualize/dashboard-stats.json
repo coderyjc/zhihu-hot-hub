@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13 00:00:00 +0800",
+  "generated_at": "2026-07-13 03:05:49 +0800",
   "totals": {
-    "day_count": 127,
-    "topic_record_count": 3941,
-    "unique_topic_count": 3828,
-    "history_point_count": 4200,
-    "v2_file_count": 2,
+    "day_count": 128,
+    "topic_record_count": 3971,
+    "unique_topic_count": 3832,
+    "history_point_count": 4230,
+    "v2_file_count": 3,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1253,6 +1253,15 @@
       "history_point_count": 240,
       "top_topic_title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
       "top_topic_url": "https://www.zhihu.com/question/2059262997873124815"
+    },
+    {
+      "date": "2026-07-13",
+      "total_heat_value": 60860000,
+      "max_heat_value": 7800000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "如何看待中华人民共和国外交部发布关于有关国家炒作「南海仲裁案裁决」出台十年的声明？释放了哪些信号？",
+      "top_topic_url": "https://www.zhihu.com/question/2059717066660303002"
     }
   ]
 }
