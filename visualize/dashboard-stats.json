@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13 20:05:51 +0800",
+  "generated_at": "2026-07-14 01:12:33 +0800",
   "totals": {
-    "day_count": 128,
-    "topic_record_count": 4025,
-    "unique_topic_count": 3885,
-    "history_point_count": 4350,
-    "v2_file_count": 3,
+    "day_count": 129,
+    "topic_record_count": 4055,
+    "unique_topic_count": 3902,
+    "history_point_count": 4380,
+    "v2_file_count": 4,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1262,6 +1262,15 @@
       "history_point_count": 150,
       "top_topic_title": "如何看待周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
       "top_topic_url": "https://www.zhihu.com/question/2059770577624290592"
+    },
+    {
+      "date": "2026-07-14",
+      "total_heat_value": 43470000,
+      "max_heat_value": 8150000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
+      "top_topic_url": "https://www.zhihu.com/question/2059729316993131464"
     }
   ]
 }
