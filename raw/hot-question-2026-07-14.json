@@ -1,25 +1,25 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-07-14 10:29:41 +0800",
+  "updated_at": "2026-07-14 13:30:49 +0800",
   "items": [
     {
       "key": "Q_2059729316993131464",
       "title": "网传大连理工某学院领导连续两年卧底招生群，挑拨南开和天大的关系，真的吗？这种「招生小动作」普遍吗？",
       "url": "https://www.zhihu.com/question/2059729316993131464",
       "first_seen": "2026-07-14 01:12:33 +0800",
-      "last_seen": "2026-07-14 05:56:35 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 1,
-      "latest_rank": 2,
-      "latest_heat_text": "678 万热度",
-      "latest_heat_value": 6780000,
+      "latest_rank": 18,
+      "latest_heat_text": "124 万热度",
+      "latest_heat_value": 1240000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1783979795.702749",
+        "id": "17_1784007049.358299",
         "card_id": "Q_2059729316993131464",
         "feed_specific": {
-          "answer_count": 124
+          "answer_count": 171
         },
         "target": {
           "title_area": {
@@ -32,7 +32,7 @@
             "url": "https://picx.zhimg.com/v2-2d3eb31516a8fab435ff88686ff9af57.png"
           },
           "metrics_area": {
-            "text": "678 万热度",
+            "text": "124 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -47,7 +47,7 @@
             "url": "https://www.zhihu.com/question/2059729316993131464"
           }
         },
-        "attached_info": "CkoIpdLN39bXueQ/EAMaCTEyMDQyOTUwMSDJhM7SBjAAONEEQAFyEzIwNTk3MjkzMTY5OTMxMzE0NjR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQyOTUwMSDJhM7SBjAAOLYGQBFyEzIwNTk3MjkzMTY5OTMxMzE0NjR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -67,6 +67,12 @@
           "rank": 2,
           "heat_text": "678 万热度",
           "heat_value": 6780000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 18,
+          "heat_text": "124 万热度",
+          "heat_value": 1240000
         }
       ]
     },
@@ -75,18 +81,23 @@
       "title": "浙江一住户为防台风用「米」字胶带加固窗户，却成为全楼唯一一户碎玻璃的，为啥会这样？「米」字封窗有用吗？",
       "url": "https://www.zhihu.com/question/2060049184527480687",
       "first_seen": "2026-07-14 01:12:33 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 2,
-      "latest_rank": 2,
-      "latest_heat_text": "710 万热度",
-      "latest_heat_value": 7100000,
+      "latest_rank": 12,
+      "latest_heat_text": "175 万热度",
+      "latest_heat_value": 1750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1783996180.949067",
+        "id": "11_1784007049.352702",
         "card_id": "Q_2060049184527480687",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 164
+          "answer_count": 207
         },
         "target": {
           "title_area": {
@@ -99,7 +110,7 @@
             "url": "https://pica.zhimg.com/80/v2-2780488476aac7d5b8572576efdd2240_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "710 万热度",
+            "text": "175 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -114,7 +125,7 @@
             "url": "https://www.zhihu.com/question/2060049184527480687"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDQ0NDI0MyCv2NLSBjAAOMIEQAFyEzIwNjAwNDkxODQ1Mjc0ODA2ODd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQ0NDI0MyCv2NLSBjAAOKoFQAtyEzIwNjAwNDkxODQ1Mjc0ODA2ODd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -140,6 +151,12 @@
           "rank": 2,
           "heat_text": "710 万热度",
           "heat_value": 7100000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 12,
+          "heat_text": "175 万热度",
+          "heat_value": 1750000
         }
       ]
     },
@@ -349,18 +366,18 @@
       "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
       "url": "https://www.zhihu.com/question/2058981135892461058",
       "first_seen": "2026-07-14 01:12:33 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 6,
-      "latest_rank": 24,
-      "latest_heat_text": "72 万热度",
-      "latest_heat_value": 720000,
+      "latest_rank": 22,
+      "latest_heat_text": "71 万热度",
+      "latest_heat_value": 710000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "23_1783996180.979638",
+        "id": "21_1784007049.362832",
         "card_id": "Q_2058981135892461058",
         "feed_specific": {
-          "answer_count": 107
+          "answer_count": 127
         },
         "target": {
           "title_area": {
@@ -373,7 +390,7 @@
             "url": "https://picx.zhimg.com/v2-1872595f5e9b6bdb2cb791ce7ff5541c.jpg?source=57bbeac9"
           },
           "metrics_area": {
-            "text": "72 万热度",
+            "text": "71 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -388,7 +405,7 @@
             "url": "https://www.zhihu.com/question/2058981135892461058"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDM5OTE3NCD8ksPSBjAAOPABQBdyEzIwNTg5ODExMzU4OTI0NjEwNTh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDM5OTE3NCD8ksPSBjAAOJECQBVyEzIwNTg5ODExMzU4OTI0NjEwNTh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -414,6 +431,12 @@
           "rank": 24,
           "heat_text": "72 万热度",
           "heat_value": 720000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 22,
+          "heat_text": "71 万热度",
+          "heat_value": 710000
         }
       ]
     },
@@ -494,18 +517,18 @@
       "title": "公司说全员降薪 20% 不接受就走人，第二天有同事没有来，公司人事却联系，说让休息一天后复岗，为什么？",
       "url": "https://www.zhihu.com/question/2059237272705316521",
       "first_seen": "2026-07-14 01:12:33 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 8,
-      "latest_rank": 26,
-      "latest_heat_text": "67 万热度",
-      "latest_heat_value": 670000,
+      "latest_rank": 23,
+      "latest_heat_text": "66 万热度",
+      "latest_heat_value": 660000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1783996180.980401",
+        "id": "22_1784007049.363202",
         "card_id": "Q_2059237272705316521",
         "feed_specific": {
-          "answer_count": 74
+          "answer_count": 81
         },
         "target": {
           "title_area": {
@@ -518,7 +541,7 @@
             "url": "https://pic1.zhimg.com/50/v2-61fdba5d1ccb64e24bbea543a3da121a_b.jpg"
           },
           "metrics_area": {
-            "text": "67 万热度",
+            "text": "66 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -533,7 +556,7 @@
             "url": "https://www.zhihu.com/question/2059237272705316521"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDQwNzY2NyCI8MbSBjAAOKsCQBlyEzIwNTkyMzcyNzI3MDUzMTY1MjF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQwNzY2NyCI8MbSBjAAOM0CQBZyEzIwNTkyMzcyNzI3MDUzMTY1MjF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -559,6 +582,12 @@
           "rank": 26,
           "heat_text": "67 万热度",
           "heat_value": 670000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 23,
+          "heat_text": "66 万热度",
+          "heat_value": 660000
         }
       ]
     },
@@ -1041,18 +1070,18 @@
       "title": "如何看待「松弛派对」走红后被网友吐槽「紧绷的松弛」？为啥大家从追捧松弛感到如今厌恶假松弛？",
       "url": "https://www.zhihu.com/question/2057860179513668617",
       "first_seen": "2026-07-14 01:12:33 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 16,
-      "latest_rank": 13,
-      "latest_heat_text": "204 万热度",
-      "latest_heat_value": 2040000,
+      "latest_rank": 24,
+      "latest_heat_text": "66 万热度",
+      "latest_heat_value": 660000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1783996180.967719",
+        "id": "23_1784007049.363686",
         "card_id": "Q_2057860179513668617",
         "feed_specific": {
-          "answer_count": 81
+          "answer_count": 122
         },
         "target": {
           "title_area": {
@@ -1065,7 +1094,7 @@
             "url": "https://picx.zhimg.com/80/v2-3ce689f9e0196ff0e696b12bc50f7b31_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "204 万热度",
+            "text": "66 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1080,7 +1109,7 @@
             "url": "https://www.zhihu.com/question/2057860179513668617"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDM0NjI4OCCD67LSBjAAOL0BQAxyEzIwNTc4NjAxNzk1MTM2Njg2MTd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDM0NjI4OCCD67LSBjAAOIoCQBdyEzIwNTc4NjAxNzk1MTM2Njg2MTd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1106,6 +1135,12 @@
           "rank": 13,
           "heat_text": "204 万热度",
           "heat_value": 2040000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 24,
+          "heat_text": "66 万热度",
+          "heat_value": 660000
         }
       ]
     },
@@ -2016,18 +2051,18 @@
       "title": "如何看待巴西网友被阿根廷战绩打破防，巴西如今的足球水平被阿根廷拉开档次差距了吗？",
       "url": "https://www.zhihu.com/question/2060031374115829185",
       "first_seen": "2026-07-14 03:23:07 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 16,
-      "latest_rank": 15,
-      "latest_heat_text": "166 万热度",
-      "latest_heat_value": 1660000,
+      "latest_rank": 27,
+      "latest_heat_text": "62 万热度",
+      "latest_heat_value": 620000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1783996180.969526",
+        "id": "26_1784007049.365796",
         "card_id": "Q_2060031374115829185",
         "feed_specific": {
-          "answer_count": 72
+          "answer_count": 100
         },
         "target": {
           "title_area": {
@@ -2037,10 +2072,10 @@
             "text": "安卡专栏：巴西为何全网喊话「学学阿根廷」？- 直播吧 「巴西，学学吧！」（Aprendé, Brasil），已经成了这个国家眼下的网络流行语。阿根廷逆转埃及的那个夜晚，巴西社交媒体上热议的并非裁判问题，而是集体喊出这句话：「巴西，学学吧！」 在巴西人看来，本届世界杯巴西队本就是一支残阵，输给哈兰德领衔的挪威算不上多大的悲剧，毕竟不少巴西人心里早有预期。真正让巴西人恼火的，是出局的方式——用一个词来形容，就是「窝囊」。在新泽西的八分之一决赛中，巴西队显得如此缺乏自信：点球不进，单刀球不进，落后局面下也拿不出扳平比分的决心。 这场失利，比起过去几届世界杯的失利少了几分遗憾，多了一份清醒——清醒地看到了自己的本相。而几天之后，阿根廷与埃及那场惊心动魄的较量，又意外点燃了巴西人心里的这团火——据估计，超过 3500 万巴西人关注了那场比赛的全程，其中不少人在开局时其实是为邻居宿敌喝倒彩，盼着埃及获胜，这个结果一度只差几分钟就要成真。 然而，梅西和队友们最终完成了史诗般的逆转。尽管电视上的嘉宾们和其他国家的评论员一样，也在讨论判罚争议、 VAR 介入，但真正让巴西舆论沸腾的，并不是裁判，而是巴西人从这场胜利里，看到了自己失去的东西。 很快，这句话冲上了巴西社交网络热榜，很多原本支持埃及的巴西人也转变了态度。有球迷直言不讳：「看见了吗？这才是世界杯该有的踢法，你们这一代太糟糕了！阿根廷知道怎么踢世界杯，他们不会放弃，他们在球场上拼尽了生命。」 也有人说：「区别就在于，阿根廷有一个小小的因素，叫利昂内尔·安德烈斯·梅西。对我这一代人来说，贝利是阿根廷人。」 在这些巴西网友看来，巴西足球失去的是一种精神，一种心态，或者说，失去了自己的魂魄。这种魂魄未必是球场上的桑巴表演，而是一种必胜的信念，一种相信自己有能力解决问题的想象力和创造力。 即便在过去两届世界杯的出局过程中，巴西队都还让人多多少少感受到过这一点：2018 年 0-2 落后比利时，下半时调整后的攻势甚至让比利时人赛后承认，如果巴西扳回第二球把比赛拖入加时，巴西一定能完成逆转；到了 2022 年，巴西在加时赛用细腻技术打破了克罗地亚人的顽强抵抗，一度取得领先，只可惜最后时刻大意失荆州，被对手扳平后点球出局。 这场讨论也延续到了电视屏幕上。著名体育记者阿纳尔多·里贝罗在《控制皮球》节目中分析说， 另一位电视记者佩德罗·洛佩斯，同样把矛头指向了心理层面： 另一位著名专栏作家阿利亚蒂则写道，人们可以尊重阿根廷所做的一切，不必因此支持他们；也可以把阿根廷的这份表现，和巴西对阵挪威时发生的一切放在一起对比，这样做当然会带来些许嫉妒，但必须承认一点： 除了电视评论员之外，还有巴西传奇球员亲自下场发声，呼吁学习阿根廷。 里瓦尔多公开称赞阿根廷：如此强大的斗志，如此强烈的求胜欲，如此顽强的战斗精神，以及所有人如此彻底的投入，正是球迷希望在世界杯赛场上看到的东西。他表示自己是巴西人，热爱自己的国家，也永远会支持本国球队，但当他看到一场伟大的比赛，看到一支球队在场上倾尽所有时，同样懂得欣赏和承认。 2010 年世界杯曾被视为「罪人」的前国脚费利佩·梅洛刚退役不久，他一直是阿根廷足球的拥趸，也公开支持博卡青年队。他表示， 尽管没有具体的统计数据，但巴西国内支持阿根廷夺冠的人不在少数。哪怕阿根廷人每次夺冠后都要唱歌讥讽巴西，巴西人心里也很清楚， 在这些强调学习阿根廷精神与心态的网络呼声之外，巴西国内也有一些更为理性的声音，认为巴西足球需要一次深度重构。 比如 1970 年世界杯冠军队成员、专栏作家托斯唐就指出，那些认为巴西足球需要回归本源、重拾所谓艺术足球，或者认为需要更复杂技战术体系的观点，都忽略了一个基本事实： 在托斯唐看来，世界早已发生了变化，「巴西每个街角都能诞生一位球星」的想法，已经过时了。巴西真正需要学习的对象，是西班牙和法国："
           },
           "image_area": {
-            "url": "https://pic4.zhimg.com/50/v2-087a62c72aae250eb304e515cc1d3f95_b.jpg"
+            "url": "https://pic4.zhimg.com/v2-27c6b81ec57a0ab787ac489525f45ff3_1440w.jpg"
           },
           "metrics_area": {
-            "text": "166 万热度",
+            "text": "62 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2055,7 +2090,7 @@
             "url": "https://www.zhihu.com/question/2060031374115829185"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQ0MzEwNCCZt9LSBjAAOHVADnITMjA2MDAzMTM3NDExNTgyOTE4NXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQ0MzEwNCCZt9LSBjAAOKYBQBpyEzIwNjAwMzEzNzQxMTU4MjkxODV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2075,6 +2110,12 @@
           "rank": 15,
           "heat_text": "166 万热度",
           "heat_value": 1660000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 27,
+          "heat_text": "62 万热度",
+          "heat_value": 620000
         }
       ]
     },
@@ -2083,18 +2124,18 @@
       "title": "调查显示近千只瘫痪小猫超 65% 食用同一品牌猫粮，真是猫粮问题吗？猫粮中哪些成分可能导致这一问题？",
       "url": "https://www.zhihu.com/question/2058174380128130240",
       "first_seen": "2026-07-14 03:23:07 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 18,
-      "latest_rank": 3,
-      "latest_heat_text": "433 万热度",
-      "latest_heat_value": 4330000,
+      "latest_rank": 14,
+      "latest_heat_text": "145 万热度",
+      "latest_heat_value": 1450000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1783996180.950489",
+        "id": "13_1784007049.354835",
         "card_id": "Q_2058174380128130240",
         "feed_specific": {
-          "answer_count": 60
+          "answer_count": 110
         },
         "target": {
           "title_area": {
@@ -2107,7 +2148,7 @@
             "url": "https://pic3.zhimg.com/50/v2-94a469cf359ee2684d72b2b0c8929ff6_b.jpg"
           },
           "metrics_area": {
-            "text": "433 万热度",
+            "text": "145 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2122,7 +2163,7 @@
             "url": "https://www.zhihu.com/question/2058174380128130240"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDM1OTY3NyCjtLfSBjAAOMcBQAJyEzIwNTgxNzQzODAxMjgxMzAyNDB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDM1OTY3NyCjtLfSBjAAOL0CQA1yEzIwNTgxNzQzODAxMjgxMzAyNDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2142,6 +2183,12 @@
           "rank": 3,
           "heat_text": "433 万热度",
           "heat_value": 4330000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 14,
+          "heat_text": "145 万热度",
+          "heat_value": 1450000
         }
       ]
     },
@@ -2331,18 +2378,18 @@
       "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
       "url": "https://www.zhihu.com/question/2058578162674397208",
       "first_seen": "2026-07-14 05:56:35 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 17,
-      "latest_rank": 6,
-      "latest_heat_text": "267 万热度",
-      "latest_heat_value": 2670000,
+      "latest_rank": 10,
+      "latest_heat_text": "197 万热度",
+      "latest_heat_value": 1970000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1783996180.956235",
+        "id": "9_1784007049.350740",
         "card_id": "Q_2058578162674397208",
         "feed_specific": {
-          "answer_count": 63
+          "answer_count": 85
         },
         "target": {
           "title_area": {
@@ -2355,7 +2402,7 @@
             "url": "https://picx.zhimg.com/v2-344fd6891b99399068b85fda223b2464.png"
           },
           "metrics_area": {
-            "text": "267 万热度",
+            "text": "197 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2370,7 +2417,7 @@
             "url": "https://www.zhihu.com/question/2058578162674397208"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDM3OTg3OSCwpL3SBjAAOM8BQAVyEzIwNTg1NzgxNjI2NzQzOTcyMDh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDM3OTg3OSCwpL3SBjAAOLACQAlyEzIwNTg1NzgxNjI2NzQzOTcyMDh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2384,23 +2431,29 @@
           "rank": 6,
           "heat_text": "267 万热度",
           "heat_value": 2670000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 10,
+          "heat_text": "197 万热度",
+          "heat_value": 1970000
         }
       ]
     },
     {
       "key": "Q_2060133066643879544",
-      "title": "网传 ICM 2026 菲尔兹奖名单在网页前端泄露，王虹、邓煜在获奖者讲座名单中，如何看待这一信息？",
+      "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
       "url": "https://www.zhihu.com/question/2060133066643879544",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 1,
       "latest_rank": 1,
-      "latest_heat_text": "2520 万热度",
-      "latest_heat_value": 25200000,
+      "latest_heat_text": "4632 万热度",
+      "latest_heat_value": 46320000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1783996180.946545",
+        "id": "0_1784007049.337540",
         "card_id": "Q_2060133066643879544",
         "card_label": {
           "type": "boiling",
@@ -2408,11 +2461,11 @@
           "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 155
+          "answer_count": 249
         },
         "target": {
           "title_area": {
-            "text": "网传 ICM 2026 菲尔兹奖名单在网页前端泄露，王虹、邓煜在获奖者讲座名单中，如何看待这一信息？"
+            "text": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？"
           },
           "excerpt_area": {
             "text": "ICM 2026 官网日程前端公开数据里出现了几条被标记为 HIDDEN Fields Medal Lecture 的隐藏会话。 名单显示为： 王虹 Hong Wang 邓煜 Yu Deng Jacob Tsimerman John Pardon 这些条目在普通日程页面不展示，但后端返回的数据中仍带有姓名、讲座名称和时间。 看起来像是为了 7 月 23 日正式公布后准备的获奖者讲座安排，相关隐藏条目创建于 6 月底。 如何评价今年王虹、邓煜可能同时创纪录拿到菲尔兹奖？"
@@ -2421,7 +2474,7 @@
             "url": "https://picx.zhimg.com/80/v2-1442d6d522e25384cd79905640d03c30_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "2520 万热度",
+            "text": "4632 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2436,7 +2489,7 @@
             "url": "https://www.zhihu.com/question/2060133066643879544"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDQ0NzQzMSDO9NPSBjAAOJ0EQAByEzIwNjAxMzMwNjY2NDM4Nzk1NDR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQ0NzQzMSDO9NPSBjAAONAHQAByEzIwNjAxMzMwNjY2NDM4Nzk1NDR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2444,6 +2497,12 @@
           "rank": 1,
           "heat_text": "2520 万热度",
           "heat_value": 25200000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 1,
+          "heat_text": "4632 万热度",
+          "heat_value": 46320000
         }
       ]
     },
@@ -2452,15 +2511,15 @@
       "title": "周星驰为什么要在这个时候拍这么一部《功夫女足》？",
       "url": "https://www.zhihu.com/question/2059433390227583285",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 4,
       "latest_rank": 4,
-      "latest_heat_text": "316 万热度",
-      "latest_heat_value": 3160000,
+      "latest_heat_text": "375 万热度",
+      "latest_heat_value": 3750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1783996180.952963",
+        "id": "3_1784007049.342279",
         "card_id": "Q_2059433390227583285",
         "card_label": {
           "type": "hot",
@@ -2468,7 +2527,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 105
+          "answer_count": 205
         },
         "target": {
           "title_area": {
@@ -2481,7 +2540,7 @@
             "url": "https://picx.zhimg.com/v2-bde572a1acd91b4470230ec9d096c8d3.png"
           },
           "metrics_area": {
-            "text": "316 万热度",
+            "text": "375 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2496,7 +2555,7 @@
             "url": "https://www.zhihu.com/question/2059433390227583285"
           }
         },
-        "attached_info": "CkoI/KCWv5mqmN4VEAMaCTEyMDQxNzY3NyCu3cnSBjAAOJoBQANyEzIwNTk0MzMzOTAyMjc1ODMyODV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQxNzY3NyCu3cnSBjAAOLoCQANyEzIwNTk0MzMzOTAyMjc1ODMyODV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2504,6 +2563,12 @@
           "rank": 4,
           "heat_text": "316 万热度",
           "heat_value": 3160000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 4,
+          "heat_text": "375 万热度",
+          "heat_value": 3750000
         }
       ]
     },
@@ -2512,18 +2577,18 @@
       "title": "《杀死比尔：血色全传》定档 8 月 7 日上映，时长 4 个半小时，你对这部电影有什么期待？",
       "url": "https://www.zhihu.com/question/2055957797590628132",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 5,
-      "latest_rank": 5,
-      "latest_heat_text": "281 万热度",
-      "latest_heat_value": 2810000,
+      "latest_rank": 15,
+      "latest_heat_text": "131 万热度",
+      "latest_heat_value": 1310000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1783996180.954621",
+        "id": "14_1784007049.356227",
         "card_id": "Q_2055957797590628132",
         "feed_specific": {
-          "answer_count": 44
+          "answer_count": 69
         },
         "target": {
           "title_area": {
@@ -2536,7 +2601,7 @@
             "url": "https://pic2.zhimg.com/50/v2-f9dd05a30bafa02a4a4f44886cdaba93_b.jpg"
           },
           "metrics_area": {
-            "text": "281 万热度",
+            "text": "131 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2551,7 +2616,7 @@
             "url": "https://www.zhihu.com/question/2055957797590628132"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDI1MjMxNCDIk5fSBjAAOFNABHITMjA1NTk1Nzc5NzU5MDYyODEzMngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDI1MjMxNCDIk5fSBjAAOIkBQA5yEzIwNTU5NTc3OTc1OTA2MjgxMzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2559,6 +2624,12 @@
           "rank": 5,
           "heat_text": "281 万热度",
           "heat_value": 2810000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 15,
+          "heat_text": "131 万热度",
+          "heat_value": 1310000
         }
       ]
     },
@@ -2567,18 +2638,23 @@
       "title": "关羽军事那么菜，为什么曹魏一直解决不了他，还被打得要迁离许都？",
       "url": "https://www.zhihu.com/question/2048485715491738315",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 7,
-      "latest_rank": 7,
-      "latest_heat_text": "254 万热度",
-      "latest_heat_value": 2540000,
+      "latest_rank": 5,
+      "latest_heat_text": "288 万热度",
+      "latest_heat_value": 2880000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "6_1783996180.958498",
+        "id": "4_1784007049.342825",
         "card_id": "Q_2048485715491738315",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 32
+          "answer_count": 59
         },
         "target": {
           "title_area": {
@@ -2591,7 +2667,7 @@
             "url": "https://pic1.zhimg.com/v2-9ba78f0b73244f1d6e2aab66931f43bd.png"
           },
           "metrics_area": {
-            "text": "254 万热度",
+            "text": "288 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2606,7 +2682,7 @@
             "url": "https://www.zhihu.com/question/2048485715491738315"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTExOTkzMzExMSDdtarRBjAAODxABnITMjA0ODQ4NTcxNTQ5MTczODMxNXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTExOTkzMzExMSDdtarRBjAAOI4BQARyEzIwNDg0ODU3MTU0OTE3MzgzMTV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2614,35 +2690,36 @@
           "rank": 7,
           "heat_text": "254 万热度",
           "heat_value": 2540000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 5,
+          "heat_text": "288 万热度",
+          "heat_value": 2880000
         }
       ]
     },
     {
       "key": "Q_2060144428191371946",
-      "title": "香港资深电影人施南生去世，享年 75 岁。作为港片黄金时代的重要推手，该如何评价她对华语电影的贡献？",
+      "title": "香港资深电影人施南生去世，享年 75 岁，作为港片黄金时代的重要推手，该如何评价她对华语电影的贡献？",
       "url": "https://www.zhihu.com/question/2060144428191371946",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 8,
-      "latest_rank": 8,
-      "latest_heat_text": "253 万热度",
-      "latest_heat_value": 2530000,
+      "latest_rank": 28,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1783996180.959739",
+        "id": "27_1784007049.369509",
         "card_id": "Q_2060144428191371946",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 30
+          "answer_count": 57
         },
         "target": {
           "title_area": {
-            "text": "香港资深电影人施南生去世，享年 75 岁。作为港片黄金时代的重要推手，该如何评价她对华语电影的贡献？"
+            "text": "香港资深电影人施南生去世，享年 75 岁，作为港片黄金时代的重要推手，该如何评价她对华语电影的贡献？"
           },
           "excerpt_area": {
             "text": "据多家香港媒体 2026 年 7 月 13 日晚报道，香港资深电影人施南生于 7 月 13 日在养和医院离世，享年 75 岁。 报道称，2022 年起，施南生免疫系统出现问题，健康状况一直不理想，近期因细菌感染引发多重器官衰竭入院。 公开资料显示，施南生是香港资深电影制作人，自 20 世纪 80 年代香港新浪潮电影兴起，施南生的名字就与徐克、许鞍华、谭家明等著名导演并驾齐驱。她曾与导演前夫徐克被誉为「影坛神雕侠侣」，于 2025 年共同夺得第 43 届香港电影金像奖「终身成就奖」。 1984 年，施南生与徐克共同创立「电影工作室」，监制《英雄本色》《倩女幽魂》《黄飞鸿》等作品。她擅长行政、策划、发行、公关和市场推广，多年来以专业知识和丰富经验，努力提升香港电影在海内外市场的地位。 （来源：澎湃新闻）"
@@ -2651,7 +2728,7 @@
             "url": "https://pic1.zhimg.com/80/v2-f3a66bbe38e5940da0fe6a1f643b42ad_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "253 万热度",
+            "text": "58 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2666,7 +2743,7 @@
             "url": "https://www.zhihu.com/question/2060144428191371946"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQ0Nzk2NSDjidTSBjAAOENAB3ITMjA2MDE0NDQyODE5MTM3MTk0NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQ0Nzk2NSDjidTSBjAAOHJAG3ITMjA2MDE0NDQyODE5MTM3MTk0NngAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -2674,6 +2751,12 @@
           "rank": 8,
           "heat_text": "253 万热度",
           "heat_value": 2530000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 28,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
         }
       ]
     },
@@ -2682,15 +2765,15 @@
       "title": "邹市明冉莹颖，谁该为之前的投资失败乃至当前的婚姻状态付更大的责？",
       "url": "https://www.zhihu.com/question/2059355663353099483",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 9,
-      "latest_rank": 9,
-      "latest_heat_text": "252 万热度",
-      "latest_heat_value": 2520000,
+      "latest_rank": 8,
+      "latest_heat_text": "200 万热度",
+      "latest_heat_value": 2000000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1783996180.961551",
+        "id": "7_1784007049.348860",
         "card_id": "Q_2059355663353099483",
         "card_label": {
           "type": "hot",
@@ -2698,7 +2781,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 69
+          "answer_count": 173
         },
         "target": {
           "title_area": {
@@ -2711,7 +2794,7 @@
             "url": "https://picx.zhimg.com/v2-7e5d4384e105aa118fc8c7c940ef6c83.png"
           },
           "metrics_area": {
-            "text": "252 万热度",
+            "text": "200 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2726,7 +2809,7 @@
             "url": "https://www.zhihu.com/question/2059355663353099483"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQxNDc3NCDLzMjSBjAAOGlACHITMjA1OTM1NTY2MzM1MzA5OTQ4M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQxNDc3NCDLzMjSBjAAOKECQAdyEzIwNTkzNTU2NjMzNTMwOTk0ODN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2734,6 +2817,12 @@
           "rank": 9,
           "heat_text": "252 万热度",
           "heat_value": 2520000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 8,
+          "heat_text": "200 万热度",
+          "heat_value": 2000000
         }
       ]
     },
@@ -2742,18 +2831,23 @@
       "title": "今年的台风「巴威」对你那边有啥影响？",
       "url": "https://www.zhihu.com/question/2059565116740341884",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 10,
-      "latest_rank": 10,
-      "latest_heat_text": "250 万热度",
-      "latest_heat_value": 2500000,
+      "latest_rank": 9,
+      "latest_heat_text": "198 万热度",
+      "latest_heat_value": 1980000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1783996180.963170",
+        "id": "8_1784007049.349930",
         "card_id": "Q_2059565116740341884",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 63
+          "answer_count": 94
         },
         "target": {
           "title_area": {
@@ -2766,7 +2860,7 @@
             "url": "https://pic1.zhimg.com/80/v2-4e9f6a1f87055e948af9a81ebab8e035_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "250 万热度",
+            "text": "198 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2781,7 +2875,7 @@
             "url": "https://www.zhihu.com/question/2059565116740341884"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQyMDI0NyDc0svSBjAAOEpACXITMjA1OTU2NTExNjc0MDM0MTg4NHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQyMDI0NyDc0svSBjAAOHRACHITMjA1OTU2NTExNjc0MDM0MTg4NHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -2789,6 +2883,12 @@
           "rank": 10,
           "heat_text": "250 万热度",
           "heat_value": 2500000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 9,
+          "heat_text": "198 万热度",
+          "heat_value": 1980000
         }
       ]
     },
@@ -2797,23 +2897,18 @@
       "title": "厨师离职被要求交出烹饪配方才结工资，饭店称为了标准化作业，烹饪配方属于个人还是饭店？可以和工资绑定吗？",
       "url": "https://www.zhihu.com/question/2060062676676503140",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 12,
-      "latest_rank": 12,
-      "latest_heat_text": "235 万热度",
-      "latest_heat_value": 2350000,
+      "latest_rank": 2,
+      "latest_heat_text": "638 万热度",
+      "latest_heat_value": 6380000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1783996180.965627",
+        "id": "1_1784007049.338786",
         "card_id": "Q_2060062676676503140",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 36
+          "answer_count": 146
         },
         "target": {
           "title_area": {
@@ -2826,7 +2921,7 @@
             "url": "https://pic1.zhimg.com/v2-ec2250acde18e5383a18cdcb98f7520e.png"
           },
           "metrics_area": {
-            "text": "235 万热度",
+            "text": "638 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2841,7 +2936,7 @@
             "url": "https://www.zhihu.com/question/2060062676676503140"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQ0NDg0MCDA8dLSBjAAOERAC3ITMjA2MDA2MjY3NjY3NjUwMzE0MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQ0NDg0MCDA8dLSBjAAOLgCQAFyEzIwNjAwNjI2NzY2NzY1MDMxNDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2849,6 +2944,12 @@
           "rank": 12,
           "heat_text": "235 万热度",
           "heat_value": 2350000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 2,
+          "heat_text": "638 万热度",
+          "heat_value": 6380000
         }
       ]
     },
@@ -2912,18 +3013,23 @@
       "title": "如何看待 2026 年 7 月 13 日周星驰新电影《功夫女足》预测票房飙升至 30.3 亿人民币？",
       "url": "https://www.zhihu.com/question/2060124058038096124",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 16,
-      "latest_rank": 16,
-      "latest_heat_text": "134 万热度",
-      "latest_heat_value": 1340000,
+      "latest_rank": 11,
+      "latest_heat_text": "178 万热度",
+      "latest_heat_value": 1780000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1783996180.973393",
+        "id": "10_1784007049.352129",
         "card_id": "Q_2060124058038096124",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 48
+          "answer_count": 114
         },
         "target": {
           "title_area": {
@@ -2936,7 +3042,7 @@
             "url": "https://picx.zhimg.com/v2-98d71290b56eae6bf16d82d8c7d4e615.png"
           },
           "metrics_area": {
-            "text": "134 万热度",
+            "text": "178 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2951,7 +3057,7 @@
             "url": "https://www.zhihu.com/question/2060124058038096124"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQ0NzEyNiDq49PSBjAAODRAD3ITMjA2MDEyNDA1ODAzODA5NjEyNHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQ0NzEyNiDq49PSBjAAOH5ACnITMjA2MDEyNDA1ODAzODA5NjEyNHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -2959,6 +3065,12 @@
           "rank": 16,
           "heat_text": "134 万热度",
           "heat_value": 1340000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 11,
+          "heat_text": "178 万热度",
+          "heat_value": 1780000
         }
       ]
     },
@@ -3022,18 +3134,18 @@
       "title": "为什么台风都有那么人性化的名字？",
       "url": "https://www.zhihu.com/question/2058906277259096656",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 18,
-      "latest_rank": 18,
-      "latest_heat_text": "107 万热度",
-      "latest_heat_value": 1070000,
+      "latest_rank": 16,
+      "latest_heat_text": "128 万热度",
+      "latest_heat_value": 1280000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "17_1783996180.975809",
+        "id": "15_1784007049.357231",
         "card_id": "Q_2058906277259096656",
         "feed_specific": {
-          "answer_count": 27
+          "answer_count": 32
         },
         "target": {
           "title_area": {
@@ -3046,7 +3158,7 @@
             "url": "https://pic1.zhimg.com/80/v2-ab1dcdfd123583aeb2d8d05b2bc8239c_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "107 万热度",
+            "text": "128 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3061,7 +3173,7 @@
             "url": "https://www.zhihu.com/question/2058906277259096656"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDM5NDA2MCDFh8LSBjAAODtAEXITMjA1ODkwNjI3NzI1OTA5NjY1NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDM5NDA2MCDFh8LSBjAAOExAD3ITMjA1ODkwNjI3NzI1OTA5NjY1NngAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -3069,6 +3181,12 @@
           "rank": 18,
           "heat_text": "107 万热度",
           "heat_value": 1070000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 16,
+          "heat_text": "128 万热度",
+          "heat_value": 1280000
         }
       ]
     },
@@ -3137,23 +3255,18 @@
       "title": "9 岁出书、清华降分录取，客观评价作家蒋方舟到底是真的天才少女还是在人设炒作？",
       "url": "https://www.zhihu.com/question/2060111984247272718",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 20,
       "latest_rank": 20,
-      "latest_heat_text": "91 万热度",
-      "latest_heat_value": 910000,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1783996180.976953",
+        "id": "19_1784007049.360545",
         "card_id": "Q_2060111984247272718",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 26
+          "answer_count": 74
         },
         "target": {
           "title_area": {
@@ -3166,7 +3279,7 @@
             "url": "https://picx.zhimg.com/80/v2-c3aaf3258aa9aef2115304228c37adba_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "91 万热度",
+            "text": "79 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3181,7 +3294,7 @@
             "url": "https://www.zhihu.com/question/2060111984247272718"
           }
         },
-        "attached_info": "CkkI/KCWv5mqmN4VEAMaCTEyMDQ0NjYxNyCszdPSBjAAODFAE3ITMjA2MDExMTk4NDI0NzI3MjcxOHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQ0NjYxNyCszdPSBjAAOJYBQBNyEzIwNjAxMTE5ODQyNDcyNzI3MTh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3189,6 +3302,12 @@
           "rank": 20,
           "heat_text": "91 万热度",
           "heat_value": 910000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 20,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
         }
       ]
     },
@@ -3252,18 +3371,18 @@
       "title": "AI 生成的劣质信息是否已经开始占领互联网？如此下去互联网还能用吗？",
       "url": "https://www.zhihu.com/question/623139877",
       "first_seen": "2026-07-14 10:29:41 +0800",
-      "last_seen": "2026-07-14 10:29:41 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
       "first_rank": 23,
-      "latest_rank": 23,
-      "latest_heat_text": "73 万热度",
-      "latest_heat_value": 730000,
+      "latest_rank": 26,
+      "latest_heat_text": "64 万热度",
+      "latest_heat_value": 640000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "22_1783996180.979257",
+        "id": "25_1784007049.365316",
         "card_id": "Q_623139877",
         "feed_specific": {
-          "answer_count": 38
+          "answer_count": 54
         },
         "target": {
           "title_area": {
@@ -3273,10 +3392,10 @@
             "text": "下面有一个例子，该旅游网站介绍了「江苏省南通市通州区青堌集镇」，说得有模有样（尽管废话居多），但实际上这完全是编造的"
           },
           "image_area": {
-            "url": "https://pic1.zhimg.com/v2-df1cc97f6955353ab64639fef4439727.png"
+            "url": "https://pic1.zhimg.com/v2-2c297ce750d518ee990421286abc3edb.png"
           },
           "metrics_area": {
-            "text": "73 万热度",
+            "text": "64 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3291,7 +3410,7 @@
             "url": "https://www.zhihu.com/question/623139877"
           }
         },
-        "attached_info": "Cj8I/KCWv5mqmN4VEAMaCTEwMDc1NDkxMyCLrbCoBjAAOFBAFnIJNjIzMTM5ODc3eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "CkAI447n7YmvrcMcEAMaCTEwMDc1NDkxMyCLrbCoBjAAOJMBQBlyCTYyMzEzOTg3N3gAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -3299,6 +3418,12 @@
           "rank": 23,
           "heat_text": "73 万热度",
           "heat_value": 730000
+        },
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 26,
+          "heat_text": "64 万热度",
+          "heat_value": 640000
         }
       ]
     },
@@ -3519,6 +3644,586 @@
           "rank": 30,
           "heat_text": "58 万热度",
           "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2060314752786457046",
+      "title": "超 250 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？",
+      "url": "https://www.zhihu.com/question/2060314752786457046",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "416 万热度",
+      "latest_heat_value": 4160000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1784007049.340619",
+        "card_id": "Q_2060314752786457046",
+        "feed_specific": {
+          "answer_count": 106
+        },
+        "target": {
+          "title_area": {
+            "text": "超 250 万人请愿将阿根廷逐出世界杯，称国际足联和裁判偏袒阿根廷，你觉得是这样吗？裁判判罚有问题吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，一份要求取消阿根廷世界杯参赛资格的请愿书在网上获得了大量关注。 该请愿书已发布在 argentinaout.com 网站上，并已获得超过 250 万人的签名。 请愿书写道：「很明显，国际足联（FIFA）和裁判偏袒梅西和阿根廷。既然冠军已经内定，其他国家还有什么机会参赛？把阿根廷踢出世界杯，给其他球队一个公平的机会。」 请愿书网站截图 报道称，此前，有一些网民声称，FIFA 在「竭尽所能确保」阿根廷赢得世界杯冠军。他们举例说，梅西在小组赛对阵阿尔及利亚的比赛中没有吃到红牌，而且阿根廷的淘汰赛赛程也相对轻松。 在 32 强赛中，阿根廷在加时赛中 3-2 战胜佛得角；在 16 强赛中，阿根廷在第 79 分钟 0-2 落后的情况下，最终 3-2 逆转战胜埃及；在四分之一决赛中，阿根廷在加时赛中 3-1 战胜瑞士。而半决赛将于 7 月 15 日举行，届时阿根廷将对阵英格兰。 值得注意的是，就在阿根廷逆转埃及晋级八强之后，围绕「潘帕斯雄鹰」的舆论风暴简直比球赛本身更加激烈——「阿根廷 脏」冲上微博热搜榜首，热力值超过 1000 万，「裁判偏心」也一度上榜。 那么，归根结底，裁判的判罚到底有没有问题？ 此前，一名足球界资深人士向观察者网表示，裁判在规则允许的尺度内做了一些判罚，肯定是有利于阿根廷的，这不需要掩饰。 「国际足联对裁判是有影响的，因为把阿根廷和梅西留下来，对世界杯显然从各方面看都更有价值。但不能说是阿根廷足协或者梅西去影响裁判，现在在世界杯上唯一能够影响裁判的就是国际足联。」 这似乎与埃及队主帅哈桑的吐槽有些暗合，哈桑控诉说：「这显然是一场被操纵的比赛，全世界都看到了。国际足联倡导公平竞赛，但我们没在场上看到。一切都是营销和金钱的问题。他们希望梅西，这位世界冠军，在比赛中继续保持竞争力。」 这么来看，一些人对国际足联不满，一些人对南美球风不满，一些人对阿根廷不满，也包括对梅西不满，都可能在阿根廷与埃及赛后，找到吐槽的切入点…超 250 万人签网络请愿书，要求将阿根廷逐出世界杯"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-8cecaf1f19c4ab06a6b8569ea808fad4.png"
+          },
+          "metrics_area": {
+            "text": "416 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2060314752786457046"
+          }
+        },
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQ1MjYzMiCDx9bSBjAAOJcBQAJyEzIwNjAzMTQ3NTI3ODY0NTcwNDZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 3,
+          "heat_text": "416 万热度",
+          "heat_value": 4160000
+        }
+      ]
+    },
+    {
+      "key": "Q_2059947688074949425",
+      "title": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？",
+      "url": "https://www.zhihu.com/question/2059947688074949425",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "253 万热度",
+      "latest_heat_value": 2530000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1784007049.343404",
+        "card_id": "Q_2059947688074949425",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 67
+        },
+        "target": {
+          "title_area": {
+            "text": "北京国贸 CBD 每天中午上百名「转圈人」沿中央公园绕圈，如何看待这种午休方式？你是怎样度过午休的？"
+          },
+          "excerpt_area": {
+            "text": "逆时针绕圈，几乎已经成为中国 CBD 最隐秘、也最统一的一种午休方式。 对于许多 CBD 打工人来说，这是一天里唯一能晒到太阳、喘口气的时间，也是高密度办公空间里仅剩的一点自由。那条没有终点的环形步道，像极了人生：不断向前，却总会回到原点；以为是在休息，其实始终没有离开工作的轨道。全国的 CBD 打工人，为什么每天中午都在「转圈」？ - 每日人物的文章 - 知乎 全国的 CBD 打工人，为什么每天中午都在「转圈」？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-e55061b0180325384e1688df51d369b2_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "253 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2059947688074949425"
+          }
+        },
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTEyMDQzNTY3OCCom9HSBjAAOIIBQAVyEzIwNTk5NDc2ODgwNzQ5NDk0MjV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 6,
+          "heat_text": "253 万热度",
+          "heat_value": 2530000
+        }
+      ]
+    },
+    {
+      "key": "Q_2060208521594017084",
+      "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
+      "url": "https://www.zhihu.com/question/2060208521594017084",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "202 万热度",
+      "latest_heat_value": 2020000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1784007049.344742",
+        "card_id": "Q_2060208521594017084",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？"
+          },
+          "excerpt_area": {
+            "text": "据伊朗媒体 14 日消息，位于巴林的美国海军第五舰队司令部遭到伊朗导弹袭击。伊朗方面称袭击了美国海军第五舰队司令部 ○美军 14 日 20 时起对伊朗实施海上封锁 特朗普宣布海峡货运收费 20% 当地时间 7 月 13 日，由美国海军监管的联合海上信息中心表示，美军将于格林尼治时间 7 月 14 日 20 时（北京时间 15 日凌晨 4 时）开始执行对所有伊朗港口及伊朗沿海地区的海上封锁。封锁行动不会阻碍中立船只经由霍尔木兹海峡前往非伊朗目的地，或从非伊朗目的地驶离的过境通行。 此前，美国总统特朗普在社交媒体平台「真实社交」发文表示，霍尔木兹海峡目前处于开放状态，且无论伊朗参与与否，都将继续保持开放。他还表示，美国将针对所有经由此处运输的货物收取 20% 的费用，相关流程与部署工作将立即启动。 ○伊朗重申绝不允许美国干涉对霍尔木兹海峡的管理 当地时间 7 月 13 日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，美国反复的冒险和恶劣行为，严重威胁霍尔木兹海峡的管理、地区安全、国际贸易以及油轮和商船的通行，伊朗绝不允许美国干涉对霍尔木兹海峡的管理。 发言人称，伊朗武装部队将严厉打击任何由美军造成的、对商船和油轮通行进行干扰和不稳定的行为，尤其是未经伊朗授权、偏离既定航线的行为。 ○伊朗称霍尔木兹海峡南部航道「不安全」 伊朗驻英国大使馆 13 日在社交媒体上说，霍尔木兹海峡南部航道「不安全、不可靠，且易发生事故」。伊朗驻英使馆说，美国袭击伊朗港口等「军事侵略行径」，已使霍尔木兹海峡成为高度紧张且高风险区域。 美伊战事重新爆发 多国遭波及 ○特朗普已通知国会伊朗战事重新爆发 据美国方面 13 日消息，美国总统特朗普已正式通知国会，伊朗战事重新爆发。特朗普在 10 日致国会领导人的一封信中写道，美军于 7 日针对伊朗境内的目标实施了「防御性打击」。 ○首次使用海上无人艇 美军公布打击伊朗最新画面 当地时间 7 月 13 日，美军中央司令部表示，美军部队 12 日动用多架单向攻击型无人机，打击了伊朗境内的一处潜艇与舰船维修设施。 此外，美军称，三艘「海盗」（Corsair）无人水面舰艇袭击了伊朗阿巴斯港海军基地的港口，这是美军首次在作战行动中使用海上无人艇。 ○ 当地时间 7 月 13 日，美国中央司令部表示，在美国总统特朗普指示下，美军于美国东部时间当天下午 4 时 45 分开始对伊朗发动连续第三晚空袭。 当地时间 7 月 13 日，伊朗胡齐斯坦省政府表示，当天下午，该省阿巴丹市遭美军炮弹袭击， ○ 当地时间 7 月 13 日，伊朗外交部发言人巴加埃表示，要为遇害的伊朗最高领袖阿里·哈梅内伊及所有在美以袭击中伤亡的伊朗人复仇，「这是基本原则和公众的共同诉求」——而伊朗外交部正通过国际法律机制记录罪行、寻求正义。 当晚，伊朗伊斯兰革命卫队宣布，稍早前在伊朗阿巴斯港和法尔斯省拉尔市，革命卫队的防御系统击落两架美制卢卡斯无人机。 ○ 当地时间 14 日凌晨，伊朗军队发表声明称，针对美国近期对伊朗持续实施的挑衅和侵略行为，伊朗军队数小时前出动自杀式无人机，对驻科威特美军的通信系统、燃料储存设施、「爱国者」防空系统、控制塔以及弹药库实施打击。此外，作为美国导弹袭击伊朗部分军事设施的回应，伊朗海军发射了巡航导弹，对美军舰艇实施打击。美重新对伊海上封锁并连续三晚空袭"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/v2-1559aa9207d4fea63fd803518a667ee0_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "202 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2060208521594017084"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQ0OTA1NSCUgdXSBjAAOCtABnITMjA2MDIwODUyMTU5NDAxNzA4NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 7,
+          "heat_text": "202 万热度",
+          "heat_value": 2020000
+        }
+      ]
+    },
+    {
+      "key": "Q_2059629861941895196",
+      "title": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？",
+      "url": "https://www.zhihu.com/question/2059629861941895196",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "168 万热度",
+      "latest_heat_value": 1680000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1784007049.353351",
+        "card_id": "Q_2059629861941895196",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 56
+        },
+        "target": {
+          "title_area": {
+            "text": "小米回应网传澎程价格推测，称部分推测显著低于成本，推测要讲科学，你认为多少钱可以接受？"
+          },
+          "excerpt_area": {
+            "text": "针对外界关于全新「小米彭程」系列车型定价区间的诸多猜测，小米汽车日前在官方问答中回应称，最终售价将在发布前正式确认，但部分「显著低于成本常识」的推测并不现实，呼吁外界在期待「价格美好」的同时「讲科学」。 小米汽车表示，工信部公告已披露小米彭程系列的诸多配置信息，外界可据此对成本及价值做出基本估量。但官方未否认高端定位，强调该系列与 SU7/YU7 系列为平行并列关系，后者定位「驾驶者之车」，而小米彭程则主打「智能可变大空间 SUV」，提供更丰富的车内空间选择。 目前，小米彭程的预约咨询已通过小米汽车 App 开启，上市时间及预订、正式发售等关键节点将优先通知预约用户。官方透露，发布及上市工作正有序推进，近期将公布具体时间安排。 此次回应系小米汽车首次就新系列定价问题正面表态，此前市场对该车型售价预期分歧较大。业内人士指出，结合小米彭程中大型 SUV 定位及测试车规模，其成本难以大幅压缩，最终定价或高于 SU7 系列。小米方面未进一步透露价格区间，仅表示「更多官方信息会陆续放出」。小米汽车回应定价猜测：部分推测「显著低于成本」，呼吁「讲科学」"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-84c84a7fe89418f88d64388732a46c13_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "168 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2059629861941895196"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQyNDU5MSCpy8zSBjAAOEJADHITMjA1OTYyOTg2MTk0MTg5NTE5NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 13,
+          "heat_text": "168 万热度",
+          "heat_value": 1680000
+        }
+      ]
+    },
+    {
+      "key": "Q_2035265062626142173",
+      "title": "中山大学真的退步了吗？",
+      "url": "https://www.zhihu.com/question/2035265062626142173",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "125 万热度",
+      "latest_heat_value": 1250000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1784007049.357676",
+        "card_id": "Q_2035265062626142173",
+        "feed_specific": {
+          "answer_count": 38
+        },
+        "target": {
+          "title_area": {
+            "text": "中山大学真的退步了吗？"
+          },
+          "excerpt_area": {
+            "text": "经常听到有人说中大（还有人说华工）退步了的言论，拿出的例子就是排名下降、高考分数线降低（特别是华工的分数线，总有人拿出来说）这类。我的感觉是，中大的基础科学很强啊，数学、物理、化学、材料、生物、生态、药学等。而且最近新开的深圳校区主打新工科、珠海校区主打深空深海深地，都是目标明确思路清晰。我的感觉就是中大和广州这个城市一样，经历过沧海桑田，低调务实罢了。我的理解对吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-04765a9b44b861f1179ba02f528ab6cd.png"
+          },
+          "metrics_area": {
+            "text": "125 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2035265062626142173"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTExOTM5NzMxNCCshOrPBjAAOElAEHITMjAzNTI2NTA2MjYyNjE0MjE3M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 17,
+          "heat_text": "125 万热度",
+          "heat_value": 1250000
+        }
+      ]
+    },
+    {
+      "key": "Q_2059990614213759787",
+      "title": "如果将电商法新修订的年营业额 5% 的「比例罚」措施引入《著作权法》，国内文创行业盗版问题能否更好解决？",
+      "url": "https://www.zhihu.com/question/2059990614213759787",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1784007049.358788",
+        "card_id": "Q_2059990614213759787",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "如果将电商法新修订的年营业额 5% 的「比例罚」措施引入《著作权法》，国内文创行业盗版问题能否更好解决？"
+          },
+          "excerpt_area": {
+            "text": "近日，市场监管总局联合商务部就《电子商务法（修正草案征求意见稿）》公开向社会征求意见，草案推出的「比例罚」新规引发全社会广泛讨论。文件明确，平台若触及「三个特别」严重违规红线，监管部门可对其处以企业上一年度营业额 5% 以下的罚款。这套全新处罚规则，一改过往固定限额罚款模式，也让文化创作行业长期深陷的盗版维权处罚过轻难题再度浮出水面。 此次电商法修订引入「比例罚」，核心是重构平台监管逻辑。以往监管处罚多参照单次违法所得划定罚款数额，新规则以企业体量、违规造成的社会危害作为处罚标尺：平台规模越大、违规行为带来的风险外溢范围越广，需要承担的处罚成本就越高。监管层明确，覆盖数亿用户、手握千亿级资金体量的大型平台，不能沿用普通小微商户的小额处罚标准。这种差异化、高力度的惩戒思路，也让文创从业者羡慕不已——当前版权盗版领域的处罚力度，与之形成鲜明反差。 艾瑞咨询《2026 网络影视行业保护报告》显示，2025 年国内网络影视市场规模达 1343 亿元，盗版造成行业直接经济损失 244.7 亿元，占行业规模比重高达 18.2%。这早已不是单个品牌的商誉受损，而是整个内容产业的存量市场正被系统性蚕食。 当前盗版治理收效甚微的核心症结，正是违法成本与侵权危害严重不匹配。根据现行《著作权法》第五十三条规定，侵权行为损害公共利益的，若违法经营额难以计算、不足五万元或无违法经营额，行政罚款上限仅为 25 万元。面对传播迅速、获利丰厚的盗版产业链，这样的惩戒力度威慑力严重不足，侵权者付出的代价远低于非法收益，自然难以形成有效约束。 如何看待此次电商法的修订，如果应用到文创产业，是否会对遏制盗版侵权会带来明显的效果？电商比例罚新规落地，文创行业版权保护该如何升级"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-3a438ab27bf8fcc17f8837029088b962_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "80 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2059990614213759787"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQzOTcyNCCj69HSBjAAOCNAEnITMjA1OTk5MDYxNDIxMzc1OTc4N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 19,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
+        }
+      ]
+    },
+    {
+      "key": "Q_2057870443646919815",
+      "title": "在你看来，北京文学的「京味」到底是什么味儿？",
+      "url": "https://www.zhihu.com/question/2057870443646919815",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "78 万热度",
+      "latest_heat_value": 780000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1784007049.362452",
+        "card_id": "Q_2057870443646919815",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 51
+        },
+        "target": {
+          "title_area": {
+            "text": "在你看来，北京文学的「京味」到底是什么味儿？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-c099e4e65c3acd59c1a202ad50ddff49.png"
+          },
+          "metrics_area": {
+            "text": "78 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2057870443646919815"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDM0Njc4MiCT/rLSBjAAODlAFHITMjA1Nzg3MDQ0MzY0NjkxOTgxNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 21,
+          "heat_text": "78 万热度",
+          "heat_value": 780000
+        }
+      ]
+    },
+    {
+      "key": "Q_2058918130743878950",
+      "title": "电影《功夫⼥⾜》⾥有哪些值得关注的细节和彩蛋？",
+      "url": "https://www.zhihu.com/question/2058918130743878950",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "65 万热度",
+      "latest_heat_value": 650000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1784007049.364734",
+        "card_id": "Q_2058918130743878950",
+        "feed_specific": {
+          "answer_count": 32
+        },
+        "target": {
+          "title_area": {
+            "text": "电影《功夫⼥⾜》⾥有哪些值得关注的细节和彩蛋？"
+          },
+          "excerpt_area": {
+            "text": "周星驰电影《功夫女足》发布「童年老朋友」情怀特辑，揭秘多处致敬星爷电影的彩蛋，你在观影时看出了多少？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-5cf722ab7a3bfca3d5c5e4ef2505f7b1.png"
+          },
+          "metrics_area": {
+            "text": "65 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2058918130743878950"
+          },
+          "text_tag_area": {
+            "text": "导演林子聪答",
+            "font_color": "GYL02A",
+            "background": "GYL02A"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDM5NDYxMCDPncLSBjAAODJAGHITMjA1ODkxODEzMDc0Mzg3ODk1MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 25,
+          "heat_text": "65 万热度",
+          "heat_value": 650000
+        }
+      ]
+    },
+    {
+      "key": "Q_2059954374600921182",
+      "title": "如何评价《龙之家族》第三季第四集？",
+      "url": "https://www.zhihu.com/question/2059954374600921182",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "57 万热度",
+      "latest_heat_value": 570000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1784007049.370721",
+        "card_id": "Q_2059954374600921182",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价《龙之家族》第三季第四集？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-2a6aead27e923aece204cf3ea673e471_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "57 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2059954374600921182"
+          }
+        },
+        "attached_info": "CkkI447n7YmvrcMcEAMaCTEyMDQzNjA1NiDjp9HSBjAAOCJAHHITMjA1OTk1NDM3NDYwMDkyMTE4MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 29,
+          "heat_text": "57 万热度",
+          "heat_value": 570000
+        }
+      ]
+    },
+    {
+      "key": "Q_1941440010709595638",
+      "title": "如何理解「因子不值钱，值钱的是检验因子的方法」？",
+      "url": "https://www.zhihu.com/question/1941440010709595638",
+      "first_seen": "2026-07-14 13:30:49 +0800",
+      "last_seen": "2026-07-14 13:30:49 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "56 万热度",
+      "latest_heat_value": 560000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1784007049.371066",
+        "card_id": "Q_1941440010709595638",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "如何理解「因子不值钱，值钱的是检验因子的方法」？"
+          },
+          "excerpt_area": {
+            "text": "RT，即便是在机构里，量化因子也没那么值钱？值钱的是检验因子的方法？"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-9d5a1172f2b83a3eb9f212c23fb526e7_b.jpg"
+          },
+          "metrics_area": {
+            "text": "56 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1941440010709595638"
+          }
+        },
+        "attached_info": "CkoI447n7YmvrcMcEAMaCTExNjI3NzM2NiDI2ZTFBjAAOKQBQB1yEzE5NDE0NDAwMTA3MDk1OTU2Mzh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-14 13:30:49 +0800",
+          "rank": 30,
+          "heat_text": "56 万热度",
+          "heat_value": 560000
         }
       ]
     }
