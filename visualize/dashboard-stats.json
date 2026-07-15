@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-16 03:10:50 +0800",
+  "generated_at": "2026-07-16 06:00:24 +0800",
   "totals": {
     "day_count": 131,
-    "topic_record_count": 4270,
-    "unique_topic_count": 4072,
-    "history_point_count": 4890,
+    "topic_record_count": 4272,
+    "unique_topic_count": 4074,
+    "history_point_count": 4920,
     "v2_file_count": 6,
     "legacy_file_count": 125
   },
@@ -38,6 +38,16 @@
       "observed_at": "2026-07-14 13:30:49 +0800",
       "heat_text": "4632 万热度",
       "heat_value": 46320000
+    },
+    {
+      "date": "2026-07-16",
+      "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2060732712101716234",
+      "key": "Q_2060732712101716234",
+      "rank": 1,
+      "observed_at": "2026-07-16 06:00:24 +0800",
+      "heat_text": "4443 万热度",
+      "heat_value": 44430000
     },
     {
       "date": "2026-07-12",
@@ -98,16 +108,6 @@
       "observed_at": "2026-05-22 00:00:00 +0800",
       "heat_text": "4069 万热度",
       "heat_value": 40690000
-    },
-    {
-      "date": "2026-07-12",
-      "title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2059262997873124815",
-      "key": "Q_2059262997873124815",
-      "rank": 1,
-      "observed_at": "2026-07-12 13:59:51 +0800",
-      "heat_text": "3845 万热度",
-      "heat_value": 38450000
     }
   ],
   "daily_series": [
@@ -1283,12 +1283,12 @@
     },
     {
       "date": "2026-07-16",
-      "total_heat_value": 44200000,
-      "max_heat_value": 5150000,
-      "topic_count": 37,
-      "history_point_count": 60,
-      "top_topic_title": "央视曝光湖南江华水稻种植面积造假，上报种植水稻 39 万亩实际仅为约 23.8 万亩，暴露出哪些问题？",
-      "top_topic_url": "https://www.zhihu.com/question/2060642883007247443"
+      "total_heat_value": 76040000,
+      "max_heat_value": 44430000,
+      "topic_count": 39,
+      "history_point_count": 90,
+      "top_topic_title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
+      "top_topic_url": "https://www.zhihu.com/question/2060732712101716234"
     }
   ]
 }
