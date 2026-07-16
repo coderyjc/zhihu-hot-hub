@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-07-16 06:00:24 +0800",
+  "generated_at": "2026-07-16 10:35:36 +0800",
   "totals": {
     "day_count": 131,
-    "topic_record_count": 4272,
-    "unique_topic_count": 4074,
-    "history_point_count": 4920,
+    "topic_record_count": 4295,
+    "unique_topic_count": 4097,
+    "history_point_count": 4950,
     "v2_file_count": 6,
     "legacy_file_count": 125
   },
   "top_heat_points": [
+    {
+      "date": "2026-07-16",
+      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 逆转英格兰，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2060732712101716234",
+      "key": "Q_2060732712101716234",
+      "rank": 1,
+      "observed_at": "2026-07-16 10:35:35 +0800",
+      "heat_text": "6627 万热度",
+      "heat_value": 66270000
+    },
     {
       "date": "2026-04-24",
       "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -41,7 +51,7 @@
     },
     {
       "date": "2026-07-16",
-      "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
+      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 逆转英格兰，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2060732712101716234",
       "key": "Q_2060732712101716234",
       "rank": 1,
@@ -98,16 +108,6 @@
       "observed_at": "2026-05-15 00:00:00 +0800",
       "heat_text": "4115 万热度",
       "heat_value": 41150000
-    },
-    {
-      "date": "2026-05-22",
-      "title": "老虎、富途、长桥非法跨境展业被罚，没收违法所得，设置 2 年整治期清理非法存量业务，哪些信息值得关注？",
-      "url": "https://www.zhihu.com/question/2041193044347720568",
-      "key": "Q_2041193044347720568",
-      "rank": 1,
-      "observed_at": "2026-05-22 00:00:00 +0800",
-      "heat_text": "4069 万热度",
-      "heat_value": 40690000
     }
   ],
   "daily_series": [
@@ -1283,11 +1283,11 @@
     },
     {
       "date": "2026-07-16",
-      "total_heat_value": 76040000,
-      "max_heat_value": 44430000,
-      "topic_count": 39,
-      "history_point_count": 90,
-      "top_topic_title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
+      "total_heat_value": 139240000,
+      "max_heat_value": 66270000,
+      "topic_count": 62,
+      "history_point_count": 120,
+      "top_topic_title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 逆转英格兰，如何评价本场比赛？",
       "top_topic_url": "https://www.zhihu.com/question/2060732712101716234"
     }
   ]
