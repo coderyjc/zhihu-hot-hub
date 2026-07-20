@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20 22:05:33 +0800",
+  "generated_at": "2026-07-21 00:23:53 +0800",
   "totals": {
-    "day_count": 135,
-    "topic_record_count": 4760,
-    "unique_topic_count": 4453,
-    "history_point_count": 6000,
-    "v2_file_count": 10,
+    "day_count": 136,
+    "topic_record_count": 4790,
+    "unique_topic_count": 4460,
+    "history_point_count": 6030,
+    "v2_file_count": 11,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1325,6 +1325,15 @@
       "history_point_count": 180,
       "top_topic_title": "2026 年世界杯决赛，恩佐下半场两黄变一红被罚下，对此你怎么看？这是本场比赛的转折点吗？",
       "top_topic_url": "https://www.zhihu.com/question/2062406274260492889"
+    },
+    {
+      "date": "2026-07-21",
+      "total_heat_value": 74510000,
+      "max_heat_value": 21660000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+      "top_topic_url": "https://www.zhihu.com/question/2062518030224061737"
     }
   ]
 }
