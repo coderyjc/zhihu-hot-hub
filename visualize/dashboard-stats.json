@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20 05:52:41 +0800",
+  "generated_at": "2026-07-20 10:56:59 +0800",
   "totals": {
     "day_count": 135,
-    "topic_record_count": 4698,
-    "unique_topic_count": 4391,
-    "history_point_count": 5880,
+    "topic_record_count": 4723,
+    "unique_topic_count": 4416,
+    "history_point_count": 5910,
     "v2_file_count": 10,
     "legacy_file_count": 125
   },
@@ -48,6 +48,16 @@
       "observed_at": "2026-07-14 13:30:49 +0800",
       "heat_text": "4632 万热度",
       "heat_value": 46320000
+    },
+    {
+      "date": "2026-07-20",
+      "title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2062177729605284253",
+      "key": "Q_2062177729605284253",
+      "rank": 1,
+      "observed_at": "2026-07-20 10:56:59 +0800",
+      "heat_text": "4483 万热度",
+      "heat_value": 44830000
     },
     {
       "date": "2026-07-16",
@@ -98,16 +108,6 @@
       "observed_at": "2026-07-14 18:46:35 +0800",
       "heat_text": "4318 万热度",
       "heat_value": 43180000
-    },
-    {
-      "date": "2026-05-16",
-      "title": "世界超级摩托车锦标赛捷克站「张雪机车」夺冠，收获赛季第 4 冠，怎样评价本场比赛「张雪机车」的表现？",
-      "url": "https://www.zhihu.com/question/2039059832515158449",
-      "key": "Q_2039059832515158449",
-      "rank": 1,
-      "observed_at": "2026-05-16 00:00:00 +0800",
-      "heat_text": "4254 万热度",
-      "heat_value": 42540000
     }
   ],
   "daily_series": [
@@ -1319,11 +1319,11 @@
     },
     {
       "date": "2026-07-20",
-      "total_heat_value": 56940000,
-      "max_heat_value": 18330000,
-      "topic_count": 36,
-      "history_point_count": 60,
-      "top_topic_title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
+      "total_heat_value": 177800000,
+      "max_heat_value": 44830000,
+      "topic_count": 61,
+      "history_point_count": 90,
+      "top_topic_title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
       "top_topic_url": "https://www.zhihu.com/question/2062177729605284253"
     }
   ]
