@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-07-21 05:59:44 +0800",
+  "updated_at": "2026-07-21 10:40:51 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -52436,23 +52436,18 @@
       "title": "为什么豆包没有被 DeepSeek「斩杀」？",
       "url": "https://www.zhihu.com/question/2061575313973416591",
       "first_seen": "2026-07-21 00:23:52 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 15,
-      "latest_rank": 4,
-      "latest_heat_text": "155 万热度",
-      "latest_heat_value": 1550000,
+      "latest_rank": 23,
+      "latest_heat_text": "161 万热度",
+      "latest_heat_value": 1610000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1784584784.607568",
+        "id": "22_1784601651.458643",
         "card_id": "Q_2061575313973416591",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 87
+          "answer_count": 200
         },
         "target": {
           "title_area": {
@@ -52465,7 +52460,7 @@
             "url": "https://pic1.zhimg.com/v2-19a8f17e744ce48e1ceefbc1367eca76.png"
           },
           "metrics_area": {
-            "text": "155 万热度",
+            "text": "161 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -52480,7 +52475,7 @@
             "url": "https://www.zhihu.com/question/2061575313973416591"
           }
         },
-        "attached_info": "CkoIg8+E7urBuq0OEAMaCTEyMDUxNDI2NiCB8+jSBjAAOJUBQANyEzIwNjE1NzUzMTM5NzM0MTY1OTF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDUxNDI2NiCB8+jSBjAAOPwCQBZyEzIwNjE1NzUzMTM5NzM0MTY1OTF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -52500,6 +52495,12 @@
           "rank": 4,
           "heat_text": "155 万热度",
           "heat_value": 1550000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 23,
+          "heat_text": "161 万热度",
+          "heat_value": 1610000
         }
       ]
     },
@@ -52508,18 +52509,18 @@
       "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
       "url": "https://www.zhihu.com/question/2062557149230903440",
       "first_seen": "2026-07-21 00:23:52 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 16,
       "latest_rank": 16,
-      "latest_heat_text": "94 万热度",
-      "latest_heat_value": 940000,
+      "latest_heat_text": "178 万热度",
+      "latest_heat_value": 1780000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1784584784.612801",
+        "id": "15_1784601651.451360",
         "card_id": "Q_2062557149230903440",
         "feed_specific": {
-          "answer_count": 47
+          "answer_count": 101
         },
         "target": {
           "title_area": {
@@ -52532,7 +52533,7 @@
             "url": "https://pic2.zhimg.com/50/v2-4810c9d30bb7f558c69af1f785108a1f_b.jpg"
           },
           "metrics_area": {
-            "text": "94 万热度",
+            "text": "178 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -52547,7 +52548,7 @@
             "url": "https://www.zhihu.com/question/2062557149230903440"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTEyMDU1MjMyNyDol/fSBjAAOF5AD3ITMjA2MjU1NzE0OTIzMDkwMzQ0MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDU1MjMyNyDol/fSBjAAOM8BQA9yEzIwNjI1NTcxNDkyMzA5MDM0NDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -52567,6 +52568,12 @@
           "rank": 16,
           "heat_text": "94 万热度",
           "heat_value": 940000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 16,
+          "heat_text": "178 万热度",
+          "heat_value": 1780000
         }
       ]
     },
@@ -52630,23 +52637,18 @@
       "title": "韩国博主在日本探店遇阴阳菜单，英文菜单标价远高于日文，这在日本是普遍现象吗？如何避免旅游时遇阴阳菜单？",
       "url": "https://www.zhihu.com/question/2060752007808250546",
       "first_seen": "2026-07-21 00:23:52 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 22,
-      "latest_rank": 8,
-      "latest_heat_text": "119 万热度",
-      "latest_heat_value": 1190000,
+      "latest_rank": 28,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1784584784.608784",
+        "id": "27_1784601651.462106",
         "card_id": "Q_2060752007808250546",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 24
+          "answer_count": 71
         },
         "target": {
           "title_area": {
@@ -52659,7 +52661,7 @@
             "url": "https://picx.zhimg.com/50/v2-abf454fcef1ebe0ff64cae7e753710b7_b.jpg"
           },
           "metrics_area": {
-            "text": "119 万热度",
+            "text": "113 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -52674,7 +52676,7 @@
             "url": "https://www.zhihu.com/question/2060752007808250546"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTEyMDQ3NTkwOSC99dzSBjAAOC5AB3ITMjA2MDc1MjAwNzgwODI1MDU0NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDQ3NTkwOSC99dzSBjAAOKgBQBtyEzIwNjA3NTIwMDc4MDgyNTA1NDZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -52694,6 +52696,12 @@
           "rank": 8,
           "heat_text": "119 万热度",
           "heat_value": 1190000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 28,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
         }
       ]
     },
@@ -52702,18 +52710,18 @@
       "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
       "url": "https://www.zhihu.com/question/2061868472049652679",
       "first_seen": "2026-07-21 00:23:52 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 23,
-      "latest_rank": 15,
-      "latest_heat_text": "95 万热度",
-      "latest_heat_value": 950000,
+      "latest_rank": 25,
+      "latest_heat_text": "134 万热度",
+      "latest_heat_value": 1340000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1784584784.612443",
+        "id": "24_1784601651.459408",
         "card_id": "Q_2061868472049652679",
         "feed_specific": {
-          "answer_count": 36
+          "answer_count": 64
         },
         "target": {
           "title_area": {
@@ -52723,10 +52731,10 @@
             "text": "[2 张图片]"
           },
           "image_area": {
-            "url": "https://pic2.zhimg.com/50/v2-ec5d2fcccae2fcdf8a9551350e8fb48b_b.jpg"
+            "url": "https://pic1.zhimg.com/80/v2-2c3a99186376b0ac948bc6597e8169d9_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "95 万热度",
+            "text": "134 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -52741,7 +52749,7 @@
             "url": "https://www.zhihu.com/question/2061868472049652679"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTEyMDUyNjU1NCCHle3SBjAAODJADnITMjA2MTg2ODQ3MjA0OTY1MjY3OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDUyNjU1NCCHle3SBjAAOG1AGHITMjA2MTg2ODQ3MjA0OTY1MjY3OXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -52761,6 +52769,12 @@
           "rank": 15,
           "heat_text": "95 万热度",
           "heat_value": 950000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 25,
+          "heat_text": "134 万热度",
+          "heat_value": 1340000
         }
       ]
     },
@@ -52940,23 +52954,18 @@
       "title": "女孩囤积大量吧唧（徽章）致甲醛中毒，类似制品的哪些部分会释放有毒物质？出现什么症状需要警惕？",
       "url": "https://www.zhihu.com/question/2061953789863654753",
       "first_seen": "2026-07-21 03:43:28 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 12,
-      "latest_rank": 2,
-      "latest_heat_text": "227 万热度",
-      "latest_heat_value": 2270000,
+      "latest_rank": 10,
+      "latest_heat_text": "191 万热度",
+      "latest_heat_value": 1910000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1784584784.604016",
+        "id": "9_1784601651.440704",
         "card_id": "Q_2061953789863654753",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 18
+          "answer_count": 42
         },
         "target": {
           "title_area": {
@@ -52966,10 +52975,10 @@
             "text": "走进很多二次元爱好者的房间，满墙的立牌、整柜的手办、成箱的「吧唧」（徽章）——这些承载热爱的收藏品，花费了爱好者们大量的心血，也给他们带来了相当的情绪价值。 但近段时间来，这些二次元周边藏品，也有成为威胁健康的「隐形杀手」的隐患。多地接连曝出市民因家中囤积大量手办、谷子（二次元周边的网络名称）而出现甲醛中毒症状甚至就医的事件，引发了广泛关注。 去年 7 月，就有一位网友在社交平台上分享了她凌晨被救护车送医的经历，该网友称，自己被急救是因家中囤积大量「吧唧」（徽章），在半夜突发不适。 十几平方米房间摆了 50 多个谷子 没几天就头晕 网友「小邪」告诉记者，自己在卧室里摆了五十多个谷子，没几天，就有了头晕的症状。 「小邪」的房间面积十几个平方米，如今除了贴纸，已经见不到谷子的影子，收藏的谷子全部被她收了起来。前段时间，「小邪」在卧室里摆出了 50 多个谷子，大多数为亚克力材质的立牌、徽章等等，有的放在书桌上，也有的放在网上买的金属制的柜子里。 「就三天时间，我就不舒服了。」「小邪」说，平常生活起居都在卧室里，有时候也会在卧室里刷刷手机看看电脑，放完了谷子，自己一下出现了头晕的症状。 小邪已经清空了房间里的谷子 一开始，她还没意识到可能是谷子的问题，「我以为是我自己身体不舒服，但是后来发现，我待在客厅就没事，一回房间就晕，睡觉也睡不好。」「小邪」这才意识到，很可能是谷子的问题。 「我了解了下，一些塑料的、有胶水的材质，会散发出甲醛。」「小邪」决定做个实验，她一下清空了卧室里的谷子，只留下了贴在墙上的贴纸。 实验的效果很显著，「小邪」说，她已经完全好了，至于她收藏的这些谷子要怎么放，她打算再好好研究研究。 类似的健康危机同样波及到手作爱好者圈层。一位年轻的「毛娘」（假发造型师）上个月发布永久停单公告——长期做手工假发，她严重甲醛中毒，身体已扛不住了。这位博主刚毕业半年，为做好防护专门购买了四百元的防毒面具和一千多元的空气净化器，全程开启作业。然而长期接触假发处理药剂后，身体仍出现严重中毒反应。 打开社交平台，可以看到不少痛屋（指用大量动漫、游戏等二次元周边产品，将整个房间装饰、填满，从而打造出的一个个人爱好展示空间）玩家对甲醛的担忧。 关于甲醛的新闻，二次元爱好者小胡也有关注到，他告诉记者，自己也对房间做过甲醛检测。 小胡的房间不到 10 平方米，有一个货架，2 米高，6 层，还有一张书桌。小胡的周边主要是卡片、立牌、毛绒玩具、徽章，摆满了货架和书桌，房门背后也贴满挂满了。 「我妈妈说，最近她刷短视频看到有个小男孩因为手办房间流鼻血了，她也很担心我。」小胡说，为了进行测试，他把房间门和窗户都关上了，做了一次甲醛测试。 小胡用的是空气甲醛速测剂，将试剂摆放在房间内，经过一系列测试，小胡发现，卧室里的甲醛含量在 0.1mg/m³，恰好位于国家规定的室内甲醛含量临界点。 「这个房间其实不太通风，因为我的工作离家比较远，每个月来家里住的时间不长。」小胡说，还好身体还没出现什么异样的感觉，「房间通风是必要的，以后要多开窗散散甲醛了。」 家住上海的叶先生告诉记者，自己女儿也有一个痛屋，因为女儿的爱好，家里特意拿出一个十平方米左右的房间，给孩子放藏品。这个痛屋，女儿已经打造了两三年的时间。 「一开始也是孩子妈妈先看到的消息，妈妈担心她这个房间甲醛浓度超标，就打算做个检测。」 叶先生说，对于甲醛这个问题，在玩家的圈层里意识也比较强，女儿的个人社交帐号经常会接到其他玩家的私信，来咨询一些「甲醛浓不浓」「身体有没有不舒服」等问题。 “去年，孩子妈妈关注到甲醛问题后，就着手开始测量甲醛。「第一次测试的时候，甲醛浓度没有超标，后来我们也定期测甲醛，发现指数都还好。」 叶先生女儿告诉记者，自己的娱乐生活基本上集中在这个房间，「我在里面待的时间也挺长的，一般从晚饭后玩到睡前，放假的时候可能在里面待一个下午，但我没有什么头晕或者其他的症状。」 叶先生说，甲醛问题，也让女儿学到了更多的知识，「她现在知道，带胶水、塑料、油墨等成分的周边产品更容易产生甲醛，现在她买谷子，都会去看看产品材质了。」 「我以为是幸福晕了，结果是甲醛中毒了。」这句调侃的背后，是不少二次元爱好者对周边产品甲醛问题的担忧。 在互联网平台上，处处可以找到网友对二次元藏品、手办等带来的甲醛问题的咨询。工联 CC 是杭州最老牌的商场之一，如今是「二次元」潮人聚集地，常常被二次元群体们誉为杭州的「吃谷圣地」。 记者实地跑了一趟，看看杭州的二次元爱好者们，是如何看待这一问题的。 「我有刷到过新闻，不过我买的这些，应该不会有太多吧？」小吴今年 15 岁，刚刚中考考完，和同学们约着来商场逛谷子店。 小吴是《银魂》的粉丝，她买的比较多的，是《银魂》的徽章和立牌，徽章她会挂在书包上，立牌她则选择打扮家里的书桌，除此之外，还有一些海报被她贴在房间里。 小吴坦言，自己也想打造一个痛屋，「我也喜欢很多手办，也想去买，但是爸爸妈妈给的零花钱也有限，哪怕全部买，也买不了多少。」小吴说，家里周边林林总总加起来不到 20 个，「主要还是以学习为主，上高中了也没那么多时间玩了。」 小周喜欢的是 Hello Kitty 的挂件和摆件，她告诉记者，从她记事起，爸爸妈妈就给她买 Hello Kitty，虽然自己只有十几岁，但可以喜欢一辈子。 小周的房间里，有不少 Hello Kitty 的公仔娃娃和手办，这些都是她从线上线下淘来的。「有时候考试考得好，爸爸妈妈会奖励，我也会存零花钱。」 小周爸爸妈妈之前提过一次甲醛的事情，但是她自己懵懵懂懂，也不是很了解。「去年我妈来问我，身体有没有不舒服，一连问了好几次。她是看到网上有新闻说，手办什么的会释放甲醛，叫我小心一点。不过我都是一些娃娃和手办，手办数量不多，就几个，娃娃多一点，有十几个，衣柜里还放着几个小时候的娃娃，也有十几个。」 小周说，爸爸妈妈也提醒她，如果身体不舒服，要及时和他们说，「不过到现在为止，我都没感觉有什么异样。」 相比之下，成年人的消费能力或许更好。林女士的新居里，客厅摆放了一个手办柜，一共三层，主卧飘窗上也设计了一个手办柜，有十二层，只放了一半的空间。 林女士卧室里的手办柜 两个柜子都是玻璃门，平常手办就封在门后。林女士告诉记者，自己的手办都是官方正版，偶尔也会找人去定制。「这么多年玩下来，实际上没感觉有啥味道，身体上也没感觉有不适。」林女士说，家里都有通风，要说异味，还是家里的家具异味重一点。 记者在线下采访了三十余位市民，大家都听说手办甲醛问题，但真的会对房间进行通风、检测甲醛的人，一个也没有。大家给出的理由是：「买的不多，日常也都在通风，身体没有不舒服，就不在意了。」 林女士客厅里的手办柜 一位谷子店摊主告诉记者，自己每天在店里，也没有感觉到不适，「因为谷子而甲醛中毒应该是万中无一的新闻吧，现实生活中很难遇到。」女子突发不适叫救护车，竟因囤积大量徽章！网友：以为是幸福晕了，结果中毒了 _ 腾讯新闻"
           },
           "image_area": {
-            "url": "https://picx.zhimg.com/50/v2-1c6a13eb465d99d11320baf27ee0e3ed_b.jpg"
+            "url": "https://pic2.zhimg.com/v2-c37fcdcd16be22f6cf2e9437956dc003_1440w.jpg"
           },
           "metrics_area": {
-            "text": "227 万热度",
+            "text": "191 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -52984,7 +52993,7 @@
             "url": "https://www.zhihu.com/question/2061953789863654753"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTEyMDUyOTE0MyD8s+7SBjAAOHNAAXITMjA2MTk1Mzc4OTg2MzY1NDc1M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDUyOTE0MyD8s+7SBjAAOJACQAlyEzIwNjE5NTM3ODk4NjM2NTQ3NTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -52998,6 +53007,12 @@
           "rank": 2,
           "heat_text": "227 万热度",
           "heat_value": 2270000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 10,
+          "heat_text": "191 万热度",
+          "heat_value": 1910000
         }
       ]
     },
@@ -53006,18 +53021,18 @@
       "title": "19 岁亚马尔本届世界杯一进球、一造点，怎样评价他的表现？已包揽欧洲杯 + 世界杯冠军，他的上限在哪？",
       "url": "https://www.zhihu.com/question/2062423493048623288",
       "first_seen": "2026-07-21 03:43:28 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 19,
       "latest_rank": 9,
-      "latest_heat_text": "117 万热度",
-      "latest_heat_value": 1170000,
+      "latest_heat_text": "192 万热度",
+      "latest_heat_value": 1920000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1784584784.609641",
+        "id": "8_1784601651.439818",
         "card_id": "Q_2062423493048623288",
         "feed_specific": {
-          "answer_count": 23
+          "answer_count": 74
         },
         "target": {
           "title_area": {
@@ -53027,10 +53042,10 @@
             "text": "直播吧 07 月 20 日讯 美加墨世界杯，西班牙战胜阿根廷夺冠！ 西班牙球星，巴萨边锋亚马尔年仅 19 岁，他的生涯中已经获得了欧洲杯 + 世界杯两个重要的大赛冠军。 本届世界杯，亚马尔贡献 1 个进球，此外在对阵法国的半决赛中他的关键造点帮助球队领先。"
           },
           "image_area": {
-            "url": "https://pica.zhimg.com/50/v2-8bcf7060f7c91397a0403c0eb12568c0_b.jpg"
+            "url": "https://pica.zhimg.com/80/v2-661e3d3847a6bac7b09936c883c6f46d_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "117 万热度",
+            "text": "192 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -53045,7 +53060,7 @@
             "url": "https://www.zhihu.com/question/2062423493048623288"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTEyMDU0NDUyNyDunvXSBjAAOCRACHITMjA2MjQyMzQ5MzA0ODYyMzI4OHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDU0NDUyNyDunvXSBjAAOJABQAhyEzIwNjI0MjM0OTMwNDg2MjMyODh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -53059,6 +53074,12 @@
           "rank": 9,
           "heat_text": "117 万热度",
           "heat_value": 1170000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 9,
+          "heat_text": "192 万热度",
+          "heat_value": 1920000
         }
       ]
     },
@@ -53128,18 +53149,18 @@
       "title": "「甲亢哥」居然成为了世界杯闭幕式的表演嘉宾，这是否让你感到意外，对此你怎么看？",
       "url": "https://www.zhihu.com/question/2062352638771818951",
       "first_seen": "2026-07-21 03:43:28 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 22,
-      "latest_rank": 14,
-      "latest_heat_text": "100 万热度",
-      "latest_heat_value": 1000000,
+      "latest_rank": 6,
+      "latest_heat_text": "224 万热度",
+      "latest_heat_value": 2240000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "13_1784584784.612114",
+        "id": "5_1784601651.436549",
         "card_id": "Q_2062352638771818951",
         "feed_specific": {
-          "answer_count": 19
+          "answer_count": 41
         },
         "target": {
           "title_area": {
@@ -53152,7 +53173,7 @@
             "url": "https://pic4.zhimg.com/50/v2-6860c6419df36596bd190516264f37f5_b.jpg"
           },
           "metrics_area": {
-            "text": "100 万热度",
+            "text": "224 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -53167,7 +53188,7 @@
             "url": "https://www.zhihu.com/question/2062352638771818951"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTEyMDU0MzM0MSDxmvTSBjAAOB1ADXITMjA2MjM1MjYzODc3MTgxODk1MXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU0MzM0MSDxmvTSBjAAOF1ABXITMjA2MjM1MjYzODc3MTgxODk1MXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -53181,6 +53202,12 @@
           "rank": 14,
           "heat_text": "100 万热度",
           "heat_value": 1000000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 6,
+          "heat_text": "224 万热度",
+          "heat_value": 2240000
         }
       ]
     },
@@ -53435,34 +53462,39 @@
     },
     {
       "key": "Q_2001825569575306638",
-      "title": "为什么恋综这么多高颜值精英 / 富二代 / 留学生，但是他们在恋综呈现出的生活依旧很无聊?",
+      "title": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?",
       "url": "https://www.zhihu.com/question/2001825569575306638",
       "first_seen": "2026-07-21 05:59:44 +0800",
-      "last_seen": "2026-07-21 05:59:44 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
       "first_rank": 26,
-      "latest_rank": 26,
-      "latest_heat_text": "77 万热度",
-      "latest_heat_value": 770000,
+      "latest_rank": 3,
+      "latest_heat_text": "260 万热度",
+      "latest_heat_value": 2600000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1784584784.618130",
+        "id": "2_1784601651.432729",
         "card_id": "Q_2001825569575306638",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 22
+          "answer_count": 81
         },
         "target": {
           "title_area": {
-            "text": "为什么恋综这么多高颜值精英 / 富二代 / 留学生，但是他们在恋综呈现出的生活依旧很无聊?"
+            "text": "为什么恋综这么多高颜值精英、富二代、留学生，但是他们在恋综呈现出的生活依旧很无聊?"
           },
           "excerpt_area": {
             "text": "这些高颜值精英 / 富二代 / 留学生应该有过非常丰富的阅历履历人生经历和眼界，但是他们聊天的内容还是很枯燥乏味，尬聊闲聊居多，没有很深入的讲自己独特的人生经历。可能因为不熟？除了他们穿的戴的用的都很贵。 在小屋里面大部分内容就是几个人切菜做饭洗碗然后一群人吃饭，约会内容要么一起做手工做陶艺画画，要么一起逛公园游乐园或者动物园，要么溜冰滑雪。。心动的信号 7 里面约高尔夫，约按摩，约钓虾已经是比较有趣的了。 感觉观众并没有因为看高颜值精英 / 富二代 / 留学生谈情说爱看到不一样的世界。。还是和身边一样的世界。"
           },
           "image_area": {
-            "url": ""
+            "url": "https://picx.zhimg.com/v2-c0f4dacf43a9645fa274229a855db28c.png"
           },
           "metrics_area": {
-            "text": "77 万热度",
+            "text": "260 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -53477,7 +53509,7 @@
             "url": "https://www.zhihu.com/question/2001825569575306638"
           }
         },
-        "attached_info": "CkkIg8+E7urBuq0OEAMaCTExODMwMzkzOSC3toPMBjAAOCRAGXITMjAwMTgyNTU2OTU3NTMwNjYzOHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTExODMwMzkzOSC3toPMBjAAOMcBQAJyEzIwMDE4MjU1Njk1NzUzMDY2Mzh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -53485,6 +53517,12 @@
           "rank": 26,
           "heat_text": "77 万热度",
           "heat_value": 770000
+        },
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 3,
+          "heat_text": "260 万热度",
+          "heat_value": 2600000
         }
       ]
     },
@@ -53540,6 +53578,1261 @@
           "rank": 29,
           "heat_text": "75 万热度",
           "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2061925103441650722",
+      "title": "如何看待 2026 年临床医学录取分数线下降？",
+      "url": "https://www.zhihu.com/question/2061925103441650722",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "603 万热度",
+      "latest_heat_value": 6030000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1784601651.430737",
+        "card_id": "Q_2061925103441650722",
+        "feed_specific": {
+          "answer_count": 174
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待 2026 年临床医学录取分数线下降？"
+          },
+          "excerpt_area": {
+            "text": "江苏省 2026 年投档线出炉，南大医学最高 1000 多逐年下降 到 3000 多，各个高校的医学都不同程度滑坡~ 南方医科大甚至 39000。 其他非临床专业更加惨不忍睹，基础医学没人报，临床医学未来就没人教~~ 医学何去何从 工科大热，现在的志愿填报和分组方式，医学基本会单独一个组，所以不读医学连选都不会选。 临床医学还会继续滑坡么，其他省份的分数线陆续出炉也会掉？欢迎更新"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-f5ee9d08fb7f5f4786b99c0b86bda846_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "603 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2061925103441650722"
+          }
+        },
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDUyODE3NiDF/u3SBjAAOMYDQAByEzIwNjE5MjUxMDM0NDE2NTA3MjJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 1,
+          "heat_text": "603 万热度",
+          "heat_value": 6030000
+        }
+      ]
+    },
+    {
+      "key": "Q_2055058384097955896",
+      "title": "为何生鸡蛋拌饭味道如此平庸，却让日本人着迷？",
+      "url": "https://www.zhihu.com/question/2055058384097955896",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "292 万热度",
+      "latest_heat_value": 2920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1784601651.432190",
+        "card_id": "Q_2055058384097955896",
+        "feed_specific": {
+          "answer_count": 103
+        },
+        "target": {
+          "title_area": {
+            "text": "为何生鸡蛋拌饭味道如此平庸，却让日本人着迷？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-b1fbf17c146a90cdf2b8cf449ce10e75.png"
+          },
+          "metrics_area": {
+            "text": "292 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2055058384097955896"
+          }
+        },
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDIxMzM5MSCjiIrSBjAAOI4BQAFyEzIwNTUwNTgzODQwOTc5NTU4OTZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 2,
+          "heat_text": "292 万热度",
+          "heat_value": 2920000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062608470700975381",
+      "title": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2062608470700975381",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "250 万热度",
+      "latest_heat_value": 2500000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1784601651.433801",
+        "card_id": "Q_2062608470700975381",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 283
+        },
+        "target": {
+          "title_area": {
+            "text": "中国海警局发布菲律宾非法「坐滩」57 号舰蓄意挑衅的声明，并公布现场画面，有哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "据「中国海警」消息，7 月 20 日上午 9 时许，中国海警 1 艘小型巡逻艇位中国仁爱礁附近海域例行巡逻时，菲律宾非法「坐滩」57 号舰释放 2 艘橡皮艇，无视我多次明确警告，以危险方式快速接近并围顶冲撞中方巡逻艇，其间，菲方人员首先使用划桨、长棍等工具恶意攻击中方执法人员。中方依法依规采取喊话警告、机动绕航、对等反制等措施稳控现场局势，最大限度保持理性克制。事发后，菲方歪曲事实、反诬中方，纯属颠倒黑白。我们要求菲方立即停止侵权挑衅和不实炒作。中国海警将持续依法在包括仁爱礁在内的南沙群岛及其附近海域开展维权执法活动，坚决维护国家领土主权和海洋权益。 更多资讯请下载央视新闻客户端"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-d8c910fe600c910a1bcd0713495a4acf.png"
+          },
+          "metrics_area": {
+            "text": "250 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062608470700975381"
+          }
+        },
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDU1NTkyOCC09/fSBjAAOLoDQANyEzIwNjI2MDg0NzA3MDA5NzUzODF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 4,
+          "heat_text": "250 万热度",
+          "heat_value": 2500000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062108518619124379",
+      "title": "怎么看导演郭帆对动画电影《八仙！》的评价？",
+      "url": "https://www.zhihu.com/question/2062108518619124379",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "240 万热度",
+      "latest_heat_value": 2400000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1784601651.435263",
+        "card_id": "Q_2062108518619124379",
+        "feed_specific": {
+          "answer_count": 63
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看导演郭帆对动画电影《八仙！》的评价？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-a28d5bafe9ce06abdeab332661335177.png"
+          },
+          "metrics_area": {
+            "text": "240 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062108518619124379"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDUzMjE2NiCW1PDSBjAAOHpABHITMjA2MjEwODUxODYxOTEyNDM3OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 5,
+          "heat_text": "240 万热度",
+          "heat_value": 2400000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062575282591209175",
+      "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+      "url": "https://www.zhihu.com/question/2062575282591209175",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "207 万热度",
+      "latest_heat_value": 2070000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1784601651.437133",
+        "card_id": "Q_2062575282591209175",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 41
+        },
+        "target": {
+          "title_area": {
+            "text": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？"
+          },
+          "excerpt_area": {
+            "text": "快科技 7 月 20 日消息 ，近日，OpenAI 战略未来负责人 Dean W. Ball 在社交平台发表了一篇题为《Some observations on Kimi》的帖子，对月之暗面最新发布的 Kimi K3 模型进行了系统评价。 Dean W. Ball 首先高度评价称，它是一个非常优秀的模型。他认为 Kimi 的能力 \" 不能简单归因于蒸馏 \"，在 Agentic Coding 场景下已经接近 2026 年第一季度最优秀的公开模型。 在他看来，开放权重模型会削弱前沿模型的商业回报，降低企业继续投入数百亿美元训练下一代模型的动力，因此 \" 开放权重模型天然是一种减速主义力量 \"。 他甚至提出，如果开放权重成为全球主流，AI 最终可能演变为一种由国家提供的 \" 数字公共基础设施 \"，并将这种趋势称为 \"AI 共产主义。 与此同时，他还预测，美国未来未必会直接限制开源模型，而更可能通过安全审查、监管指引等方式，提高企业使用中国开放模型的合规门槛。 此前，月之暗面于 7 月 16 日上线推出 Kimi K3 模型，其拥有 2.8 万亿参数，在 Frontend Code Arena 全球 AI 大模型榜单中，Kimi K3 以 1679 分超越 Claude Fable 5，位居第一。 其完整模型权重将于 7 月 27 日向社区开放。届时，全球开发者都可下载运行这套 2.8 万亿参数的国产大模型。OpenAI 高管炮轰 Kimi K3：中国开源是减速主义 会抑制资本投入"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-accaecbbdb524aff02db63b3b95bd39f_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "207 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062575282591209175"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU1NDY5NSDMuffSBjAAOGNABnITMjA2MjU3NTI4MjU5MTIwOTE3NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 7,
+          "heat_text": "207 万热度",
+          "heat_value": 2070000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062642099518795923",
+      "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2062642099518795923",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "200 万热度",
+      "latest_heat_value": 2000000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1784601651.438754",
+        "card_id": "Q_2062642099518795923",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 129
+        },
+        "target": {
+          "title_area": {
+            "text": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？"
+          },
+          "excerpt_area": {
+            "text": "7 月 20 日，影视飓风 MediaStorm 发布博文，针对网络流传的恶意评价作出公开回应。 事件源头来自一位博主发的网友评论，该评论称 「影视飓风就是公司一群员工陪老板演松弛感白人」。 对此，影视飓风表示，最近看到了很多营销号发这种解读，这也太恶毒了。 影视飓风称：「原来合法合规纳税 + 全额社保六险一金 + 工作时间拍节目 (不占用休息日，有独立奖金)+ 不断提升的公司待遇 + 众多宣传非遗和中国的节目 = 你是白人，虐待员工，逼人陪你演戏。」 影视飓风还进一步表示：「骂别的可以，这个实在没法忍。我为我是中国人而自豪，也一直在为祖国建设出自己的一份力，咋就被开除国籍了。」 公开信息显示，影视飓风 MediaStorm，由潘天鸿（Tim）创立，是国内头部影视科技原创内容团队。主营影视创作、科技评测与文化纪实，全平台拥有千万级粉丝。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-2db389c60362425426df5b26c8c81c62.png"
+          },
+          "metrics_area": {
+            "text": "200 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062642099518795923"
+          }
+        },
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDU1Njg3OCCGtvjSBjAAONQBQAdyEzIwNjI2NDIwOTk1MTg3OTU5MjN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 8,
+          "heat_text": "200 万热度",
+          "heat_value": 2000000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062519287487714974",
+      "title": "深圳地铁「逢包必检、逢人必查」，将对市民出行带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2062519287487714974",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "191 万热度",
+      "latest_heat_value": 1910000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1784601651.445557",
+        "card_id": "Q_2062519287487714974",
+        "feed_specific": {
+          "answer_count": 199
+        },
+        "target": {
+          "title_area": {
+            "text": "深圳地铁「逢包必检、逢人必查」，将对市民出行带来哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "眼下正值暑期，全城出行、出游需求持续攀升。外地游客赴深打卡游玩，本地家庭也趁假期开启亲子短途出行，再叠加早晚高峰上班通勤人流，多股客流集中涌入地铁站，全线站内人流量大幅增加。为全方位保障乘客出行安全，自今日（7 月 20 日）起，深圳地铁将实现进站安检全覆盖，所有随身行李物品须通过安检机完成过机查验；每位乘客进站时，须配合安检人员使用手持安检设备，接受人身安全检查。请大家出行前自查随身行李，以下物品限制、严禁携带进入地铁车站，避免耽误您的行程↓↓注意！深圳地铁安检模式有调整！深圳地铁安检调整首日引争议！记者直击晚高峰：现场有人报警 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-b1a7712ada2968c44c6e468aab205080.png"
+          },
+          "metrics_area": {
+            "text": "191 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062519287487714974"
+          }
+        },
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDU1MDA3MCCl0fbSBjAAOJYCQApyEzIwNjI1MTkyODc0ODc3MTQ5NzR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 11,
+          "heat_text": "191 万热度",
+          "heat_value": 1910000
+        }
+      ]
+    },
+    {
+      "key": "Q_2061437886252290978",
+      "title": "学习明明很痛苦，孔子为什么还要说「学而时习之，不亦说 yuè乎」？",
+      "url": "https://www.zhihu.com/question/2061437886252290978",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "190 万热度",
+      "latest_heat_value": 1900000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1784601651.446635",
+        "card_id": "Q_2061437886252290978",
+        "feed_specific": {
+          "answer_count": 171
+        },
+        "target": {
+          "title_area": {
+            "text": "学习明明很痛苦，孔子为什么还要说「学而时习之，不亦说 yuè乎」？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-1ceae74c6a090d0d1b4f337e7eb47beb_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "190 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2061437886252290978"
+          }
+        },
+        "attached_info": "CkoIpJjckJG04ORzEAMaCTEyMDUwNjk2NyCD8+bSBjAAOM0BQAtyEzIwNjE0Mzc4ODYyNTIyOTA5Nzh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 12,
+          "heat_text": "190 万热度",
+          "heat_value": 1900000
+        }
+      ]
+    },
+    {
+      "key": "Q_2060738199488553481",
+      "title": "宁波一电子厂规定夏天辞职扣款三千元，称多人冒充长期工应聘，离职会浪费培训投入，培训成本该转嫁给员工吗？",
+      "url": "https://www.zhihu.com/question/2060738199488553481",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "188 万热度",
+      "latest_heat_value": 1880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1784601651.447051",
+        "card_id": "Q_2060738199488553481",
+        "feed_specific": {
+          "answer_count": 39
+        },
+        "target": {
+          "title_area": {
+            "text": "宁波一电子厂规定夏天辞职扣款三千元，称多人冒充长期工应聘，离职会浪费培训投入，培训成本该转嫁给员工吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，一网友反映，浙江宁波一公司在招聘时规定，公司不招暑假工和短期工，凡 7 月到 10 月离职者扣款 3 千元，质疑该规定违法。该网友自称为该公司生产线工人，匿名投诉公司相关问题。 7 月 14 日，该公司工作人员告诉潇湘晨报晨视频记者，公司生产线仅招长期工，但每年暑期都会出现很多人冒充长期工应聘，实际干完一个暑假就辞职，导致公司受损。为了减少这种现象，便和劳务公司做了这样的约定。 北京市京师律师事务所的姚志斗律师表示，公司该规定涉嫌违法，辞职扣 3 千是把公司经营风险转嫁给员工，法律不允许。公司可通过签三年以上合同加六个月试用期、主动设置「暑期短期工」专属通道等方法解决「暑假工冒充长期工」问题。 电子厂规定「暑期离职扣款 3 千」，回应：防止暑假工冒充长期工应聘 涉事企业宁波北仑盈运达光电科技有限公司，是一家从事光通信零件等电子产品的高新技术企业。7 月 11 日，该网友投诉，其是公司生产线工人，匿名投诉该公司。除了「7 月到 10 月离职扣款 3 千元」，其还反映了公司其他方面的问题。 △网友投诉。 7 月 14 日，该公司工作人员告诉潇湘晨报晨视频记者，他们的产品是高精尖产品，技术要求高，生产线的工人需长期培训才能掌握，培训期为入职的第一个月。短期工会浪费培训投入，所以他们招聘时明确要求不招暑假工等短期工，只招长期工。 △该公司招聘规定「7 到 10 月离职扣款 3 千元」。 该工作人员表示，公司生产车间为无尘车间，安装了空调，车间工人工作时间虽然较长，但工资也比较高，所以应聘者很多。但长期以来，在每年暑假的时候，很多人冒充长期工应聘，实际只干完一个暑假就辞职。为了减少该现象，便和劳务公司约定了这项「暑期离职扣款」的规定。 该工作人员表示，即使这样，依然有人觉得扣钱后也能挣一些钱，依旧会这样做，对此他们也没办法。至于该网友反映的其他问题，可能存在不实或不清晰的情况，公司一楼设有问题信箱，员工可以匿名反映，他们会及时核实处理。 律师：扣 3 千是把经营风险转嫁给员工，法律不允许 此事中，该公司的招聘规定「7 到 10 月离职扣款 3 千元」是否合法？该如何看待？北京市京师律师事务所的姚志斗律师表示，该规定涉嫌违法。劳动合同法及工资支付暂行规定规定——用人单位不得以任何名义向劳动者收取财物，更不允许无故克扣员工工资。 △该公司生产车间。 姚志斗表示，公司说培训花了成本所以要扣钱——这个理由在法律上也有专门规定，就是劳动合同法的专项培训服务期。但要适用这条，必须同时满足三个条件：是外派脱产的专业技术培训、有真实的培训费用凭证、签了书面的服务期协议。 本案是生产线岗前培训，属于普通职业培训，不属于可以约定违约金的「专项技术培训」；企业在员工辞职的时候扣 3000 元，实质上就是变相设定离职担保，把培训成本这个企业经营风险转嫁给员工，法律不允许；如果是通过派遣录用，可以单独和劳务派遣公司约定损失赔偿问题。 第二、既然公司每年暑期都会遇到这个问题，说明其岗位本身可能具有季节性或阶段性特征。建议企业在每年 5-6 月的招聘季，主动设置「暑期短期工」专属通道，明确告知工作期限和薪酬标准。与其让求职者「骗」进来再互相伤害，不如通过诚实信用原则，将短期用工需求与短期劳动力合法匹配。 第三，如果公司确实为关键岗位员工投入了高额的外部专业培训费用，那就走法定服务期制度。 把培训费发票留好，签书面服务期协议，违约金最多不超过未履行服务期所分摊的培训费。但一般生产线的普通岗前培训不适用这条路——必须是真正花了大价钱让第三方机构做的专业技术培训。 第四，与劳务派遣公司约定系长期岗位招聘，要求劳务公司做好背调和长期性工作经验及意愿调查，否则承担违约责任。另外自己面试时，也要做好学历和工作背景调查，录用通知书或岗位说明书中明确本岗位系长期岗位，公司投入长期培训周期，应聘者签字确认了解并自愿应聘，尽可能减少冒充的可能性，以避免带来公司损失。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-3fa8e672fba8063757beb9d480d1ee01_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "188 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2060738199488553481"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDQ3NDEwNiDh29zSBjAAOEJADHITMjA2MDczODE5OTQ4ODU1MzQ4MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 13,
+          "heat_text": "188 万热度",
+          "heat_value": 1880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062227038862307460",
+      "title": "为什么王权的象征往往是大猫（狮子、老虎、美洲豹）和鹰，而非熊或者鳄鱼？",
+      "url": "https://www.zhihu.com/question/2062227038862307460",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "182 万热度",
+      "latest_heat_value": 1820000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1784601651.450018",
+        "card_id": "Q_2062227038862307460",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么王权的象征往往是大猫（狮子、老虎、美洲豹）和鹰，而非熊或者鳄鱼？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-04428838ba154d9a7fb12d3f71cc2603_b.jpg"
+          },
+          "metrics_area": {
+            "text": "182 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062227038862307460"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDUzOTczMiD4sPLSBjAAODFADXITMjA2MjIyNzAzODg2MjMwNzQ2MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 14,
+          "heat_text": "182 万热度",
+          "heat_value": 1820000
+        }
+      ]
+    },
+    {
+      "key": "Q_2053174894217655686",
+      "title": "多吃维生素 B 就可以流出被蚊子「嫌弃」的汗，蚊子就不会叮咬你了，是真的吗？",
+      "url": "https://www.zhihu.com/question/2053174894217655686",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "178 万热度",
+      "latest_heat_value": 1780000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1784601651.451008",
+        "card_id": "Q_2053174894217655686",
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "多吃维生素 B 就可以流出被蚊子「嫌弃」的汗，蚊子就不会叮咬你了，是真的吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-888f3a4e2c47f0f791de4220ac2ea21c_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "178 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2053174894217655686"
+          },
+          "text_tag_area": {
+            "text": "知友辟谣",
+            "font_color": "GYL02A",
+            "background": "GYL02A"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDEyNTI1MSCA1O7RBjAAODpADnITMjA1MzE3NDg5NDIxNzY1NTY4NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 15,
+          "heat_text": "178 万热度",
+          "heat_value": 1780000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062276487206770661",
+      "title": "如何看待冉莹颖向邹市明提出婚内收入 AA 制，分别核算，「你还你的我还我的」？",
+      "url": "https://www.zhihu.com/question/2062276487206770661",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "177 万热度",
+      "latest_heat_value": 1770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1784601651.452543",
+        "card_id": "Q_2062276487206770661",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 70
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待冉莹颖向邹市明提出婚内收入 AA 制，分别核算，「你还你的我还我的」？"
+          },
+          "excerpt_area": {
+            "text": "这些债务是谁借的多？按这个提议两人各背负多大比例的债务？如果离婚时候会被判为个人债务吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-b12f1aa0f0af01c390af8ee7d1ae515e.png"
+          },
+          "metrics_area": {
+            "text": "177 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062276487206770661"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU0MTEwNCCFjfPSBjAAOF5AEHITMjA2MjI3NjQ4NzIwNjc3MDY2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 17,
+          "heat_text": "177 万热度",
+          "heat_value": 1770000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062554076487881992",
+      "title": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？",
+      "url": "https://www.zhihu.com/question/2062554076487881992",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "177 万热度",
+      "latest_heat_value": 1770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1784601651.453339",
+        "card_id": "Q_2062554076487881992",
+        "feed_specific": {
+          "answer_count": 42
+        },
+        "target": {
+          "title_area": {
+            "text": "阿根廷首都球迷聚集演变为骚乱，警方出动水炮车，15 人被捕，如何看待此类冲突？阿根廷足球文化有何特点？"
+          },
+          "excerpt_area": {
+            "text": "当地时间 19 日晚，阿根廷首都布宜诺斯艾利斯发生球迷骚乱，警方至少逮捕 15 人。 阿根廷队在美加墨世界杯决赛中 0:1 不敌西班牙队，获得亚军，未能实现蝉联之梦。比赛结束后，数千名阿根廷球迷聚集在布宜诺斯艾利斯地标建筑方尖碑前，他们挥舞国旗，敲锣打鼓表达对阿根廷队的支持。 当晚 11 时 30 分许，有球迷向在现场执行安保任务的警员投掷石块和瓶子，至少造成 3 名警察受伤；有人试图翻越方尖碑周围的围栏，随后被警察制服；期间还发生了手机等财物被盗案件。 警方出动水炮车驱散了人群，至少逮捕了 15 人。据警方消息，初步调查显示，事件的起因为一暴力团伙袭击警察。 此前，阿根廷队 7 日在本届世界杯逆转击败埃及队后，方尖碑附近发生球迷骚乱致多名警察和路人受伤，至少 19 人被逮捕。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-c32226aae3141363904fe99d15ddf49e.png"
+          },
+          "metrics_area": {
+            "text": "177 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062554076487881992"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU1MTkwMSCMkvfSBjAAOENAEXITMjA2MjU1NDA3NjQ4Nzg4MTk5MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 18,
+          "heat_text": "177 万热度",
+          "heat_value": 1770000
+        }
+      ]
+    },
+    {
+      "key": "Q_2061467293138116879",
+      "title": "如何评价诺兰执导的史诗电影《奥德赛》？",
+      "url": "https://www.zhihu.com/question/2061467293138116879",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "175 万热度",
+      "latest_heat_value": 1750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1784601651.454642",
+        "card_id": "Q_2061467293138116879",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价诺兰执导的史诗电影《奥德赛》？"
+          },
+          "excerpt_area": {
+            "text": "该片于 2026 年 7 月 16 日在中国香港上映。 于 2026 年 8 月 14 日在中国大陆上映。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-41d38c4bc565021971d544d4a70cfaa9_b.jpg"
+          },
+          "metrics_area": {
+            "text": "175 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2061467293138116879"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDUwODM2MCDmqefSBjAAOBhAEnITMjA2MTQ2NzI5MzEzODExNjg3OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 19,
+          "heat_text": "175 万热度",
+          "heat_value": 1750000
+        }
+      ]
+    },
+    {
+      "key": "Q_299498946",
+      "title": "正式足球比赛用球踢起来什么感觉？",
+      "url": "https://www.zhihu.com/question/299498946",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "174 万热度",
+      "latest_heat_value": 1740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1784601651.455637",
+        "card_id": "Q_299498946",
+        "feed_specific": {
+          "answer_count": 50
+        },
+        "target": {
+          "title_area": {
+            "text": "正式足球比赛用球踢起来什么感觉？"
+          },
+          "excerpt_area": {
+            "text": "经常踢球时候用的球皮偏硬，抽起来没有感觉，昨天踢球时候有一个 kelme 的球，踢着是真舒服，就是你大力抽的时候能感觉到球的形变，踢得又准球速也快。 所以想问问大家，正式比赛用球踢起来什么感觉。谢谢。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-6b22129e4dc5a4ddfde2e95fa5ada705_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "174 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/299498946"
+          }
+        },
+        "attached_info": "Cj4IpJjckJG04ORzEAMaCDI4ODMxNDY1IITBtN4FMAA4P0ATcgkyOTk0OTg5NDZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 20,
+          "heat_text": "174 万热度",
+          "heat_value": 1740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2060631975485087936",
+      "title": "为啥领导喜欢嘴甜的员工呢？",
+      "url": "https://www.zhihu.com/question/2060631975485087936",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "173 万热度",
+      "latest_heat_value": 1730000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1784601651.456452",
+        "card_id": "Q_2060631975485087936",
+        "feed_specific": {
+          "answer_count": 56
+        },
+        "target": {
+          "title_area": {
+            "text": "为啥领导喜欢嘴甜的员工呢？"
+          },
+          "excerpt_area": {
+            "text": "单位小王一见到领导，嘴巴甜的像吃了蜜一样。有些人就看不惯，可领导偏偏喜欢他。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-9885e5d6c1b76f84b3f44f5224842d91.png"
+          },
+          "metrics_area": {
+            "text": "173 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2060631975485087936"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDQ2NzEzMSDzldvSBjAAOG5AFHITMjA2MDYzMTk3NTQ4NTA4NzkzNngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 21,
+          "heat_text": "173 万热度",
+          "heat_value": 1730000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062663352988300439",
+      "title": "《复仇者联盟 5》新预告释出，钢铁侠「变身」毁灭博士登场，众多新老角色回归，对此你有何期待？",
+      "url": "https://www.zhihu.com/question/2062663352988300439",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "170 万热度",
+      "latest_heat_value": 1700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1784601651.456992",
+        "card_id": "Q_2062663352988300439",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "《复仇者联盟 5》新预告释出，钢铁侠「变身」毁灭博士登场，众多新老角色回归，对此你有何期待？"
+          },
+          "excerpt_area": {
+            "text": "《复仇者联盟 5》发布新正式预告！好多人啊.jpg 新老角色 都回来了，三个宇宙危在旦夕，钢铁侠「变身」毁灭博士登场。 该片今年 12.18 北美上映。已公布阵容： 克里斯·海姆斯沃斯 / 雷神 ​ 凡妮莎·柯比 / 隐形女​ 安东尼·麦凯 / 美国队长 ​​​ 塞巴斯蒂安·斯坦 / 巴基·巴恩斯 莱蒂希娅·赖特 / 黑豹 保罗·路德 / 蚁人 怀亚特·拉塞尔 / 美国特工 特诺切·韦尔塔 / 纳摩 爱波·莫斯 - 巴克拉赫 / 石头人 刘思慕 / 尚气 弗洛伦斯·皮尤 / 叶莲娜 凯尔希·格兰莫 / 野兽 刘易斯·普尔曼 / 哨兵 丹尼·拉米雷兹 / 猎鹰 约瑟夫·奎因 / 霹雳火 大卫·哈伯 / 红色守卫 温斯顿·杜克 / 姆巴库 汉娜·乔恩 - 卡门 / 幽灵 汤姆·希德勒斯顿 / 洛基 帕特里克·斯图尔特 /X 教授 伊恩·麦克莱恩 / 万磁王 艾伦·卡明 / 蓝魔鬼 丽贝卡·罗梅恩 / 魔形女 詹姆斯·麦斯登 / 镭射眼 查宁·塔图姆 / 牌皇 佩德罗·帕斯卡 / 神奇先生 小罗伯特·唐尼 / 毁灭博士…"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-db9408dfe5a571338b5b3af5e6d6c8d2_b.jpg"
+          },
+          "metrics_area": {
+            "text": "170 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062663352988300439"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU1NzY5OSDR3fjSBjAAOB5AFXITMjA2MjY2MzM1Mjk4ODMwMDQzOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 22,
+          "heat_text": "170 万热度",
+          "heat_value": 1700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062458366589409054",
+      "title": "网传 BLG 战队可能轮换上单 Bin，这背后的原因和考量是什么？",
+      "url": "https://www.zhihu.com/question/2062458366589409054",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "143 万热度",
+      "latest_heat_value": 1430000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1784601651.458938",
+        "card_id": "Q_2062458366589409054",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "网传 BLG 战队可能轮换上单 Bin，这背后的原因和考量是什么？"
+          },
+          "excerpt_area": {
+            "text": "2026EWC 英雄联盟项目淘汰赛上，随着 BLG 不敌 DK，957 米勒十分难受：BLG 不配赢！LPL 的石油杯结束了！ bin 或轮换"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-c24d97ba308737f772c554ea1da90c98.png"
+          },
+          "metrics_area": {
+            "text": "143 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062458366589409054"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU0NTMzNyDp3/XSBjAAOBNAF3ITMjA2MjQ1ODM2NjU4OTQwOTA1NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 24,
+          "heat_text": "143 万热度",
+          "heat_value": 1430000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062450930755319449",
+      "title": "安迪·伯纳姆正式接任英国首相，他上台后面临的主要问题有哪些？他能做得比斯塔默更好吗？",
+      "url": "https://www.zhihu.com/question/2062450930755319449",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "128 万热度",
+      "latest_heat_value": 1280000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1784601651.460055",
+        "card_id": "Q_2062450930755319449",
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "安迪·伯纳姆正式接任英国首相，他上台后面临的主要问题有哪些？他能做得比斯塔默更好吗？"
+          },
+          "excerpt_area": {
+            "text": "当地时间7月20日，英国执政党工党新任党首安迪·伯纳姆在白金汉宫与英国国王查尔斯三世会面，获国王任命成为新一任首相，并被授权组建新一届内阁。随后，伯纳姆将在首相府以英国首相身份发表首次讲话。 当天早些时候，斯塔默在位于唐宁街10号的首相府发表卸任讲话。随后，斯塔默在白金汉宫觐见英国国王查尔斯三世，正式递交首相辞呈，国王接受辞呈后，斯塔默正式卸任首相。 当地时间6月22日，斯塔默宣布，将辞去英国工党党首职务，并担任首相至继任者产生。当地时间7月17日，英国执政党工党方面宣布，伯纳姆当选工党党首。根据英国议会制度，新任工党党首直接接任首相，不需要举行全国大选。更多资讯请下载央视新闻客户端英媒：伯纳姆今日接任英国首相，多个议题亟待处理"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-75cf5a3ad2b739c037b3cdad9a71a4fe_b.jpg"
+          },
+          "metrics_area": {
+            "text": "128 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062450930755319449"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDU0NTE1MSD80fXSBjAAOEBAGXITMjA2MjQ1MDkzMDc1NTMxOTQ0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 26,
+          "heat_text": "128 万热度",
+          "heat_value": 1280000
+        }
+      ]
+    },
+    {
+      "key": "Q_1969892755984594774",
+      "title": "为什么学霸看书刷题都那么快？",
+      "url": "https://www.zhihu.com/question/1969892755984594774",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "119 万热度",
+      "latest_heat_value": 1190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1784601651.461174",
+        "card_id": "Q_1969892755984594774",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么学霸看书刷题都那么快？"
+          },
+          "excerpt_area": {
+            "text": "之前买了一本数学分析当课外读物，我朋友借走了，而且读的特别快，我一般是一天在学校空闲时间只能消化理解几页，他一周光靠午休时间就看了 100 来页，从开学到现在，两三个月，他已经刷完好几本本星火英语，两本生物题册和将近两本数学必刷题（一个是立体几何专题一个是同步练习册），想知道这种阅读理解速度和刷题速度是怎么做到的？学霸刷题都是这么快吗？有什么技巧提升自己的刷题速度吗？求大佬解惑（我是因为他在我那本书上拿铅笔做的有笔记，知道了他一周看了一百来页数学分析，他刷了那么多题是他同桌告诉我的，可能夸张了）"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-8a99068038cba6f08d7b8fc52e4ca8f4.png"
+          },
+          "metrics_area": {
+            "text": "119 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1969892755984594774"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTExNzIzNDkyMCD33rLIBjAAOD5AGnITMTk2OTg5Mjc1NTk4NDU5NDc3NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 27,
+          "heat_text": "119 万热度",
+          "heat_value": 1190000
+        }
+      ]
+    },
+    {
+      "key": "Q_2061507158353475047",
+      "title": "博主质疑清华大学肖鹰文章抄袭、引用失范，肖鹰回应系刊物编辑组稿且未经其本人审阅，该回应能免责吗？",
+      "url": "https://www.zhihu.com/question/2061507158353475047",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "112 万热度",
+      "latest_heat_value": 1120000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1784601651.463283",
+        "card_id": "Q_2061507158353475047",
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "博主质疑清华大学肖鹰文章抄袭、引用失范，肖鹰回应系刊物编辑组稿且未经其本人审阅，该回应能免责吗？"
+          },
+          "excerpt_area": {
+            "text": "肖鹰｜肖鹰教授抄袭还是剽窃，诽谤者睁大了眼睛"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-e2b7240991fed36f7e80a1a32690121a_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "112 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2061507158353475047"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDUxMTkxNyCH9OfSBjAAOBtAHHITMjA2MTUwNzE1ODM1MzQ3NTA0N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 29,
+          "heat_text": "112 万热度",
+          "heat_value": 1120000
+        }
+      ]
+    },
+    {
+      "key": "Q_2059235205399966299",
+      "title": "欧盟对中国「北京鸭」反倾销调查，将产生哪些影响？为啥中国农产品也会招来欧盟的反倾销大棒？",
+      "url": "https://www.zhihu.com/question/2059235205399966299",
+      "first_seen": "2026-07-21 10:40:51 +0800",
+      "last_seen": "2026-07-21 10:40:51 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "111 万热度",
+      "latest_heat_value": 1110000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1784601651.463956",
+        "card_id": "Q_2059235205399966299",
+        "feed_specific": {
+          "answer_count": 45
+        },
+        "target": {
+          "title_area": {
+            "text": "欧盟对中国「北京鸭」反倾销调查，将产生哪些影响？为啥中国农产品也会招来欧盟的反倾销大棒？"
+          },
+          "excerpt_area": {
+            "text": "【环球时报：#拿北京鸭开刀欧盟是有多不自信#】#欧盟拿北京鸭开刀#7 月 11 日，《环球时报》发布社评《拿「北京鸭」开刀，欧盟是有多不自信》，全文如下： 当地时间 7 月 9 日，欧盟委员会正式对来自中国的「北京鸭」发起反倾销调查。多家媒体注意到，这是欧盟近年来首次将贸易防御措施延伸至中国农产品领域。英国《金融时报》称，欧盟针对中国的贸易保护主义措施正处于历史最高水平，但此次反倾销调查「将斗争带入了新的领域」，并警告此举「或将引发中欧贸易战」。从电动汽车、光伏产品到如今的鸭肉，欧盟的贸易保护大棒越挥越偏、越打越急，但这吓不倒中国，只会让欧洲消费者为餐桌上的溢价买单。 欧盟此次发起调查的动因是，有 5 家生产商提起了申诉，认为「北京鸭」受益于补贴和「其他国家支持」等，对欧盟本地产业造成了「实质性不利影响」。但反过来讲，欧洲也有大量农食产品在中国广受欢迎，特别是随着 2021 年《中欧地理标志协定》正式生效，法国香槟、德国慕尼黑啤酒、爱尔兰威士忌、希腊菲达奶酪、意大利帕尔马火腿等，在中国得到了更加全面有效的保护与推广。这当中难道没有中国企业感受到压力吗？但中国市场从未将这些视作「威胁」。 「北京鸭」作为享有中国地理标志特色的农食产品，深受中外消费者喜爱，主要生产与消费市场均在中国。欧盟并非中国禽肉核心市场，1.99 亿欧元的贸易额在中欧经贸版图中仅属「边缘地带」。欧盟竟然对如此微量的农产品大动干戈，不仅不体面，更折射出其政策决策已被「谈华色变」的非理性焦虑所主导。这种将常规贸易问题无限上纲上线、试图构建无死角贸易防御网的做法，非但无法修补其产业短板，反而在自我设限中暴露了其深层的不自信。 欧方指控中国鸭产业受益于政策支持，却刻意无视经合组织（OECD）数据——欧盟自身农业补贴长期高居全球前列。在联合国层面，欧盟长期因过度的农业补贴而广受诟病，被批评为「贸易扭曲」「设置壁垒」。如果把欧方对「北京鸭」的调查放到这一背景下看，不难预见，欧方的所谓调查几乎没有可能「公正展开」。实际上，早在 2015 年，欧方就出于贸易保护主义原因，在进口配额中对产自中国的鸭肉采取歧视性做法，中方上诉至 WTO 后，欧方被判败诉。此次调查是欧盟对 WTO 规则体系的再一次公然「挑战」。 「欧洲鸭」为什么惧怕「北京鸭」？比起绞尽脑汁设置贸易壁垒，这才是欧盟更应该正视和思考的问题。不是「北京鸭」吃了什么小灶，主要问题恐怕还是出在「欧洲鸭」自身。能源成本高企、供应链脆弱等，都是其竞争力下滑的内因，通过外化矛盾指责中国，掩盖不了其内部产业空心化与治理效率低下的结构性顽疾。不仅鸭肉如此，在新能源汽车等其他很多领域，问题也大同小异。 面对欧盟不断升级的贸易壁垒，中国拥有充足的战略定力与反制手段。2024 年中欧农产品贸易额已达 300 亿美元。中国拥有全球最大的消费市场，并且出口市场多元化、内外贸一体化格局已成，而欧洲生产商若失去中国市场，将难以找到替代。想谈，大门敞开；想打，中国有「牌」可打。欧盟前谈判代表约翰·克拉克警告称，打击标志性产品可能引发连锁反应，令欧洲的葡萄酒等产品面临对等风险。 中欧根本不应该走到这一步。农食产品是中欧互利共赢的重要领域之一。双方农食产品的独特差异，造就了各美其美的比较优势，在双边贸易中形成高度互补。欧洲三文鱼、葡萄酒、火腿源源不断销往中国，中国茶叶、水果、特色畜禽产品丰富欧洲市场供给。随着中国中等收入群体持续扩大，居民收入水平稳步提高，中国消费者对欧洲优质农食产品的需求还将不断上升，中欧农食领域合作空间广阔。 「北京鸭」不仅是餐桌上的美味，更是连接中欧人文交流与农业合作的重要纽带，不应沦为贸易保护主义的「牺牲品」。 欧盟若执迷于以邻为壑的旧思维，最终受损的将是欧洲消费者与自身产业的未来。欧盟是时候放下贸易保护的执念，回归理性合作的正轨了。欧盟拿北京鸭开刀"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-70c0731f8ea23064b7b1f7887bbc9fee.png"
+          },
+          "metrics_area": {
+            "text": "111 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2059235205399966299"
+          }
+        },
+        "attached_info": "CkkIpJjckJG04ORzEAMaCTEyMDQwNzI5OCCb7MbSBjAAOFNAHXITMjA1OTIzNTIwNTM5OTk2NjI5OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-21 10:40:51 +0800",
+          "rank": 30,
+          "heat_text": "111 万热度",
+          "heat_value": 1110000
         }
       ]
     }
