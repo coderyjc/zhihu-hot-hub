@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-07-24 21:45:10 +0800",
+  "generated_at": "2026-07-25 00:41:55 +0800",
   "global_path": "../raw/hot-question-history.json",
   "dates": [
+    {
+      "date": "2026-07-25",
+      "path": "../raw/hot-question-2026-07-25.json",
+      "updated_at": "2026-07-25 00:41:55 +0800",
+      "item_count": 30,
+      "version": 2
+    },
     {
       "date": "2026-07-24",
       "path": "../raw/hot-question-2026-07-24.json",
