@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-07-29 10:36:54 +0800",
+  "updated_at": "2026-07-29 13:52:19 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -93215,23 +93215,18 @@
       "title": "为什么菲尔兹奖的两个得主，大部分人都在关注王虹，而关于邓煜的消息寥寥无几？",
       "url": "https://www.zhihu.com/question/2064575049152066959",
       "first_seen": "2026-07-28 16:33:25 +0800",
-      "last_seen": "2026-07-29 06:04:11 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 19,
-      "latest_rank": 13,
-      "latest_heat_text": "90 万热度",
-      "latest_heat_value": 900000,
+      "latest_rank": 22,
+      "latest_heat_text": "118 万热度",
+      "latest_heat_value": 1180000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1785276251.474937",
+        "id": "21_1785304339.103389",
         "card_id": "Q_2064575049152066959",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 166
+          "answer_count": 256
         },
         "target": {
           "title_area": {
@@ -93244,7 +93239,7 @@
             "url": "https://pic1.zhimg.com/80/v2-8511fd45739a4245935844464f8015f5_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "90 万热度",
+            "text": "118 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -93259,7 +93254,7 @@
             "url": "https://www.zhihu.com/question/2064575049152066959"
           }
         },
-        "attached_info": "CkoI762Fj6+7/qFUEAMaCTEyMDYzNTE2OCC5xpTTBjAAOJEDQAxyEzIwNjQ1NzUwNDkxNTIwNjY5NTl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDYzNTE2OCC5xpTTBjAAOJcEQBVyEzIwNjQ1NzUwNDkxNTIwNjY5NTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -93297,6 +93292,12 @@
           "rank": 13,
           "heat_text": "90 万热度",
           "heat_value": 900000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 22,
+          "heat_text": "118 万热度",
+          "heat_value": 1180000
         }
       ]
     },
@@ -94357,18 +94358,18 @@
       "title": "网友感慨「有微信之前人是可以不用一直在线的」，你有同感吗？你认为社交软件的进步有影响到你的生活吗？",
       "url": "https://www.zhihu.com/question/2065138370057953642",
       "first_seen": "2026-07-28 22:06:24 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 10,
-      "latest_rank": 25,
-      "latest_heat_text": "86 万热度",
-      "latest_heat_value": 860000,
+      "latest_rank": 29,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "24_1785292614.270362",
+        "id": "28_1785304339.106559",
         "card_id": "Q_2065138370057953642",
         "feed_specific": {
-          "answer_count": 153
+          "answer_count": 178
         },
         "target": {
           "title_area": {
@@ -94381,7 +94382,7 @@
             "url": "https://pic1.zhimg.com/v2-5988bbfda0237f9602f37967cba399ba.png"
           },
           "metrics_area": {
-            "text": "86 万热度",
+            "text": "80 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -94396,7 +94397,7 @@
             "url": "https://www.zhihu.com/question/2065138370057953642"
           }
         },
-        "attached_info": "CkoIm8Cgpva9lNYOEAMaCTEyMDY2MDcwNSDb35zTBjAAOOECQBhyEzIwNjUxMzgzNzAwNTc5NTM2NDJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY2MDcwNSDb35zTBjAAOJ4DQBxyEzIwNjUxMzgzNzAwNTc5NTM2NDJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -94428,6 +94429,12 @@
           "rank": 25,
           "heat_text": "86 万热度",
           "heat_value": 860000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 29,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
         }
       ]
     },
@@ -96290,18 +96297,23 @@
       "title": "上海一室一厅酒店月租 12000 元起，半数客人为长住客，原因为何？真的比租房划算吗？",
       "url": "https://www.zhihu.com/question/2065045395525390422",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 3,
-      "latest_rank": 3,
-      "latest_heat_text": "224 万热度",
-      "latest_heat_value": 2240000,
+      "latest_rank": 1,
+      "latest_heat_text": "1034 万热度",
+      "latest_heat_value": 10340000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1785292614.249244",
+        "id": "0_1785304339.85936",
         "card_id": "Q_2065045395525390422",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 50
+          "answer_count": 111
         },
         "target": {
           "title_area": {
@@ -96314,7 +96326,7 @@
             "url": "https://picx.zhimg.com/v2-094f9d0a1dff39a1ae78bb482d12846c.png"
           },
           "metrics_area": {
-            "text": "224 万热度",
+            "text": "1034 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96329,7 +96341,7 @@
             "url": "https://www.zhihu.com/question/2065045395525390422"
           }
         },
-        "attached_info": "CkoIm8Cgpva9lNYOEAMaCTEyMDY1NDY0MCDEspvTBjAAOJkBQAJyEzIwNjUwNDUzOTU1MjUzOTA0MjJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY1NDY0MCDEspvTBjAAOM4CQAByEzIwNjUwNDUzOTU1MjUzOTA0MjJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -96337,6 +96349,12 @@
           "rank": 3,
           "heat_text": "224 万热度",
           "heat_value": 2240000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 1,
+          "heat_text": "1034 万热度",
+          "heat_value": 10340000
         }
       ]
     },
@@ -96345,23 +96363,18 @@
       "title": "电子屏和 PPT 已经如此普及，为什么像王虹这样的顶尖学者仍偏爱粉笔和黑板？PPT 真的还是教学的必需品吗？",
       "url": "https://www.zhihu.com/question/2065466996951442038",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "177 万热度",
-      "latest_heat_value": 1770000,
+      "latest_rank": 6,
+      "latest_heat_text": "255 万热度",
+      "latest_heat_value": 2550000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1785292614.250098",
+        "id": "5_1785304339.92107",
         "card_id": "Q_2065466996951442038",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 53
+          "answer_count": 136
         },
         "target": {
           "title_area": {
@@ -96374,7 +96387,7 @@
             "url": "https://pic3.zhimg.com/v2-ce197fe5dbbe9ff5eb539b4a91a34082_1440w.png"
           },
           "metrics_area": {
-            "text": "177 万热度",
+            "text": "255 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96389,7 +96402,7 @@
             "url": "https://www.zhihu.com/question/2065466996951442038"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDY3NDMzNiDqw6HTBjAAOHlAA3ITMjA2NTQ2Njk5Njk1MTQ0MjAzOHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY3NDMzNiDqw6HTBjAAOKkCQAVyEzIwNjU0NjY5OTY5NTE0NDIwMzh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -96397,6 +96410,12 @@
           "rank": 4,
           "heat_text": "177 万热度",
           "heat_value": 1770000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 6,
+          "heat_text": "255 万热度",
+          "heat_value": 2550000
         }
       ]
     },
@@ -96405,18 +96424,18 @@
       "title": "孙悟空被火焰山切糕烫到，是不是意味着，这只猴子没有金钢之躯？",
       "url": "https://www.zhihu.com/question/1936761762335663228",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 5,
       "latest_rank": 5,
-      "latest_heat_text": "174 万热度",
-      "latest_heat_value": 1740000,
+      "latest_heat_text": "262 万热度",
+      "latest_heat_value": 2620000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1785292614.250545",
+        "id": "4_1785304339.90730",
         "card_id": "Q_1936761762335663228",
         "feed_specific": {
-          "answer_count": 49
+          "answer_count": 75
         },
         "target": {
           "title_area": {
@@ -96429,7 +96448,7 @@
             "url": "https://picx.zhimg.com/v2-240793a4be0da54d11b1eaf1e80bebb1.png"
           },
           "metrics_area": {
-            "text": "174 万热度",
+            "text": "262 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96444,7 +96463,7 @@
             "url": "https://www.zhihu.com/question/1936761762335663228"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTExNjExMjg1MSDTz9DEBjAAOE1ABHITMTkzNjc2MTc2MjMzNTY2MzIyOHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTExNjExMjg1MSDTz9DEBjAAOJABQARyEzE5MzY3NjE3NjIzMzU2NjMyMjh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -96452,6 +96471,12 @@
           "rank": 5,
           "heat_text": "174 万热度",
           "heat_value": 1740000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 5,
+          "heat_text": "262 万热度",
+          "heat_value": 2620000
         }
       ]
     },
@@ -96460,18 +96485,23 @@
       "title": "有哪些「中国标准」成为「世界标准」的例子？",
       "url": "https://www.zhihu.com/question/430077118",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 6,
-      "latest_rank": 6,
-      "latest_heat_text": "171 万热度",
-      "latest_heat_value": 1710000,
+      "latest_rank": 9,
+      "latest_heat_text": "214 万热度",
+      "latest_heat_value": 2140000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1785292614.251627",
+        "id": "8_1785304339.94044",
         "card_id": "Q_430077118",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 29
+          "answer_count": 37
         },
         "target": {
           "title_area": {
@@ -96484,7 +96514,7 @@
             "url": "https://picx.zhimg.com/80/v2-1753b635ea2081717a37029ee60f2438_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "171 万热度",
+            "text": "214 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96499,7 +96529,7 @@
             "url": "https://www.zhihu.com/question/430077118"
           }
         },
-        "attached_info": "Cj8Im8Cgpva9lNYOEAMaCDU3ODUxODQ1IJPOuP0FMAA48gFABXIJNDMwMDc3MTE4eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "Cj8I4J7h6pDkw4dNEAMaCDU3ODUxODQ1IJPOuP0FMAA40wJACHIJNDMwMDc3MTE4eACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -96507,6 +96537,12 @@
           "rank": 6,
           "heat_text": "171 万热度",
           "heat_value": 1710000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 9,
+          "heat_text": "214 万热度",
+          "heat_value": 2140000
         }
       ]
     },
@@ -96515,18 +96551,18 @@
       "title": "三甲医院凭假结婚证通过试管审核，患癌妻子申请销毁婚外胚胎遭拒，各方责任如何划定？胚胎处置伦理边界在哪？",
       "url": "https://www.zhihu.com/question/2065473757326435859",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 7,
-      "latest_rank": 7,
+      "latest_rank": 13,
       "latest_heat_text": "169 万热度",
       "latest_heat_value": 1690000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "6_1785292614.251893",
+        "id": "12_1785304339.96754",
         "card_id": "Q_2065473757326435859",
         "feed_specific": {
-          "answer_count": 44
+          "answer_count": 73
         },
         "target": {
           "title_area": {
@@ -96554,12 +96590,18 @@
             "url": "https://www.zhihu.com/question/2065473757326435859"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDY3NTE3MiC20KHTBjAAOFBABnITMjA2NTQ3Mzc1NzMyNjQzNTg1OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY3NTE3MiC20KHTBjAAOMkBQAxyEzIwNjU0NzM3NTczMjY0MzU4NTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
           "observed_at": "2026-07-29 10:36:54 +0800",
           "rank": 7,
+          "heat_text": "169 万热度",
+          "heat_value": 1690000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 13,
           "heat_text": "169 万热度",
           "heat_value": 1690000
         }
@@ -96570,23 +96612,18 @@
       "title": "寿司郎财报显示，一家中国大陆门店营收是日本店的 1.6 倍，利润接近三倍，为何该商业模式能在中国成功？",
       "url": "https://www.zhihu.com/question/2065453278121431256",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 8,
-      "latest_rank": 8,
-      "latest_heat_text": "166 万热度",
-      "latest_heat_value": 1660000,
+      "latest_rank": 2,
+      "latest_heat_text": "655 万热度",
+      "latest_heat_value": 6550000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1785292614.253056",
+        "id": "1_1785304339.87868",
         "card_id": "Q_2065453278121431256",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 24
+          "answer_count": 99
         },
         "target": {
           "title_area": {
@@ -96599,7 +96636,7 @@
             "url": "https://pic3.zhimg.com/50/v2-53f09b5b726536d43c1e2452d8fb37a4_b.jpg"
           },
           "metrics_area": {
-            "text": "166 万热度",
+            "text": "655 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96614,7 +96651,7 @@
             "url": "https://www.zhihu.com/question/2065453278121431256"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDY3MjUyMyCjqqHTBjAAOCRAB3ITMjA2NTQ1MzI3ODEyMTQzMTI1NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY3MjUyMyCjqqHTBjAAOM0BQAFyEzIwNjU0NTMyNzgxMjE0MzEyNTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -96622,6 +96659,12 @@
           "rank": 8,
           "heat_text": "166 万热度",
           "heat_value": 1660000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 2,
+          "heat_text": "655 万热度",
+          "heat_value": 6550000
         }
       ]
     },
@@ -96690,18 +96733,18 @@
       "title": "为什么越来越多人客厅不要沙发了，那用什么替代呢？",
       "url": "https://www.zhihu.com/question/668026601",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 11,
-      "latest_rank": 11,
-      "latest_heat_text": "145 万热度",
-      "latest_heat_value": 1450000,
+      "latest_rank": 4,
+      "latest_heat_text": "268 万热度",
+      "latest_heat_value": 2680000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "10_1785292614.257682",
+        "id": "3_1785304339.90350",
         "card_id": "Q_668026601",
         "feed_specific": {
-          "answer_count": 35
+          "answer_count": 75
         },
         "target": {
           "title_area": {
@@ -96714,7 +96757,7 @@
             "url": "https://pic4.zhimg.com/50/v2-98ecda6aa717f5b4d3f8c8c14edef65b_b.jpg"
           },
           "metrics_area": {
-            "text": "145 万热度",
+            "text": "268 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96729,7 +96772,7 @@
             "url": "https://www.zhihu.com/question/668026601"
           }
         },
-        "attached_info": "Cj8Im8Cgpva9lNYOEAMaCTExMDcyODM1MCDdvMi3BjAAOGVACnIJNjY4MDI2NjAxeACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "CkAI4J7h6pDkw4dNEAMaCTExMDcyODM1MCDdvMi3BjAAOOkBQANyCTY2ODAyNjYwMXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -96737,6 +96780,12 @@
           "rank": 11,
           "heat_text": "145 万热度",
           "heat_value": 1450000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 4,
+          "heat_text": "268 万热度",
+          "heat_value": 2680000
         }
       ]
     },
@@ -96745,18 +96794,18 @@
       "title": "佛得角后卫卡布拉尔世界波当选世界杯最佳进球，如何看待卡布拉尔世界杯表现？",
       "url": "https://www.zhihu.com/question/2065399230286636311",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 12,
-      "latest_rank": 12,
-      "latest_heat_text": "138 万热度",
-      "latest_heat_value": 1380000,
+      "latest_rank": 26,
+      "latest_heat_text": "100 万热度",
+      "latest_heat_value": 1000000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1785292614.257943",
+        "id": "25_1785304339.104728",
         "card_id": "Q_2065399230286636311",
         "feed_specific": {
-          "answer_count": 34
+          "answer_count": 42
         },
         "target": {
           "title_area": {
@@ -96769,7 +96818,7 @@
             "url": "https://pic1.zhimg.com/v2-953b2a409628d7b6223cc680faa04580.png"
           },
           "metrics_area": {
-            "text": "138 万热度",
+            "text": "100 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96784,7 +96833,7 @@
             "url": "https://www.zhihu.com/question/2065399230286636311"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDY2OTI0OCDNxaDTBjAAOEhAC3ITMjA2NTM5OTIzMDI4NjYzNjMxMXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY2OTI0OCDNxaDTBjAAOF5AGXITMjA2NTM5OTIzMDI4NjYzNjMxMXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -96792,6 +96841,12 @@
           "rank": 12,
           "heat_text": "138 万热度",
           "heat_value": 1380000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 26,
+          "heat_text": "100 万热度",
+          "heat_value": 1000000
         }
       ]
     },
@@ -96800,18 +96855,18 @@
       "title": "月之暗面计划 8 月启动上市前最后一轮融资，估值 500 亿美元，Kimi K3 能否撑起千亿估值？",
       "url": "https://www.zhihu.com/question/2063300922223153511",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 13,
-      "latest_rank": 13,
-      "latest_heat_text": "133 万热度",
-      "latest_heat_value": 1330000,
+      "latest_rank": 18,
+      "latest_heat_text": "151 万热度",
+      "latest_heat_value": 1510000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1785292614.258649",
+        "id": "17_1785304339.100502",
         "card_id": "Q_2063300922223153511",
         "feed_specific": {
-          "answer_count": 23
+          "answer_count": 41
         },
         "target": {
           "title_area": {
@@ -96824,7 +96879,7 @@
             "url": "https://picx.zhimg.com/80/v2-364f9315dac6d92addd409b1aae1c4f8_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "133 万热度",
+            "text": "151 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96839,7 +96894,7 @@
             "url": "https://www.zhihu.com/question/2063300922223153511"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDU4NDkwOSCagYLTBjAAOFxADHITMjA2MzMwMDkyMjIyMzE1MzUxMXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDU4NDkwOSCagYLTBjAAOKMBQBFyEzIwNjMzMDA5MjIyMjMxNTM1MTF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -96847,6 +96902,12 @@
           "rank": 13,
           "heat_text": "133 万热度",
           "heat_value": 1330000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 18,
+          "heat_text": "151 万热度",
+          "heat_value": 1510000
         }
       ]
     },
@@ -96855,18 +96916,18 @@
       "title": "疑似南方医科大学珠江医院一医生发布「除非死人，不要临时请假」言论，院方已启动调查，反映了哪些问题？",
       "url": "https://www.zhihu.com/question/2065711565274177872",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 14,
-      "latest_rank": 14,
-      "latest_heat_text": "125 万热度",
-      "latest_heat_value": 1250000,
+      "latest_rank": 3,
+      "latest_heat_text": "368 万热度",
+      "latest_heat_value": 3680000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "13_1785292614.259475",
+        "id": "2_1785304339.89195",
         "card_id": "Q_2065711565274177872",
         "feed_specific": {
-          "answer_count": 33
+          "answer_count": 140
         },
         "target": {
           "title_area": {
@@ -96879,7 +96940,7 @@
             "url": "https://picx.zhimg.com/v2-7562efa50d27483b9c4d879e506d0894.png"
           },
           "metrics_area": {
-            "text": "125 万热度",
+            "text": "368 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -96894,7 +96955,7 @@
             "url": "https://www.zhihu.com/question/2065711565274177872"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDY4MTIyOCCwi6XTBjAAODNADXITMjA2NTcxMTU2NTI3NDE3Nzg3MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY4MTIyOCCwi6XTBjAAOPgBQAJyEzIwNjU3MTE1NjUyNzQxNzc4NzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -96902,6 +96963,12 @@
           "rank": 14,
           "heat_text": "125 万热度",
           "heat_value": 1250000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 3,
+          "heat_text": "368 万热度",
+          "heat_value": 3680000
         }
       ]
     },
@@ -97085,18 +97152,18 @@
       "title": "如何看待那英在直播中说「那个冉莹颖是吧，她就是个败家的玩意」？这算真性情吗？",
       "url": "https://www.zhihu.com/question/2065376504578400455",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 20,
       "latest_rank": 20,
-      "latest_heat_text": "102 万热度",
-      "latest_heat_value": 1020000,
+      "latest_heat_text": "125 万热度",
+      "latest_heat_value": 1250000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1785292614.265861",
+        "id": "19_1785304339.102157",
         "card_id": "Q_2065376504578400455",
         "feed_specific": {
-          "answer_count": 88
+          "answer_count": 117
         },
         "target": {
           "title_area": {
@@ -97109,7 +97176,7 @@
             "url": "https://picx.zhimg.com/v2-71cc820706659796a49303b77eaa628c.png"
           },
           "metrics_area": {
-            "text": "102 万热度",
+            "text": "125 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -97124,7 +97191,7 @@
             "url": "https://www.zhihu.com/question/2065376504578400455"
           }
         },
-        "attached_info": "CkoIm8Cgpva9lNYOEAMaCTEyMDY2Njk1OCCjm6DTBjAAOKwBQBNyEzIwNjUzNzY1MDQ1Nzg0MDA0NTV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY2Njk1OCCjm6DTBjAAOPwBQBNyEzIwNjUzNzY1MDQ1Nzg0MDA0NTV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -97132,6 +97199,12 @@
           "rank": 20,
           "heat_text": "102 万热度",
           "heat_value": 1020000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 20,
+          "heat_text": "125 万热度",
+          "heat_value": 1250000
         }
       ]
     },
@@ -97250,18 +97323,18 @@
       "title": "如何看待房主任离婚选择净身出户后，现在申请独立户口遭拒一事及其在节目中的表现？",
       "url": "https://www.zhihu.com/question/2059388918152304542",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 23,
-      "latest_rank": 23,
-      "latest_heat_text": "101 万热度",
-      "latest_heat_value": 1010000,
+      "latest_rank": 19,
+      "latest_heat_text": "132 万热度",
+      "latest_heat_value": 1320000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "22_1785292614.268045",
+        "id": "18_1785304339.101134",
         "card_id": "Q_2059388918152304542",
         "feed_specific": {
-          "answer_count": 82
+          "answer_count": 126
         },
         "target": {
           "title_area": {
@@ -97274,7 +97347,7 @@
             "url": "https://picx.zhimg.com/v2-7712378147773d68366f0c2acde1de5b_1440w.jpg"
           },
           "metrics_area": {
-            "text": "101 万热度",
+            "text": "132 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -97289,7 +97362,7 @@
             "url": "https://www.zhihu.com/question/2059388918152304542"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTEyMDQxNTk2MyDDisnSBjAAOFlAFnITMjA1OTM4ODkxODE1MjMwNDU0MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDQxNTk2MyDDisnSBjAAOK4BQBJyEzIwNTkzODg5MTgxNTIzMDQ1NDJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -97297,6 +97370,12 @@
           "rank": 23,
           "heat_text": "101 万热度",
           "heat_value": 1010000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 19,
+          "heat_text": "132 万热度",
+          "heat_value": 1320000
         }
       ]
     },
@@ -97530,23 +97609,18 @@
       "title": "为什么好多人根本没有意识到，其实大部分人个人手机的性能是超过他个人电脑（公司等的不算）的？",
       "url": "https://www.zhihu.com/question/2047098527092828152",
       "first_seen": "2026-07-29 10:36:54 +0800",
-      "last_seen": "2026-07-29 10:36:54 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
       "first_rank": 29,
-      "latest_rank": 29,
-      "latest_heat_text": "69 万热度",
-      "latest_heat_value": 690000,
+      "latest_rank": 12,
+      "latest_heat_text": "182 万热度",
+      "latest_heat_value": 1820000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "28_1785292614.273829",
+        "id": "11_1785304339.96384",
         "card_id": "Q_2047098527092828152",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 39
+          "answer_count": 100
         },
         "target": {
           "title_area": {
@@ -97556,10 +97630,10 @@
             "text": "且不说好多人的个人电脑性能其实是 0（因为没有个人电脑），不少人的个人电脑是 10 年前的千元机，性能早就比不上他自己的手机了。 很多人根本没有意识到，其个人电脑性能高于个人手机的人，已经成为少数群体了（公司等的电脑不算个人电脑哈）。"
           },
           "image_area": {
-            "url": ""
+            "url": "https://picx.zhimg.com/v2-e9775b226e928504cb82cb5d7ec0e577.png"
           },
           "metrics_area": {
-            "text": "69 万热度",
+            "text": "182 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -97574,7 +97648,7 @@
             "url": "https://www.zhihu.com/question/2047098527092828152"
           }
         },
-        "attached_info": "CkkIm8Cgpva9lNYOEAMaCTExOTg2MDE4NCDynZbRBjAAOCZAHHITMjA0NzA5ODUyNzA5MjgyODE1MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTExOTg2MDE4NCDynZbRBjAAOH9AC3ITMjA0NzA5ODUyNzA5MjgyODE1MngAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -97582,6 +97656,12 @@
           "rank": 29,
           "heat_text": "69 万热度",
           "heat_value": 690000
+        },
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 12,
+          "heat_text": "182 万热度",
+          "heat_value": 1820000
         }
       ]
     },
@@ -97642,6 +97722,886 @@
           "rank": 30,
           "heat_text": "64 万热度",
           "heat_value": 640000
+        }
+      ]
+    },
+    {
+      "key": "Q_2063214681746153896",
+      "title": "斗地主中，为什么地主只有三张牌的优势就可以一打二了？",
+      "url": "https://www.zhihu.com/question/2063214681746153896",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "239 万热度",
+      "latest_heat_value": 2390000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1785304339.92587",
+        "card_id": "Q_2063214681746153896",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 57
+        },
+        "target": {
+          "title_area": {
+            "text": "斗地主中，为什么地主只有三张牌的优势就可以一打二了？"
+          },
+          "excerpt_area": {
+            "text": "如题"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-eefcfb8eddf955be44fad3f68ba75ed9.png"
+          },
+          "metrics_area": {
+            "text": "239 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2063214681746153896"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDU3NzYyMiDI4IDTBjAAOFRABnITMjA2MzIxNDY4MTc0NjE1Mzg5NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 7,
+          "heat_text": "239 万热度",
+          "heat_value": 2390000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065158710427751418",
+      "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+      "url": "https://www.zhihu.com/question/2065158710427751418",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "220 万热度",
+      "latest_heat_value": 2200000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1785304339.92916",
+        "card_id": "Q_2065158710427751418",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 37
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？"
+          },
+          "excerpt_area": {
+            "text": "包含一个隐藏的白色字体提示，要求以「毫无意义的方式」使用「马达加斯加」这个词。所以，如果他看到「马达加斯加」这个词，「我就知道他们是把整段代码复制粘贴过来，然后直接扔进人工智能程序里了。」 IT 之家 7 月 28 日消息，据科技媒体 TechSpot 昨天报道，美国奥尔康州立大学历史学教授杰森 · 吉布森（IT 之家注：Jason Gibson）最近分享自己抓 AI 作弊的奇招，结果显示他任教的两个班级中，共有 32 人被抓现行。 据报道，这名教授给学生出的期中考试题目中，有一题涉及工业革命。他知道许多学生会直接照抄 AI 答案，因此他决定往试卷文档里加入一条提示词，要求 AI 以毫无逻辑的方式描述「马达加斯加」。这段提示词使用白色字体嵌入在文档里，因此学生无法直接用肉眼看到。 最终学生们交上来的 35 份试卷中，有 32 张答卷露出马脚。其实这些学生哪怕稍微检查一下 AI 给出的答案，就能发现异常。其中一个答案先是描述了工业革命，然后突然说「马达加斯加在下午时分横向漂浮」；另一答案则先讨论技术发展与社会不平等，然后结尾是「马达加斯加紫色单车对天花板低语」。 杰森教授表示，他这么做并不是想嘲讽学生。发现他们作弊后，他给了这些学生申诉机会。最后 30 人选择认栽，但仍有 2 人试图为自己的行为辩解。 美国大学教授出奇招抓 AI 作弊：往试卷里塞隐藏提示词，35 名学生中 32 人中招"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-6bcaaff6e23a91181ea13eb6fb75f3f8_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "220 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065158710427751418"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY2MTM1NiDNhZ3TBjAAOF5AB3ITMjA2NTE1ODcxMDQyNzc1MTQxOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 8,
+          "heat_text": "220 万热度",
+          "heat_value": 2200000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065710317829452475",
+      "title": "如何看待 SK 海力士二季度营收 79 万亿韩元，净利润 60.54 万亿韩元？",
+      "url": "https://www.zhihu.com/question/2065710317829452475",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "186 万热度",
+      "latest_heat_value": 1860000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1785304339.94717",
+        "card_id": "Q_2065710317829452475",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待 SK 海力士二季度营收 79 万亿韩元，净利润 60.54 万亿韩元？"
+          },
+          "excerpt_area": {
+            "text": "财联社 7 月 29 日电，SK 海力士第二季度营业利润为 60.54 万亿韩元（约合 420 亿美元），预期为 64.22 万亿韩元。第二季度收入为 79 万亿韩元（约合 543 亿美元），预期为 84 万亿韩元。二季度 DRAM 芯片平均销售价格（ASP）环比一季度上涨约 30%。二季度 NAND 闪存平均销售价格环比一季度涨约 50%~55%。财联社 7 月 29 日电，SK 海力士第二季度营业利润为 60.54 万亿韩元（约合 420 亿美元），预期为 64.22 万亿韩元。第二季度收入为 79 万亿韩元（约合 543 亿美元），预期为 84 万亿韩元。二季度 DRAM 芯片"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-e2b908a481f68021ac66048065d04be3_b.jpg"
+          },
+          "metrics_area": {
+            "text": "186 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065710317829452475"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY4MTIwMyCGiaXTBjAAOExACXITMjA2NTcxMDMxNzgyOTQ1MjQ3NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 10,
+          "heat_text": "186 万热度",
+          "heat_value": 1860000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065664493460493869",
+      "title": "江苏 14 岁乒乓选手曹彦灏比赛失利后拳击对手，事件严重程度如何？判禁赛一年合理吗？",
+      "url": "https://www.zhihu.com/question/2065664493460493869",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "184 万热度",
+      "latest_heat_value": 1840000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1785304339.95560",
+        "card_id": "Q_2065664493460493869",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 102
+        },
+        "target": {
+          "title_area": {
+            "text": "江苏 14 岁乒乓选手曹彦灏比赛失利后拳击对手，事件严重程度如何？判禁赛一年合理吗？"
+          },
+          "excerpt_area": {
+            "text": "2026 年 7 月 27 日下午，在 2026 年国青国少集训队（第七期）江苏省选拔赛 14 岁组半决赛比赛中，运动员曹彦灏在比赛失利后，挥拳击打对手，扰乱赛场正常竞赛秩序，造成不良影响。对该名选手的处罚如下： 一、对曹彦灏予以全省通报批评； 二、取消曹彦灏在 2026 年国青国少集训队（第七期）江苏省选拔赛参赛资格和全部比赛成绩； 三、给予曹彦灏省内乒乓球赛事禁赛 1 年的处罚，禁赛期限自 2026 年 7 月 28 日起至 2027 年 7 月 27 日止。禁赛期内，不得报名参加由江苏省乒乓球协会主办、承办、协办的各级各类乒乓球赛事。!wm_cid=765891959467281408"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-0ce04a2104a49cca9144a8e0f4faa39c.webp"
+          },
+          "metrics_area": {
+            "text": "184 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065664493460493869"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY3OTkwMCDZs6TTBjAAOH1ACnITMjA2NTY2NDQ5MzQ2MDQ5Mzg2OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 11,
+          "heat_text": "184 万热度",
+          "heat_value": 1840000
+        }
+      ]
+    },
+    {
+      "key": "Q_2060053843778578276",
+      "title": "如何看待有人将《中餐厅》中的张雅琪比作「现实版紫薯精」？",
+      "url": "https://www.zhihu.com/question/2060053843778578276",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "165 万热度",
+      "latest_heat_value": 1650000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1785304339.97741",
+        "card_id": "Q_2060053843778578276",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待有人将《中餐厅》中的张雅琪比作「现实版紫薯精」？"
+          },
+          "excerpt_area": {
+            "text": "中餐厅最新一期加更片段中，张雅琪被审判，指责她属于假努力类型，像现实版本的紫薯精。 1 ️⃣比如倒酒这个片段，之前已经有大厨和同事告诉她了不应该倒这么满，结果最后还是倒特别满，导致客人不敢碰杯。 2 ️⃣王俊凯上来提醒餐具，说了三遍张雅琪一直口头上答应，但是不去行动，说要先上酒水，拿个本子一直在记。 3 ️⃣对接每桌菜单的时候，作为前台不去确认信息反而去乱说，后面突然想起来出错后，还要去找王俊凯问，说你是不是搞错了，把责任转让。 4 ️⃣最后还是王俊凯道的歉，且这个时候还是没有上餐具，最后还是其他同事上的餐具。 而在中餐厅节目里面，中餐厅用字幕的形式也把责任全推给了王俊凯，导致王俊凯粉丝向中餐厅维权。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-af218b6f9e9360bf3304cee2c33ab271_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "165 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2060053843778578276"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDQ0NDQxMiCG4dLSBjAAODVADXITMjA2MDA1Mzg0Mzc3ODU3ODI3NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 14,
+          "heat_text": "165 万热度",
+          "heat_value": 1650000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065767078427113175",
+      "title": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？",
+      "url": "https://www.zhihu.com/question/2065767078427113175",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "158 万热度",
+      "latest_heat_value": 1580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1785304339.98490",
+        "card_id": "Q_2065767078427113175",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？"
+          },
+          "excerpt_area": {
+            "text": "韩国 KOSPI 指数跌超 8% 触发熔断机制 这是韩国股市今年以来第九次触发熔断机制 7 月 29 日，韩国 KOSPI 指数跌超 8% 触发熔断机制，交易暂停 20 分钟。这是韩国股市今年以来第九次触发熔断机制。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-12265ac2a671732ebf5e108e1ef5740f_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "158 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065767078427113175"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY4NTU4MyDj8qXTBjAAODxADnITMjA2NTc2NzA3ODQyNzExMzE3NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 15,
+          "heat_text": "158 万热度",
+          "heat_value": 1580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065406460100715313",
+      "title": "普京自曝会上网看俄乌冲突分析帖子，为他们说到点子上而高兴，会从论坛、博主那里了解战场情况，如何解读？",
+      "url": "https://www.zhihu.com/question/2065406460100715313",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "156 万热度",
+      "latest_heat_value": 1560000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1785304339.98860",
+        "card_id": "Q_2065406460100715313",
+        "feed_specific": {
+          "answer_count": 77
+        },
+        "target": {
+          "title_area": {
+            "text": "普京自曝会上网看俄乌冲突分析帖子，为他们说到点子上而高兴，会从论坛、博主那里了解战场情况，如何解读？"
+          },
+          "excerpt_area": {
+            "text": "据塔斯社 7 月 26 日报道，俄罗斯总统普京在会见俄海军官兵时指出，在社交媒体上发布的公开信息并非毫无用处，但具有危险性，因为其中充斥着大量垃圾信息，可能会误导缺乏判断力的人。 报道称，普京解释道：「（社交媒体上的）公共论坛之类的东西并非毫无用处，但具有危险性，因为垃圾信息非常多。如果人缺乏判断力，对正在发生的事件的本质没有基本的认识，那么这些公共论坛可以随意误导这些人。」 他表示，他有时会饶有兴趣地观看一些博主发表的关于俄军在乌特别军事行动的帖子，并为他们「说到点子上」而感到高兴。 报道还称，普京指出，基于他所处的位置，关于特别军事行动的所有信息都会「汇集」到他这里。他会从政府官员、军队指挥官、战士、情报部门那里获取信息，也会从媒体、网上论坛和博主那里了解情况。 普京分享道：「（网上）有各种各样的人，我甚至会非常乐意看有些博主（发的东西）。说实话，有时很高兴。太棒了，干得好，他们会直接说到点子上！确实有这样的人。」但他同时表示，也有一些博主在他看来有个人目的。 俄罗斯总统普京 27 日签署命令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数增至 242 万余人。这一新命令将于 8 月 1 日生效。 综合俄罗斯总统网站、法律信息网站消息，普京当天签署总统令，为组建几支军事建筑工程部队，修改 6 月 12 日的总统令，将俄武装力量编制总人数变更至 242 万余人，其中包括 153.5 万名现役军人。 这意味着俄武装力量编制总人数将增加 2.7 万人，其中现役军人增加 2.5 万人。据塔斯社、今日俄罗斯通讯社等多家媒体报道，6 月 12 日的总统令规定俄武装力量编制总人数为 239 万余人，其中现役军人 151 万人。普京自曝爱网上冲浪：会上网看俄乌冲突分析帖子，并为他们「说到点子上」而高兴，会从网络论坛、博主那里了解战场情况 | 每经网"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-34b1c09aaae2b7021177afe2e1f1791d_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "156 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065406460100715313"
+          }
+        },
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY3MDQ4MCCJ06DTBjAAOMgBQA9yEzIwNjU0MDY0NjAxMDA3MTUzMTN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 16,
+          "heat_text": "156 万热度",
+          "heat_value": 1560000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064984398307578588",
+      "title": "王虹的经历是不是说明了，教育和环境对一个人发展的影响其实比很多人认为的大的多？",
+      "url": "https://www.zhihu.com/question/2064984398307578588",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "154 万热度",
+      "latest_heat_value": 1540000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1785304339.99974",
+        "card_id": "Q_2064984398307578588",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "王虹的经历是不是说明了，教育和环境对一个人发展的影响其实比很多人认为的大的多？"
+          },
+          "excerpt_area": {
+            "text": "王虹在北大的时候，因为学业成绩压力一度萌生了放弃数学的想法，在她采访中，也强调了法国有纯粹的、安静的环境，有热心帮助解决问题的教授，让她更有耐心也更有自信投身于数学事业。 虽然很多人说数学这种理论学科是看天赋的职业，在讨论数学家成就的时候，很多人闭口不谈教育和环境的影响，教育和环境有没有可能才是一个人发展轨迹中最重要的一环呢？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-1fa5221ac9453de5304eed587f83970b.png"
+          },
+          "metrics_area": {
+            "text": "154 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064984398307578588"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY0OTc2MCD2wJrTBjAAODNAEHITMjA2NDk4NDM5ODMwNzU3ODU4OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 17,
+          "heat_text": "154 万热度",
+          "heat_value": 1540000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064631785892454410",
+      "title": "苏超的热度为什么降温了？",
+      "url": "https://www.zhihu.com/question/2064631785892454410",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "119 万热度",
+      "latest_heat_value": 1190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1785304339.103001",
+        "card_id": "Q_2064631785892454410",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "苏超的热度为什么降温了？"
+          },
+          "excerpt_area": {
+            "text": "今年苏超为什么没那么火热了，事天太热了？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-6030c60419870a2a9844998ce153c232_b.jpg"
+          },
+          "metrics_area": {
+            "text": "119 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064631785892454410"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDYzNjY5MCCQsJXTBjAAOBtAFHITMjA2NDYzMTc4NTg5MjQ1NDQxMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 21,
+          "heat_text": "119 万热度",
+          "heat_value": 1190000
+        }
+      ]
+    },
+    {
+      "key": "Q_1890530034839697345",
+      "title": "吴站长为什么那么信任李涯，为什么搞钱的事肯交给余则成，其他事则防着余？",
+      "url": "https://www.zhihu.com/question/1890530034839697345",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1785304339.103670",
+        "card_id": "Q_1890530034839697345",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "吴站长为什么那么信任李涯，为什么搞钱的事肯交给余则成，其他事则防着余？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-e814c6dae6156a67eaaa8bca6774e73e_b.jpg"
+          },
+          "metrics_area": {
+            "text": "105 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1890530034839697345"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTExNDI4NTQ0OSCs7q+/BjAAODhAFnITMTg5MDUzMDAzNDgzOTY5NzM0NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 23,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065722275467417059",
+      "title": "怎么看待马斯克表示正在派船回收 Starship S40？",
+      "url": "https://www.zhihu.com/question/2065722275467417059",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "104 万热度",
+      "latest_heat_value": 1040000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1785304339.103904",
+        "card_id": "Q_2065722275467417059",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看待马斯克表示正在派船回收 Starship S40？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "104 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065722275467417059"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY4MTU2MiCpn6XTBjAAOBlAF3ITMjA2NTcyMjI3NTQ2NzQxNzA1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 24,
+          "heat_text": "104 万热度",
+          "heat_value": 1040000
+        }
+      ]
+    },
+    {
+      "key": "Q_2063989034679121234",
+      "title": "现在来看奥尼尔非常容易对付，怎么当年没人做得到呢？",
+      "url": "https://www.zhihu.com/question/2063989034679121234",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "102 万热度",
+      "latest_heat_value": 1020000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1785304339.104295",
+        "card_id": "Q_2063989034679121234",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 54
+        },
+        "target": {
+          "title_area": {
+            "text": "现在来看奥尼尔非常容易对付，怎么当年没人做得到呢？"
+          },
+          "excerpt_area": {
+            "text": "提速、挡拆小打大、疯狂追身投、无球追着奥胖砍鲨、小个球员跟奥胖对子、五人三分阵…现代网上随随便就能找出一大堆收拾奥尼尔的招数，为什么当年没人想得到呢？单一个提速，小牛就应该可以做得到吧？还有总决赛的对手，米勒的步行者可以摆三分大阵，基德的篮网和艾弗森的 76 人应该都可以做到提速吧？为什么当年没人能随便收拾奥尼尔？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-18176260a539b6aa859a67093948c83b_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "102 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2063989034679121234"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDYxMjcwNSD0gozTBjAAOC5AGHITMjA2Mzk4OTAzNDY3OTEyMTIzNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 25,
+          "heat_text": "102 万热度",
+          "heat_value": 1020000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065381249368299375",
+      "title": "如何评价 Anthropic CEO 发布的文章《我们对于开放权重模型的立场》？",
+      "url": "https://www.zhihu.com/question/2065381249368299375",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1785304339.105341",
+        "card_id": "Q_2065381249368299375",
+        "feed_specific": {
+          "answer_count": 133
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 Anthropic CEO 发布的文章《我们对于开放权重模型的立场》？"
+          },
+          "excerpt_area": {
+            "text": "原文链接：Our position on open-weights models Anthropic 的 X 账号在 7 月 28 日推送了一篇来自 Anthropic CEO，Dario Amodei 的文章，文章名为「Our position on open-weights models（我们对于开放权重模型的立场）」。 Dario 宣称「Anthropic 从未主张禁止开放权重模型」、「不具备危险能力的开放权重模型是一种公共产品」 但其文章主要内容仍旧为：1 、提倡不应向中国出售高性能芯片或芯片制造设备，打击芯片走私。2 、打击工业规模的模型蒸馏活动，并称「与从零开始训练模型相比，蒸馏是一种计算效率高得多的过程。它使中国能够在芯片数量有限的情况下，开发出远强于正常条件下所能实现的模型，从而在一定程度上绕过芯片禁运。」 其最后对支持开放权重模型的公开信作出回应：赞同公开信中的许多观点：开放权重能够扩大人们参与人工智能经济的机会；至少在某些应用场景中，它们能够增强市场竞争；它们也给予客户更大的控制权。 但也有不赞同之处：“但是，我不同意公开信中的两项断言。 第一，我不同意开放权重模型必然会让安全防护措施更容易开发这一说法。 第二，我也不同意广泛开放模型能力必然会让防御者比攻击者受益更多这一说法。 在我看来，事实至少同样有可能恰好相反。 例如，我担心生物领域可能存在非常显著的攻防不对称。能力足够强大的模型，可能能够利用随处可得的材料，迅速将具有大流行级别危害的病毒武器化。相比之下，即使在最理想的情况下，针对这些病原体建立防御能力，也是一项需要数年时间才能完成的实际工程——正如我们在「曲速行动”中看到的那样。」"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-59f3856afbf51854b1fced84f822ae4d.png"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065381249368299375"
+          }
+        },
+        "attached_info": "CkoI4J7h6pDkw4dNEAMaCTEyMDY2NzIzOCCOpKDTBjAAOJ8CQBpyEzIwNjUzODEyNDkzNjgyOTkzNzV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 27,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065700288003040640",
+      "title": "2026 年 WTA 500 华盛顿站，郑钦文 1:2 不敌伊埃拉止步女单第一轮，怎么评价女王郑钦文这一场表现？",
+      "url": "https://www.zhihu.com/question/2065700288003040640",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1785304339.106319",
+        "card_id": "Q_2065700288003040640",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "2026 年 WTA 500 华盛顿站，郑钦文 1:2 不敌伊埃拉止步女单第一轮，怎么评价女王郑钦文这一场表现？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-02a14feddc84f208c3e3fd2efaa99252_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "84 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065700288003040640"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY4MDk3OSCv9qTTBjAAOB1AG3ITMjA2NTcwMDI4ODAwMzA0MDY0MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 28,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065397227556693034",
+      "title": "领助学金的贫困学生，能不能喝平价咖啡？",
+      "url": "https://www.zhihu.com/question/2065397227556693034",
+      "first_seen": "2026-07-29 13:52:19 +0800",
+      "last_seen": "2026-07-29 13:52:19 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1785304339.107727",
+        "card_id": "Q_2065397227556693034",
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "领助学金的贫困学生，能不能喝平价咖啡？"
+          },
+          "excerpt_area": {
+            "text": "最近全网吵翻的「贫困生连续 37 天喝 9.9 元咖啡被举报」这件事你怎么看？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-8a4a8655f457c9f35c0674d32631fe2c.png"
+          },
+          "metrics_area": {
+            "text": "79 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065397227556693034"
+          }
+        },
+        "attached_info": "CkkI4J7h6pDkw4dNEAMaCTEyMDY2ODg4NSDwwaDTBjAAOCRAHXITMjA2NTM5NzIyNzU1NjY5MzAzNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-29 13:52:19 +0800",
+          "rank": 30,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
         }
       ]
     }
