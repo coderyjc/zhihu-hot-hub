@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-07-30 10:24:10 +0800",
+  "updated_at": "2026-07-30 13:41:06 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -101009,18 +101009,18 @@
       "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
       "url": "https://www.zhihu.com/question/2061092161337177252",
       "first_seen": "2026-07-30 00:21:36 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 23,
-      "latest_rank": 2,
-      "latest_heat_text": "328 万热度",
-      "latest_heat_value": 3280000,
+      "latest_rank": 7,
+      "latest_heat_text": "223 万热度",
+      "latest_heat_value": 2230000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1785378250.413435",
+        "id": "6_1785390066.661943",
         "card_id": "Q_2061092161337177252",
         "feed_specific": {
-          "answer_count": 61
+          "answer_count": 103
         },
         "target": {
           "title_area": {
@@ -101033,7 +101033,7 @@
             "url": "https://pica.zhimg.com/80/v2-6bb9b843267ff1fd3784093498572dd2_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "328 万热度",
+            "text": "223 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -101048,7 +101048,7 @@
             "url": "https://www.zhihu.com/question/2061092161337177252"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDQ5MDU0NCCI7+HSBjAAOMMCQAFyEzIwNjEwOTIxNjEzMzcxNzcyNTJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDQ5MDU0NCCI7+HSBjAAOIEEQAZyEzIwNjEwOTIxNjEzMzcxNzcyNTJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -101074,6 +101074,12 @@
           "rank": 2,
           "heat_text": "328 万热度",
           "heat_value": 3280000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 7,
+          "heat_text": "223 万热度",
+          "heat_value": 2230000
         }
       ]
     },
@@ -101308,18 +101314,18 @@
       "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
       "url": "https://www.zhihu.com/question/2064993421949755491",
       "first_seen": "2026-07-30 03:15:37 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 14,
-      "latest_rank": 12,
-      "latest_heat_text": "205 万热度",
-      "latest_heat_value": 2050000,
+      "latest_rank": 14,
+      "latest_heat_text": "212 万热度",
+      "latest_heat_value": 2120000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1785378250.434093",
+        "id": "13_1785390066.667737",
         "card_id": "Q_2064993421949755491",
         "feed_specific": {
-          "answer_count": 86
+          "answer_count": 109
         },
         "target": {
           "title_area": {
@@ -101332,7 +101338,7 @@
             "url": "https://pic2.zhimg.com/v2-03aa2c0454b974b393c4668f7507d245_1440w.jpg"
           },
           "metrics_area": {
-            "text": "205 万热度",
+            "text": "212 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -101347,7 +101353,7 @@
             "url": "https://www.zhihu.com/question/2064993421949755491"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY1MDA1NiDd0ZrTBjAAOPQBQAtyEzIwNjQ5OTM0MjE5NDk3NTU0OTF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY1MDA1NiDd0ZrTBjAAOM0CQA1yEzIwNjQ5OTM0MjE5NDk3NTU0OTF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -101367,6 +101373,12 @@
           "rank": 12,
           "heat_text": "205 万热度",
           "heat_value": 2050000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 14,
+          "heat_text": "212 万热度",
+          "heat_value": 2120000
         }
       ]
     },
@@ -101624,23 +101636,18 @@
       "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
       "url": "https://www.zhihu.com/question/2065799308067041337",
       "first_seen": "2026-07-30 03:15:37 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 26,
-      "latest_rank": 1,
-      "latest_heat_text": "1269 万热度",
-      "latest_heat_value": 12690000,
+      "latest_rank": 15,
+      "latest_heat_text": "210 万热度",
+      "latest_heat_value": 2100000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1785378250.411620",
+        "id": "14_1785390066.668691",
         "card_id": "Q_2065799308067041337",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 128
+          "answer_count": 240
         },
         "target": {
           "title_area": {
@@ -101653,7 +101660,7 @@
             "url": "https://pica.zhimg.com/50/v2-b5262097a967bd8b461e82da9a304ec4_b.jpg"
           },
           "metrics_area": {
-            "text": "1269 万热度",
+            "text": "210 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -101668,7 +101675,7 @@
             "url": "https://www.zhihu.com/question/2065799308067041337"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4NzAxMyDnrqbTBjAAONIBQAByEzIwNjU3OTkzMDgwNjcwNDEzMzd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4NzAxMyDnrqbTBjAAOJMDQA5yEzIwNjU3OTkzMDgwNjcwNDEzMzd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -101688,6 +101695,12 @@
           "rank": 1,
           "heat_text": "1269 万热度",
           "heat_value": 12690000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 15,
+          "heat_text": "210 万热度",
+          "heat_value": 2100000
         }
       ]
     },
@@ -101916,18 +101929,23 @@
       "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
       "url": "https://www.zhihu.com/question/2065707692950123437",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 3,
-      "latest_rank": 3,
-      "latest_heat_text": "291 万热度",
-      "latest_heat_value": 2910000,
+      "latest_rank": 1,
+      "latest_heat_text": "1411 万热度",
+      "latest_heat_value": 14110000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1785378250.416153",
+        "id": "0_1785390066.655078",
         "card_id": "Q_2065707692950123437",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 77
+          "answer_count": 164
         },
         "target": {
           "title_area": {
@@ -101940,7 +101958,7 @@
             "url": "https://picx.zhimg.com/80/v2-5f8b0d064690562f356a48122ffc83de_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "291 万热度",
+            "text": "1411 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -101955,7 +101973,7 @@
             "url": "https://www.zhihu.com/question/2065707692950123437"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4MTEwMCCUhKXTBjAAOIkCQAJyEzIwNjU3MDc2OTI5NTAxMjM0Mzd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4MTEwMCCUhKXTBjAAOPMEQAByEzIwNjU3MDc2OTI5NTAxMjM0Mzd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -101963,6 +101981,12 @@
           "rank": 3,
           "heat_text": "291 万热度",
           "heat_value": 2910000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 1,
+          "heat_text": "1411 万热度",
+          "heat_value": 14110000
         }
       ]
     },
@@ -101971,18 +101995,23 @@
       "title": "多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款，什么情况？这笔损失该由谁承担？",
       "url": "https://www.zhihu.com/question/2065804781247887148",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 5,
-      "latest_rank": 5,
-      "latest_heat_text": "255 万热度",
-      "latest_heat_value": 2550000,
+      "latest_rank": 2,
+      "latest_heat_text": "447 万热度",
+      "latest_heat_value": 4470000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1785378250.422253",
+        "id": "1_1785390066.658066",
         "card_id": "Q_2065804781247887148",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 59
+          "answer_count": 120
         },
         "target": {
           "title_area": {
@@ -101995,7 +102024,7 @@
             "url": "https://pic1.zhimg.com/v2-3f0279eff414b5ed8d92677553fcccfa.png"
           },
           "metrics_area": {
-            "text": "255 万热度",
+            "text": "447 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102010,7 +102039,7 @@
             "url": "https://www.zhihu.com/question/2065804781247887148"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4NzE4NSCAuabTBjAAOI4BQARyEzIwNjU4MDQ3ODEyNDc4ODcxNDh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4NzE4NSCAuabTBjAAOLYCQAFyEzIwNjU4MDQ3ODEyNDc4ODcxNDh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102018,6 +102047,12 @@
           "rank": 5,
           "heat_text": "255 万热度",
           "heat_value": 2550000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 2,
+          "heat_text": "447 万热度",
+          "heat_value": 4470000
         }
       ]
     },
@@ -102026,23 +102061,18 @@
       "title": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事？",
       "url": "https://www.zhihu.com/question/2065738421474271320",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 6,
-      "latest_rank": 6,
-      "latest_heat_text": "228 万热度",
-      "latest_heat_value": 2280000,
+      "latest_rank": 5,
+      "latest_heat_text": "250 万热度",
+      "latest_heat_value": 2500000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1785378250.423495",
+        "id": "4_1785390066.660308",
         "card_id": "Q_2065738421474271320",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 47
+          "answer_count": 111
         },
         "target": {
           "title_area": {
@@ -102055,7 +102085,7 @@
             "url": "https://pic1.zhimg.com/v2-8ed45d01b02768ec782f164d58225f8c_1440w.jpg"
           },
           "metrics_area": {
-            "text": "228 万热度",
+            "text": "250 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102070,7 +102100,7 @@
             "url": "https://www.zhihu.com/question/2065738421474271320"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MjI4MSCzvaXTBjAAOGZABXITMjA2NTczODQyMTQ3NDI3MTMyMHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4MjI4MSCzvaXTBjAAOKgCQARyEzIwNjU3Mzg0MjE0NzQyNzEzMjB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102078,6 +102108,12 @@
           "rank": 6,
           "heat_text": "228 万热度",
           "heat_value": 2280000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 5,
+          "heat_text": "250 万热度",
+          "heat_value": 2500000
         }
       ]
     },
@@ -102086,15 +102122,15 @@
       "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
       "url": "https://www.zhihu.com/question/2065583157664018461",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 7,
-      "latest_rank": 7,
-      "latest_heat_text": "216 万热度",
-      "latest_heat_value": 2160000,
+      "latest_rank": 3,
+      "latest_heat_text": "437 万热度",
+      "latest_heat_value": 4370000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "6_1785378250.425075",
+        "id": "2_1785390066.659197",
         "card_id": "Q_2065583157664018461",
         "card_label": {
           "type": "hot",
@@ -102102,7 +102138,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 101
+          "answer_count": 224
         },
         "target": {
           "title_area": {
@@ -102115,7 +102151,7 @@
             "url": "https://picx.zhimg.com/v2-545262a3d39167685a67b0d546d2f503.png"
           },
           "metrics_area": {
-            "text": "216 万热度",
+            "text": "437 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102130,7 +102166,7 @@
             "url": "https://www.zhihu.com/question/2065583157664018461"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3ODg4NCCZnKPTBjAAOJ4CQAZyEzIwNjU1ODMxNTc2NjQwMTg0NjF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY3ODg4NCCZnKPTBjAAOKMFQAJyEzIwNjU1ODMxNTc2NjQwMTg0NjF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102138,6 +102174,12 @@
           "rank": 7,
           "heat_text": "216 万热度",
           "heat_value": 2160000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 3,
+          "heat_text": "437 万热度",
+          "heat_value": 4370000
         }
       ]
     },
@@ -102146,23 +102188,18 @@
       "title": "如何评价博主「听泉赏宝」自曝炒股亏光父母积蓄遭拉黑？你有没有因为钱的事跟父母翻过脸？",
       "url": "https://www.zhihu.com/question/2065588413684831719",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 8,
-      "latest_rank": 8,
-      "latest_heat_text": "210 万热度",
-      "latest_heat_value": 2100000,
+      "latest_rank": 17,
+      "latest_heat_text": "187 万热度",
+      "latest_heat_value": 1870000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1785378250.425855",
+        "id": "16_1785390066.671672",
         "card_id": "Q_2065588413684831719",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 40
+          "answer_count": 73
         },
         "target": {
           "title_area": {
@@ -102175,7 +102212,7 @@
             "url": "https://picx.zhimg.com/v2-50555c09ba739ae8beec7f13ec3da823.png"
           },
           "metrics_area": {
-            "text": "210 万热度",
+            "text": "187 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102190,7 +102227,7 @@
             "url": "https://www.zhihu.com/question/2065588413684831719"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3OTA0OCD+paPTBjAAOI4BQAdyEzIwNjU1ODg0MTM2ODQ4MzE3MTl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY3OTA0OCD+paPTBjAAOIcCQBByEzIwNjU1ODg0MTM2ODQ4MzE3MTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102198,6 +102235,12 @@
           "rank": 8,
           "heat_text": "210 万热度",
           "heat_value": 2100000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 17,
+          "heat_text": "187 万热度",
+          "heat_value": 1870000
         }
       ]
     },
@@ -102206,23 +102249,18 @@
       "title": "为什么现在都是站在截教一方而把元始天尊描写成坏人？",
       "url": "https://www.zhihu.com/question/12199984100",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 9,
-      "latest_rank": 9,
-      "latest_heat_text": "207 万热度",
-      "latest_heat_value": 2070000,
+      "latest_rank": 13,
+      "latest_heat_text": "215 万热度",
+      "latest_heat_value": 2150000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1785378250.428902",
+        "id": "12_1785390066.667037",
         "card_id": "Q_12199984100",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 73
+          "answer_count": 103
         },
         "target": {
           "title_area": {
@@ -102235,7 +102273,7 @@
             "url": "https://pic1.zhimg.com/v2-6d1a9c12a20399358e7c64c501d360fc.png"
           },
           "metrics_area": {
-            "text": "207 万热度",
+            "text": "215 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102250,7 +102288,7 @@
             "url": "https://www.zhihu.com/question/12199984100"
           }
         },
-        "attached_info": "CkEIjvWvve+u1dEkEAMaCTExMzQxNTkxNiCs+Lq9BjAAOFhACHILMTIxOTk5ODQxMDB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkIItcnb4MKnjvx9EAMaCTExMzQxNTkxNiCs+Lq9BjAAOK8BQAxyCzEyMTk5OTg0MTAweACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -102258,6 +102296,12 @@
           "rank": 9,
           "heat_text": "207 万热度",
           "heat_value": 2070000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 13,
+          "heat_text": "215 万热度",
+          "heat_value": 2150000
         }
       ]
     },
@@ -102266,23 +102310,18 @@
       "title": "为什么广西日报特稿《王的猜想》能获得这么多认同？",
       "url": "https://www.zhihu.com/question/2065044616043131031",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 10,
       "latest_rank": 10,
-      "latest_heat_text": "206 万热度",
-      "latest_heat_value": 2060000,
+      "latest_heat_text": "217 万热度",
+      "latest_heat_value": 2170000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1785378250.430422",
+        "id": "9_1785390066.664567",
         "card_id": "Q_2065044616043131031",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 78
+          "answer_count": 107
         },
         "target": {
           "title_area": {
@@ -102295,7 +102334,7 @@
             "url": "https://picx.zhimg.com/v2-cdee8c43fae130541b62078771590f85.png"
           },
           "metrics_area": {
-            "text": "206 万热度",
+            "text": "217 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102310,7 +102349,7 @@
             "url": "https://www.zhihu.com/question/2065044616043131031"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY1NDYyMiCLsZvTBjAAOOsBQAlyEzIwNjUwNDQ2MTYwNDMxMzEwMzF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY1NDYyMiCLsZvTBjAAOOUCQAlyEzIwNjUwNDQ2MTYwNDMxMzEwMzF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102318,6 +102357,12 @@
           "rank": 10,
           "heat_text": "206 万热度",
           "heat_value": 2060000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 10,
+          "heat_text": "217 万热度",
+          "heat_value": 2170000
         }
       ]
     },
@@ -102326,18 +102371,18 @@
       "title": "麦、福、教培都被扭曲成骂人的词，如何看待脏话外溢这一现象？脏话以象形和谐音方式出现，可能会有哪些影响？",
       "url": "https://www.zhihu.com/question/2065564412899845853",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 11,
       "latest_rank": 11,
-      "latest_heat_text": "205 万热度",
-      "latest_heat_value": 2050000,
+      "latest_heat_text": "217 万热度",
+      "latest_heat_value": 2170000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "10_1785378250.433070",
+        "id": "10_1785390066.665545",
         "card_id": "Q_2065564412899845853",
         "feed_specific": {
-          "answer_count": 114
+          "answer_count": 212
         },
         "target": {
           "title_area": {
@@ -102350,7 +102395,7 @@
             "url": "https://picx.zhimg.com/80/v2-f74df336826c43e469520f0c8006efc0_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "205 万热度",
+            "text": "217 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102365,7 +102410,7 @@
             "url": "https://www.zhihu.com/question/2065564412899845853"
           }
         },
-        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3ODMxNyCk+aLTBjAAOKUBQApyEzIwNjU1NjQ0MTI4OTk4NDU4NTN4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY3ODMxNyCk+aLTBjAAOK8CQApyEzIwNjU1NjQ0MTI4OTk4NDU4NTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102373,6 +102418,12 @@
           "rank": 11,
           "heat_text": "205 万热度",
           "heat_value": 2050000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 11,
+          "heat_text": "217 万热度",
+          "heat_value": 2170000
         }
       ]
     },
@@ -102381,18 +102432,18 @@
       "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
       "url": "https://www.zhihu.com/question/2065729116125521259",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 13,
-      "latest_rank": 13,
-      "latest_heat_text": "181 万热度",
-      "latest_heat_value": 1810000,
+      "latest_rank": 18,
+      "latest_heat_text": "164 万热度",
+      "latest_heat_value": 1640000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1785378250.437850",
+        "id": "17_1785390066.672500",
         "card_id": "Q_2065729116125521259",
         "feed_specific": {
-          "answer_count": 61
+          "answer_count": 115
         },
         "target": {
           "title_area": {
@@ -102405,7 +102456,7 @@
             "url": "https://pic1.zhimg.com/v2-604ed02bfb9a152972eb2abf9f5f71d8.png"
           },
           "metrics_area": {
-            "text": "181 万热度",
+            "text": "164 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102420,7 +102471,7 @@
             "url": "https://www.zhihu.com/question/2065729116125521259"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MTgyMyCIrKXTBjAAOFhADHITMjA2NTcyOTExNjEyNTUyMTI1OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4MTgyMyCIrKXTBjAAOLsBQBFyEzIwNjU3MjkxMTYxMjU1MjEyNTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102428,6 +102479,12 @@
           "rank": 13,
           "heat_text": "181 万热度",
           "heat_value": 1810000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 18,
+          "heat_text": "164 万热度",
+          "heat_value": 1640000
         }
       ]
     },
@@ -102436,23 +102493,18 @@
       "title": "钢铁侠、蜘蛛侠、蝙蝠侠，是不是就是「美漫三巨头」？",
       "url": "https://www.zhihu.com/question/2065521778198421619",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 14,
-      "latest_rank": 14,
-      "latest_heat_text": "145 万热度",
-      "latest_heat_value": 1450000,
+      "latest_rank": 22,
+      "latest_heat_text": "129 万热度",
+      "latest_heat_value": 1290000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "13_1785378250.438559",
+        "id": "21_1785390066.674957",
         "card_id": "Q_2065521778198421619",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 33
+          "answer_count": 67
         },
         "target": {
           "title_area": {
@@ -102465,7 +102517,7 @@
             "url": "https://pica.zhimg.com/50/v2-8cbada787cc8467363153477f8356368_b.jpg"
           },
           "metrics_area": {
-            "text": "145 万热度",
+            "text": "129 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102480,7 +102532,7 @@
             "url": "https://www.zhihu.com/question/2065521778198421619"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY3NjgxOSDvqaLTBjAAOCxADXITMjA2NTUyMTc3ODE5ODQyMTYxOXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY3NjgxOSDvqaLTBjAAOGNAFXITMjA2NTUyMTc3ODE5ODQyMTYxOXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -102488,6 +102540,12 @@
           "rank": 14,
           "heat_text": "145 万热度",
           "heat_value": 1450000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 22,
+          "heat_text": "129 万热度",
+          "heat_value": 1290000
         }
       ]
     },
@@ -102496,23 +102554,18 @@
       "title": "四川网友认为麻辣烫是川菜，东北网友认为麻辣烫是东北菜，谁是对的？",
       "url": "https://www.zhihu.com/question/2061765916732478472",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 15,
-      "latest_rank": 15,
-      "latest_heat_text": "140 万热度",
-      "latest_heat_value": 1400000,
+      "latest_rank": 19,
+      "latest_heat_text": "149 万热度",
+      "latest_heat_value": 1490000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1785378250.439472",
+        "id": "18_1785390066.673134",
         "card_id": "Q_2061765916732478472",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 83
+          "answer_count": 139
         },
         "target": {
           "title_area": {
@@ -102525,7 +102578,7 @@
             "url": "https://picx.zhimg.com/80/v2-6efaadb7d45956232616b44d76d0d34a_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "140 万热度",
+            "text": "149 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102540,7 +102593,7 @@
             "url": "https://www.zhihu.com/question/2061765916732478472"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDUxODk2NiCE1uvSBjAAOFJADnITMjA2MTc2NTkxNjczMjQ3ODQ3MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDUxODk2NiCE1uvSBjAAOKcBQBJyEzIwNjE3NjU5MTY3MzI0Nzg0NzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102548,6 +102601,12 @@
           "rank": 15,
           "heat_text": "140 万热度",
           "heat_value": 1400000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 19,
+          "heat_text": "149 万热度",
+          "heat_value": 1490000
         }
       ]
     },
@@ -102556,18 +102615,18 @@
       "title": "国家安全机关提醒打印机的废旧硒鼓可能泄密，这是如何发生的？哪些办公设备也存在类似风险？",
       "url": "https://www.zhihu.com/question/2065732271441539585",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 16,
-      "latest_rank": 16,
-      "latest_heat_text": "137 万热度",
-      "latest_heat_value": 1370000,
+      "latest_rank": 8,
+      "latest_heat_text": "221 万热度",
+      "latest_heat_value": 2210000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1785378250.439948",
+        "id": "7_1785390066.662245",
         "card_id": "Q_2065732271441539585",
         "feed_specific": {
-          "answer_count": 65
+          "answer_count": 158
         },
         "target": {
           "title_area": {
@@ -102580,7 +102639,7 @@
             "url": "https://pic3.zhimg.com/50/v2-ce012e3a93e80f3c43da9b5c1baa7f8a_b.jpg"
           },
           "metrics_area": {
-            "text": "137 万热度",
+            "text": "221 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102595,7 +102654,7 @@
             "url": "https://www.zhihu.com/question/2065732271441539585"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MTk4NSD4saXTBjAAOGtAD3ITMjA2NTczMjI3MTQ0MTUzOTU4NXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4MTk4NSD4saXTBjAAOIgCQAdyEzIwNjU3MzIyNzE0NDE1Mzk1ODV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102603,6 +102662,12 @@
           "rank": 16,
           "heat_text": "137 万热度",
           "heat_value": 1370000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 8,
+          "heat_text": "221 万热度",
+          "heat_value": 2210000
         }
       ]
     },
@@ -102611,18 +102676,18 @@
       "title": "西游记原著里，最惨的一个人物是谁？",
       "url": "https://www.zhihu.com/question/1896081051639583956",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 17,
-      "latest_rank": 17,
-      "latest_heat_text": "135 万热度",
-      "latest_heat_value": 1350000,
+      "latest_rank": 24,
+      "latest_heat_text": "124 万热度",
+      "latest_heat_value": 1240000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "16_1785378250.441468",
+        "id": "23_1785390066.676792",
         "card_id": "Q_1896081051639583956",
         "feed_specific": {
-          "answer_count": 24
+          "answer_count": 39
         },
         "target": {
           "title_area": {
@@ -102635,7 +102700,7 @@
             "url": "https://pic1.zhimg.com/v2-c500ea3243dcbc8d9d4ec413a26bfdd4.png"
           },
           "metrics_area": {
-            "text": "135 万热度",
+            "text": "124 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102650,7 +102715,7 @@
             "url": "https://www.zhihu.com/question/1896081051639583956"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTExNDUzNzc4MiD20YDABjAAOC9AEHITMTg5NjA4MTA1MTYzOTU4Mzk1NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTExNDUzNzc4MiD20YDABjAAOE9AF3ITMTg5NjA4MTA1MTYzOTU4Mzk1NngAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -102658,6 +102723,12 @@
           "rank": 17,
           "heat_text": "135 万热度",
           "heat_value": 1350000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 24,
+          "heat_text": "124 万热度",
+          "heat_value": 1240000
         }
       ]
     },
@@ -102666,23 +102737,23 @@
       "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
       "url": "https://www.zhihu.com/question/2065729146383071132",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 19,
-      "latest_rank": 19,
-      "latest_heat_text": "125 万热度",
-      "latest_heat_value": 1250000,
+      "latest_rank": 4,
+      "latest_heat_text": "268 万热度",
+      "latest_heat_value": 2680000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "18_1785378250.443224",
+        "id": "3_1785390066.659824",
         "card_id": "Q_2065729146383071132",
         "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 25
+          "answer_count": 52
         },
         "target": {
           "title_area": {
@@ -102695,7 +102766,7 @@
             "url": "https://picx.zhimg.com/v2-97888bb4c0392bcc4f7d92a44fb6889b.png"
           },
           "metrics_area": {
-            "text": "125 万热度",
+            "text": "268 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102710,7 +102781,7 @@
             "url": "https://www.zhihu.com/question/2065729146383071132"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MTgyNyCPrKXTBjAAOCVAEnITMjA2NTcyOTE0NjM4MzA3MTEzMngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY4MTgyNyCPrKXTBjAAOIABQANyEzIwNjU3MjkxNDYzODMwNzExMzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -102718,6 +102789,12 @@
           "rank": 19,
           "heat_text": "125 万热度",
           "heat_value": 1250000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 4,
+          "heat_text": "268 万热度",
+          "heat_value": 2680000
         }
       ]
     },
@@ -102946,18 +103023,18 @@
       "title": "C 罗因无世界杯冠军遭航空公司公开嘲讽，你如何看待这种营销行为？",
       "url": "https://www.zhihu.com/question/2065437203300364298",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 24,
-      "latest_rank": 24,
-      "latest_heat_text": "114 万热度",
-      "latest_heat_value": 1140000,
+      "latest_rank": 25,
+      "latest_heat_text": "121 万热度",
+      "latest_heat_value": 1210000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "23_1785378250.457104",
+        "id": "24_1785390066.677199",
         "card_id": "Q_2065437203300364298",
         "feed_specific": {
-          "answer_count": 31
+          "answer_count": 47
         },
         "target": {
           "title_area": {
@@ -102970,7 +103047,7 @@
             "url": "https://pic1.zhimg.com/80/v2-ebeeba610a30994576862a0bb14214f9_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "114 万热度",
+            "text": "121 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102985,7 +103062,7 @@
             "url": "https://www.zhihu.com/question/2065437203300364298"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY3MTY2OCCrjKHTBjAAODFAF3ITMjA2NTQzNzIwMzMwMDM2NDI5OHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY3MTY2OCCrjKHTBjAAOE9AGHITMjA2NTQzNzIwMzMwMDM2NDI5OHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -102993,6 +103070,12 @@
           "rank": 24,
           "heat_text": "114 万热度",
           "heat_value": 1140000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 25,
+          "heat_text": "121 万热度",
+          "heat_value": 1210000
         }
       ]
     },
@@ -103056,18 +103139,18 @@
       "title": "马斯克继续叫板诺兰及《奥德赛》，准备用 Grok 生成 AI 电影版《奥德赛》并做到还原历史，你如何看待？",
       "url": "https://www.zhihu.com/question/2063666246751630157",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 26,
-      "latest_rank": 26,
-      "latest_heat_text": "112 万热度",
-      "latest_heat_value": 1120000,
+      "latest_rank": 29,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1785378250.468971",
+        "id": "28_1785390066.679218",
         "card_id": "Q_2063666246751630157",
         "feed_specific": {
-          "answer_count": 17
+          "answer_count": 27
         },
         "target": {
           "title_area": {
@@ -103077,10 +103160,10 @@
             "text": "@桃桃桃电影：马斯克继续跟诺兰的《奥德赛》开杠。 他在 X 上宣布，旗下 AI 工具 Grok Imagine 将在今年年底前生成一部长篇 AI 电影《奥德赛》。他转发了一段网友用该工具制作的 3 分钟短片，并表示这部作品会做到「还原历史」，忠实于荷马的原著。 这一表态是对诺兰执导的真人版《奥德赛》的回应。诺兰版《奥德赛》上映后票房表现强劲，首周末全球斩获 2.64 亿美元。但在影片上映前，马斯克曾公开抨击该片的选角，特别是对露皮塔·尼永奥饰演海伦表示不满。而他这次转发的 AI 短片中，角色全为白人形象。"
           },
           "image_area": {
-            "url": ""
+            "url": "https://picx.zhimg.com/80/v2-5eb3f5a1be2d76b045128cf7ac7a3f83_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "112 万热度",
+            "text": "105 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -103095,7 +103178,7 @@
             "url": "https://www.zhihu.com/question/2063666246751630157"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDYwMDczMSDWqYfTBjAAOBRAGXITMjA2MzY2NjI0Njc1MTYzMDE1N3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDYwMDczMSDWqYfTBjAAODxAHHITMjA2MzY2NjI0Njc1MTYzMDE1N3gAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -103103,6 +103186,12 @@
           "rank": 26,
           "heat_text": "112 万热度",
           "heat_value": 1120000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 29,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
         }
       ]
     },
@@ -103111,18 +103200,18 @@
       "title": "上海血液中心献血送「战锤 40k」模型，这种跨界激励模式效果如何？",
       "url": "https://www.zhihu.com/question/2063323893847396370",
       "first_seen": "2026-07-30 10:24:10 +0800",
-      "last_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
       "first_rank": 27,
-      "latest_rank": 27,
-      "latest_heat_text": "111 万热度",
-      "latest_heat_value": 1110000,
+      "latest_rank": 26,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "26_1785378250.471823",
+        "id": "25_1785390066.677754",
         "card_id": "Q_2063323893847396370",
         "feed_specific": {
-          "answer_count": 22
+          "answer_count": 51
         },
         "target": {
           "title_area": {
@@ -103135,7 +103224,7 @@
             "url": "https://pic2.zhimg.com/50/v2-a3b0faf7b6b72d6fab93f9ebd3b2a51d_b.jpg"
           },
           "metrics_area": {
-            "text": "111 万热度",
+            "text": "113 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -103150,7 +103239,7 @@
             "url": "https://www.zhihu.com/question/2063323893847396370"
           }
         },
-        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDU4NTgzNSD/q4LTBjAAOB1AGnITMjA2MzMyMzg5Mzg0NzM5NjM3MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDU4NTgzNSD/q4LTBjAAOEdAGXITMjA2MzMyMzg5Mzg0NzM5NjM3MHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -103158,6 +103247,12 @@
           "rank": 27,
           "heat_text": "111 万热度",
           "heat_value": 1110000
+        },
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 26,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
         }
       ]
     },
@@ -103273,6 +103368,581 @@
           "rank": 29,
           "heat_text": "97 万热度",
           "heat_value": 970000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065536648381555046",
+      "title": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？",
+      "url": "https://www.zhihu.com/question/2065536648381555046",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "232 万热度",
+      "latest_heat_value": 2320000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1785390066.661377",
+        "card_id": "Q_2065536648381555046",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "日本熊本县地震时天空出现巨型蘑菇云，为什么会出现这种现象？网友猜测其为地震云，这到底是什么云？"
+          },
+          "excerpt_area": {
+            "text": "7 月 28 日，日本熊本县附近发生 7.1 级地震时天空出现巨型蘑菇云和鸟群。当地居民从多个地区拍下这朵云纷纷猜测这是地震云，截至目前日本气象厅尚未对蘑菇云的形成作出解释。受地震影响，八代市多处桥梁发生断裂或坍塌，报道称强震已致至少 50 人送医。 新华社东京 7 月 30 日电（记者李子越 陈泽安）日本熊本县官方 30 日说，此次地震已造成 17 人死亡。"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-090faa004049046f98a8e303f82675ec_b.jpg"
+          },
+          "metrics_area": {
+            "text": "232 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065536648381555046"
+          },
+          "text_tag_area": {
+            "text": "知友辟谣",
+            "font_color": "GYL02A",
+            "background": "GYL02A"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY3NzI3OCDIxaLTBjAAOFhABXITMjA2NTUzNjY0ODM4MTU1NTA0NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 6,
+          "heat_text": "232 万热度",
+          "heat_value": 2320000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066063922856027842",
+      "title": "美联储今年连续第五次维持利率不变，但投票结果从一致通过变成 9 票对 3 票，内部发生了什么？9 月会加息吗？",
+      "url": "https://www.zhihu.com/question/2066063922856027842",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "219 万热度",
+      "latest_heat_value": 2190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1785390066.663438",
+        "card_id": "Q_2066063922856027842",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 49
+        },
+        "target": {
+          "title_area": {
+            "text": "美联储今年连续第五次维持利率不变，但投票结果从一致通过变成 9 票对 3 票，内部发生了什么？9 月会加息吗？"
+          },
+          "excerpt_area": {
+            "text": "中新网 7 月 30 日电 据美国有线电视新闻网 (CNN) 报道，当地时间 29 日，美国联邦储备委员会宣布，继续将联邦基金利率目标区间维持在 3.5% 至 3.75% 之间不变。这是美联储年内连续第 5 次维持利率不变。 当地时间 6 月 17 日，美联储主席凯文·沃什亮相记者会。 中新社记者 陈孟统 摄 美联储在声明中表示，尽管中东冲突等因素带来的不确定性处于高位，经济活动仍稳健扩张。通胀相较 2% 的目标依然处于高位，部分原因是供应冲击推高了能源等行业的价格。联邦公开市场委员会将致力于实现价格稳定。 报道指出，联邦公开市场委员会 12 名成员中，有 3 人在当日投票中反对维持利率不变的决定，他们主张加息 25 个基点。 报道称，近年来，美联储内部出现分歧的情况日益增多。由于在稳定物价与实现充分就业之间难以取得平衡，决策变得更加困难。美联储年内连续第 5 次维持利率不变 内部出现分歧 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-6805bab3278a5cd9156a4a5ede48dc6b_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "219 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066063922856027842"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY5NjM2NCDYm6rTBjAAOH1ACHITMjA2NjA2MzkyMjg1NjAyNzg0MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 9,
+          "heat_text": "219 万热度",
+          "heat_value": 2190000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064534355440145959",
+      "title": "如何评价揽佬新歌《中国人能飞》？",
+      "url": "https://www.zhihu.com/question/2064534355440145959",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "216 万热度",
+      "latest_heat_value": 2160000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1785390066.666432",
+        "card_id": "Q_2064534355440145959",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 68
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价揽佬新歌《中国人能飞》？"
+          },
+          "excerpt_area": {
+            "text": "我已经破绷了，感觉这个已经锁定今年国庆最佳单曲了"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-6998a8ca61b171517af705524a804b4d.png"
+          },
+          "metrics_area": {
+            "text": "216 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064534355440145959"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDYzNDkyMiDT+pPTBjAAOGxAC3ITMjA2NDUzNDM1NTQ0MDE0NTk1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 12,
+          "heat_text": "216 万热度",
+          "heat_value": 2160000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066060815594152470",
+      "title": "如何评价上海地铁即将迎来涨价？",
+      "url": "https://www.zhihu.com/question/2066060815594152470",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "209 万热度",
+      "latest_heat_value": 2090000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1785390066.669158",
+        "card_id": "Q_2066060815594152470",
+        "feed_specific": {
+          "answer_count": 91
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价上海地铁即将迎来涨价？"
+          },
+          "excerpt_area": {
+            "text": "上海地铁要调整价格了？ 7 月 29 日 上海市发展和改革委员会官网发布公告 计划对全市轨道交通价格进行调整 并定于 2026 年 9 月 7 日 召开优化上海市轨道交通票价机制听证会 这将是上海 21 年来 首次对轨道交通票价进行调整 公告显示，此次票价机制调整 适用于全市轨道交通网络 但不包括磁浮线、金山铁路、 市域机场线以及未来开通的其他市域线路 回顾上海地铁上一次调价 还要追溯到 2005 年 彼时，上海地铁正处于建设高峰期 客流增长迅猛 部分线路在高峰时段 已出现全面超载现象 当时全市仅有地铁 1 至 5 号五条线路 运营总里程刚过百公里 调价的核心目的是 通过价格杠杆「削峰平谷」 缓解高峰时段的运营压力 如今，上海轨道交通 的规模已今非昔比 截至 2025 年底 全网运营线路已达 21 条 运营总里程突破 900 公里 达到 906 公里，车站增至 523 座 客流方面，2025 年全年 日均客流量达 1015 万人次 全年共计运送乘客 37.1 亿人次 位居全国首位 此次票价调整所波及的范围和人群 远非 21 年前可比 图片来源：社交媒体 为确保充分听取社会各方意见，本次听证会将由 23 名参加人组成，具体包括：消费者 12 名、市消费者权益保护委员会 1 名、市人大代表 1 名、市政协委员 1 名、专家学者 2 名、市交通运输行业协会 1 名、市国资委 1 名、市财政局 1 名、久事集团 1 名以及申通地铁集团 2 名。此外，听证会还设有 10 个媒体席位。 根据公告，时隔 21 年，上海地铁将迎来首次调价！听证会拟于 9 月举行，消费者参加人通过这些方式产生 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-69c3275f6b336305d3669ccb7d38c022_b.jpg"
+          },
+          "metrics_area": {
+            "text": "209 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066060815594152470"
+          }
+        },
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDY5NjMxNiDzlarTBjAAOIoBQA9yEzIwNjYwNjA4MTU1OTQxNTI0NzB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 16,
+          "heat_text": "209 万热度",
+          "heat_value": 2090000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066061011111469951",
+      "title": "国际足联正式对阿根廷足协启动调查，帕雷德斯等 3 人或面临长期禁赛，如何评价？阿根廷这次麻烦有多大？",
+      "url": "https://www.zhihu.com/question/2066061011111469951",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "149 万热度",
+      "latest_heat_value": 1490000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1785390066.673347",
+        "card_id": "Q_2066061011111469951",
+        "feed_specific": {
+          "answer_count": 40
+        },
+        "target": {
+          "title_area": {
+            "text": "国际足联正式对阿根廷足协启动调查，帕雷德斯等 3 人或面临长期禁赛，如何评价？阿根廷这次麻烦有多大？"
+          },
+          "excerpt_area": {
+            "text": "当地时间 7 月 29 日，国际足联宣布对阿根廷足协启动多项纪律调查，同时因美加墨世界杯决赛后冲突一事，对阿根廷球员帕雷德斯、莫利纳以及助理教练阿亚拉启动纪律调查。这三人因采取「攻击」行为，可能将面临长期禁赛。 针对阿根廷足协的多项调查，涉及赛事呐喊口号与所谓的「不当标语」，其中包括本届世界杯半决赛击败英格兰队后，阿根廷队球员打出写有「马尔维纳斯群岛属于阿根廷」的横幅，以及将横幅留在球场内的行为。阿根廷足协同时还遭到歧视与种族主义相关指控的调查。 国际足联在声明中表示：「依据《国际足联纪律准则》，现已给予涉案方陈述立场的机会，此后国际足联纪律委员会将适时作出裁决。」 此外，阿根廷球员阿尔马达、西班牙中场加维也因存在「非体育行为」，被启动相关调查。国际足联正式对阿根廷足协启动调查 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-de2109cbd7f0b42296b3b327f56799b9_b.jpg"
+          },
+          "metrics_area": {
+            "text": "149 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066061011111469951"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY5NjMxOCCilqrTBjAAOENAE3ITMjA2NjA2MTAxMTExMTQ2OTk1MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 20,
+          "heat_text": "149 万热度",
+          "heat_value": 1490000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065751316211701463",
+      "title": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？",
+      "url": "https://www.zhihu.com/question/2065751316211701463",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "148 万热度",
+      "latest_heat_value": 1480000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1785390066.674119",
+        "card_id": "Q_2065751316211701463",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "中国 8 家整车厂赚不过 1 家电池厂，为什么宁德时代利润超过车企这么多？"
+          },
+          "excerpt_area": {
+            "text": "7 月 28 日，2026 年《财富》世界 500 强榜单发布。 全球共有 35 家企业车辆与零部件企业上榜，比亚迪取代特斯拉成为全球电动汽车销冠，并成为榜单中唯一排名进入百强的中国车企。百强中有 10 家汽车企业，另外 9 个席位分别为日本和欧美的汽车巨头占据。大众公司（第 13 位）连续第四年成为《财富》世界 500 强上榜企业中的「最大车企」。 从赚钱效率来看，中国 10 家上榜企业的平均收益率为 3.1%，超过全球该行业 1.7% 的平均水平。但若剔除宁德时代（17.0%）和怡和策略（3.2%），其余 8 家中国整车制造企业的平均销售收益率约为 1.5%，低于全球 1.7% 的平均水平。 《财富》世界 500 强出炉：中国 8 家整车厂，赚不过一家电池厂"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-81366e54ab039d62675357b33c735425_b.jpg"
+          },
+          "metrics_area": {
+            "text": "148 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065751316211701463"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY4Mjk2MyC11aXTBjAAOFBAFHITMjA2NTc1MTMxNjIxMTcwMTQ2M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 21,
+          "heat_text": "148 万热度",
+          "heat_value": 1480000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065719675850318416",
+      "title": "今年旅游市场异常冷清，消费力的提升为什么没有达到应有的效果？",
+      "url": "https://www.zhihu.com/question/2065719675850318416",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "127 万热度",
+      "latest_heat_value": 1270000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1785390066.676166",
+        "card_id": "Q_2065719675850318416",
+        "feed_specific": {
+          "answer_count": 38
+        },
+        "target": {
+          "title_area": {
+            "text": "今年旅游市场异常冷清，消费力的提升为什么没有达到应有的效果？"
+          },
+          "excerpt_area": {
+            "text": "机票打折，酒店打折，暑期旅游遇冷，是什么原因导致的？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-5f527619e414156f961337eab83b8c7b.png"
+          },
+          "metrics_area": {
+            "text": "127 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065719675850318416"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY4MTQ3MiC9mqXTBjAAODxAFnITMjA2NTcxOTY3NTg1MDMxODQxNngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 23,
+          "heat_text": "127 万热度",
+          "heat_value": 1270000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065739036937773921",
+      "title": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？",
+      "url": "https://www.zhihu.com/question/2065739036937773921",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1785390066.678235",
+        "card_id": "Q_2065739036937773921",
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "苹果市值首破 5 万亿美元，超越英伟达重夺全球第一，反映市场对 AI 投资逻辑的哪些转变？"
+          },
+          "excerpt_area": {
+            "text": "当地时间周二（28 日），苹果公司股价盘中短暂触及 342.89 美元的历史高位，市值一度突破 5 万亿美元大关，成为史上第二家达到这一估值里程碑的上市公司。这距离苹果在去年 10 月首次突破 4 万亿美元，过去九个月时间。 截至收盘，苹果股价报 340.08 美元，市值略低于 5 万亿美元门槛。就在前一天，苹果刚刚超越英伟达，重夺全球市值第一宝座。苹果市值首破 5 万亿"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-cb0f6607d53658fcc8b9d50d646cf62e_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065739036937773921"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDY4MjMzOSDFvqXTBjAAOFNAGnITMjA2NTczOTAzNjkzNzc3MzkyMXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 27,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064145782496876151",
+      "title": "邓煜在北大读了两年后就转去了 MIT，这是什么样的转学政策？",
+      "url": "https://www.zhihu.com/question/2064145782496876151",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "108 万热度",
+      "latest_heat_value": 1080000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1785390066.678708",
+        "card_id": "Q_2064145782496876151",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "邓煜在北大读了两年后就转去了 MIT，这是什么样的转学政策？"
+          },
+          "excerpt_area": {
+            "text": "1989 年，邓煜出生；其后在深圳市成长。 2007 年 9 月，进入北京大学数学科学学院学习。 2009 年 6 月，结束在北京大学的学习；其后转入麻省理工学院学习数学。"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "108 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064145782496876151"
+          }
+        },
+        "attached_info": "CkoItcnb4MKnjvx9EAMaCTEyMDYyMDUxNiDwpo7TBjAAOIgBQBtyEzIwNjQxNDU3ODI0OTY4NzYxNTF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 28,
+          "heat_text": "108 万热度",
+          "heat_value": 1080000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064502109584855998",
+      "title": "如何评价凡人修仙传 185 集，是否达到预期？",
+      "url": "https://www.zhihu.com/question/2064502109584855998",
+      "first_seen": "2026-07-30 13:41:06 +0800",
+      "last_seen": "2026-07-30 13:41:06 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "103 万热度",
+      "latest_heat_value": 1030000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1785390066.680103",
+        "card_id": "Q_2064502109584855998",
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价凡人修仙传 185 集，是否达到预期？"
+          },
+          "excerpt_area": {
+            "text": "如题"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-b1c7e1d1f4b1f5fedc91a67b222d3d44_b.jpg"
+          },
+          "metrics_area": {
+            "text": "103 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064502109584855998"
+          }
+        },
+        "attached_info": "CkkItcnb4MKnjvx9EAMaCTEyMDYzNDQ2MCDLvpPTBjAAOB9AHXITMjA2NDUwMjEwOTU4NDg1NTk5OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 13:41:06 +0800",
+          "rank": 30,
+          "heat_text": "103 万热度",
+          "heat_value": 1030000
         }
       ]
     }
