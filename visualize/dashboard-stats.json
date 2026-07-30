@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30 22:00:45 +0800",
+  "generated_at": "2026-07-31 00:26:01 +0800",
   "totals": {
-    "day_count": 145,
-    "topic_record_count": 5797,
-    "unique_topic_count": 5257,
-    "history_point_count": 8310,
-    "v2_file_count": 20,
+    "day_count": 146,
+    "topic_record_count": 5827,
+    "unique_topic_count": 5266,
+    "history_point_count": 8340,
+    "v2_file_count": 21,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1415,6 +1415,15 @@
       "history_point_count": 240,
       "top_topic_title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
       "top_topic_url": "https://www.zhihu.com/question/2065707692950123437"
+    },
+    {
+      "date": "2026-07-31",
+      "total_heat_value": 49270000,
+      "max_heat_value": 6960000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "小米澎程技术发布会上发布了什么值得关注的新技术？有哪些亮点？",
+      "top_topic_url": "https://www.zhihu.com/question/2066129660551722919"
     }
   ]
 }
