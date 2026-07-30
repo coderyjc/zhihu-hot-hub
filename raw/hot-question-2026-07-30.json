@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-07-30 06:01:17 +0800",
+  "updated_at": "2026-07-30 10:24:10 +0800",
   "items": [
     {
       "key": "Q_2065767078427113175",
@@ -331,23 +331,18 @@
       "title": "媒体曝辅助驾驶的「小蓝灯」将被禁用，背后是出于什么考量？你支持禁装吗？",
       "url": "https://www.zhihu.com/question/2065809494173377572",
       "first_seen": "2026-07-30 00:21:36 +0800",
-      "last_seen": "2026-07-30 06:01:17 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
       "first_rank": 6,
-      "latest_rank": 3,
-      "latest_heat_text": "201 万热度",
-      "latest_heat_value": 2010000,
+      "latest_rank": 30,
+      "latest_heat_text": "95 万热度",
+      "latest_heat_value": 950000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1785362477.68764",
+        "id": "29_1785378250.475511",
         "card_id": "Q_2065809494173377572",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 139
+          "answer_count": 203
         },
         "target": {
           "title_area": {
@@ -360,7 +355,7 @@
             "url": "https://picx.zhimg.com/80/v2-79452b6b8e35ded5376a1b45e8d69cd6_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "201 万热度",
+            "text": "95 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -375,7 +370,7 @@
             "url": "https://www.zhihu.com/question/2065809494173377572"
           }
         },
-        "attached_info": "CkoIp/rU9vn58qtHEAMaCTEyMDY4NzM4NCDkwabTBjAAONICQAJyEzIwNjU4MDk0OTQxNzMzNzc1NzJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4NzM4NCDkwabTBjAAOL4DQB1yEzIwNjU4MDk0OTQxNzMzNzc1NzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -395,6 +390,12 @@
           "rank": 3,
           "heat_text": "201 万热度",
           "heat_value": 2010000
+        },
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 30,
+          "heat_text": "95 万热度",
+          "heat_value": 950000
         }
       ]
     },
@@ -737,18 +738,18 @@
       "title": "周星驰《功夫女足》上映 18 天票房破 20 亿，超过《给阿嬷的情书》跻身年度第二，如何评价这一成绩？",
       "url": "https://www.zhihu.com/question/2065509466343044069",
       "first_seen": "2026-07-30 00:21:36 +0800",
-      "last_seen": "2026-07-30 06:01:17 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
       "first_rank": 12,
-      "latest_rank": 8,
-      "latest_heat_text": "139 万热度",
-      "latest_heat_value": 1390000,
+      "latest_rank": 18,
+      "latest_heat_text": "134 万热度",
+      "latest_heat_value": 1340000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1785362477.71740",
+        "id": "17_1785378250.442642",
         "card_id": "Q_2065509466343044069",
         "feed_specific": {
-          "answer_count": 61
+          "answer_count": 210
         },
         "target": {
           "title_area": {
@@ -761,7 +762,7 @@
             "url": "https://picx.zhimg.com/80/v2-df0f062b9a9b784a20e1d5da805738c7_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "139 万热度",
+            "text": "134 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -776,7 +777,7 @@
             "url": "https://www.zhihu.com/question/2065509466343044069"
           }
         },
-        "attached_info": "CkkIp/rU9vn58qtHEAMaCTEyMDY3NjQ1OSD4kqLTBjAAOF1AB3ITMjA2NTUwOTQ2NjM0MzA0NDA2OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3NjQ1OSD4kqLTBjAAOKYCQBFyEzIwNjU1MDk0NjYzNDMwNDQwNjl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -796,6 +797,12 @@
           "rank": 8,
           "heat_text": "139 万热度",
           "heat_value": 1390000
+        },
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 18,
+          "heat_text": "134 万热度",
+          "heat_value": 1340000
         }
       ]
     },
@@ -1087,23 +1094,18 @@
       "title": "网红私占宁波无人岛直播改造被查处，个人可以开发利用无居民海岛吗？荒岛为何不能随意建房、居住？",
       "url": "https://www.zhihu.com/question/2065709716009743417",
       "first_seen": "2026-07-30 00:21:36 +0800",
-      "last_seen": "2026-07-30 06:01:17 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
       "first_rank": 17,
-      "latest_rank": 2,
-      "latest_heat_text": "236 万热度",
-      "latest_heat_value": 2360000,
+      "latest_rank": 4,
+      "latest_heat_text": "261 万热度",
+      "latest_heat_value": 2610000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1785362477.67590",
+        "id": "3_1785378250.420173",
         "card_id": "Q_2065709716009743417",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 42
+          "answer_count": 160
         },
         "target": {
           "title_area": {
@@ -1116,7 +1118,7 @@
             "url": "https://pic3.zhimg.com/50/v2-a71c055cc9e7a5c7cbe3978f880cb5b2_b.jpg"
           },
           "metrics_area": {
-            "text": "236 万热度",
+            "text": "261 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1131,7 +1133,7 @@
             "url": "https://www.zhihu.com/question/2065709716009743417"
           }
         },
-        "attached_info": "CkkIp/rU9vn58qtHEAMaCTEyMDY4MTE4NyD3h6XTBjAAOHBAAXITMjA2NTcwOTcxNjAwOTc0MzQxN3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4MTE4NyD3h6XTBjAAOJIDQANyEzIwNjU3MDk3MTYwMDk3NDM0MTd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1151,6 +1153,12 @@
           "rank": 2,
           "heat_text": "236 万热度",
           "heat_value": 2360000
+        },
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 4,
+          "heat_text": "261 万热度",
+          "heat_value": 2610000
         }
       ]
     },
@@ -1482,23 +1490,18 @@
       "title": "长鑫存储 vs 长江存储，一个做内存，一个做闪存，谁更厉害？",
       "url": "https://www.zhihu.com/question/2061092161337177252",
       "first_seen": "2026-07-30 00:21:36 +0800",
-      "last_seen": "2026-07-30 06:01:17 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
       "first_rank": 23,
-      "latest_rank": 10,
-      "latest_heat_text": "130 万热度",
-      "latest_heat_value": 1300000,
+      "latest_rank": 2,
+      "latest_heat_text": "328 万热度",
+      "latest_heat_value": 3280000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1785362477.72476",
+        "id": "1_1785378250.413435",
         "card_id": "Q_2061092161337177252",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 19
+          "answer_count": 61
         },
         "target": {
           "title_area": {
@@ -1508,10 +1511,10 @@
             "text": "国产存储的两大龙头，赛道虽然完全不一样，但是合肥的网友和武汉的网友总是将两家做比较，网上争论热闹非凡！"
           },
           "image_area": {
-            "url": ""
+            "url": "https://pica.zhimg.com/80/v2-6bb9b843267ff1fd3784093498572dd2_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "130 万热度",
+            "text": "328 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1526,7 +1529,7 @@
             "url": "https://www.zhihu.com/question/2061092161337177252"
           }
         },
-        "attached_info": "CkkIp/rU9vn58qtHEAMaCTEyMDQ5MDU0NCCI7+HSBjAAOE5ACXITMjA2MTA5MjE2MTMzNzE3NzI1MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDQ5MDU0NCCI7+HSBjAAOMMCQAFyEzIwNjEwOTIxNjEzMzcxNzcyNTJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1546,6 +1549,12 @@
           "rank": 10,
           "heat_text": "130 万热度",
           "heat_value": 1300000
+        },
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 2,
+          "heat_text": "328 万热度",
+          "heat_value": 3280000
         }
       ]
     },
@@ -1945,23 +1954,18 @@
       "title": "日本技术人员拆解宇树机器人后称「赶不上中国」，从螺丝到整机，中国机器人供应链优势体现在哪些环节？",
       "url": "https://www.zhihu.com/question/2064993421949755491",
       "first_seen": "2026-07-30 03:15:37 +0800",
-      "last_seen": "2026-07-30 06:01:17 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
       "first_rank": 14,
-      "latest_rank": 5,
-      "latest_heat_text": "171 万热度",
-      "latest_heat_value": 1710000,
+      "latest_rank": 12,
+      "latest_heat_text": "205 万热度",
+      "latest_heat_value": 2050000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1785362477.70277",
+        "id": "11_1785378250.434093",
         "card_id": "Q_2064993421949755491",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 40
+          "answer_count": 86
         },
         "target": {
           "title_area": {
@@ -1971,10 +1975,10 @@
             "text": "日经 xTECH 网站 7 月 23 日发布了一段日本技术人员拆解中国宇树科技 G1 人形机器人的视频，尝试探究其内部结构与技术水平，日方人员直呼「赶不上中国」。 在这段视频中，日方技术人员和媒体记者边拆边感叹中国人形机器人的技术水平之高： 「中国的螺丝，总感觉拧起来特别顺滑。」 「电池能在保持高输出功率的同时，做到如此小巧，极具吸引力。」 「从小腿到脚掌，最大的特点就是，它的机械运动方式再现了人类脚踝的运动。两台电机驱动连接脚踝的两根金属连杆上下运动，并利用多个轴承配合连杆运动，改变脚踝角度。这款机器人所使用的电机结构非常值得关注，从核心部件中可以看出其技术水平相当高。」 他们最终得出结论：如今，中国机器人研发显然已超越了「只会展示」的阶段，在人形机器人领域，日本想在短时间内缩小与中国的差距恐怕并不现实。拆完宇树机器人，日方人员认输了 _ 手机新浪网"
           },
           "image_area": {
-            "url": ""
+            "url": "https://pic2.zhimg.com/v2-03aa2c0454b974b393c4668f7507d245_1440w.jpg"
           },
           "metrics_area": {
-            "text": "171 万热度",
+            "text": "205 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1989,7 +1993,7 @@
             "url": "https://www.zhihu.com/question/2064993421949755491"
           }
         },
-        "attached_info": "CkkIp/rU9vn58qtHEAMaCTEyMDY1MDA1NiDd0ZrTBjAAOEtABHITMjA2NDk5MzQyMTk0OTc1NTQ5MXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY1MDA1NiDd0ZrTBjAAOPQBQAtyEzIwNjQ5OTM0MjE5NDk3NTU0OTF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2003,6 +2007,12 @@
           "rank": 5,
           "heat_text": "171 万热度",
           "heat_value": 1710000
+        },
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 12,
+          "heat_text": "205 万热度",
+          "heat_value": 2050000
         }
       ]
     },
@@ -2260,18 +2270,23 @@
       "title": "雷军称增程市场大有可为且小米做增程不晚，这一观点站得住脚吗？小米为何选择此时布局增程车型？",
       "url": "https://www.zhihu.com/question/2065799308067041337",
       "first_seen": "2026-07-30 03:15:37 +0800",
-      "last_seen": "2026-07-30 06:01:17 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
       "first_rank": 26,
-      "latest_rank": 17,
-      "latest_heat_text": "101 万热度",
-      "latest_heat_value": 1010000,
+      "latest_rank": 1,
+      "latest_heat_text": "1269 万热度",
+      "latest_heat_value": 12690000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "16_1785362477.75363",
+        "id": "0_1785378250.411620",
         "card_id": "Q_2065799308067041337",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 24
+          "answer_count": 128
         },
         "target": {
           "title_area": {
@@ -2284,7 +2299,7 @@
             "url": "https://pica.zhimg.com/50/v2-b5262097a967bd8b461e82da9a304ec4_b.jpg"
           },
           "metrics_area": {
-            "text": "101 万热度",
+            "text": "1269 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2299,7 +2314,7 @@
             "url": "https://www.zhihu.com/question/2065799308067041337"
           }
         },
-        "attached_info": "CkkIp/rU9vn58qtHEAMaCTEyMDY4NzAxMyDnrqbTBjAAOB5AEHITMjA2NTc5OTMwODA2NzA0MTMzN3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4NzAxMyDnrqbTBjAAONIBQAByEzIwNjU3OTkzMDgwNjcwNDEzMzd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2313,6 +2328,12 @@
           "rank": 17,
           "heat_text": "101 万热度",
           "heat_value": 1010000
+        },
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 1,
+          "heat_text": "1269 万热度",
+          "heat_value": 12690000
         }
       ]
     },
@@ -2594,6 +2615,1371 @@
           "rank": 30,
           "heat_text": "69 万热度",
           "heat_value": 690000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065707692950123437",
+      "title": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2065707692950123437",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "291 万热度",
+      "latest_heat_value": 2910000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1785378250.416153",
+        "card_id": "Q_2065707692950123437",
+        "feed_specific": {
+          "answer_count": 77
+        },
+        "target": {
+          "title_area": {
+            "text": "曝多家 AI 公司大量收购旧书训练模型后销毁，此前先例被法院认定合理，这会成为常态吗？可能带来哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "IT 之家 7 月 28 日消息，AI 公司在推动内存和存储资源日益紧张之后，如今似乎又将目光投向了人类的文学遗产。调查媒体 404 Media 最新报道称，多家 AI 公司正通过中间商大规模收购二手图书，以获取高质量训练数据用于训练 AI 模型，同时避免引发公众舆论反弹。 AI 的发展离不开海量数据，但并非所有数据都有价值，关键在于数据质量。近年来，大量由 AI 生成的低质量内容（俗称「AI 垃圾内容」）充斥互联网，不仅污染了数据环境，也降低了 AI 继续学习的效果。因此，领先的 AI 公司开始重新寻找由人类创作的内容，尤其是 2022 年之前出版的纸质书籍，因为这些内容更有可能是原创作品，尚未受到 AI 生成内容的污染。 事实上，AI 公司利用纸质图书训练模型已有先例。作为当前卷入版权诉讼的主要 AI 公司之一，Anthropic 曾投入数百万美元购买大量纸质图书，用于提取内容训练 Claude AI 模型，随后再将这些图书销毁。据悉，该公司从 Better World Books 大量采购图书。法院虽然认定，将正版图书用于 AI 训练属于版权法中的「合理使用」，但 Anthropic 因长期保存一个包含 700 万本盗版图书的数据库，侵犯了作者和出版商版权，最终被判赔偿高达 15 亿美元（IT 之家注：现汇率约合 101.62 亿元人民币）。 类似争议也发生在谷歌身上。近期，一个出版商联盟已对谷歌提起诉讼，指控其未经授权使用数百万本受版权保护的图书训练 Gemini AI 模型。 拥有超过 1.11 亿本图书目录信息的在线数据库 ISBNdb，长期以来一直是书商、图书馆和发行商的重要平台。随着 AI 行业迅速发展，ISBNdb 也开始调整业务方向，推出专门面向 AI 企业的大规模图书采购服务。 404 Media 报道称，相关订单规模从一次采购 1000 本到一次采购 100 万本不等。 一位不愿透露姓名的职业书商表示，今年 4 月以来，图书销量出现了前所未有的增长。过去生意好的时候，一周只能卖出约 20 本书；而近几个月，每周销量已飙升至数百本，是平时销量的约五倍。 Alibris 、 Biblio 等二手书交易平台上的其他书商，也反映出现了类似的大宗采购现象。 尽管目前没有确凿证据证明这些采购行为一定来自 ISBNdb 或某家 AI 公司，但其中存在不少异常现象。例如，大规模采购的对象几乎全部都是带有国际标准书号（ISBN）的图书，这种由 13 位数字组成的编码是全球图书唯一识别标识。 此外，这些采购行为几乎没有任何主题、类型或作者偏好，无论是小说、教材还是专业书籍都在采购范围内。更令人意外的是，买家似乎完全不在意价格，即使部分图书明显高于市场价，也会直接买下。 在 Anthropic 的版权诉讼过程中，曾参与 Google Books 项目、后来负责 Anthropic「巴拿马计划（Project Panama）」数字化项目的汤姆 · 哈维（Tom Harvey）证实，Anthropic 曾聘请多家专业文档扫描公司对纸质图书进行数字化处理。 其中一家合作公司是 Datamation Information Services，该公司提供非破坏性扫描和破坏性扫描两种图书数字化服务。 非破坏性扫描通常使用俯拍扫描仪、平板扫描仪或 V 型扫描设备，在不拆解图书的情况下完成数字化。而破坏性扫描则会直接拆开书籍，将每一页送入高速工业扫描仪进行处理。 由于破坏性扫描效率更高、成本更低，因此 AI 公司普遍选择这一方式，最终导致数百万本纸质图书被拆毁。 毫无疑问，纸质图书对于 AI 来说是一座巨大的知识宝库。然而，这种做法也引发了越来越多的伦理争议。 批评者认为，目前尚不清楚 AI 公司在数字化过程中，是否会区分普通图书与珍贵图书、绝版图书。如果这些稀有书籍被拆毁，它们可能将永久退出流通。 另一个更大的问题在于，这些扫描后的内容最终都会进入 AI 公司的私有数据库，仅用于训练 AI，而普通公众无法访问。 这意味着，人们或许能够获得更加智能的 AI，但代价可能是，人类积累的大量知识资源将不再以公开、可获取的形式留给未来世代。AI 公司被曝大量收购旧书，以获取「纯净」训练素材如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-5f8b0d064690562f356a48122ffc83de_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "291 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065707692950123437"
+          }
+        },
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4MTEwMCCUhKXTBjAAOIkCQAJyEzIwNjU3MDc2OTI5NTAxMjM0Mzd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 3,
+          "heat_text": "291 万热度",
+          "heat_value": 2910000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065804781247887148",
+      "title": "多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款，什么情况？这笔损失该由谁承担？",
+      "url": "https://www.zhihu.com/question/2065804781247887148",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "255 万热度",
+      "latest_heat_value": 2550000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1785378250.422253",
+        "card_id": "Q_2065804781247887148",
+        "feed_specific": {
+          "answer_count": 59
+        },
+        "target": {
+          "title_area": {
+            "text": "多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款，什么情况？这笔损失该由谁承担？"
+          },
+          "excerpt_area": {
+            "text": "凌晨时分，人在家中熟睡，手机里的美团账户却在千里之外的陌生城市被疯狂下单——购买的是「牛 ******」「** 铁板烧」等餐饮团购券，券码随后被迅速核销。 近日，红星新闻记者接到陕西、甘肃、广东多地用户反映，其美团账户在本人不知情的情况下遭遇异地盗刷，并且被盗刷的方式都涉及美团月付功能，这些用户都开启了 500 元以下的免密支付。 这些用户的损失金额从一千余元到四千余元不等，他们一部分选择报警，记者获得的处警回执单显示相关警方正在「进一步调查」，另一部分用户表示目前暂未立案。 7 月 28 日，红星新闻记者根据受损用户提供的资料联系美团客服，这些券码核销已无法退款，平台判断用户可能系手机不慎点开恶意链接、感染病毒遭到远程操控下单。如果需要获知被盗刷订单的后台详情，需要通过司法调证程序获取。多位用户称美团账户凌晨遭异地批量盗刷，客服称已核销无法退款 部分用户已报警，有手机曾点击不明链接"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-3f0279eff414b5ed8d92677553fcccfa.png"
+          },
+          "metrics_area": {
+            "text": "255 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065804781247887148"
+          }
+        },
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY4NzE4NSCAuabTBjAAOI4BQARyEzIwNjU4MDQ3ODEyNDc4ODcxNDh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 5,
+          "heat_text": "255 万热度",
+          "heat_value": 2550000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065738421474271320",
+      "title": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2065738421474271320",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "228 万热度",
+      "latest_heat_value": 2280000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1785378250.423495",
+        "card_id": "Q_2065738421474271320",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 47
+        },
+        "target": {
+          "title_area": {
+            "text": "香港 26 岁交易员被拘捕，挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿，如何看待此事？"
+          },
+          "excerpt_area": {
+            "text": "香港 26 岁交易员挪用 5000 万港元，豪赌两倍做多海力士巨亏 1.5 亿港元！香港中环金融区被曝巨额资金挪用案，目前这名男子已被警方以涉嫌盗窃拘捕。 涉案发生于今年自 1 月 9 日至 7 月 20 日期间，这名交易员挪用公司 5000 万港元后，先通过有关机构进行保证金融资，又买入两倍做多海力士 ETF，形成双重杠杆。该 ETF 自今年 6 月底历史高点暴跌超七成。目前相关持仓尚未平仓，最终损失仍存在变数。 该事件是在致富管理公司近期审计查账时被揭发的，虽然集团旗下致富证券火速发声明撇清关系，致富管理公司非证监会持牌公司，只是财富管理投资公司，隶属致富集团。但受事件影响，不少客户出于风控考量，选择从致富证券避险性出金。香港 26 岁交易员被拘捕：挪用 5000 万港元豪赌两倍做多海力士，巨亏 1.5 亿 SK 海力士二季度营业利润增近 6 倍仍不及市场预期，过半利润来自出售铠侠股权的一次性收益，如何解读？韩国股市今年以来第九次触发熔断机制，这一轮下跌最终会如何收场？韩国股市跌到熔断，SK 海力士跌超 13%，纳指四连跌，美股芯片股全线大跌，如何看待全球半导体集体抛售？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-8ed45d01b02768ec782f164d58225f8c_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "228 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065738421474271320"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MjI4MSCzvaXTBjAAOGZABXITMjA2NTczODQyMTQ3NDI3MTMyMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 6,
+          "heat_text": "228 万热度",
+          "heat_value": 2280000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065583157664018461",
+      "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+      "url": "https://www.zhihu.com/question/2065583157664018461",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "216 万热度",
+      "latest_heat_value": 2160000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1785378250.425075",
+        "card_id": "Q_2065583157664018461",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 101
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？"
+          },
+          "excerpt_area": {
+            "text": "Open Markets Institute 的 Matt Scherer 认为，AI 并没有提高企业的生产力，也改善不了经济体系。他认为 AI 带来的单纯生产效率的提升并不能让社会生产力改变。甚至因为垃圾信息和幻觉的存在，导致 AI 给予的只是生产力的幻觉。如何看待他的观点？AI 真的对社会总生产力没有帮助吗？ 见："
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-545262a3d39167685a67b0d546d2f503.png"
+          },
+          "metrics_area": {
+            "text": "216 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065583157664018461"
+          }
+        },
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3ODg4NCCZnKPTBjAAOJ4CQAZyEzIwNjU1ODMxNTc2NjQwMTg0NjF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 7,
+          "heat_text": "216 万热度",
+          "heat_value": 2160000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065588413684831719",
+      "title": "如何评价博主「听泉赏宝」自曝炒股亏光父母积蓄遭拉黑？你有没有因为钱的事跟父母翻过脸？",
+      "url": "https://www.zhihu.com/question/2065588413684831719",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "210 万热度",
+      "latest_heat_value": 2100000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1785378250.425855",
+        "card_id": "Q_2065588413684831719",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 40
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价博主「听泉赏宝」自曝炒股亏光父母积蓄遭拉黑？你有没有因为钱的事跟父母翻过脸？"
+          },
+          "excerpt_area": {
+            "text": "一个能在直播间里一眼看穿假银元、假玉器、假铜镜的人，却看不清真实的自己。 近日，千万粉丝鉴宝博主「听泉赏宝」在直播中宣布彻底告别股市，删掉所有股票软件，撂下一句：「再玩就剁手。」 听泉赏宝，本名丁祥栩，草根出身，泡古玩市场起家。凭着一双毒眼，硬把鉴宝做成了顶级直播，抖音单平台粉丝超千万。路走得太顺，人就容易飘。今年开春迷上炒股，先小赚了几笔，觉得看 K 线跟看古董一样准——眼力嘛，都是通用的。胆子越玩越大，最后盯上了父母的养老钱。 博主「听泉赏宝」炒股亏光父母积蓄遭拉黑 称「再玩剁手」"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-50555c09ba739ae8beec7f13ec3da823.png"
+          },
+          "metrics_area": {
+            "text": "210 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065588413684831719"
+          }
+        },
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3OTA0OCD+paPTBjAAOI4BQAdyEzIwNjU1ODg0MTM2ODQ4MzE3MTl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 8,
+          "heat_text": "210 万热度",
+          "heat_value": 2100000
+        }
+      ]
+    },
+    {
+      "key": "Q_12199984100",
+      "title": "为什么现在都是站在截教一方而把元始天尊描写成坏人？",
+      "url": "https://www.zhihu.com/question/12199984100",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "207 万热度",
+      "latest_heat_value": 2070000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1785378250.428902",
+        "card_id": "Q_12199984100",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 73
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么现在都是站在截教一方而把元始天尊描写成坏人？"
+          },
+          "excerpt_area": {
+            "text": "需知元始天尊徒弟门人数量不足截教十分之一，顶尖战力亦是不如，自身法宝也比不过通天教主的诛仙四剑（诛仙四剑乃是杀伐之器威力无匹，争斗时其它法宝至宝都不如），论弟子辈截教大弟子多宝道人更是法宝无数，对比起来元始天尊的阐教全面落后。 正常发展下阐教弟子门徒都得上榜。 可是元始天尊纵横联合师兄老子西方教准提接引，以情陷通天（师兄弟之情），以理对弟子（不管歪不歪，每次争斗前都占据大义名分），幕后殚精竭虑算尽各种，终于使得阐教以弱胜强，大败看似风光无敌的万仙截教，保存了自己弟子门徒不受封神榜控制。 可以说元始天尊是位出色的政治家，更是位好师尊，徒弟陷入危险哪怕违反天道规则也要出手相助，通天教主却只担心自己违反天道，命令弟子龟缩不出后就不管不顾。 无论从师徒情谊还是以弱胜强，元始天尊都是英雄人物，为什么现在都是站在截教一方而把元始天尊描写成坏人？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-6d1a9c12a20399358e7c64c501d360fc.png"
+          },
+          "metrics_area": {
+            "text": "207 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/12199984100"
+          }
+        },
+        "attached_info": "CkEIjvWvve+u1dEkEAMaCTExMzQxNTkxNiCs+Lq9BjAAOFhACHILMTIxOTk5ODQxMDB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 9,
+          "heat_text": "207 万热度",
+          "heat_value": 2070000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065044616043131031",
+      "title": "为什么广西日报特稿《王的猜想》能获得这么多认同？",
+      "url": "https://www.zhihu.com/question/2065044616043131031",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "206 万热度",
+      "latest_heat_value": 2060000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1785378250.430422",
+        "card_id": "Q_2065044616043131031",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 78
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么广西日报特稿《王的猜想》能获得这么多认同？"
+          },
+          "excerpt_area": {
+            "text": "这两天，新晋菲尔兹奖得主、中国数学家王虹成为全球热议人物。沾她的光，广西云 - 广西日报特稿《王的猜想》在年轻人中「刷屏」了。比起「广西姑娘」我们更喜欢「王的猜想」做标题来讲述这位伟大数学家的学习故事。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-cdee8c43fae130541b62078771590f85.png"
+          },
+          "metrics_area": {
+            "text": "206 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065044616043131031"
+          }
+        },
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY1NDYyMiCLsZvTBjAAOOsBQAlyEzIwNjUwNDQ2MTYwNDMxMzEwMzF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 10,
+          "heat_text": "206 万热度",
+          "heat_value": 2060000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065564412899845853",
+      "title": "麦、福、教培都被扭曲成骂人的词，如何看待脏话外溢这一现象？脏话以象形和谐音方式出现，可能会有哪些影响？",
+      "url": "https://www.zhihu.com/question/2065564412899845853",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "205 万热度",
+      "latest_heat_value": 2050000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1785378250.433070",
+        "card_id": "Q_2065564412899845853",
+        "feed_specific": {
+          "answer_count": 114
+        },
+        "target": {
+          "title_area": {
+            "text": "麦、福、教培都被扭曲成骂人的词，如何看待脏话外溢这一现象？脏话以象形和谐音方式出现，可能会有哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "感觉现在脏话的定义在不断外溢，以谐音和象形词的方式出现，比如麦、伞兵、教培、冯、烧杯都变成了骂人的词语。而且这些词还变成了一些人之间的黑话，一句话里但凡出现这些词一堆人就哈哈大笑。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-f74df336826c43e469520f0c8006efc0_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "205 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065564412899845853"
+          }
+        },
+        "attached_info": "CkoIjvWvve+u1dEkEAMaCTEyMDY3ODMxNyCk+aLTBjAAOKUBQApyEzIwNjU1NjQ0MTI4OTk4NDU4NTN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 11,
+          "heat_text": "205 万热度",
+          "heat_value": 2050000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065729116125521259",
+      "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2065729116125521259",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "181 万热度",
+      "latest_heat_value": 1810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1785378250.437850",
+        "card_id": "Q_2065729116125521259",
+        "feed_specific": {
+          "answer_count": 61
+        },
+        "target": {
+          "title_area": {
+            "text": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "美参议院通过制裁俄罗斯和伊朗法案程序性投票 央视新闻消息，当地时间 7 月 28 日，美国参议院以 86 票赞成、 12 票反对的投票结果，通过了一项旨在制裁俄罗斯和伊朗的法案程序性投票。 根据法案内容，美国将对继续购买俄罗斯石油和天然气的国家征收 100% 的二级关税。 此外，法案还新增条款，延长原定于今年年底到期的对伊朗制裁措施，确保相关制裁继续生效。美参议院通过制裁俄罗斯和伊朗法案程序性投票"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-604ed02bfb9a152972eb2abf9f5f71d8.png"
+          },
+          "metrics_area": {
+            "text": "181 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065729116125521259"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MTgyMyCIrKXTBjAAOFhADHITMjA2NTcyOTExNjEyNTUyMTI1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 13,
+          "heat_text": "181 万热度",
+          "heat_value": 1810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065521778198421619",
+      "title": "钢铁侠、蜘蛛侠、蝙蝠侠，是不是就是「美漫三巨头」？",
+      "url": "https://www.zhihu.com/question/2065521778198421619",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "145 万热度",
+      "latest_heat_value": 1450000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1785378250.438559",
+        "card_id": "Q_2065521778198421619",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "钢铁侠、蜘蛛侠、蝙蝠侠，是不是就是「美漫三巨头」？"
+          },
+          "excerpt_area": {
+            "text": "「美漫三巨头」是不是就是指代：钢铁侠、蜘蛛侠、蝙蝠侠。 至于超人，超人北美票房永远无法超过 3 亿，全球票房永远无法超过 7 亿，大部分超人电影全是赔钱货，比如今年的《超女》，超人根本没资格称「巨头」，其实蝙蝠侠和钢、虫比 都有凑数嫌疑，但其他人物更烂，那就钢、蝙、虫，三巨头 The Hit House《basalt》音乐 Alan Silvestri《The Avengers (From 「The Avengers」/Score)》音乐"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-8cbada787cc8467363153477f8356368_b.jpg"
+          },
+          "metrics_area": {
+            "text": "145 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065521778198421619"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY3NjgxOSDvqaLTBjAAOCxADXITMjA2NTUyMTc3ODE5ODQyMTYxOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 14,
+          "heat_text": "145 万热度",
+          "heat_value": 1450000
+        }
+      ]
+    },
+    {
+      "key": "Q_2061765916732478472",
+      "title": "四川网友认为麻辣烫是川菜，东北网友认为麻辣烫是东北菜，谁是对的？",
+      "url": "https://www.zhihu.com/question/2061765916732478472",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "140 万热度",
+      "latest_heat_value": 1400000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1785378250.439472",
+        "card_id": "Q_2061765916732478472",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 83
+        },
+        "target": {
+          "title_area": {
+            "text": "四川网友认为麻辣烫是川菜，东北网友认为麻辣烫是东北菜，谁是对的？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-6efaadb7d45956232616b44d76d0d34a_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "140 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2061765916732478472"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDUxODk2NiCE1uvSBjAAOFJADnITMjA2MTc2NTkxNjczMjQ3ODQ3MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 15,
+          "heat_text": "140 万热度",
+          "heat_value": 1400000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065732271441539585",
+      "title": "国家安全机关提醒打印机的废旧硒鼓可能泄密，这是如何发生的？哪些办公设备也存在类似风险？",
+      "url": "https://www.zhihu.com/question/2065732271441539585",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "137 万热度",
+      "latest_heat_value": 1370000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1785378250.439948",
+        "card_id": "Q_2065732271441539585",
+        "feed_specific": {
+          "answer_count": 65
+        },
+        "target": {
+          "title_area": {
+            "text": "国家安全机关提醒打印机的废旧硒鼓可能泄密，这是如何发生的？哪些办公设备也存在类似风险？"
+          },
+          "excerpt_area": {
+            "text": "办公自动化设备是现代化办公的重要支撑，其信息安全防护直接关系国家秘密和敏感数据的安全。实践中，部分机关、单位对办公自动化设备存在的安全风险认知不足、保密技术防护常识欠缺，无形中为窃密泄密洞开了「方便之门」。 废旧硒鼓暗藏泄密风险 某单位办公用品供应商郑某以环保回收名义，回收该单位打印机的废旧硒鼓，单位经办人王某将载有大量国家秘密信息的硒鼓交给郑某。郑某经简单操作，将废旧硒鼓曾经打印的涉密文件，再次打印出来，并出售给境外组织。后郑某因间谍案件被抓捕，此事随之暴露。事件发生后，王某被有关部门给予党纪政务处分。 涉密信息设备的硒鼓、硬盘、内存条等核心部件是国家秘密信息的「隐形仓库」，其残留信息具有可复原性。以硒鼓为例，根据激光打印机的工作原理，在打印时，硒鼓表面上会绘制所打印内容的图文信息，不法分子回收废旧硒鼓后，可使用专门工具和技术，分析感光鼓表面残留的静电电荷或碳粉分布，在特定光照和显影条件下部分还原出打印内容的轮廓。另外，硒鼓存储芯片中的日志数据、设备序列号等，亦存在被恶意读取的风险。因此，废旧涉密信息设备若未经专业信息消除或物理销毁即流入社会，可能导致国家秘密信息泄露，造成不可挽回的损失。 保密提醒 机关、单位应当严格区分涉密信息设备和非涉密信息设备，实行分类管理。涉密信息设备的使用、维修维护、报废等全流程应当遵守有关保密管理规定，涉密存储部件的信息消除、数据恢复，淘汰、报废应送交保密行政管理部门设立的工作机构或者指定的单位进行，并严格履行审批、清点、登记、交接手续，严禁私自拆卸、转送、捐赠他人，更不能当作废品出售或者随意丢弃。 （来源：保密观）"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-ce012e3a93e80f3c43da9b5c1baa7f8a_b.jpg"
+          },
+          "metrics_area": {
+            "text": "137 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065732271441539585"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MTk4NSD4saXTBjAAOGtAD3ITMjA2NTczMjI3MTQ0MTUzOTU4NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 16,
+          "heat_text": "137 万热度",
+          "heat_value": 1370000
+        }
+      ]
+    },
+    {
+      "key": "Q_1896081051639583956",
+      "title": "西游记原著里，最惨的一个人物是谁？",
+      "url": "https://www.zhihu.com/question/1896081051639583956",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "135 万热度",
+      "latest_heat_value": 1350000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1785378250.441468",
+        "card_id": "Q_1896081051639583956",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "西游记原著里，最惨的一个人物是谁？"
+          },
+          "excerpt_area": {
+            "text": "西游记里的人物，多种多样，有的是打卡刷脸，有的是无辜惨死。 比如玉面狐狸，法力低微，不入流的一个。不过是贪恋牛哥的一身肌肉块子，看家护院保财产，并没有搞什么坏事。结果反而被打死了……那还有哪些悲惨的人物呢？最惨的是谁？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-c500ea3243dcbc8d9d4ec413a26bfdd4.png"
+          },
+          "metrics_area": {
+            "text": "135 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1896081051639583956"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTExNDUzNzc4MiD20YDABjAAOC9AEHITMTg5NjA4MTA1MTYzOTU4Mzk1NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 17,
+          "heat_text": "135 万热度",
+          "heat_value": 1350000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065729146383071132",
+      "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+      "url": "https://www.zhihu.com/question/2065729146383071132",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "125 万热度",
+      "latest_heat_value": 1250000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1785378250.443224",
+        "card_id": "Q_2065729146383071132",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？"
+          },
+          "excerpt_area": {
+            "text": "会对 AI 后续的发展产生影响吗？OpenAI 、谷歌、 Anthropic 等企业上千员工联名请愿美国政府 | 界面新闻 · 快讯"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-97888bb4c0392bcc4f7d92a44fb6889b.png"
+          },
+          "metrics_area": {
+            "text": "125 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065729146383071132"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4MTgyNyCPrKXTBjAAOCVAEnITMjA2NTcyOTE0NjM4MzA3MTEzMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 19,
+          "heat_text": "125 万热度",
+          "heat_value": 1250000
+        }
+      ]
+    },
+    {
+      "key": "Q_2063965616872974014",
+      "title": "国务院成立广西六蓝水库溃坝灾害调查评估组，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2063965616872974014",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "116 万热度",
+      "latest_heat_value": 1160000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1785378250.448380",
+        "card_id": "Q_2063965616872974014",
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "国务院成立广西六蓝水库溃坝灾害调查评估组，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "国务院成立调查评估组，由应急管理部牵头，自然资源部、住房城乡建设部、水利部、农业农村部、国家发展改革委、工业和信息化部、公安部、财政部、交通运输部、中国气象局、国家能源局、国家消防救援局和广西壮族自治区人民政府等相关方面参加，对广西南宁横州市六蓝水库「7·6」溃坝灾害进行调查评估。 7 月 24 日，国务院广西南宁横州市六蓝水库「7·6」溃坝灾害调查评估组在广西南宁召开第一次全体会议。国务院调查评估组组长、应急管理部副部长陈敏主持会议，通报调查评估安排、提出工作要求。 会议开始前，与会同志全体肃立，向广西南宁横州市六蓝水库「7·6」溃坝灾害遇难者默哀。 会议强调，调查评估组要认真贯彻落实习近平总书记重要指示精神和党中央、国务院决策部署，按照「科学严谨、依法依规、实事求是、注重实效」的原则，全面复盘灾害发生过程，全方位查明查实灾害原因，全链条查清查透灾害防范应对和应急处置问题与责任，以高度的政治责任感做好调查评估工作。同时，会议要求，各地各有关部门要深刻汲取教训、举一反三，树牢底线思维、极限思维，采取有效措施做好防汛救灾各项工作，确保人民群众生命财产安全。 国务院调查评估组全体成员，中央纪委国家监委有关部门负责同志出席会议。更多资讯请下载央视新闻客户端"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-07422f5b083623a7eb77828380e58235_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "116 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2063965616872974014"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDYxMTc3NCCl14vTBjAAOFVAE3ITMjA2Mzk2NTYxNjg3Mjk3NDAxNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 20,
+          "heat_text": "116 万热度",
+          "heat_value": 1160000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065848531777052742",
+      "title": "内马尔正式宣布结束巴西国家队生涯，代表巴西队共出战 129 场，如何评价他在国家队的职业生涯？",
+      "url": "https://www.zhihu.com/question/2065848531777052742",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "115 万热度",
+      "latest_heat_value": 1150000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1785378250.449649",
+        "card_id": "Q_2065848531777052742",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "内马尔正式宣布结束巴西国家队生涯，代表巴西队共出战 129 场，如何评价他在国家队的职业生涯？"
+          },
+          "excerpt_area": {
+            "text": "北京时间 7 月 29 日，南美洲杯附加赛次回合，桑托斯 4-2 、两回合总比分 8-3 淘汰委内瑞拉中央大学。此役内马尔半场替补登场，他在赛后接受采访时表示，自己在巴西国家队的时光已经结束。 「我觉得已经结束了。我在那里创造了历史，经历了许多，奉献了我的全部，我总是拼尽全力想穿上这件国家队黄衫，但我现在已经不想再继续了。」 此前，内马尔代表巴西队共出战 129 场，打入 80 球，稳居队史射手王。美加墨世界杯，他共登场两次，对阵挪威队的收官战尾声，他打入一粒点球，却无力挽回败局。内马尔宣布结束巴西国家队生涯！"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-05b174d2e9f183c15e1867f27a07644c_b.jpg"
+          },
+          "metrics_area": {
+            "text": "115 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065848531777052742"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY5MDk3NSC/iqfTBjAAOD9AFHITMjA2NTg0ODUzMTc3NzA1Mjc0MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 21,
+          "heat_text": "115 万热度",
+          "heat_value": 1150000
+        }
+      ]
+    },
+    {
+      "key": "Q_1936674317602632708",
+      "title": "以当前的情况看，人类还能阻止全球变暖吗？",
+      "url": "https://www.zhihu.com/question/1936674317602632708",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1785378250.450785",
+        "card_id": "Q_1936674317602632708",
+        "feed_specific": {
+          "answer_count": 32
+        },
+        "target": {
+          "title_area": {
+            "text": "以当前的情况看，人类还能阻止全球变暖吗？"
+          },
+          "excerpt_area": {
+            "text": "如题"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-0823fed1f7b1e8b447164d79aaa9c95e_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1936674317602632708"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTExNjEwOTQwNCDirM/EBjAAOElAFXITMTkzNjY3NDMxNzYwMjYzMjcwOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 22,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2059661870978557241",
+      "title": "在 DDR5 时代，DDR3 内存为什么仍然有市场？",
+      "url": "https://www.zhihu.com/question/2059661870978557241",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1785378250.455022",
+        "card_id": "Q_2059661870978557241",
+        "feed_specific": {
+          "answer_count": 36
+        },
+        "target": {
+          "title_area": {
+            "text": "在 DDR5 时代，DDR3 内存为什么仍然有市场？"
+          },
+          "excerpt_area": {
+            "text": "看到 DDR3 内存在网上还有大量在卖，很好奇它现在主要用在什么场景，为什么在 DDR5 普及后还能有需求。"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-105852ba37c0f76f06c0374994691400_b.jpg"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2059661870978557241"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDQyNjYwNiD4hs3SBjAAOEtAFnITMjA1OTY2MTg3MDk3ODU1NzI0MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 23,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065437203300364298",
+      "title": "C 罗因无世界杯冠军遭航空公司公开嘲讽，你如何看待这种营销行为？",
+      "url": "https://www.zhihu.com/question/2065437203300364298",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1785378250.457104",
+        "card_id": "Q_2065437203300364298",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "C 罗因无世界杯冠军遭航空公司公开嘲讽，你如何看待这种营销行为？"
+          },
+          "excerpt_area": {
+            "text": "#C 罗无世界杯冠军遭航空公司嘲讽# 欧洲的瑞安航空公司近日在社媒整了个大活，他们转发了 C 罗 30 岁与 40 岁的肌肉对比图，配文却写着：「0 世界杯冠军 vs 0 世界杯冠军」，调侃 C 罗 10 年过去仍未捧起大力神杯。这是小编切错了账号吗？世界杯 c 罗无世界杯冠军遭航空公司嘲讽"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-ebeeba610a30994576862a0bb14214f9_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065437203300364298"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY3MTY2OCCrjKHTBjAAODFAF3ITMjA2NTQzNzIwMzMwMDM2NDI5OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 24,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065957695853745288",
+      "title": "美联储主席沃什或暂缓加息，此决定背后主要出于哪些考量？",
+      "url": "https://www.zhihu.com/question/2065957695853745288",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1785378250.464641",
+        "card_id": "Q_2065957695853745288",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "美联储主席沃什或暂缓加息，此决定背后主要出于哪些考量？"
+          },
+          "excerpt_area": {
+            "text": "核心要点尽管最新通胀数据有所降温，但油价走高、美伊地缘矛盾再度紧张，让美联储主席凯文・沃什的政策抉择变得复杂，市场预计美联储 7 月会议按兵不动。自 2021 年以来，美国通胀始终高于 2% 的政策目标，沃什接手美联储后一直面临控通胀压力。上月美国消费者物价指数（CPI，衡量通胀的核心广谱指标）意外回落，6 月整体通胀同比降至 3.5%。但此后数周，中东冲突不断升级，油价再度暴涨。芝加哥商业交易所的美联储利率观测工具（FedWatch）数据显示，交易机构下调了本周美联储加息的预期，市场定价显示加息更大概率落在 9 月。哥伦比亚商学院经济学教授布雷特・豪斯表示，美国总统特朗普一直呼吁下调联邦基金利率，但对沃什而言，稳定物价仍是首要难题。「特朗普希望降息，但短期大概率难以如愿，总统与美联储的政策诉求或将出现矛盾。」美联储政策如何影响你的钱袋子美联储基准利率，指美国银行之间隔夜互相拆借资金的参考利率。该利率会传导至全市场，左右各类个人贷款、存款储蓄利率。短期贷款利率紧密挂钩最优惠利率（基准利率），而优惠利率通常固定比联邦基金利率高 3 个百分点；中长期贷款利率更多受通胀预期、整体宏观经济环境影响。豪斯表示：「普通人要明白，日常接触的各类利率并非完全由美联储说了算，债券市场对居民借贷成本的影响同样巨大。」各类民生借贷详细影响储蓄理财收益存款利率整体跟随联邦基金利率涨跌。本次美联储维持利率不变，各类储蓄产品收益依旧保持高位。舒尔茨点评：「当下依旧适合存钱。大额存单、高息储蓄账户收益率虽较几年前高点有所回落，但放在历史维度依旧可观，这类高收益大概率还会持续一段时间。」责任编辑：郭明煜 美联储主席沃什或因多重考量在本次会议暂缓加息"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-cc6de7f59207e7dd869f3eede6229ded_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065957695853745288"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY5NDU1NiDq1ajTBjAAOCFAGHITMjA2NTk1NzY5NTg1Mzc0NTI4OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 25,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_2063666246751630157",
+      "title": "马斯克继续叫板诺兰及《奥德赛》，准备用 Grok 生成 AI 电影版《奥德赛》并做到还原历史，你如何看待？",
+      "url": "https://www.zhihu.com/question/2063666246751630157",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "112 万热度",
+      "latest_heat_value": 1120000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1785378250.468971",
+        "card_id": "Q_2063666246751630157",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "马斯克继续叫板诺兰及《奥德赛》，准备用 Grok 生成 AI 电影版《奥德赛》并做到还原历史，你如何看待？"
+          },
+          "excerpt_area": {
+            "text": "@桃桃桃电影：马斯克继续跟诺兰的《奥德赛》开杠。 他在 X 上宣布，旗下 AI 工具 Grok Imagine 将在今年年底前生成一部长篇 AI 电影《奥德赛》。他转发了一段网友用该工具制作的 3 分钟短片，并表示这部作品会做到「还原历史」，忠实于荷马的原著。 这一表态是对诺兰执导的真人版《奥德赛》的回应。诺兰版《奥德赛》上映后票房表现强劲，首周末全球斩获 2.64 亿美元。但在影片上映前，马斯克曾公开抨击该片的选角，特别是对露皮塔·尼永奥饰演海伦表示不满。而他这次转发的 AI 短片中，角色全为白人形象。"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "112 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2063666246751630157"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDYwMDczMSDWqYfTBjAAOBRAGXITMjA2MzY2NjI0Njc1MTYzMDE1N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 26,
+          "heat_text": "112 万热度",
+          "heat_value": 1120000
+        }
+      ]
+    },
+    {
+      "key": "Q_2063323893847396370",
+      "title": "上海血液中心献血送「战锤 40k」模型，这种跨界激励模式效果如何？",
+      "url": "https://www.zhihu.com/question/2063323893847396370",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "111 万热度",
+      "latest_heat_value": 1110000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1785378250.471823",
+        "card_id": "Q_2063323893847396370",
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "上海血液中心献血送「战锤 40k」模型，这种跨界激励模式效果如何？"
+          },
+          "excerpt_area": {
+            "text": "上海市血液中心推出「酷暑热血潮玩季」活动，7 月 24 日至 8 月 2 日期间在指定地点献血可获得 1 个「暗源战锤 40K」系列模型。#献血拿战锤 40K 模型#"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-a3b0faf7b6b72d6fab93f9ebd3b2a51d_b.jpg"
+          },
+          "metrics_area": {
+            "text": "111 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2063323893847396370"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDU4NTgzNSD/q4LTBjAAOB1AGnITMjA2MzMyMzg5Mzg0NzM5NjM3MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 27,
+          "heat_text": "111 万热度",
+          "heat_value": 1110000
+        }
+      ]
+    },
+    {
+      "key": "Q_2058187951599608359",
+      "title": "为什么搞文艺的青年多在北京？是北京的包容性更大，还是这里的机会多？",
+      "url": "https://www.zhihu.com/question/2058187951599608359",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1785378250.472918",
+        "card_id": "Q_2058187951599608359",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么搞文艺的青年多在北京？是北京的包容性更大，还是这里的机会多？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-049340a916a7bcc25f715cffb1ed4eb2.png"
+          },
+          "metrics_area": {
+            "text": "105 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2058187951599608359"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDM2MDE5MCDGzbfSBjAAOE1AG3ITMjA1ODE4Nzk1MTU5OTYwODM1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 28,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065766331258082569",
+      "title": "如何看待罗德里在世界杯后想要加盟皇马？",
+      "url": "https://www.zhihu.com/question/2065766331258082569",
+      "first_seen": "2026-07-30 10:24:10 +0800",
+      "last_seen": "2026-07-30 10:24:10 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "97 万热度",
+      "latest_heat_value": 970000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1785378250.473651",
+        "card_id": "Q_2065766331258082569",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待罗德里在世界杯后想要加盟皇马？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-928fd13003bf0a8949d7e4f09f5b64a1_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "97 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065766331258082569"
+          }
+        },
+        "attached_info": "CkkIjvWvve+u1dEkEAMaCTEyMDY4NTQ1MyCx8aXTBjAAOBdAHHITMjA2NTc2NjMzMTI1ODA4MjU2OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-07-30 10:24:10 +0800",
+          "rank": 29,
+          "heat_text": "97 万热度",
+          "heat_value": 970000
         }
       ]
     }
