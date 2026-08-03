@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-08-03 10:47:12 +0800",
+  "updated_at": "2026-08-03 14:23:01 +0800",
   "items": [
     {
       "key": "Q_2067249773761880647",
@@ -263,18 +263,23 @@
       "title": "如果我有每天一吨的可稳定供应的西葫芦炖茄子，可以发财吗？",
       "url": "https://www.zhihu.com/question/2017228756352266760",
       "first_seen": "2026-08-03 00:00:15 +0800",
-      "last_seen": "2026-08-03 03:09:06 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 5,
-      "latest_rank": 5,
-      "latest_heat_text": "239 万热度",
-      "latest_heat_value": 2390000,
+      "latest_rank": 10,
+      "latest_heat_text": "132 万热度",
+      "latest_heat_value": 1320000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1785697746.184317",
+        "id": "9_1785738181.221450",
         "card_id": "Q_2017228756352266760",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 61
+          "answer_count": 71
         },
         "target": {
           "title_area": {
@@ -287,7 +292,7 @@
             "url": "https://picx.zhimg.com/80/v2-bf22d2b164ec4ec45ba2a0437bd47044_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "239 万热度",
+            "text": "132 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -302,7 +307,7 @@
             "url": "https://www.zhihu.com/question/2017228756352266760"
           }
         },
-        "attached_info": "CkoIuI695ouj/8BSEAMaCTExODc4OTQxNCCNyePNBjAAOLEBQARyEzIwMTcyMjg3NTYzNTIyNjY3NjB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTExODc4OTQxNCCNyePNBjAAOMUBQAlyEzIwMTcyMjg3NTYzNTIyNjY3NjB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -316,6 +321,12 @@
           "rank": 5,
           "heat_text": "239 万热度",
           "heat_value": 2390000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 10,
+          "heat_text": "132 万热度",
+          "heat_value": 1320000
         }
       ]
     },
@@ -2430,18 +2441,18 @@
       "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
       "url": "https://www.zhihu.com/question/2063895390546563948",
       "first_seen": "2026-08-03 05:56:11 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 5,
       "latest_rank": 2,
-      "latest_heat_text": "435 万热度",
-      "latest_heat_value": 4350000,
+      "latest_heat_text": "562 万热度",
+      "latest_heat_value": 5620000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1785725231.964265",
+        "id": "1_1785738181.204871",
         "card_id": "Q_2063895390546563948",
         "feed_specific": {
-          "answer_count": 113
+          "answer_count": 211
         },
         "target": {
           "title_area": {
@@ -2454,7 +2465,7 @@
             "url": "https://picx.zhimg.com/80/v2-666b1e475d0be6710f28236fc0328bf6_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "435 万热度",
+            "text": "562 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2469,7 +2480,7 @@
             "url": "https://www.zhihu.com/question/2063895390546563948"
           }
         },
-        "attached_info": "CkoIhqW+3Z7cv6VVEAMaCTEyMDYwNjY1OSC+1IrTBjAAOOcBQAFyEzIwNjM4OTUzOTA1NDY1NjM5NDh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDYwNjY1OSC+1IrTBjAAOKgDQAFyEzIwNjM4OTUzOTA1NDY1NjM5NDh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2483,6 +2494,12 @@
           "rank": 2,
           "heat_text": "435 万热度",
           "heat_value": 4350000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 2,
+          "heat_text": "562 万热度",
+          "heat_value": 5620000
         }
       ]
     },
@@ -2601,18 +2618,23 @@
       "title": "如何看待同济大学教师考核新规取消长期聘任，这是全员非升即走吗？可能会对教师、学生、学术环境有何影响？",
       "url": "https://www.zhihu.com/question/2067235011804320517",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 1,
       "latest_rank": 1,
-      "latest_heat_text": "1634 万热度",
-      "latest_heat_value": 16340000,
+      "latest_heat_text": "2456 万热度",
+      "latest_heat_value": 24560000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1785725231.962528",
+        "id": "0_1785738181.202943",
         "card_id": "Q_2067235011804320517",
+        "card_label": {
+          "type": "boiling",
+          "icon": "https://pic1.zhimg.com/80/v2-a8ec286ae756c2ab8377774b27f8ebc7_1440w.png",
+          "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 304
+          "answer_count": 500
         },
         "target": {
           "title_area": {
@@ -2625,7 +2647,7 @@
             "url": "https://picx.zhimg.com/v2-52e9601ea64f4329cb73b181f6dd1c33.png"
           },
           "metrics_area": {
-            "text": "1634 万热度",
+            "text": "2456 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2640,7 +2662,7 @@
             "url": "https://www.zhihu.com/question/2067235011804320517"
           }
         },
-        "attached_info": "CkoIhqW+3Z7cv6VVEAMaCTEyMDc0NTE4NiCCobvTBjAAOJUHQAByEzIwNjcyMzUwMTE4MDQzMjA1MTd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDc0NTE4NiCCobvTBjAAONkLQAByEzIwNjcyMzUwMTE4MDQzMjA1MTd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2648,6 +2670,12 @@
           "rank": 1,
           "heat_text": "1634 万热度",
           "heat_value": 16340000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 1,
+          "heat_text": "2456 万热度",
+          "heat_value": 24560000
         }
       ]
     },
@@ -2656,18 +2684,23 @@
       "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
       "url": "https://www.zhihu.com/question/2066988587279718231",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 3,
       "latest_rank": 3,
-      "latest_heat_text": "422 万热度",
-      "latest_heat_value": 4220000,
+      "latest_heat_text": "509 万热度",
+      "latest_heat_value": 5090000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1785725231.972400",
+        "id": "2_1785738181.206547",
         "card_id": "Q_2066988587279718231",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 80
+          "answer_count": 142
         },
         "target": {
           "title_area": {
@@ -2680,7 +2713,7 @@
             "url": "https://picx.zhimg.com/80/v2-44531825e5d55a9eabe2c9c4b0144019_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "422 万热度",
+            "text": "509 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2695,7 +2728,7 @@
             "url": "https://www.zhihu.com/question/2066988587279718231"
           }
         },
-        "attached_info": "CkoIhqW+3Z7cv6VVEAMaCTEyMDczNzQwMiCC1rfTBjAAOMEBQAJyEzIwNjY5ODg1ODcyNzk3MTgyMzF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDczNzQwMiCC1rfTBjAAOM8CQAJyEzIwNjY5ODg1ODcyNzk3MTgyMzF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2703,6 +2736,12 @@
           "rank": 3,
           "heat_text": "422 万热度",
           "heat_value": 4220000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 3,
+          "heat_text": "509 万热度",
+          "heat_value": 5090000
         }
       ]
     },
@@ -2826,23 +2865,18 @@
       "title": "美团联合苏州上线「等灯停表」并将在 20 城试点，能缓解外卖骑手的时间压力吗？这一功能值得全国推广吗？",
       "url": "https://www.zhihu.com/question/2066562892879738224",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 7,
       "latest_rank": 7,
-      "latest_heat_text": "129 万热度",
-      "latest_heat_value": 1290000,
+      "latest_heat_text": "195 万热度",
+      "latest_heat_value": 1950000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "6_1785725231.976078",
+        "id": "6_1785738181.217457",
         "card_id": "Q_2066562892879738224",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 30
+          "answer_count": 108
         },
         "target": {
           "title_area": {
@@ -2855,7 +2889,7 @@
             "url": "https://pic4.zhimg.com/v2-d00451692647f5541e760fb1da225d7f_1440w.jpg"
           },
           "metrics_area": {
-            "text": "129 万热度",
+            "text": "195 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2870,7 +2904,7 @@
             "url": "https://www.zhihu.com/question/2066562892879738224"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTEyMDcyMTMyMSCMvbHTBjAAODBABnITMjA2NjU2Mjg5Mjg3OTczODIyNHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDcyMTMyMSCMvbHTBjAAOLMBQAZyEzIwNjY1NjI4OTI4Nzk3MzgyMjR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2878,6 +2912,12 @@
           "rank": 7,
           "heat_text": "129 万热度",
           "heat_value": 1290000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 7,
+          "heat_text": "195 万热度",
+          "heat_value": 1950000
         }
       ]
     },
@@ -3061,18 +3101,18 @@
       "title": "赛里木湖工作人员打人事件整改通报，7 人被行拘，优化自驾服务费，这样整改能治本吗？景区乱象问题出在哪？",
       "url": "https://www.zhihu.com/question/2067514329159524700",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 12,
-      "latest_rank": 12,
-      "latest_heat_text": "113 万热度",
-      "latest_heat_value": 1130000,
+      "latest_rank": 21,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1785725231.981679",
+        "id": "20_1785738181.244292",
         "card_id": "Q_2067514329159524700",
         "feed_specific": {
-          "answer_count": 64
+          "answer_count": 110
         },
         "target": {
           "title_area": {
@@ -3085,7 +3125,7 @@
             "url": "https://picx.zhimg.com/80/v2-fa1aca04da9560fdd5354da9afac6854_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "113 万热度",
+            "text": "87 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3100,7 +3140,7 @@
             "url": "https://www.zhihu.com/question/2067514329159524700"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTEyMDc1MzYyOCCkqb/TBjAAOGxAC3ITMjA2NzUxNDMyOTE1OTUyNDcwMHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDc1MzYyOCCkqb/TBjAAOM0BQBRyEzIwNjc1MTQzMjkxNTk1MjQ3MDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3108,6 +3148,12 @@
           "rank": 12,
           "heat_text": "113 万热度",
           "heat_value": 1130000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 21,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
         }
       ]
     },
@@ -3176,18 +3222,18 @@
       "title": "如何看待雷军在发布会最后说「晚安」被指营销？",
       "url": "https://www.zhihu.com/question/2067158057784718693",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 16,
       "latest_rank": 16,
-      "latest_heat_text": "100 万热度",
-      "latest_heat_value": 1000000,
+      "latest_heat_text": "103 万热度",
+      "latest_heat_value": 1030000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1785725231.986192",
+        "id": "15_1785738181.234332",
         "card_id": "Q_2067158057784718693",
         "feed_specific": {
-          "answer_count": 67
+          "answer_count": 111
         },
         "target": {
           "title_area": {
@@ -3200,7 +3246,7 @@
             "url": "https://picx.zhimg.com/80/v2-8219f4e148030fe0956f8934f653d159_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "100 万热度",
+            "text": "103 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3215,7 +3261,7 @@
             "url": "https://www.zhihu.com/question/2067158057784718693"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTEyMDc0MDgwMSDWkbrTBjAAOFRAD3ITMjA2NzE1ODA1Nzc4NDcxODY5M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDc0MDgwMSDWkbrTBjAAOJgBQA9yEzIwNjcxNTgwNTc3ODQ3MTg2OTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3223,6 +3269,12 @@
           "rank": 16,
           "heat_text": "100 万热度",
           "heat_value": 1000000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 16,
+          "heat_text": "103 万热度",
+          "heat_value": 1030000
         }
       ]
     },
@@ -3286,23 +3338,18 @@
       "title": "邓煜团队证明微观粒子可以推导出 N‑S 方程，未来会改变 Fluent 这类 CFD 仿真软件吗？",
       "url": "https://www.zhihu.com/question/2064355224899395856",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 18,
-      "latest_rank": 18,
-      "latest_heat_text": "96 万热度",
-      "latest_heat_value": 960000,
+      "latest_rank": 11,
+      "latest_heat_text": "129 万热度",
+      "latest_heat_value": 1290000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "17_1785725231.995150",
+        "id": "10_1785738181.223504",
         "card_id": "Q_2064355224899395856",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 27
+          "answer_count": 40
         },
         "target": {
           "title_area": {
@@ -3315,7 +3362,7 @@
             "url": "https://pica.zhimg.com/v2-aa6aa1faa7823befe4d9f75c47653797.png"
           },
           "metrics_area": {
-            "text": "96 万热度",
+            "text": "129 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3330,7 +3377,7 @@
             "url": "https://www.zhihu.com/question/2064355224899395856"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTEyMDYyNzk0MyD/rJHTBjAAOFFAEXITMjA2NDM1NTIyNDg5OTM5NTg1NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDYyNzk0MyD/rJHTBjAAOJwBQApyEzIwNjQzNTUyMjQ4OTkzOTU4NTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3338,6 +3385,12 @@
           "rank": 18,
           "heat_text": "96 万热度",
           "heat_value": 960000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 11,
+          "heat_text": "129 万热度",
+          "heat_value": 1290000
         }
       ]
     },
@@ -3406,18 +3459,18 @@
       "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
       "url": "https://www.zhihu.com/question/2065724643378570793",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 20,
-      "latest_rank": 20,
-      "latest_heat_text": "95 万热度",
-      "latest_heat_value": 950000,
+      "latest_rank": 17,
+      "latest_heat_text": "103 万热度",
+      "latest_heat_value": 1030000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1785725231.996436",
+        "id": "16_1785738181.235948",
         "card_id": "Q_2065724643378570793",
         "feed_specific": {
-          "answer_count": 42
+          "answer_count": 67
         },
         "target": {
           "title_area": {
@@ -3430,7 +3483,7 @@
             "url": "https://picx.zhimg.com/80/v2-eb537f7829527d043d00cef28cf704ff_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "95 万热度",
+            "text": "103 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3445,7 +3498,7 @@
             "url": "https://www.zhihu.com/question/2065724643378570793"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTEyMDY4MTY3MiDeo6XTBjAAOGBAE3ITMjA2NTcyNDY0MzM3ODU3MDc5M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDY4MTY3MiDeo6XTBjAAOKYBQBByEzIwNjU3MjQ2NDMzNzg1NzA3OTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3453,6 +3506,12 @@
           "rank": 20,
           "heat_text": "95 万热度",
           "heat_value": 950000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 17,
+          "heat_text": "103 万热度",
+          "heat_value": 1030000
         }
       ]
     },
@@ -3461,18 +3520,18 @@
       "title": "哥哥离世两次请假被拒，男子返乡奔丧被辞退后起诉公司赔款，奔丧算「擅自离岗」吗？公司的行为违法了吗？",
       "url": "https://www.zhihu.com/question/2066121773574369559",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 21,
-      "latest_rank": 21,
-      "latest_heat_text": "94 万热度",
-      "latest_heat_value": 940000,
+      "latest_rank": 6,
+      "latest_heat_text": "221 万热度",
+      "latest_heat_value": 2210000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "20_1785725231.997517",
+        "id": "5_1785738181.215621",
         "card_id": "Q_2066121773574369559",
         "feed_specific": {
-          "answer_count": 20
+          "answer_count": 84
         },
         "target": {
           "title_area": {
@@ -3485,7 +3544,7 @@
             "url": "https://pica.zhimg.com/v2-a322ade33543ab1cc2440a2b2d80f1c0.png"
           },
           "metrics_area": {
-            "text": "94 万热度",
+            "text": "221 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3500,7 +3559,7 @@
             "url": "https://www.zhihu.com/question/2066121773574369559"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTEyMDY5OTYwNyC5h6vTBjAAOCFAFHITMjA2NjEyMTc3MzU3NDM2OTU1OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDY5OTYwNyC5h6vTBjAAOLIBQAVyEzIwNjYxMjE3NzM1NzQzNjk1NTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3508,6 +3567,12 @@
           "rank": 21,
           "heat_text": "94 万热度",
           "heat_value": 940000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 6,
+          "heat_text": "221 万热度",
+          "heat_value": 2210000
         }
       ]
     },
@@ -3686,18 +3751,18 @@
       "title": "为什么《西游记》里的妖怪大都是神仙的坐骑？",
       "url": "https://www.zhihu.com/question/14040809164",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 26,
-      "latest_rank": 26,
-      "latest_heat_text": "82 万热度",
-      "latest_heat_value": 820000,
+      "latest_rank": 25,
+      "latest_heat_text": "78 万热度",
+      "latest_heat_value": 780000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1785725232.3130",
+        "id": "24_1785738181.249070",
         "card_id": "Q_14040809164",
         "feed_specific": {
-          "answer_count": 32
+          "answer_count": 50
         },
         "target": {
           "title_area": {
@@ -3708,66 +3773,6 @@
           },
           "image_area": {
             "url": "https://picx.zhimg.com/80/v2-4622a2999c62b3cba2e8649158d42eae_1440w.webp?source=1def8aca"
-          },
-          "metrics_area": {
-            "text": "82 万热度",
-            "font_color": "",
-            "background": "",
-            "weight": ""
-          },
-          "label_area": {
-            "type": "trend",
-            "trend": 0,
-            "night_color": "#B7302D",
-            "normal_color": "#F1403C"
-          },
-          "link": {
-            "url": "https://www.zhihu.com/question/14040809164"
-          }
-        },
-        "attached_info": "CkEIhqW+3Z7cv6VVEAMaCTExMzc4MzUxNSDj9pq+BjAAOC9AGXILMTQwNDA4MDkxNjR4AKoBCWJpbGxib2FyZNIBAA=="
-      },
-      "history": [
-        {
-          "observed_at": "2026-08-03 10:47:12 +0800",
-          "rank": 26,
-          "heat_text": "82 万热度",
-          "heat_value": 820000
-        }
-      ]
-    },
-    {
-      "key": "Q_1986594940579497073",
-      "title": "为什么学霸从来不熬夜刷题，成绩却比天天熬夜刷题的人好？",
-      "url": "https://www.zhihu.com/question/1986594940579497073",
-      "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
-      "first_rank": 28,
-      "latest_rank": 28,
-      "latest_heat_text": "78 万热度",
-      "latest_heat_value": 780000,
-      "latest_item": {
-        "type": "hot_list_feed",
-        "style_type": "1",
-        "id": "27_1785725232.4568",
-        "card_id": "Q_1986594940579497073",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
-        "feed_specific": {
-          "answer_count": 37
-        },
-        "target": {
-          "title_area": {
-            "text": "为什么学霸从来不熬夜刷题，成绩却比天天熬夜刷题的人好？"
-          },
-          "excerpt_area": {
-            "text": "学霸养成计划"
-          },
-          "image_area": {
-            "url": ""
           },
           "metrics_area": {
             "text": "78 万热度",
@@ -3782,10 +3787,71 @@
             "normal_color": "#F1403C"
           },
           "link": {
+            "url": "https://www.zhihu.com/question/14040809164"
+          }
+        },
+        "attached_info": "CkEI+o2FjumsqZxlEAMaCTExMzc4MzUxNSDj9pq+BjAAOGBAGHILMTQwNDA4MDkxNjR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 10:47:12 +0800",
+          "rank": 26,
+          "heat_text": "82 万热度",
+          "heat_value": 820000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 25,
+          "heat_text": "78 万热度",
+          "heat_value": 780000
+        }
+      ]
+    },
+    {
+      "key": "Q_1986594940579497073",
+      "title": "为什么学霸从来不熬夜刷题，成绩却比天天熬夜刷题的人好？",
+      "url": "https://www.zhihu.com/question/1986594940579497073",
+      "first_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 28,
+      "latest_rank": 24,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1785738181.248282",
+        "card_id": "Q_1986594940579497073",
+        "feed_specific": {
+          "answer_count": 68
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么学霸从来不熬夜刷题，成绩却比天天熬夜刷题的人好？"
+          },
+          "excerpt_area": {
+            "text": "学霸养成计划"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-8a99068038cba6f08d7b8fc52e4ca8f4.png"
+          },
+          "metrics_area": {
+            "text": "79 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
             "url": "https://www.zhihu.com/question/1986594940579497073"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTExNzgwODM0NCCW5aXKBjAAODNAG3ITMTk4NjU5NDk0MDU3OTQ5NzA3M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTExNzgwODM0NCCW5aXKBjAAOKQBQBdyEzE5ODY1OTQ5NDA1Nzk0OTcwNzN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3793,6 +3859,12 @@
           "rank": 28,
           "heat_text": "78 万热度",
           "heat_value": 780000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 24,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
         }
       ]
     },
@@ -3801,18 +3873,18 @@
       "title": "挺聪明的一个孩子，成绩也在班里前几名，就是不自觉，不爱学习，各位有什么办法吗？",
       "url": "https://www.zhihu.com/question/1917853765861640018",
       "first_seen": "2026-08-03 10:47:12 +0800",
-      "last_seen": "2026-08-03 10:47:12 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
       "first_rank": 30,
       "latest_rank": 30,
-      "latest_heat_text": "75 万热度",
-      "latest_heat_value": 750000,
+      "latest_heat_text": "67 万热度",
+      "latest_heat_value": 670000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "29_1785725232.9861",
+        "id": "29_1785738181.255154",
         "card_id": "Q_1917853765861640018",
         "feed_specific": {
-          "answer_count": 48
+          "answer_count": 81
         },
         "target": {
           "title_area": {
@@ -3825,7 +3897,7 @@
             "url": "https://picx.zhimg.com/80/v2-093b0bc9c99d600c162e733eb7c8559c_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "75 万热度",
+            "text": "67 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3840,7 +3912,7 @@
             "url": "https://www.zhihu.com/question/1917853765861640018"
           }
         },
-        "attached_info": "CkkIhqW+3Z7cv6VVEAMaCTExNTQwNTUzOCDhvL3CBjAAODNAHXITMTkxNzg1Mzc2NTg2MTY0MDAxOHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTExNTQwNTUzOCDhvL3CBjAAOG9AHXITMTkxNzg1Mzc2NTg2MTY0MDAxOHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -3848,6 +3920,982 @@
           "rank": 30,
           "heat_text": "75 万热度",
           "heat_value": 750000
+        },
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 30,
+          "heat_text": "67 万热度",
+          "heat_value": 670000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066958063932912243",
+      "title": "哥哥冒用弟弟高考身份一路读到博士，为什么一直没被发现？暴露了学籍审核等方面哪些问题？",
+      "url": "https://www.zhihu.com/question/2066958063932912243",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "257 万热度",
+      "latest_heat_value": 2570000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1785738181.208703",
+        "card_id": "Q_2066958063932912243",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "哥哥冒用弟弟高考身份一路读到博士，为什么一直没被发现？暴露了学籍审核等方面哪些问题？"
+          },
+          "excerpt_area": {
+            "text": "2017 年，哥哥唐向东（化名）起诉弟弟唐向西（化名），主张双方存在口头借名买房约定，要求将房产过户至其名下，法院一审支持了唐向东的过户诉求。房产官司一审败诉当年年末，弟弟唐向西向湘潭大学寄出一封举报信，指控哥哥当年冒用他的高考录取身份就读本科。 「旧事」被一封举报信拽回日光之下？ 事情没有想象中那么简单。2018 年 1 月，两兄弟签署一份协议，约定哥哥需向弟弟支付 360 万元房屋补偿款，当日先行转账 160 万元，剩余 200 万元出具了书面欠条。弟弟随后撤回房产案上诉，又向学校寄去第二封信——这次是检讨书，文中称举报不实，是「官司败诉后一时报复」。 但欠条上那 200 万元没有如期到账，弟弟又变了态度，再次提起诉讼追索 200 万元。同时，他再度向湘潭大学举报，重启学籍追责流程。 此后，对于哥哥唐向东而言，人生如同被推倒的多米诺骨牌。湘潭大学 2018 年作出撤销唐向东学历的决定，此后他的硕士、博士学历相继被各校撤销，依托博士后政策办理的北京户籍被公安部门注销。再后来，「借名买房」案被提起再审，终审判决认定借名买房合同有效，但唐向东的北京户口已注销，过户前提不复存在，法院驳回请求。 湘潭大学撤销学历的决定引发长达七年的多轮行政诉讼。2025 年 8 月，湖南省高院以「主要证据不足、违反法定程序」为由，撤销学校原决定以及一审、二审判决，责令学校重新作出决定。同年 11 月，湘潭大学再次以同样理由撤销唐向东的本科学历。唐向东再度起诉，法院已立案，尚未开庭。 这对亲兄弟之间，如今隔着举报信和厚厚的诉讼文书。曾经同一屋檐下的两人，因房子和尚未最终定论的举报，终归再也回不到过去。 哥哥起诉弟弟「借名买房」（资料图） 「借名买房」之争 借名买房一案再审生效判决显示，唐向东、唐向西为一对双胞胎兄弟，二人户籍登记出生日期同为 1983 年 10 月 16 日。 「双胞胎兄弟」这个身份，在唐向东和唐向西说法中有完全不同的表述。唐向西接受红星新闻记者采访时不承认他和唐向东为双胞胎兄弟，坚称其比唐向东小一岁。唐向东却坚持二人「就是双胞胎」。 这对兄弟对于身份描述大相径庭，事实陈述的对立割裂，几乎贯穿「借名买房」纠纷和由此引发的「冒名顶替上大学」疑案全程。 一母同胞的他们，从小因家庭原因未一同长大。如今，两人谈及对方，言语间多有指责与激烈争执。 为最大限度保证事件陈述贴近客观事实，本报道尽最大努力引用相关法律文书、证据来阐述事件经过。 两人矛盾，兄弟俩均确认源于 2012 年北京西城区一套商品房的购置。 据一份民事再审生效判决书查明事实，2012 年 12 月，唐向西以个人名义签订《北京市存量房屋买卖合同》，购入西城区一套房屋，房屋交易总价 285 万元，其中首付 112 万元。 2017 年 4 月，唐向东一纸诉状起诉唐向西，称其为工作需要在北京买房，但当时尚未取得北京户口。唐向西有北京户口，故与其约定以其名义在北京购房。2013 年 8 月，唐向东取得北京户口，后要求唐向西配合办理转移登记手续，对方迟迟不予配合，因此起诉，请求法院判令唐向西协助将房屋过户登记至自己名下。 唐向西则认为，「借名买房」事实不能成立，双方不存在借名买房关系，自己才是房屋真实、合法的购买人。 当时，北京市西城区法院一审查明，二人母亲、房产中介出庭作证，证实兄弟二人私下达成口头借名买房约定。房屋全部实际出资、长期还贷、日常居住管理由唐向东负责，仅借用唐向西名下北京购房资格登记产权人。112 万元首付款由二人母亲转账至唐向东账户，再经由唐向东转账交付唐向西购房；房产交易产生的中介费、契税、差额税款等全部费用，由唐向东刷卡支付。2013 年至 2017 年绝大多数房屋月供，由唐向东定期转账至唐向西还贷专用账户。2014 年至 2015 年期间，唐向西偿还 4.8 万元贷款。房屋交付后，唐向东长期在此实际居住，物业费、电费、燃气费等全部缴费票据原件由其长期保管持有。 一审法院还查明，2015 年 10 月，唐向西搬离该房屋，二人关于房屋产权、利益分配的分歧爆发。此后，唐向西私自挂失补办房屋不动产权证书，将本人及子女户籍迁入该房屋，明确拒绝配合唐向东办理产权解押、过户手续。 2017 年 12 月，西城区人民法院作出一审判决，认定双方成立事实借名买房合同，判令唐向西配合完成房屋过户相关手续。 判决书截图 一审判决送达后，唐向西不服，向北京市第二中级人民法院提起上诉。 这场家庭财产纠纷，就此延伸出后续影响唐向东学籍的举报风波。 据另一起唐向西起诉唐向东支付 200 万元款项的生效判决书查明事实，唐向西提交房产上诉材料十余天，于 2017 年 12 月 29 日向湘潭大学邮寄实名举报信，指控唐向东在 2001 年冒用自己高考录取身份，冒名在湘潭大学就读。 唐向西在举报中称，唐向东和唐向西均为其本人，其使用唐向东身份报考湘潭大学被录取后，本人未办理入学手续，被他人冒名办理入学手续；其再次参加高考使用唐向西身份，之后就读大学和工作均使用唐向西身份。 彼时唐向东已形成完整高等教育履历：湘潭大学本科、硕士研究生、南开大学博士、北京大学博士后，依托博士后人才引进政策落户北京，任职于银行系统；一旦学籍、户籍被认定存在虚假情形，其工作、住房、城市户籍均面临「清零」风险。 湘潭大学收到举报材料后，于 2018 年 1 月 4 日启动内部学籍核查流程。 与此同时，生效判决书载明，2018 年 1 月 14 日，在三名现场见证人全程见证下，双方签署《房产处理协议》，重新约定房屋处置方案：房屋作价 900 万元，扣除剩余 180 万元银行房贷后房屋净值 720 万元，唐向东需向唐向西支付 360 万元房屋补偿款，房屋由唐向东处置，当日先行转账 160 万元，剩余 200 万元出具书面欠条，约定六个月内全额付清，逾期按照每月千分之一标准计算利息；作为交换，唐向西出具书面保证书，承诺撤回针对房产案上诉。 协议签署次日，唐向西向湘潭大学提交书面检讨书，承认举报内容不实，系房产一审败诉后心态失衡，出于报复心理作出的。2018 年 2 月 24 日，唐向西正式向北京市第二中级人民法院申请撤回上诉。判决生效后，2018 年 9 月，唐向东取得房屋不动产登记证书。 事情并未就此画下句号。 2018 年 7 月，200 万元欠条付款期限将至，唐向西未收到尾款，再度向湘潭大学举报，称其此前提交的检讨书是虚假的，要求重启学籍追责流程。 2018 年 8 月，湘潭大学下发正式文件，认定「唐向东」本人未来校就读，他人冒用唐向东身份来校就读，情况属实，作出撤销唐向东本科学历的行政决定，同步注销其在学信网的学籍注册信息。 唐向西手持双方签订的房产处理协议，向西城区人民法院另行提起民事诉讼，索要剩余 200 万元尾款；唐向东则反诉，主张这份房产协议和 200 万元欠条是唐向西利用学籍举报制造巨大心理胁迫签订，非自身真实意思表示，请求法院全额撤销协议、返还已支付的 160 万元。 北京市西城区人民法院一审未采信唐向东提出的胁迫主张，判令唐向东向唐向西支付剩余 200 万元欠款。唐向东不服判决，继续向北京市第二中级人民法院上诉。哥哥起诉弟弟借名买房，弟弟举报哥哥冒名顶替上大学 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-745eb0588300e193aef06707a3efef8d_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "257 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066958063932912243"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDczNjU2MCCUnbfTBjAAOHlAA3ITMjA2Njk1ODA2MzkzMjkxMjI0M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 4,
+          "heat_text": "257 万热度",
+          "heat_value": 2570000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067218440234985170",
+      "title": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2067218440234985170",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "245 万热度",
+      "latest_heat_value": 2450000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1785738181.213376",
+        "card_id": "Q_2067218440234985170",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "住房公积金条例迎重大修订，装修、物业费被明确纳入范围，灵活就业人员可自愿缴存，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "7 月 31 日，国务院常务会议召开，会议审议通过《国务院关于修改〈住房公积金管理条例〉的决定（草案）》。 会议指出，要更好发挥住房公积金功能作用，拓宽提取和使用范围，扩大制度覆盖面，更好满足居民多样化住房消费需求。 我国《住房公积金管理条例》自 1999 年颁布实施以来，已完成两次修订，距上次修订已 7 年有余。 2025 年 12 月召开的中央经济工作会议明确提出深化住房公积金制度改革，今年《政府工作报告》及「十五五」规划纲要亦对此作出部署。在这样的背景下，启动《住房公积金管理条例》修订正当其时。 6 月 5 日，住建部对外发布《住房公积金管理条例（修订征求意见稿）》（以下简称《征求意见稿》），意见反馈截止时间为 7 月 5 日。相较于旧版《住房公积金管理条例》，《征求意见稿》亮点突出，主要有三方面变化值得重点关注。 一是公积金提取使用范围更广，住房装修、支付物业费被明确纳入支持提取范围，对租房提取的支持力度更大。 二是明确要强化公积金数字化能力建设，强化跨地区、跨部门、跨层级的业务协同，推动住房公积金互认互贷。 三是明确个体工商户、非全日制从业人员以及其他灵活就业人员，可自愿参加公积金制度。 上海易居房地产研究院副院长严跃进向 21 世纪经济报道记者表示，此次《住房公积金管理条例》修订的核心导向，在于更好满足居民特别是新市民、青年人等群体的多样化住房消费需求，强化公积金在扩大内需、促进住房消费方面的支撑作用。 中指研究院政策研究总监陈文静向 21 世纪经济报道记者表示，《住房公积金管理条例》的修改，进一步明确了公积金政策调整的方向，有助于引导地方优化公积金政策。 陈文静指出，此次国常会审议通过《国务院关于修改〈住房公积金管理条例〉的决定（草案）》，将为地方优化公积金政策提供法律支撑，有助于公积金更好地支持住房消费，提升公积金服务效能，更大发挥公积金住房保障作用。 在顶层政策指引下，各地改革举措持续落地。根据中指不完全统计，今年 1—7 月各地出台公积金政策超 360 条，在同期新出房地产政策中占比超过一半。与去年同期相比，今年以来公积金政策出台频次大幅提升，调整主要集中于提高公积金贷款额度上限、拓宽公积金提取使用范围、优化灵活就业人员缴存政策和异地就业人员公积金使用政策等方向。 58 安居客研究院院长张波向 21 世纪经济报道记者表示，公积金调整成为今年各地稳房地产市场的首选工具，最主要的原因是地方对公积金的自主调控权限高，因城施策落地效率快，也无需地方财政额外出钱就可盘活沉淀公积金，可以更好撬动住房消费。此外，LPR 阶段性保持稳定，全面降息空间有限，公积金成为促进房地产消费的有效结构性降息工具。 此次国常会指出，要更好发挥住房公积金功能作用，拓宽提取和使用范围，扩大制度覆盖面，更好满足居民多样化住房消费需求。 严跃进表示，拓宽公积金提取和使用范围，有助于增强对缴存人租房、购房等多样化需求的支持能力；扩大公积金制度覆盖面，要着力推动更多灵活就业人员等群体纳入住房公积金制度。 陈文静认为，未来各地拓宽公积金提取和使用范围仍有较大空间，相关政策有望进一步向租、购、修、养全周期、多样化住房消费倾斜；在灵活就业人员、异地缴存人员的缴存政策方面也有望继续完善，让更多居民享受公积金制度红利。 另外，陈文静表示，当前住房公积金运行呈现显著区域分化特征，未来在资金安全前提下，适度提升公积金提取灵活性，探索建立与个贷率挂钩的政策动态调整机制，将有助于优化资金配置、提升整体资金使用效率。国常会审议通过！住房公积金条例迎重大修订 _ 南方 +_ 南方 plus"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-cc9923795d1f98876334045e9c52d359_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "245 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067218440234985170"
+          }
+        },
+        "attached_info": "CkoI+o2FjumsqZxlEAMaCTEyMDc0NDY3NCCTgrvTBjAAOIABQARyEzIwNjcyMTg0NDAyMzQ5ODUxNzB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 5,
+          "heat_text": "245 万热度",
+          "heat_value": 2450000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067369494037651723",
+      "title": "儿科医生韩杰漏诊致幼儿死亡，因医疗事故罪判刑一年缓刑，怎样从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2067369494037651723",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "164 万热度",
+      "latest_heat_value": 1640000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1785738181.219213",
+        "card_id": "Q_2067369494037651723",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 55
+        },
+        "target": {
+          "title_area": {
+            "text": "儿科医生韩杰漏诊致幼儿死亡，因医疗事故罪判刑一年缓刑，怎样从法律角度解读？"
+          },
+          "excerpt_area": {
+            "text": "2024 年 2 月，2 岁幼儿因持续呕吐前往抚州健强第五医院急诊，儿科医生韩杰凌晨接诊，拍片怀疑肠梗阻，安排住院保守治疗。鉴定认定两项关键过错：幼儿腹痛首诊规范要求必须做腹股沟查体，韩杰未进行该项检查、无病历记录；同时未及时申请外科会诊，最终漏诊嵌顿性腹股沟斜疝。患儿后续病情恶化，家属自行转院途中不幸死亡。 1. 民事：认定一级甲等医疗事故，医院承担主要责任，赔付家属 146 万元；​2. 行政：卫健委对韩杰处以暂停执业 6 个月、警告；​3. 刑事：家属报案后启动刑事侦查，一审以医疗事故罪判处韩杰有期徒刑一年、缓刑一年；上诉后，2026 年 7 月二审维持原判。悲剧没有赢家：幼儿离世、医生职业生涯遭受重创，医患信任再次受到冲击。 儿科医生韩杰漏诊致幼儿死亡，医疗事故罪判刑一年缓刑"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-52d8bb209d9639c73fea6750389e24d2_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "164 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067369494037651723"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDc1MDk4NiDBm73TBjAAOFdAB3ITMjA2NzM2OTQ5NDAzNzY1MTcyM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 8,
+          "heat_text": "164 万热度",
+          "heat_value": 1640000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066441179537920711",
+      "title": "王宝强为何戏路比黄渤更宽？",
+      "url": "https://www.zhihu.com/question/2066441179537920711",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "145 万热度",
+      "latest_heat_value": 1450000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1785738181.220303",
+        "card_id": "Q_2066441179537920711",
+        "feed_specific": {
+          "answer_count": 54
+        },
+        "target": {
+          "title_area": {
+            "text": "王宝强为何戏路比黄渤更宽？"
+          },
+          "excerpt_area": {
+            "text": "如题"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-5a10e9ec930ca51247d8cc59231cb836_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "145 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066441179537920711"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDcxMjAyOSCx2q/TBjAAOF5ACHITMjA2NjQ0MTE3OTUzNzkyMDcxMXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 9,
+          "heat_text": "145 万热度",
+          "heat_value": 1450000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066600913112753139",
+      "title": "盒马、山姆等顶流商超接连布局县城，如何看待头部商超集体「下乡」这一趋势？县城消费力能否支撑其野心？",
+      "url": "https://www.zhihu.com/question/2066600913112753139",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "124 万热度",
+      "latest_heat_value": 1240000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1785738181.225370",
+        "card_id": "Q_2066600913112753139",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "盒马、山姆等顶流商超接连布局县城，如何看待头部商超集体「下乡」这一趋势？县城消费力能否支撑其野心？"
+          },
+          "excerpt_area": {
+            "text": "全国顶流的商超，又开始打县城的主意了。 盒马正在广撒网。7 月 24 日，盒马旗下的平价社区超市超盒算 NB 首次落地四川崇州市。根据超盒算的规划，今年新增门店要覆盖全国超 300 个县市。 山姆则盯上了东部强县。今年 6 月开始，山姆在江苏无锡江阴店已经开始了招聘，这是山姆在全国的第四家县级市门店。第五家门店义乌店最快 2026 年底就能开业。 这是中国县域经济的新变局，亦是中国零售业的新趋势。 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-5fcf9abe29801e3fa5535b0d37e6f510_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "124 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066600913112753139"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDcyMjg4MCD1g7LTBjAAOCRAC3ITMjA2NjYwMDkxMzExMjc1MzEzOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 12,
+          "heat_text": "124 万热度",
+          "heat_value": 1240000
+        }
+      ]
+    },
+    {
+      "key": "Q_2041974411843068257",
+      "title": "为什么爱因斯坦后期执着于大统一理论？",
+      "url": "https://www.zhihu.com/question/2041974411843068257",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "107 万热度",
+      "latest_heat_value": 1070000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1785738181.228029",
+        "card_id": "Q_2041974411843068257",
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么爱因斯坦后期执着于大统一理论？"
+          },
+          "excerpt_area": {
+            "text": "既然爱因斯坦相对论认为引力是一种时空弯曲造成的「错觉」，本质上引力就不是力，在四维时空里物体保持静止或延测地线运动，那么为什么爱因斯坦晚年还是执着于把引力和其它三种力统一起来形成，形成大一统理论？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-ae47a35f8627d0dd3750424c8dff675a_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "107 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2041974411843068257"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTExOTY1MDU0OCC91cvQBjAAOF1ADHITMjA0MTk3NDQxMTg0MzA2ODI1N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 13,
+          "heat_text": "107 万热度",
+          "heat_value": 1070000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067451866271703097",
+      "title": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？",
+      "url": "https://www.zhihu.com/question/2067451866271703097",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1785738181.229817",
+        "card_id": "Q_2067451866271703097",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待某解说在二路直播中涉及 TheShy 的不当言论引发争议，联盟回应将进行处罚？"
+          },
+          "excerpt_area": {
+            "text": "据博主及现场粉丝透露，在 2026 年 8 月 2 日 LPL 赛场「TheShy 互动事件」及赛事二路直播期间，有解说因发表不当言论（涉及「画符」等争议性调侃）引发粉丝与观众不满。目前联盟已接到反馈，并表示后续将对相关人员进行处罚。 有观点认为解说在二路流直播中应当保持底线，不能为了节目效果或玩梗而过度调侃选手；也有网友认为部分言论属于对赛场画面的无心曲解。 你如何看待解说在二路 / 官方直播中的言论边界？ 解说在流量和职业素养之间，应该如何把握「玩梗」与「尊重选手」的平衡？"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-96c4ad011de5938887c77e1878771299_b.jpg"
+          },
+          "metrics_area": {
+            "text": "105 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067451866271703097"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDc1MjQ5MCD4tL7TBjAAOBZADXITMjA2NzQ1MTg2NjI3MTcwMzA5N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 14,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067550234776020574",
+      "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
+      "url": "https://www.zhihu.com/question/2067550234776020574",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "103 万热度",
+      "latest_heat_value": 1030000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1785738181.232748",
+        "card_id": "Q_2067550234776020574",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？"
+          },
+          "excerpt_area": {
+            "text": "『Qwen3.8-Max 在编程、真实办公、长程任务与多模态智能体等方面实现全面提升，能够以极少的人工介入将复杂、开放的目标端到端完成，交付值得信赖的成果。模型权重将于下周开源，敬请期待！』附测试成绩："
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-bbb74ab980654d9ad37574d23b7890da.png"
+          },
+          "metrics_area": {
+            "text": "103 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067550234776020574"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDc1NDgwNyCV7L/TBjAAOEhADnITMjA2NzU1MDIzNDc3NjAyMDU3NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 15,
+          "heat_text": "103 万热度",
+          "heat_value": 1030000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066483823928422483",
+      "title": "7 月统计局制造业 PMI 降至 49.2，供需均收缩致生产经营活动放缓，这反映了制造业的哪些挑战？",
+      "url": "https://www.zhihu.com/question/2066483823928422483",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "101 万热度",
+      "latest_heat_value": 1010000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1785738181.238537",
+        "card_id": "Q_2066483823928422483",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "7 月统计局制造业 PMI 降至 49.2，供需均收缩致生产经营活动放缓，这反映了制造业的哪些挑战？"
+          },
+          "excerpt_area": {
+            "text": "【财新网】 2026 年 7 月，部分制造业行业进入传统生产淡季，叠加部分地区高温暴雨影响，制造业景气时隔四个月再度降至收缩区间，供需均由扩张转为收缩。 国家统计局 7 月 31 日公布的数据显示，7 月制造业采购经理指数（PMI）录得 49.2，低于 6 月 1.1 个百分点；尽管暑期带动文旅行业景气回升，但受批发、货币金融服务等行业景气下降、部分地区高温暴雨洪涝灾害等不利于建筑施工等因素影响，非制造业商务活动指数下降 1.2 个百分点至 49。两大行业景气收缩，拖累当月综合 PMI 产出指数下降 1.3 个百分点，录得 49.3，为 2023 年以来最低，显示企业生产经营活动明显放缓。 7 月统计局制造业 pmi 降至 49.2 供需均收缩导致生产经营活动放缓"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-e480b7dc0345fecd76fc0356fd5fbe7d_b.jpg"
+          },
+          "metrics_area": {
+            "text": "101 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066483823928422483"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDcxNDU2MCDpqbDTBjAAOCxAEXITMjA2NjQ4MzgyMzkyODQyMjQ4M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 18,
+          "heat_text": "101 万热度",
+          "heat_value": 1010000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067534271393133838",
+      "title": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？",
+      "url": "https://www.zhihu.com/question/2067534271393133838",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "89 万热度",
+      "latest_heat_value": 890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1785738181.241426",
+        "card_id": "Q_2067534271393133838",
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "男子癌症晚期发现医保断缴两年，村干部称不是私吞而是漏缴，可能是哪个环节出了问题？该如何避免？"
+          },
+          "excerpt_area": {
+            "text": "福建南安金淘镇的谢先生，今年 2 月查出癌症晚期，治疗期间却发现没办法医保报销。谢先生的女儿谢女士说，多年以来，他们将交医保的钱转给村干部谢某，直到父亲住院才发现，自己和父亲在 2024 年和 2025 年间均没有参保记录。 据谢女士提供的转账记录显示，2023 年至 2025 年谢先生每年都有向谢某转账，谢女士怀疑父亲交的钱被私吞。 8 月 2 日，金淘镇相关工作人员回应红星新闻称，接到谢女士的投诉后，当地纪委介入调查，未发现村干部谢某私吞医保缴费资金的情况。 上述工作人员称，谢某所负责的片区人数较多，可能存在漏缴的情况。目前，谢某本人已经补齐了谢先生治疗过程中产生的约 15000 元。 此外，当地乡镇政府在协调下，已经为谢先生缴纳城镇职工医疗保险。针对谢某漏缴村民医保的情况，也将会严肃处理。 红星新闻记者 孙钊「钱转给村干部，医保却没交」，男子癌症晚期治疗时发现医保断缴两年，当地回应：未发现私吞资金，可能存在漏缴，正想办法弥补 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-885774418761dd6cdc61655b706ba2e5_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "89 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067534271393133838"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDc1NDEyNSC3zr/TBjAAOCdAEnITMjA2NzUzNDI3MTM5MzEzMzgzOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 19,
+          "heat_text": "89 万热度",
+          "heat_value": 890000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067369578586543589",
+      "title": "主持人半蹲给《奥德赛》主创递麦引争议，有人认为是配合机位，有人质疑姿态过于卑微，有哪些更好的处理方式？",
+      "url": "https://www.zhihu.com/question/2067369578586543589",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1785738181.243124",
+        "card_id": "Q_2067369578586543589",
+        "feed_specific": {
+          "answer_count": 81
+        },
+        "target": {
+          "title_area": {
+            "text": "主持人半蹲给《奥德赛》主创递麦引争议，有人认为是配合机位，有人质疑姿态过于卑微，有哪些更好的处理方式？"
+          },
+          "excerpt_area": {
+            "text": "7 月 30 日，《奥德赛》北京首映礼上，主持人陈璇半蹲为外籍主创递话筒，引发网友热议。有人认为这是配合机位，也有人质疑姿态过于卑微，围绕涉外活动礼仪和分寸感的讨论持续升温。‌‌ 《奥德赛》主创来华宣传，主持人陈璇半蹲采访引发争议，"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-905c1ea969a84432bba719530116f0b6.png"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067369578586543589"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDc1MDk5MyDVm73TBjAAOHtAE3ITMjA2NzM2OTU3ODU4NjU0MzU4OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 20,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2065833931941700705",
+      "title": "赵露思工作室开始征集原创剧本了，可能是出于什么考量？会形成新的影视剧创作模式吗？你看好吗？",
+      "url": "https://www.zhihu.com/question/2065833931941700705",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "86 万热度",
+      "latest_heat_value": 860000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1785738181.246657",
+        "card_id": "Q_2065833931941700705",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "赵露思工作室开始征集原创剧本了，可能是出于什么考量？会形成新的影视剧创作模式吗？你看好吗？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-cec18bfb033b57db7fd0be397d243a57.png"
+          },
+          "metrics_area": {
+            "text": "86 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2065833931941700705"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDY5MDM4MyCm76bTBjAAOCtAFXITMjA2NTgzMzkzMTk0MTcwMDcwNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 22,
+          "heat_text": "86 万热度",
+          "heat_value": 860000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066841853920546930",
+      "title": "为什么电磁波可以在真空中传播，但声波不能？",
+      "url": "https://www.zhihu.com/question/2066841853920546930",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1785738181.247539",
+        "card_id": "Q_2066841853920546930",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么电磁波可以在真空中传播，但声波不能？"
+          },
+          "excerpt_area": {
+            "text": "这个问题困扰我很久了，感觉两者都是波，但传播介质的要求却完全不同，这是为什么呢？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-69d24cb45e76c174fcbf0b2f3008a686_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "84 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066841853920546930"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDcyOTE2MiDaxLXTBjAAOBNAFnITMjA2Njg0MTg1MzkyMDU0NjkzMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 23,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
+        }
+      ]
+    },
+    {
+      "key": "Q_14241388865",
+      "title": "为什么观众欢呼球员的时候都喊 MVP 而不是喊冠军，MVP 不就是个媒体奖么？",
+      "url": "https://www.zhihu.com/question/14241388865",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "77 万热度",
+      "latest_heat_value": 770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1785738181.249963",
+        "card_id": "Q_14241388865",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 158
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么观众欢呼球员的时候都喊 MVP 而不是喊冠军，MVP 不就是个媒体奖么？"
+          },
+          "excerpt_area": {
+            "text": "球员发挥亮眼的时候全场观众高喊 MVP，那为啥观众不高喊冠军呢？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-c05d556f8c88bab6cf1759dc2858d4dd_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "77 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/14241388865"
+          }
+        },
+        "attached_info": "CkII+o2FjumsqZxlEAMaCTExMzgyNDA5MCDa16W+BjAAOJ0BQBlyCzE0MjQxMzg4ODY1eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 26,
+          "heat_text": "77 万热度",
+          "heat_value": 770000
+        }
+      ]
+    },
+    {
+      "key": "Q_2014630919634433155",
+      "title": "OpenClaw 和 QClaw 哪个更好用？",
+      "url": "https://www.zhihu.com/question/2014630919634433155",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "73 万热度",
+      "latest_heat_value": 730000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1785738181.250517",
+        "card_id": "Q_2014630919634433155",
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "OpenClaw 和 QClaw 哪个更好用？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-731d33ea7884d1f71c1bce6740b29483_b.jpg"
+          },
+          "metrics_area": {
+            "text": "73 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2014630919634433155"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTExODY5NjMzNyCh4r3NBjAAOCpAGnITMjAxNDYzMDkxOTYzNDQzMzE1NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 27,
+          "heat_text": "73 万热度",
+          "heat_value": 730000
+        }
+      ]
+    },
+    {
+      "key": "Q_2053213935478820989",
+      "title": "论实力刘备垫底，群雄却人人厚待他，刘备到底有什么底牌？",
+      "url": "https://www.zhihu.com/question/2053213935478820989",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1785738181.250929",
+        "card_id": "Q_2053213935478820989",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "论实力刘备垫底，群雄却人人厚待他，刘备到底有什么底牌？"
+          },
+          "excerpt_area": {
+            "text": "群雄个个老奸巨猾，唯独对刘备礼遇万分、处处善待，一无所有的他，凭什么让各路枭雄主动交好？欢迎大家共同讨论。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-1e882112b108ea910d06deeae4fcab0e.png"
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2053213935478820989"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDEyNjY3NCDdnO/RBjAAOCFAG3ITMjA1MzIxMzkzNTQ3ODgyMDk4OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 28,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067374437473543930",
+      "title": "竹知了视频被投诉下架，疑因玩具与余承东声音类似，为啥没提人名和品牌也会侵权？这是维权过度了吗？",
+      "url": "https://www.zhihu.com/question/2067374437473543930",
+      "first_seen": "2026-08-03 14:23:01 +0800",
+      "last_seen": "2026-08-03 14:23:01 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "69 万热度",
+      "latest_heat_value": 690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1785738181.253689",
+        "card_id": "Q_2067374437473543930",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "竹知了视频被投诉下架，疑因玩具与余承东声音类似，为啥没提人名和品牌也会侵权？这是维权过度了吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，传统玩具「竹知了」因短视频被华为以「损害商誉」为由大规模投诉下架，事件迅速登上热搜，反而引发网友更猛烈的模仿和购买热潮。 8 月 2 日，潇湘晨报 ·晨视频记者从娱乐法李振武 律师处获悉，在#竹知了 被投诉# 事件中，相关视频虽未直接点名，但通过余承东的标志性发言，配合竹知了发出的与发布会现场相似的音效，形成了明确的指向性暗喻。 这种「刻意采取暗喻影射、谐音、魔改音频等隐晦方式，戏谑、丑化、嘲讽企业及企业家」的行为，可以认为已经超出了普通网络调侃的范畴。 而且这些视频已经形成了规模化传播，会持续固化戏谑调侃的舆论氛围，潜移默化地影响公众对企业家及品牌的观感。 有被投诉的网友说，「只是展示玩具」「没提品牌名字」就被投诉，我觉得这是一种「歪曲」，这种看法混淆了「明示」与「暗示」的法律界限。 如前所述，名誉权侵权的认定并不以「直接点名」为前提——只要通过特定语境、特定元素组合能够使公众识别出指向特定主体，即可能构成侵权。 至于部分「单纯展示玩具」的视频被连带下架，这涉及平台在批量处理时的操作精度问题，但并不能因此否定投诉行为本身的合法性。 公众人物确实需要容忍一定程度的公众讨论与合理调侃，但当调侃越过边界、演变为规模化戏谑嘲讽时，权利人站出来维权也无可厚非。 对于普通网民而言，玩梗是乐趣，适度是修养——在笑声之外，更应敬畏法律的边界。传统玩具「竹知了」相关短视频被华为投诉下架，律师：丑化嘲讽余承东或构成侵权传统玩具「竹知了」相关短视频被华为大规模投诉下架，律师：用竹知了丑化嘲讽余承东或构成侵权 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-b0ec6cc824318d04c7041d7934199af4_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "69 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067374437473543930"
+          }
+        },
+        "attached_info": "CkkI+o2FjumsqZxlEAMaCTEyMDc1MTE1OSDbpL3TBjAAOClAHHITMjA2NzM3NDQzNzQ3MzU0MzkzMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-03 14:23:01 +0800",
+          "rank": 29,
+          "heat_text": "69 万热度",
+          "heat_value": 690000
         }
       ]
     }
