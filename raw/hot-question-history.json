@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-08-07 11:09:28 +0800",
+  "updated_at": "2026-08-07 15:14:44 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -145150,18 +145150,18 @@
       "title": "如何看待日本网红 Mina 轻生离世，曾疑因偶像的含沙射影被大批粉丝人肉、网暴，直播含泪恳求停止网暴？",
       "url": "https://www.zhihu.com/question/2068633449532076447",
       "first_seen": "2026-08-06 22:08:33 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 11,
-      "latest_rank": 15,
-      "latest_heat_text": "120 万热度",
-      "latest_heat_value": 1200000,
+      "latest_rank": 21,
+      "latest_heat_text": "135 万热度",
+      "latest_heat_value": 1350000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1786072168.37636",
+        "id": "20_1786086884.225416",
         "card_id": "Q_2068633449532076447",
         "feed_specific": {
-          "answer_count": 199
+          "answer_count": 273
         },
         "target": {
           "title_area": {
@@ -145174,7 +145174,7 @@
             "url": "https://pic1.zhimg.com/v2-03f945924b984c179d2ebfa228370020.png"
           },
           "metrics_area": {
-            "text": "120 万热度",
+            "text": "135 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -145189,7 +145189,7 @@
             "url": "https://www.zhihu.com/question/2068633449532076447"
           }
         },
-        "attached_info": "CkoI7c/0mbOuveNUEAMaCTEyMDc5ODU1MyDnzc/TBjAAOJ0DQA5yEzIwNjg2MzM0NDk1MzIwNzY0NDd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDc5ODU1MyDnzc/TBjAAOKYEQBRyEzIwNjg2MzM0NDk1MzIwNzY0NDd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -145209,6 +145209,12 @@
           "rank": 15,
           "heat_text": "120 万热度",
           "heat_value": 1200000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 21,
+          "heat_text": "135 万热度",
+          "heat_value": 1350000
         }
       ]
     },
@@ -146102,18 +146108,23 @@
       "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
       "url": "https://www.zhihu.com/question/2068637080209421054",
       "first_seen": "2026-08-07 07:58:18 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 3,
       "latest_rank": 1,
-      "latest_heat_text": "669 万热度",
-      "latest_heat_value": 6690000,
+      "latest_heat_text": "972 万热度",
+      "latest_heat_value": 9720000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1786072168.17824",
+        "id": "0_1786086884.203458",
         "card_id": "Q_2068637080209421054",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 148
+          "answer_count": 221
         },
         "target": {
           "title_area": {
@@ -146126,7 +146137,7 @@
             "url": "https://pic1.zhimg.com/80/v2-0bf521ab2a68d61088e5fc62f57f72ee_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "669 万热度",
+            "text": "972 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -146141,7 +146152,7 @@
             "url": "https://www.zhihu.com/question/2068637080209421054"
           }
         },
-        "attached_info": "CkoI7c/0mbOuveNUEAMaCTEyMDc5ODczMSDJ1M/TBjAAOLgEQAByEzIwNjg2MzcwODAyMDk0MjEwNTR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDc5ODczMSDJ1M/TBjAAOOsGQAByEzIwNjg2MzcwODAyMDk0MjEwNTR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -146155,6 +146166,12 @@
           "rank": 1,
           "heat_text": "669 万热度",
           "heat_value": 6690000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 1,
+          "heat_text": "972 万热度",
+          "heat_value": 9720000
         }
       ]
     },
@@ -146163,18 +146180,18 @@
       "title": "网传南航一航班提供饮料为西梅汁，致乘客大排长队上厕所，是真的吗？如何评价这一事件？",
       "url": "https://www.zhihu.com/question/2068358710498254999",
       "first_seen": "2026-08-07 07:58:18 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 4,
-      "latest_rank": 3,
-      "latest_heat_text": "309 万热度",
-      "latest_heat_value": 3090000,
+      "latest_rank": 2,
+      "latest_heat_text": "678 万热度",
+      "latest_heat_value": 6780000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1786072168.20920",
+        "id": "1_1786086884.205012",
         "card_id": "Q_2068358710498254999",
         "feed_specific": {
-          "answer_count": 92
+          "answer_count": 132
         },
         "target": {
           "title_area": {
@@ -146187,7 +146204,7 @@
             "url": "https://picx.zhimg.com/80/v2-e674a5f0f079456ee47bb95b90427423_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "309 万热度",
+            "text": "678 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -146202,7 +146219,7 @@
             "url": "https://www.zhihu.com/question/2068358710498254999"
           }
         },
-        "attached_info": "CkoI7c/0mbOuveNUEAMaCTEyMDc5MDA3NiCIzsvTBjAAOKoCQAJyEzIwNjgzNTg3MTA0OTgyNTQ5OTl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDc5MDA3NiCIzsvTBjAAOL0DQAFyEzIwNjgzNTg3MTA0OTgyNTQ5OTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -146216,6 +146233,12 @@
           "rank": 3,
           "heat_text": "309 万热度",
           "heat_value": 3090000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 2,
+          "heat_text": "678 万热度",
+          "heat_value": 6780000
         }
       ]
     },
@@ -147103,23 +147126,18 @@
       "title": "《蜘蛛侠：崭新之日》大爆，前三部导演乔恩·瓦茨遭网暴「永远别再执导蜘蛛侠了」，客观来说前三部质量如何？",
       "url": "https://www.zhihu.com/question/2068304398212495175",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "203 万热度",
-      "latest_heat_value": 2030000,
+      "latest_rank": 14,
+      "latest_heat_text": "152 万热度",
+      "latest_heat_value": 1520000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1786072168.21724",
+        "id": "13_1786086884.218796",
         "card_id": "Q_2068304398212495175",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 26
+          "answer_count": 49
         },
         "target": {
           "title_area": {
@@ -147130,236 +147148,6 @@
           },
           "image_area": {
             "url": "https://pica.zhimg.com/80/v2-3ef6fed424afaf06afa7147fe2f06650_720w.webp?source=1def8aca"
-          },
-          "metrics_area": {
-            "text": "203 万热度",
-            "font_color": "",
-            "background": "",
-            "weight": ""
-          },
-          "label_area": {
-            "type": "trend",
-            "trend": 0,
-            "night_color": "#B7302D",
-            "normal_color": "#F1403C"
-          },
-          "link": {
-            "url": "https://www.zhihu.com/question/2068304398212495175"
-          }
-        },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDc4NzE2NSDz6MrTBjAAODtAA3ITMjA2ODMwNDM5ODIxMjQ5NTE3NXgAqgEJYmlsbGJvYXJk0gEA"
-      },
-      "history": [
-        {
-          "observed_at": "2026-08-07 11:09:28 +0800",
-          "rank": 4,
-          "heat_text": "203 万热度",
-          "heat_value": 2030000
-        }
-      ]
-    },
-    {
-      "key": "Q_2067990469624304935",
-      "title": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？",
-      "url": "https://www.zhihu.com/question/2067990469624304935",
-      "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
-      "first_rank": 5,
-      "latest_rank": 5,
-      "latest_heat_text": "176 万热度",
-      "latest_heat_value": 1760000,
-      "latest_item": {
-        "type": "hot_list_feed",
-        "style_type": "1",
-        "id": "4_1786072168.23307",
-        "card_id": "Q_2067990469624304935",
-        "feed_specific": {
-          "answer_count": 35
-        },
-        "target": {
-          "title_area": {
-            "text": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？"
-          },
-          "excerpt_area": {
-            "text": "8 月 3 日，一名网友在社交平台发布与老乡鸡招聘人员的聊天记录。招聘人员主动联系该网友，称其在线简历与岗位匹配，并询问是否方便进一步沟通。 得知两人名字相同后，招聘人员却表示：「那这样的话，我肯定不会招你，不然店里喊一个名字两个人答应。」 老乡鸡客服随后在帖子评论区回应称，已联系相关门店了解情况，涉事人员的「不当表达确实不妥」，并就此次沟通体验向发帖人致歉。 截至发稿，老乡鸡尚未公布涉事人员的具体处理结果，也未说明上述说法属于个人表达，还是门店在招聘中确有避免员工重名的安排。 主动邀约求职者，发现同名后称「不招」 聊天记录显示，8 月 1 日，老乡鸡招聘人员首先向发帖人发送消息，称看过其在线简历，认为与招聘岗位较为匹配，并询问对方目前是否仍在找工作。 2 日晚，发帖人发现双方名字相同，回复称：「这么巧，我们的名字一样。」招聘人员随即表示，因为两人同名，「肯定不会招」，否则在店内喊一个名字时，可能出现两个人同时答应的情况。 发帖人随后回复称，自己只是觉得同名巧合，并未表示一定要到老乡鸡工作，而且此次沟通由招聘人员主动发起。她在帖文中表示，自己目前已有工作，此前只是在招聘平台浏览职位。 该帖已有 59 条评论。多名网友认为，招聘人员的表达不够专业，要求老乡鸡公布处理结果; 也有网友认为，对方可能是在开玩笑，不必将这段对话扩大为企业层面的招聘规则。 有网友注意到，公开截图中没有显示具体门店，追问老乡鸡如何确定涉事人员，老乡鸡客服回复称，门店信息是通过招聘软件上的头像获取的。 老乡鸡客服在回应中确认，相关表达确有不妥，但尚未披露涉事人员在门店中的具体岗位及后续处理情况。 门店增至 1658 家，加盟店占比超过四成 此次招聘沟通引发关注时，老乡鸡仍在扩大全国门店规模。 老乡鸡 2026 年 1 月更新的港股招股书显示，截至 2025 年 8 月 31 日，公司共有 1658 家门店，其中直营店 925 家、加盟店 733 家，加盟店占门店总数约 44.2%。 从门店结构看，2022 年至 2024 年，老乡鸡加盟店数量分别为 118 家、 226 家和 565 家; 同期直营店数量由 1007 家降至 914 家。到 2025 年 8 月底，加盟店进一步增至 733 家。 业绩方面，2024 年，老乡鸡实现收入 62.88 亿元，净利润 4.09 亿元。2025 年前 8 个月，公司收入为 45.78 亿元，同比增长 10.90%; 净利润为 3.72 亿元，同比增长 12.05%。 同期，老乡鸡直营店收入同比下降 3.73% 至 35.24 亿元，加盟业务收入继续增长。随着加盟店数量增加，公司在招股书中也将加盟商筛选、门店运营及食品安全管理列为业务需要持续关注的事项。 老乡鸡此前曾尝试登陆 A 股，此后转向港股。公司 2026 年 1 月 8 日向港交所递交的上市申请，于 7 月 8 日满六个月后失效。 记者分别向发帖求职者和老乡鸡客服发去信息，就涉事门店、招聘人员身份及后续处理情况进行求证，截至发稿均未获回复。"
-          },
-          "image_area": {
-            "url": "https://pic1.zhimg.com/80/v2-a63f0c768357678ae63e6ee0909e450d_720w.webp?source=1def8aca"
-          },
-          "metrics_area": {
-            "text": "176 万热度",
-            "font_color": "",
-            "background": "",
-            "weight": ""
-          },
-          "label_area": {
-            "type": "trend",
-            "trend": 0,
-            "night_color": "#B7302D",
-            "normal_color": "#F1403C"
-          },
-          "link": {
-            "url": "https://www.zhihu.com/question/2067990469624304935"
-          }
-        },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDc3NDc2OSCVoMbTBjAAOFZABHITMjA2Nzk5MDQ2OTYyNDMwNDkzNXgAqgEJYmlsbGJvYXJk0gEA"
-      },
-      "history": [
-        {
-          "observed_at": "2026-08-07 11:09:28 +0800",
-          "rank": 5,
-          "heat_text": "176 万热度",
-          "heat_value": 1760000
-        }
-      ]
-    },
-    {
-      "key": "Q_2068724870267891996",
-      "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
-      "url": "https://www.zhihu.com/question/2068724870267891996",
-      "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
-      "first_rank": 6,
-      "latest_rank": 6,
-      "latest_heat_text": "163 万热度",
-      "latest_heat_value": 1630000,
-      "latest_item": {
-        "type": "hot_list_feed",
-        "style_type": "1",
-        "id": "5_1786072168.26361",
-        "card_id": "Q_2068724870267891996",
-        "feed_specific": {
-          "answer_count": 100
-        },
-        "target": {
-          "title_area": {
-            "text": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？"
-          },
-          "excerpt_area": {
-            "text": "这个暑假，「预制娃」这个词突然火了。 意思大家应该都懂，孩子在假期里，把下学期的课本、重难点、习题提前全部学透练熟，在家完成一整套知识「预制」，开学后到学校，由老师简单「二次加热」，再用一轮轮考试检验哪家预制得更好。 学校像一台不停运转的微波炉，家长则是那个提前备好料的中央厨房。 大多数关于预制娃的讨论，都停在了「这样学没后劲、上课不专注」这一层。 但很多人忽略了，「预制」这个动作正在悄悄改变孩子大脑的物理结构。 而且被改变的那个部位，恰恰是决定孩子未来能不能自律、自己扛事，以及独立做决定的那一块。"
-          },
-          "image_area": {
-            "url": "https://picx.zhimg.com/80/v2-039f4356646948530ccc8eb7c48c88aa_720w.webp?source=1def8aca"
-          },
-          "metrics_area": {
-            "text": "163 万热度",
-            "font_color": "",
-            "background": "",
-            "weight": ""
-          },
-          "label_area": {
-            "type": "trend",
-            "trend": 0,
-            "night_color": "#B7302D",
-            "normal_color": "#F1403C"
-          },
-          "link": {
-            "url": "https://www.zhihu.com/question/2068724870267891996"
-          }
-        },
-        "attached_info": "CkoI7c/0mbOuveNUEAMaCTEyMDgwNTM0NCCM+NDTBjAAONsBQAVyEzIwNjg3MjQ4NzAyNjc4OTE5OTZ4AKoBCWJpbGxib2FyZNIBAA=="
-      },
-      "history": [
-        {
-          "observed_at": "2026-08-07 11:09:28 +0800",
-          "rank": 6,
-          "heat_text": "163 万热度",
-          "heat_value": 1630000
-        }
-      ]
-    },
-    {
-      "key": "Q_2068727171682718365",
-      "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
-      "url": "https://www.zhihu.com/question/2068727171682718365",
-      "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
-      "first_rank": 7,
-      "latest_rank": 7,
-      "latest_heat_text": "153 万热度",
-      "latest_heat_value": 1530000,
-      "latest_item": {
-        "type": "hot_list_feed",
-        "style_type": "1",
-        "id": "6_1786072168.27351",
-        "card_id": "Q_2068727171682718365",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
-        "feed_specific": {
-          "answer_count": 55
-        },
-        "target": {
-          "title_area": {
-            "text": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？"
-          },
-          "excerpt_area": {
-            "text": "据经视直播，近日，华为常务董事、终端 BG 董事长余承东公开表示，受内存价格大幅上涨影响，后续手机或将迎来大规模涨价。暑期正值消费旺季，8 月 6 日，记者致电武汉多家华为、小米、 OPPO 、 vivo 授权门店，了解一线市场情况。 华为授权体验店（银泰创意城）工作人员表示，手机暂未正式涨价，但平板、电脑已上调价格，手机涨价是大概率事件。店内可正常享受数码国补，单件最高补贴 500 元，每位消费者仅有一次申领机会。针对老款机型，Mate 70L 512G 当前售价 3499 元，叠加国补后较首发价直降 1000 元，还可叠加以旧换新。 小米之家华中通信广场店介绍，小米已有部分机型完成调价，单款涨幅 300-500 元，是主流品牌中较晚涨价的。老款机型库存不多，国补、以旧换新正常执行。OPPO 武昌紫阳广场店反馈，品牌部分机型已涨 300-600 元，部分高端机型有工厂专项补贴，两项优惠叠加最高可减免千元。vivo 南湖体验城表示，X300 等老款暂未调价，但 10 月发布的新款 X500 起售价预期达 7999 元。 据行业信息，从 3 月起安卓厂商已陆续调价，OPPO 、 vivo 率先跟进，荣耀、小米随后上调 300-500 元。折叠屏涨幅更突出，OPPO Find N6 、 vivo X Fold6 起售价较上代均上涨 1000 元，荣耀 Magic V6 部分高配涨千元。华为手机售价整体稳定，苹果已上调 iPad 、 Mac 价格，市场预判 iPhone18 存在涨价风险。 武汉多家手机门店提醒，目前国补及以旧换新可以有效对冲部分成本，建议确有换机刚需的消费者尽快入手，并通过多渠道比价，结合预算和需求理性选购。"
-          },
-          "image_area": {
-            "url": "https://pica.zhimg.com/80/v2-5e9cd828248c13f719ea3cac1f683d20_720w.webp?source=1def8aca"
-          },
-          "metrics_area": {
-            "text": "153 万热度",
-            "font_color": "",
-            "background": "",
-            "weight": ""
-          },
-          "label_area": {
-            "type": "trend",
-            "trend": 0,
-            "night_color": "#B7302D",
-            "normal_color": "#F1403C"
-          },
-          "link": {
-            "url": "https://www.zhihu.com/question/2068727171682718365"
-          }
-        },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDgwNTYyNyCw/NDTBjAAOFZABnITMjA2ODcyNzE3MTY4MjcxODM2NXgAqgEJYmlsbGJvYXJk0gEA"
-      },
-      "history": [
-        {
-          "observed_at": "2026-08-07 11:09:28 +0800",
-          "rank": 7,
-          "heat_text": "153 万热度",
-          "heat_value": 1530000
-        }
-      ]
-    },
-    {
-      "key": "Q_2062925324489339966",
-      "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
-      "url": "https://www.zhihu.com/question/2062925324489339966",
-      "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
-      "first_rank": 8,
-      "latest_rank": 8,
-      "latest_heat_text": "152 万热度",
-      "latest_heat_value": 1520000,
-      "latest_item": {
-        "type": "hot_list_feed",
-        "style_type": "1",
-        "id": "7_1786072168.28802",
-        "card_id": "Q_2062925324489339966",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
-        "feed_specific": {
-          "answer_count": 30
-        },
-        "target": {
-          "title_area": {
-            "text": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？"
-          },
-          "excerpt_area": {
-            "text": "看到电影里把熟悉的汉钟离叫成钟离权，有点好奇这个改动有什么出处或者用意。"
-          },
-          "image_area": {
-            "url": "https://picx.zhimg.com/50/v2-31965e917be28542e7d191821d115fe3_b.jpg"
           },
           "metrics_area": {
             "text": "152 万热度",
@@ -147374,10 +147162,254 @@
             "normal_color": "#F1403C"
           },
           "link": {
+            "url": "https://www.zhihu.com/question/2068304398212495175"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDc4NzE2NSDz6MrTBjAAOHNADXITMjA2ODMwNDM5ODIxMjQ5NTE3NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 11:09:28 +0800",
+          "rank": 4,
+          "heat_text": "203 万热度",
+          "heat_value": 2030000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 14,
+          "heat_text": "152 万热度",
+          "heat_value": 1520000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067990469624304935",
+      "title": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？",
+      "url": "https://www.zhihu.com/question/2067990469624304935",
+      "first_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 5,
+      "latest_rank": 27,
+      "latest_heat_text": "111 万热度",
+      "latest_heat_value": 1110000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1786086884.234496",
+        "card_id": "Q_2067990469624304935",
+        "feed_specific": {
+          "answer_count": 59
+        },
+        "target": {
+          "title_area": {
+            "text": "老乡鸡主动邀约求职者，得知二人同名后又直接拒绝，称喊一个名字会有两个人答应，仅因同名就拒绝录用合理吗？"
+          },
+          "excerpt_area": {
+            "text": "8 月 3 日，一名网友在社交平台发布与老乡鸡招聘人员的聊天记录。招聘人员主动联系该网友，称其在线简历与岗位匹配，并询问是否方便进一步沟通。 得知两人名字相同后，招聘人员却表示：「那这样的话，我肯定不会招你，不然店里喊一个名字两个人答应。」 老乡鸡客服随后在帖子评论区回应称，已联系相关门店了解情况，涉事人员的「不当表达确实不妥」，并就此次沟通体验向发帖人致歉。 截至发稿，老乡鸡尚未公布涉事人员的具体处理结果，也未说明上述说法属于个人表达，还是门店在招聘中确有避免员工重名的安排。 主动邀约求职者，发现同名后称「不招」 聊天记录显示，8 月 1 日，老乡鸡招聘人员首先向发帖人发送消息，称看过其在线简历，认为与招聘岗位较为匹配，并询问对方目前是否仍在找工作。 2 日晚，发帖人发现双方名字相同，回复称：「这么巧，我们的名字一样。」招聘人员随即表示，因为两人同名，「肯定不会招」，否则在店内喊一个名字时，可能出现两个人同时答应的情况。 发帖人随后回复称，自己只是觉得同名巧合，并未表示一定要到老乡鸡工作，而且此次沟通由招聘人员主动发起。她在帖文中表示，自己目前已有工作，此前只是在招聘平台浏览职位。 该帖已有 59 条评论。多名网友认为，招聘人员的表达不够专业，要求老乡鸡公布处理结果; 也有网友认为，对方可能是在开玩笑，不必将这段对话扩大为企业层面的招聘规则。 有网友注意到，公开截图中没有显示具体门店，追问老乡鸡如何确定涉事人员，老乡鸡客服回复称，门店信息是通过招聘软件上的头像获取的。 老乡鸡客服在回应中确认，相关表达确有不妥，但尚未披露涉事人员在门店中的具体岗位及后续处理情况。 门店增至 1658 家，加盟店占比超过四成 此次招聘沟通引发关注时，老乡鸡仍在扩大全国门店规模。 老乡鸡 2026 年 1 月更新的港股招股书显示，截至 2025 年 8 月 31 日，公司共有 1658 家门店，其中直营店 925 家、加盟店 733 家，加盟店占门店总数约 44.2%。 从门店结构看，2022 年至 2024 年，老乡鸡加盟店数量分别为 118 家、 226 家和 565 家; 同期直营店数量由 1007 家降至 914 家。到 2025 年 8 月底，加盟店进一步增至 733 家。 业绩方面，2024 年，老乡鸡实现收入 62.88 亿元，净利润 4.09 亿元。2025 年前 8 个月，公司收入为 45.78 亿元，同比增长 10.90%; 净利润为 3.72 亿元，同比增长 12.05%。 同期，老乡鸡直营店收入同比下降 3.73% 至 35.24 亿元，加盟业务收入继续增长。随着加盟店数量增加，公司在招股书中也将加盟商筛选、门店运营及食品安全管理列为业务需要持续关注的事项。 老乡鸡此前曾尝试登陆 A 股，此后转向港股。公司 2026 年 1 月 8 日向港交所递交的上市申请，于 7 月 8 日满六个月后失效。 记者分别向发帖求职者和老乡鸡客服发去信息，就涉事门店、招聘人员身份及后续处理情况进行求证，截至发稿均未获回复。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-da8613f912d2200cce6be5ac0d171857.png"
+          },
+          "metrics_area": {
+            "text": "111 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067990469624304935"
+          }
+        },
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDc3NDc2OSCVoMbTBjAAOJgBQBpyEzIwNjc5OTA0Njk2MjQzMDQ5MzV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 11:09:28 +0800",
+          "rank": 5,
+          "heat_text": "176 万热度",
+          "heat_value": 1760000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 27,
+          "heat_text": "111 万热度",
+          "heat_value": 1110000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068724870267891996",
+      "title": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？",
+      "url": "https://www.zhihu.com/question/2068724870267891996",
+      "first_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 6,
+      "latest_rank": 28,
+      "latest_heat_text": "108 万热度",
+      "latest_heat_value": 1080000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1786086884.236470",
+        "card_id": "Q_2068724870267891996",
+        "feed_specific": {
+          "answer_count": 163
+        },
+        "target": {
+          "title_area": {
+            "text": "这个暑假「预制娃」火了，家长提前填鸭，学校二次加热，如何看待这种抢跑式教育？大脑发育经得起「预制」吗？"
+          },
+          "excerpt_area": {
+            "text": "这个暑假，「预制娃」这个词突然火了。 意思大家应该都懂，孩子在假期里，把下学期的课本、重难点、习题提前全部学透练熟，在家完成一整套知识「预制」，开学后到学校，由老师简单「二次加热」，再用一轮轮考试检验哪家预制得更好。 学校像一台不停运转的微波炉，家长则是那个提前备好料的中央厨房。 大多数关于预制娃的讨论，都停在了「这样学没后劲、上课不专注」这一层。 但很多人忽略了，「预制」这个动作正在悄悄改变孩子大脑的物理结构。 而且被改变的那个部位，恰恰是决定孩子未来能不能自律、自己扛事，以及独立做决定的那一块。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-039f4356646948530ccc8eb7c48c88aa_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "108 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068724870267891996"
+          }
+        },
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgwNTM0NCCM+NDTBjAAOKQDQBtyEzIwNjg3MjQ4NzAyNjc4OTE5OTZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 11:09:28 +0800",
+          "rank": 6,
+          "heat_text": "163 万热度",
+          "heat_value": 1630000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 28,
+          "heat_text": "108 万热度",
+          "heat_value": 1080000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068727171682718365",
+      "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
+      "url": "https://www.zhihu.com/question/2068727171682718365",
+      "first_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 7,
+      "latest_rank": 9,
+      "latest_heat_text": "209 万热度",
+      "latest_heat_value": 2090000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1786086884.212233",
+        "card_id": "Q_2068727171682718365",
+        "feed_specific": {
+          "answer_count": 113
+        },
+        "target": {
+          "title_area": {
+            "text": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？"
+          },
+          "excerpt_area": {
+            "text": "据经视直播，近日，华为常务董事、终端 BG 董事长余承东公开表示，受内存价格大幅上涨影响，后续手机或将迎来大规模涨价。暑期正值消费旺季，8 月 6 日，记者致电武汉多家华为、小米、 OPPO 、 vivo 授权门店，了解一线市场情况。 华为授权体验店（银泰创意城）工作人员表示，手机暂未正式涨价，但平板、电脑已上调价格，手机涨价是大概率事件。店内可正常享受数码国补，单件最高补贴 500 元，每位消费者仅有一次申领机会。针对老款机型，Mate 70L 512G 当前售价 3499 元，叠加国补后较首发价直降 1000 元，还可叠加以旧换新。 小米之家华中通信广场店介绍，小米已有部分机型完成调价，单款涨幅 300-500 元，是主流品牌中较晚涨价的。老款机型库存不多，国补、以旧换新正常执行。OPPO 武昌紫阳广场店反馈，品牌部分机型已涨 300-600 元，部分高端机型有工厂专项补贴，两项优惠叠加最高可减免千元。vivo 南湖体验城表示，X300 等老款暂未调价，但 10 月发布的新款 X500 起售价预期达 7999 元。 据行业信息，从 3 月起安卓厂商已陆续调价，OPPO 、 vivo 率先跟进，荣耀、小米随后上调 300-500 元。折叠屏涨幅更突出，OPPO Find N6 、 vivo X Fold6 起售价较上代均上涨 1000 元，荣耀 Magic V6 部分高配涨千元。华为手机售价整体稳定，苹果已上调 iPad 、 Mac 价格，市场预判 iPhone18 存在涨价风险。 武汉多家手机门店提醒，目前国补及以旧换新可以有效对冲部分成本，建议确有换机刚需的消费者尽快入手，并通过多渠道比价，结合预算和需求理性选购。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-5e9cd828248c13f719ea3cac1f683d20_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "209 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068727171682718365"
+          }
+        },
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgwNTYyNyCw/NDTBjAAOL0BQAhyEzIwNjg3MjcxNzE2ODI3MTgzNjV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 11:09:28 +0800",
+          "rank": 7,
+          "heat_text": "153 万热度",
+          "heat_value": 1530000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 9,
+          "heat_text": "209 万热度",
+          "heat_value": 2090000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062925324489339966",
+      "title": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？",
+      "url": "https://www.zhihu.com/question/2062925324489339966",
+      "first_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 8,
+      "latest_rank": 6,
+      "latest_heat_text": "237 万热度",
+      "latest_heat_value": 2370000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1786086884.210908",
+        "card_id": "Q_2062925324489339966",
+        "feed_specific": {
+          "answer_count": 79
+        },
+        "target": {
+          "title_area": {
+            "text": "电影《八仙！》里为什么把汉钟离的名字改成了钟离权？"
+          },
+          "excerpt_area": {
+            "text": "看到电影里把熟悉的汉钟离叫成钟离权，有点好奇这个改动有什么出处或者用意。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-31965e917be28542e7d191821d115fe3_b.jpg"
+          },
+          "metrics_area": {
+            "text": "237 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
             "url": "https://www.zhihu.com/question/2062925324489339966"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDU2ODQ0MiDMxfzSBjAAOCJAB3ITMjA2MjkyNTMyNDQ4OTMzOTk2NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDU2ODQ0MiDMxfzSBjAAOHlABXITMjA2MjkyNTMyNDQ4OTMzOTk2NngAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -147385,6 +147417,12 @@
           "rank": 8,
           "heat_text": "152 万热度",
           "heat_value": 1520000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 6,
+          "heat_text": "237 万热度",
+          "heat_value": 2370000
         }
       ]
     },
@@ -147393,23 +147431,18 @@
       "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
       "url": "https://www.zhihu.com/question/2068641150270026516",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 10,
-      "latest_rank": 10,
-      "latest_heat_text": "130 万热度",
-      "latest_heat_value": 1300000,
+      "latest_rank": 8,
+      "latest_heat_text": "217 万热度",
+      "latest_heat_value": 2170000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1786072168.31845",
+        "id": "7_1786086884.211789",
         "card_id": "Q_2068641150270026516",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 23
+          "answer_count": 75
         },
         "target": {
           "title_area": {
@@ -147422,7 +147455,7 @@
             "url": "https://pica.zhimg.com/100/v2-61bef2cdbcf706712ea9064863751c46_r.jpg"
           },
           "metrics_area": {
-            "text": "130 万热度",
+            "text": "217 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -147437,7 +147470,7 @@
             "url": "https://www.zhihu.com/question/2068641150270026516"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDc5OTAwMCCT3M/TBjAAOCRACXITMjA2ODY0MTE1MDI3MDAyNjUxNngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDc5OTAwMCCT3M/TBjAAOIkBQAdyEzIwNjg2NDExNTAyNzAwMjY1MTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -147445,6 +147478,12 @@
           "rank": 10,
           "heat_text": "130 万热度",
           "heat_value": 1300000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 8,
+          "heat_text": "217 万热度",
+          "heat_value": 2170000
         }
       ]
     },
@@ -147453,36 +147492,31 @@
       "title": "新生儿入住月子会所 4 天后颅内出血进 ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？",
       "url": "https://www.zhihu.com/question/2068703340356003104",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 13,
-      "latest_rank": 13,
-      "latest_heat_text": "122 万热度",
-      "latest_heat_value": 1220000,
+      "latest_rank": 3,
+      "latest_heat_text": "399 万热度",
+      "latest_heat_value": 3990000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1786072168.36558",
+        "id": "2_1786086884.206024",
         "card_id": "Q_2068703340356003104",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 29
+          "answer_count": 130
         },
         "target": {
           "title_area": {
             "text": "新生儿入住月子会所 4 天后颅内出血进 ICU，监控现护理人员拍打、吼叫行为，相关方应承担怎样责任？"
           },
           "excerpt_area": {
-            "text": "媒体报道新生儿进月子会所 4 天颅内出血进 ICU 妈妈称孩子出生后出院到入住月子会所，全程由对方工作人员护理。查看监控，发现护理人员有拍打吼叫行为。孩子父亲称，目前治疗已花费 9 万多元，后续还要做手术；月子会所表示鉴定结果出来后再划分责任。该月子会所的杨姓负责人，连续四次回应记者无可奉告。新生儿进月子会所 4 天颅内出血进 ICU"
+            "text": "近日，四川成都。妈妈称孩子出生后出院到入住月子会所，全程由对方工作人员护理。查看监控，发现护理人员有拍打吼叫行为。孩子父亲称，目前治疗已花费 9 万多元，后续还要做手术；月子会所表示鉴定结果出来后再划分责任。该月子会所的杨姓负责人，连续四次回应记者无可奉告。截至 8 月 5 日发稿，该女婴仍在 ICU。 新生儿进月子会所 4 天颅内出血进 ICU"
           },
           "image_area": {
             "url": "https://pic2.zhimg.com/50/v2-6ff10dc3d50719afb0ad92f41a2f21a9_b.jpg"
           },
           "metrics_area": {
-            "text": "122 万热度",
+            "text": "399 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -147497,7 +147531,7 @@
             "url": "https://www.zhihu.com/question/2068703340356003104"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDgwMzQ3NiD+z9DTBjAAODhADHITMjA2ODcwMzM0MDM1NjAwMzEwNHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgwMzQ3NiD+z9DTBjAAOJQCQAJyEzIwNjg3MDMzNDAzNTYwMDMxMDR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -147505,6 +147539,12 @@
           "rank": 13,
           "heat_text": "122 万热度",
           "heat_value": 1220000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 3,
+          "heat_text": "399 万热度",
+          "heat_value": 3990000
         }
       ]
     },
@@ -147513,23 +147553,18 @@
       "title": "孩子准备上大一了，一个月跟我要 1500 的生活费，会不会太多了？",
       "url": "https://www.zhihu.com/question/2066558957930420222",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 14,
-      "latest_rank": 14,
-      "latest_heat_text": "121 万热度",
-      "latest_heat_value": 1210000,
+      "latest_rank": 7,
+      "latest_heat_text": "233 万热度",
+      "latest_heat_value": 2330000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "13_1786072168.37123",
+        "id": "6_1786086884.211461",
         "card_id": "Q_2066558957930420222",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 142
+          "answer_count": 302
         },
         "target": {
           "title_area": {
@@ -147542,7 +147577,7 @@
             "url": "https://pic1.zhimg.com/80/v2-2fe65083902cf5012f6e889cd00dccfd_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "121 万热度",
+            "text": "233 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -147557,7 +147592,7 @@
             "url": "https://www.zhihu.com/question/2066558957930420222"
           }
         },
-        "attached_info": "CkoI7c/0mbOuveNUEAMaCTEyMDcyMDc0MiDitbHTBjAAOI0BQA1yEzIwNjY1NTg5NTc5MzA0MjAyMjJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDcyMDc0MiDitbHTBjAAOPQCQAZyEzIwNjY1NTg5NTc5MzA0MjAyMjJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -147565,6 +147600,12 @@
           "rank": 14,
           "heat_text": "121 万热度",
           "heat_value": 1210000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 7,
+          "heat_text": "233 万热度",
+          "heat_value": 2330000
         }
       ]
     },
@@ -147573,23 +147614,18 @@
       "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
       "url": "https://www.zhihu.com/question/2068732573711329057",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 16,
       "latest_rank": 16,
-      "latest_heat_text": "117 万热度",
-      "latest_heat_value": 1170000,
+      "latest_heat_text": "151 万热度",
+      "latest_heat_value": 1510000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1786072168.39351",
+        "id": "15_1786086884.219792",
         "card_id": "Q_2068732573711329057",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 46
+          "answer_count": 133
         },
         "target": {
           "title_area": {
@@ -147602,7 +147638,7 @@
             "url": "https://pic1.zhimg.com/100/v2-4dd9016a1ac6cc2ad5fb39c19d9d2ebe_r.jpg"
           },
           "metrics_area": {
-            "text": "117 万热度",
+            "text": "151 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -147617,7 +147653,7 @@
             "url": "https://www.zhihu.com/question/2068732573711329057"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDgwNjI0NyC4htHTBjAAOEFAD3ITMjA2ODczMjU3MzcxMTMyOTA1N3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgwNjI0NyC4htHTBjAAOOYBQA9yEzIwNjg3MzI1NzM3MTEzMjkwNTd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -147625,6 +147661,12 @@
           "rank": 16,
           "heat_text": "117 万热度",
           "heat_value": 1170000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 16,
+          "heat_text": "151 万热度",
+          "heat_value": 1510000
         }
       ]
     },
@@ -147633,23 +147675,18 @@
       "title": "前日本奥运举重选手便利店偷鸡蛋，推倒店员致其骨折，被当场逮捕，为什么会做出此举？日本运动员的处境如何？",
       "url": "https://www.zhihu.com/question/2068423522058244663",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 17,
-      "latest_rank": 17,
-      "latest_heat_text": "114 万热度",
-      "latest_heat_value": 1140000,
+      "latest_rank": 11,
+      "latest_heat_text": "184 万热度",
+      "latest_heat_value": 1840000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "16_1786072168.39984",
+        "id": "10_1786086884.214864",
         "card_id": "Q_2068423522058244663",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 24
+          "answer_count": 62
         },
         "target": {
           "title_area": {
@@ -147662,7 +147699,7 @@
             "url": "https://pic1.zhimg.com/50/v2-cf9b0b8aa00525a6467ca81195d36e10_b.jpg"
           },
           "metrics_area": {
-            "text": "114 万热度",
+            "text": "184 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -147677,7 +147714,7 @@
             "url": "https://www.zhihu.com/question/2068423522058244663"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDc5MzUyNyDlxszTBjAAOCJAEHITMjA2ODQyMzUyMjA1ODI0NDY2M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDc5MzUyNyDlxszTBjAAOIIBQApyEzIwNjg0MjM1MjIwNTgyNDQ2NjN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -147685,6 +147722,12 @@
           "rank": 17,
           "heat_text": "114 万热度",
           "heat_value": 1140000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 11,
+          "heat_text": "184 万热度",
+          "heat_value": 1840000
         }
       ]
     },
@@ -147913,18 +147956,18 @@
       "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
       "url": "https://www.zhihu.com/question/59229305",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 22,
-      "latest_rank": 22,
-      "latest_heat_text": "90 万热度",
-      "latest_heat_value": 900000,
+      "latest_rank": 24,
+      "latest_heat_text": "120 万热度",
+      "latest_heat_value": 1200000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "21_1786072168.44093",
+        "id": "23_1786086884.230683",
         "card_id": "Q_59229305",
         "feed_specific": {
-          "answer_count": 137
+          "answer_count": 152
         },
         "target": {
           "title_area": {
@@ -147937,7 +147980,7 @@
             "url": "https://pica.zhimg.com/80/v2-73e52b150e71a6cddaab3983444236f6_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "90 万热度",
+            "text": "120 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -147952,7 +147995,7 @@
             "url": "https://www.zhihu.com/question/59229305"
           }
         },
-        "attached_info": "Cj4I7c/0mbOuveNUEAMaCDE1OTE0MTgwIODAmcgFMAA44AFAFXIINTkyMjkzMDV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "Cj4Iz7HBgbbg+8IQEAMaCDE1OTE0MTgwIODAmcgFMAA4igJAF3IINTkyMjkzMDV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -147960,6 +148003,12 @@
           "rank": 22,
           "heat_text": "90 万热度",
           "heat_value": 900000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 24,
+          "heat_text": "120 万热度",
+          "heat_value": 1200000
         }
       ]
     },
@@ -148028,23 +148077,18 @@
       "title": "小米澎程系列配置「低速慢行灯」，时速低于 10km/h 自动开启，实用性如何？能解决哪些夜间驾驶痛点？",
       "url": "https://www.zhihu.com/question/2067414687868774120",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 24,
-      "latest_rank": 24,
-      "latest_heat_text": "81 万热度",
-      "latest_heat_value": 810000,
+      "latest_rank": 20,
+      "latest_heat_text": "136 万热度",
+      "latest_heat_value": 1360000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "23_1786072168.45690",
+        "id": "19_1786086884.223866",
         "card_id": "Q_2067414687868774120",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 17
+          "answer_count": 55
         },
         "target": {
           "title_area": {
@@ -148057,7 +148101,7 @@
             "url": "https://picx.zhimg.com/50/v2-4d586735aaeef59c4dc8664bdf2173e7_b.jpg"
           },
           "metrics_area": {
-            "text": "81 万热度",
+            "text": "136 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -148072,7 +148116,7 @@
             "url": "https://www.zhihu.com/question/2067414687868774120"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDc1MjE0MSDY773TBjAAOBJAF3ITMjA2NzQxNDY4Nzg2ODc3NDEyMHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDc1MjE0MSDY773TBjAAOFJAE3ITMjA2NzQxNDY4Nzg2ODc3NDEyMHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -148080,6 +148124,12 @@
           "rank": 24,
           "heat_text": "81 万热度",
           "heat_value": 810000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 20,
+          "heat_text": "136 万热度",
+          "heat_value": 1360000
         }
       ]
     },
@@ -148143,23 +148193,18 @@
       "title": "如何看待儿科医生韩杰「漏诊」获刑 1 年，本人称「认错但不认罪」？从专业角度看他应该获刑吗？",
       "url": "https://www.zhihu.com/question/2068723614723956859",
       "first_seen": "2026-08-07 11:09:28 +0800",
-      "last_seen": "2026-08-07 11:09:28 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
       "first_rank": 26,
       "latest_rank": 26,
-      "latest_heat_text": "70 万热度",
-      "latest_heat_value": 700000,
+      "latest_heat_text": "115 万热度",
+      "latest_heat_value": 1150000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1786072168.47620",
+        "id": "25_1786086884.231427",
         "card_id": "Q_2068723614723956859",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 85
+          "answer_count": 141
         },
         "target": {
           "title_area": {
@@ -148172,7 +148217,7 @@
             "url": "https://picx.zhimg.com/v2-0adf4ffb8cc6d0d708a8026597569241_r.jpg?source=1def8aca"
           },
           "metrics_area": {
-            "text": "70 万热度",
+            "text": "115 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -148187,7 +148232,7 @@
             "url": "https://www.zhihu.com/question/2068723614723956859"
           }
         },
-        "attached_info": "CkkI7c/0mbOuveNUEAMaCTEyMDgwNTE4NCDg9dDTBjAAOHpAGXITMjA2ODcyMzYxNDcyMzk1Njg1OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgwNTE4NCDg9dDTBjAAOPwBQBlyEzIwNjg3MjM2MTQ3MjM5NTY4NTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -148195,6 +148240,12 @@
           "rank": 26,
           "heat_text": "70 万热度",
           "heat_value": 700000
+        },
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 26,
+          "heat_text": "115 万热度",
+          "heat_value": 1150000
         }
       ]
     },
@@ -148370,6 +148421,796 @@
           "rank": 30,
           "heat_text": "65 万热度",
           "heat_value": 650000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068833130803196943",
+      "title": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？",
+      "url": "https://www.zhihu.com/question/2068833130803196943",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "289 万热度",
+      "latest_heat_value": 2890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1786086884.207218",
+        "card_id": "Q_2068833130803196943",
+        "feed_specific": {
+          "answer_count": 88
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判，涉中韩国奥战 + 世预赛？暴露出哪些问题？"
+          },
+          "excerpt_area": {
+            "text": "据韩媒 JTBC 在 2026 年 8 月 6 日的独家报道，韩国足协在 2011 年 3 月至 2012 年 3 月期间，先后 7 次向 20 名外籍裁判提供性招待，涉及 2014 巴西世界杯预选赛、 2012 伦敦奥运会最终预选赛及多场国际友谊赛，其中一场为中国国奥客场 0-1 不敌韩国国奥的比赛。韩国文化体育观光部 2016 年调查文件记录了相关法人卡结算明细；韩国足协回应称「15 年前可能存在不光彩的事情」，目前正努力改进。 本文用一张「数据全知道」表格，快速捋清这起丑闻的时间线、比赛类型、涉及人数、结算金额与信息确定性，再看中韩国奥关联场次细节、韩国足协的回应逻辑，以及后续观赛追踪该注意什么。 核心服务信息表：7 场性贿赂丑闻数据一览 序号比赛 / 事件时间地点赛事阶段涉及裁判法人卡结算金额信息确定性 1 韩国 vs 科威特 2011 年（比赛日当天凌晨）首尔江南区驿三洞按摩店 2014 巴西世界杯亚洲区预选赛 2 名外籍裁判 50 万韩元文体部调查认定 2 韩国 vs 阿曼 2012 年 9 月 22 日庆尚南道昌原市按摩店 2012 伦敦奥运会最终预选赛 4 名外籍裁判 76 万韩元文体部调查认定 3 比赛监督官被招待 2012 年 3 月 14 日 20:34（比赛进行期间）首尔江南区驿三洞中式按摩店国家队比赛期间 1 名裁判监督官 19.8 万韩元文体部调查认定 4 韩国 vs 洪都拉斯 2011 年 3 月 25 日（开球前约 19 小时）首尔驿三洞按摩店友谊赛 3 名外籍裁判 75 万韩元文体部调查认定 5 韩国 vs 塞尔维亚 2011 年 6 月 3 日（凌晨时段）首尔驿三洞同一按摩店友谊赛 4 名外籍裁判未单独披露文体部调查认定 6 韩国 vs 波兰 2011 年 10 月 7 日（凌晨时段）首尔驿三洞同一按摩店友谊赛 3 名外籍裁判未单独披露文体部调查认定 7 韩国国奥 vs 中国国奥 2011 年 3 月 27 日（赛后约 3 小时）蔚山南区三山洞按摩店国奥友谊赛 3 名外籍裁判约 51 万韩元文体部调查认定 注：具体消费凭证与认定细节来自 JTBC 获取的 2016 年文体部文件及公开报道，裁判人数与金额均以该调查记录为准。相关赛程、直播回看渠道需以平台实时信息为准。韩媒曝韩国足协 7 场比赛性贿赂 20 名裁判 涉中韩国奥战 + 世预赛：一文看懂丑闻时间线、直播渠道与数据全知道"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-29ddee558dbd4cc351d7da3861344de7_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "289 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068833130803196943"
+          }
+        },
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgxMDgzNyDfwdLTBjAAOMEBQANyEzIwNjg4MzMxMzA4MDMxOTY5NDN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 4,
+          "heat_text": "289 万热度",
+          "heat_value": 2890000
+        }
+      ]
+    },
+    {
+      "key": "Q_2069020073851983605",
+      "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2069020073851983605",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "238 万热度",
+      "latest_heat_value": 2380000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1786086884.210064",
+        "card_id": "Q_2069020073851983605",
+        "feed_specific": {
+          "answer_count": 104
+        },
+        "target": {
+          "title_area": {
+            "text": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？"
+          },
+          "excerpt_area": {
+            "text": "8 月 7 日，泸溪河官方发布关于网传「泸溪河桃酥出现金属牙冠」事件调查结论的声明。 声明表示，经自查，排除金属牙冠异物混入坚果桃酥产品的可能性。政府监管部门对工厂进行检查，未发现金属牙冠异物混入坚果桃酥产品的可能。第三方权威检测机构 SGS 对工厂进行全面审核，可以排除金属牙冠异物在生产过程中带入的可能性。消费者张女士已澄清，所发视频情况不属实，已主动删除相关视频并致歉。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-5951ccc42211ec1c71c15fb4ef4cf849_r.jpg?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "238 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2069020073851983605"
+          }
+        },
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDgxNjMyNCD6ndXTBjAAOKABQARyEzIwNjkwMjAwNzM4NTE5ODM2MDV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 5,
+          "heat_text": "238 万热度",
+          "heat_value": 2380000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068334810846717156",
+      "title": "如何看待蜘蛛侠荷兰弟替身「河南弟」误导舆论、造假抢功、疑似还遭剧组开除一事？",
+      "url": "https://www.zhihu.com/question/2068334810846717156",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "200 万热度",
+      "latest_heat_value": 2000000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1786086884.213655",
+        "card_id": "Q_2068334810846717156",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待蜘蛛侠荷兰弟替身「河南弟」误导舆论、造假抢功、疑似还遭剧组开除一事？"
+          },
+          "excerpt_area": {
+            "text": "蜘蛛侠系列电影 河南弟自称荷兰弟替身疑似造假？！ 《蜘蛛侠：崭新之日》热映期间，一位来自河南周口自称「河南弟」的小伙王壮壮自称是荷兰弟的武替受到媒体和网友热捧！并引发巨大争议——片中的武打戏份和危险场景到底是谁演的？很多网友根据河南弟的说法是替身完成居多，还有大批网友以此嘲讽荷兰弟，给荷兰弟的名声带来恶劣影响。 然而根据武指张鹏以及片中日本女忍者扮演者、来自河北邯郸的范小双、官方花絮等说法，80% 的戏份都是荷兰弟亲自上阵，并非武替完成的多。 王壮壮还被指在参演期间被剧组开除，目前他已经删除了自己的相关视频，暂时未再回应争议。"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/v2-8aa4eb98e7eca48954314ab4c916c41d_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "200 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068334810846717156"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDc4ODM1OCDGocvTBjAAOCpACXITMjA2ODMzNDgxMDg0NjcxNzE1NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 10,
+          "heat_text": "200 万热度",
+          "heat_value": 2000000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068266245296744222",
+      "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
+      "url": "https://www.zhihu.com/question/2068266245296744222",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "170 万热度",
+      "latest_heat_value": 1700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1786086884.216322",
+        "card_id": "Q_2068266245296744222",
+        "feed_specific": {
+          "answer_count": 48
+        },
+        "target": {
+          "title_area": {
+            "text": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?"
+          },
+          "excerpt_area": {
+            "text": "仔细想想比武招亲的安全漏洞简直触目惊心。 主办方提前张榜公告时间地点, 美貌女主角当众亮相, 擂台开放报名、任何人都能上台一较高下。 这几乎是给心怀不轨之徒量身定制的 「 合法接触 」 渠道。 历史上和武侠故事里, 借比武招亲之名行掳掠之实的采花大盗、江湖败类屡见不鲜, 危险系数不比一场毫无防备的裸奔差多少。"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-524608a607e80ed30cb9fe254540a015_b.jpg"
+          },
+          "metrics_area": {
+            "text": "170 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068266245296744222"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDc4MzU0NSDrocrTBjAAOENAC3ITMjA2ODI2NjI0NTI5Njc0NDIyMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 12,
+          "heat_text": "170 万热度",
+          "heat_value": 1700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068986574256312589",
+      "title": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？",
+      "url": "https://www.zhihu.com/question/2068986574256312589",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "163 万热度",
+      "latest_heat_value": 1630000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1786086884.217557",
+        "card_id": "Q_2068986574256312589",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 GPT-5.6Luna 免费不限量，后续基础大模型都会走向免费吗？"
+          },
+          "excerpt_area": {
+            "text": "连 GPT-5.6，竟然全员免费了！ 今早，OpenAI 重磅官宣，GPT-5.6 Luna 的文本对话，不限量了。 全球十亿人，直接免费用。 与此同时，GPT-5.6 Sol 迎来全新升级—— ChatGPT 界面新增一根滑块，一统 Instant 和 Thinking 两大模式，让 Sol 在每个问题上想多久自己定。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-e606eb34b94f27cbf4db449630c08ce3_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "163 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068986574256312589"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDgxNDAzMiDH39TTBjAAOGRADHITMjA2ODk4NjU3NDI1NjMxMjU4OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 13,
+          "heat_text": "163 万热度",
+          "heat_value": 1630000
+        }
+      ]
+    },
+    {
+      "key": "EV_12222744",
+      "title": "「秋天的第一杯奶茶」过时了吗？你的立秋仪式感是什么？",
+      "url": "https://www.zhihu.com/topic/21502409/hot",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "151 万热度",
+      "latest_heat_value": 1510000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1786086884.219658",
+        "card_id": "EV_12222744",
+        "feed_specific": {
+          "answer_count": 0
+        },
+        "target": {
+          "title_area": {
+            "text": "「秋天的第一杯奶茶」过时了吗？你的立秋仪式感是什么？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-c6eeeac7474573aa54b308feadfcfa50.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "151 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/topic/21502409/hot"
+          }
+        },
+        "attached_info": "Cl0Iz7HBgbbg+8IQEBgaBDgzOTkgmdXV0wZADnIIMTIyMjI3NDR4AKoBCWJpbGxib2FyZMoBKGh0dHBzOi8vd3d3LnpoaWh1LmNvbS90b3BpYy8yMTUwMjQwOS9ob3Q="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 15,
+          "heat_text": "151 万热度",
+          "heat_value": 1510000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068810918826447155",
+      "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2068810918826447155",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "150 万热度",
+      "latest_heat_value": 1500000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1786086884.220553",
+        "card_id": "Q_2068810918826447155",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "8 月 6 日消息，刚果（金）已发布最新行政指令，决定彻底禁止铜精矿与钴精矿的出口。同时，刚果（金）政府推出了新的税收框架，对具有经济价值的矿业副产品开征新税，计税估值系数设定为 55%。据悉，该新税收框架将于三个月后正式生效。 或受消息影响，国际铜价直线拉升，美铜涨 1.46%，伦铜涨 1.1%。 刚果（金）此前已对铜钴精矿出口实施严格审批，企业需取得出口配额或豁免后方可外运，因此本次政策更多是对既有管控的重申和收紧，并非突然全面中断出口。但政策释放的信号较为明确：随着关键矿产战略地位提升，资源国正更加重视通过出口限制、本地加工要求及税收政策，将更多资源附加值和产业链环节留在国内，资源保护主义对全球铜原料供应格局的影响正在持续上升。「世界原料仓库」突然宣布：将禁止铜和钴精矿出口！该国钴产量全球第 1，铜产量第 2，中企占据大部矿山份额！国际铜价直线拉升"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-1dbfc7bf03aa06c8cdb0bb984baa012f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "150 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068810918826447155"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDgxMDAyOSCvmNLTBjAAOEdAEHITMjA2ODgxMDkxODgyNjQ0NzE1NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 17,
+          "heat_text": "150 万热度",
+          "heat_value": 1500000
+        }
+      ]
+    },
+    {
+      "key": "Q_2008213346428662469",
+      "title": "为什么可以说「站在地上」，却不能说「游在河里」？",
+      "url": "https://www.zhihu.com/question/2008213346428662469",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "144 万热度",
+      "latest_heat_value": 1440000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1786086884.221798",
+        "card_id": "Q_2008213346428662469",
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么可以说「站在地上」，却不能说「游在河里」？"
+          },
+          "excerpt_area": {
+            "text": "仅限普通话"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-bbf80a35bb4a379270d6ecc659d6b305_b.jpg"
+          },
+          "metrics_area": {
+            "text": "144 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2008213346428662469"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTExODQ4NzQwMyDMsODMBjAAOEdAEXITMjAwODIxMzM0NjQyODY2MjQ2OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 18,
+          "heat_text": "144 万热度",
+          "heat_value": 1440000
+        }
+      ]
+    },
+    {
+      "key": "Q_2069009762692199687",
+      "title": "男子结婚 8 年发现 3 娃非亲生，要求离婚、返还抚育开支并赔偿精神抚慰金，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2069009762692199687",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "140 万热度",
+      "latest_heat_value": 1400000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1786086884.222250",
+        "card_id": "Q_2069009762692199687",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 51
+        },
+        "target": {
+          "title_area": {
+            "text": "男子结婚 8 年发现 3 娃非亲生，要求离婚、返还抚育开支并赔偿精神抚慰金，如何从法律角度解读？"
+          },
+          "excerpt_area": {
+            "text": "在浙江宁波打工的韦先生于 2017 年和妻子登记结婚，八年婚姻里夫妻俩共育有三个女儿，大女儿如今 8 岁，一对双胞胎小女儿 2025 年出生，今年 7 月刚满 1 周岁。 从 2024 年开始，韦先生渐渐察觉妻子行为十分反常。平日里她对孩子十分冷淡，大女儿长期由妻子随身照顾，双胞胎满月后留在老家由韦先生母亲照看，妻子却极少主动关心孩子，完全没有身为母亲的责任心。韦先生还偶然撞见妻子和陌生男子一同外出，对方常常编造各类借口晚归、外出，甚至私自拆掉家里监控与车辆行车记录仪，刻意抹去出行痕迹。即便心生芥蒂，在妻子怀上双胞胎时，韦先生仍选择退让，试图维系完整家庭。 今年 4 月，韦先生刷到多起子女非亲生的社会新闻，结合妻子长期反常的表现，心中疑虑难以消除。他先后采集三个女儿的样本送往广州鉴定机构做个人亲子鉴定，多次更换样本复核，四份报告全部证明，三个女儿和自己不存在生物学亲子关系。 司法鉴定结果 韦先生将鉴定结果告知妻子何女士，对方拒不承认私人鉴定报告，只认可法院出具的司法鉴定。双方沟通彻底破裂后，韦先生向陕西省汉中市南郑区人民法院提起侵权诉讼，并申请法院统一组织亲子鉴定。鉴定现场，妻子依旧一口咬定孩子是韦先生的，强硬的态度让韦先生倍感心寒。 8 月 6 日，法院委托的司法鉴定结果正式出炉，再次证实三名女儿均与韦先生无血缘关系，案件不久后将开庭审理。韦先生表示自己并无报复之心，只是心疼家中老人和无辜的孩子，庭审中将依法提出三项诉求：解除婚姻关系；判令女方返还多年欺诈性抚养产生的生活费、奶粉、教育等抚育开支；主张精神损害抚慰金。 目前记者尝试联系女方，其电话已无法接通。 来源：封面新闻结婚 8 年育 3 女，都不是亲生的，男子怒而起诉！妻子被撞见与陌生男子同行，还拆除家中监控、行车记录仪"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-e4d355011de5b802b422030922690405_b.jpg"
+          },
+          "metrics_area": {
+            "text": "140 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2069009762692199687"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDgxNTE2OSDfitXTBjAAOEpAEnITMjA2OTAwOTc2MjY5MjE5OTY4N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 19,
+          "heat_text": "140 万热度",
+          "heat_value": 1400000
+        }
+      ]
+    },
+    {
+      "key": "Q_22432296",
+      "title": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？",
+      "url": "https://www.zhihu.com/question/22432296",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "135 万热度",
+      "latest_heat_value": 1350000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1786086884.227732",
+        "card_id": "Q_22432296",
+        "feed_specific": {
+          "answer_count": 452
+        },
+        "target": {
+          "title_area": {
+            "text": "唐僧扫塔为什么不从最高层往下扫，而是从下往上扫？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-d99f72f4285fcca33287d3e2cd636ec3_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "135 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/22432296"
+          }
+        },
+        "attached_info": "Cj0Iz7HBgbbg+8IQEAMaBzExNTM4MDAgy5OWlgUwADjcBkAVcggyMjQzMjI5NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 22,
+          "heat_text": "135 万热度",
+          "heat_value": 1350000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068750826869413005",
+      "title": "公司实行「上四休三」，但要降薪 1000 元，员工不接受只能辞职，这样合理吗？换做是你会如何选择？",
+      "url": "https://www.zhihu.com/question/2068750826869413005",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "125 万热度",
+      "latest_heat_value": 1250000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1786086884.228605",
+        "card_id": "Q_2068750826869413005",
+        "feed_specific": {
+          "answer_count": 47
+        },
+        "target": {
+          "title_area": {
+            "text": "公司实行「上四休三」，但要降薪 1000 元，员工不接受只能辞职，这样合理吗？换做是你会如何选择？"
+          },
+          "excerpt_area": {
+            "text": "近日，一名网友发帖求助：「公司从 7 月开始实行『上四休三’，但扣基本工资，一天大概 200 元」。该网友表示，自己之前到手 5800 元左右，现在估计只剩 5000 元。 相比于传统的每周 5 天工作制，「上四休三」的新型办公方式一度被视为提升员工幸福感的「理想模式」。然而，如果企业在实行「上四休三」的同时降低员工薪资，在法律上是否站得住脚？实行「上四休三」需要注意哪些问题？「上四休三」后，职工的加班薪酬、福利待遇应如何调整？ 受访专家认为，劳动者的工资待遇属于其核心利益，企业将「上四休三」工作制与薪资挂钩，应充分告知并征得劳动者同意。专家建议，应在坚持充分协商、利益平衡、分类试点的原则上，探索建立更加灵活的工时制度，实现企业发展、劳动者休息权和收入保障之间的平衡。 「上四休三」，但要降工资？ 在不少劳动者看来，「上四休三」的魅力在于休息时间的增加。「3 天的时间既可以来一场短途旅游，也可以在家充分休息和放松。每次 3 天小长假后再上班，都会感觉效率有明显提高。」某央企职工于芳告诉记者。 武汉大学法学院副教授班小辉认为，从劳动法价值取向看，「上四休三」有利于保障劳动者休息权、促进工作与生活平衡，符合劳动法倡导的体面劳动和职业健康的发展方向。 「是否适用』上四休三’，应综合考虑企业的生产组织方式、岗位特点、人力资源配置和经营承受能力。只要能够通过科学排班、增加班组、优化流程等方式保障正常运营，不同行业都有探索『上四休三’的可能。」班小辉说。 然而，记者采访发现，当前一些实行「上四休三」的企业，往往将工作制的改变与降薪关联在一起。 「因为业绩不好，公司通知实行』上四休三’，同时扣除相应工资」「『上四休三’但要降薪 1000 元，如果不接受只能辞职」「』上四休三’后工资降了 20%」…记者在某社交平台上搜索发现，不少实行「上四休三」工作制的企业，都将其与「降薪」挂钩，而且工作时间改变后，员工每个月需要完成的工作量却没有变化。 「相比于双休或单休，实行‘上四休三’能直接降低企业的办公、人力等成本。」一位民营企业管理人员告诉记者，因此，一些企业在效益不好时，会把调整工作制、减少排班作为一种降低运营成本的方式。 那么，企业可以单方面推行「上四休三」并降薪的决定吗？ 四川省成都市中级人民法院曾审理过相关案例：2023 年 5 月，董某某所在集团的职代会讨论并表决通过《2023 年生产淡季轮休实施方案补充规定》，决定执行「上四休三」工作制，增加的休假时间按基本工资扣款。2024 年 1 月起，董某某的基本工资从每月 3850 元减少为 2100 元。此后，董某某辞职并以「底薪被降」为由向法院提起诉讼。 除了基本薪资，企业实行「上四休三」工作制后， 「在标准工时制下，单位在确定的休息日安排员工工作，可以安排补休；不能补休的，应按不低于日或小时工资标准的 200% 支付加班工资，遇法定节假日则按 300% 支付。」班小辉表示，此外，社保缴费基数和公积金缴存基数通常依据职工上一年度月平均工资，结合当地上下限按年度核定，工时缩短但工资不变的，基数也应不变； 对于部分企业提出「不降薪但减少福利」或「以福利替代部分薪酬」的做法，张烨阳指出，"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-33dee86a60f8add20d946ebb450469c4_1440w.jpeg?source=7e7ef6e2&needBackground=1"
+          },
+          "metrics_area": {
+            "text": "125 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068750826869413005"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDgwNzYyNyC4qNHTBjAAOF9AFnITMjA2ODc1MDgyNjg2OTQxMzAwNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 23,
+          "heat_text": "125 万热度",
+          "heat_value": 1250000
+        }
+      ]
+    },
+    {
+      "key": "Q_2069015264461579129",
+      "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+      "url": "https://www.zhihu.com/question/2069015264461579129",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "119 万热度",
+      "latest_heat_value": 1190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1786086884.230951",
+        "card_id": "Q_2069015264461579129",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？"
+          },
+          "excerpt_area": {
+            "text": "OpenCode 创始人表示，就算是租用 GPU ，他们也可以做到和 DeepSeek 目前一样的价格，所以这次涨价应该不是亏钱，可能是因为流量过载，所以想做流量控制"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "119 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2069015264461579129"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDgxNTQ0MyD/lNXTBjAAOC9AGHITMjA2OTAxNTI2NDQ2MTU3OTEyOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 25,
+          "heat_text": "119 万热度",
+          "heat_value": 1190000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068287712507982766",
+      "title": "南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被辞退，如何看待这一处罚？个人喜好和工作冲突该咋办？",
+      "url": "https://www.zhihu.com/question/2068287712507982766",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "101 万热度",
+      "latest_heat_value": 1010000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1786086884.237341",
+        "card_id": "Q_2068287712507982766",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被辞退，如何看待这一处罚？个人喜好和工作冲突该咋办？"
+          },
+          "excerpt_area": {
+            "text": "近日，星巴克臻选（南昌铜锣湾 T16 购物中心店）一员工被曝对周杰伦海报做出翻白眼、捏鼻子等动作并发表不当言论，引发网友热议。8 月 4 日，封面新闻记者了解到，涉事员工已被辞退，后续公司将加强相关培训。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-9bd2f422575818a7978f422142be195b_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "101 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068287712507982766"
+          }
+        },
+        "attached_info": "CkkIz7HBgbbg+8IQEAMaCTEyMDc4NDUzNCDpycrTBjAAOD5AHHITMjA2ODI4NzcxMjUwNzk4Mjc2NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 29,
+          "heat_text": "101 万热度",
+          "heat_value": 1010000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064051997364506846",
+      "title": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？",
+      "url": "https://www.zhihu.com/question/2064051997364506846",
+      "first_seen": "2026-08-07 15:14:44 +0800",
+      "last_seen": "2026-08-07 15:14:44 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "93 万热度",
+      "latest_heat_value": 930000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1786086884.237889",
+        "card_id": "Q_2064051997364506846",
+        "feed_specific": {
+          "answer_count": 121
+        },
+        "target": {
+          "title_area": {
+            "text": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？"
+          },
+          "excerpt_area": {
+            "text": "从前总觉得职场门面，全靠衣着撑场面，昂贵服饰能给自己带来底气，生怕平价衣物会引来同事轻视。 走过一段职场路才慢慢醒悟，一个人的立身根本在于能力与心性，而非身上布料的价格。想问问大家，你们是否能抛开世俗眼光，不在意他人打量，一身平价布衣从容上下班？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-fbfd07bcb8eaacc8258548b28a6f57d1_720w.webp"
+          },
+          "metrics_area": {
+            "text": "93 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064051997364506846"
+          }
+        },
+        "attached_info": "CkoIz7HBgbbg+8IQEAMaCTEyMDYxNzUyOCCY+IzTBjAAOIcBQB1yEzIwNjQwNTE5OTczNjQ1MDY4NDZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-07 15:14:44 +0800",
+          "rank": 30,
+          "heat_text": "93 万热度",
+          "heat_value": 930000
         }
       ]
     }
