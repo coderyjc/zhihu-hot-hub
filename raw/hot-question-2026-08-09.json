@@ -1,25 +1,30 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-08-09 05:29:48 +0800",
+  "updated_at": "2026-08-09 09:43:18 +0800",
   "items": [
     {
       "key": "Q_2068425373046544035",
       "title": "如何评价超前点映中，由文牧野执导、沈腾领衔主演的电影《欢迎来龙餐馆》？",
       "url": "https://www.zhihu.com/question/2068425373046544035",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 1,
-      "latest_rank": 1,
-      "latest_heat_text": "320 万热度",
-      "latest_heat_value": 3200000,
+      "latest_rank": 9,
+      "latest_heat_text": "99 万热度",
+      "latest_heat_value": 990000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1786224587.960044",
+        "id": "8_1786239798.118942",
         "card_id": "Q_2068425373046544035",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 255
+          "answer_count": 291
         },
         "target": {
           "title_area": {
@@ -32,7 +37,7 @@
             "url": "https://picx.zhimg.com/80/v2-386b3a4ebbb8fadbba3c265bc1be0739_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "320 万热度",
+            "text": "99 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -47,7 +52,7 @@
             "url": "https://www.zhihu.com/question/2068425373046544035"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDc5MzU5NCCeyszTBjAAOIADQAByEzIwNjg0MjUzNzMwNDY1NDQwMzV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc5MzU5NCCeyszTBjAAOLkDQAhyEzIwNjg0MjUzNzMwNDY1NDQwMzV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -61,6 +66,12 @@
           "rank": 1,
           "heat_text": "320 万热度",
           "heat_value": 3200000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 9,
+          "heat_text": "99 万热度",
+          "heat_value": 990000
         }
       ]
     },
@@ -69,18 +80,18 @@
       "title": "《年会不能停！2》票房预测跌至 2.48 亿，甚至不到第一部票房的零头，问题出在哪里？",
       "url": "https://www.zhihu.com/question/2068466998103822555",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 2,
-      "latest_rank": 16,
-      "latest_heat_text": "77 万热度",
-      "latest_heat_value": 770000,
+      "latest_rank": 17,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1786224587.971880",
+        "id": "16_1786239798.125544",
         "card_id": "Q_2068466998103822555",
         "feed_specific": {
-          "answer_count": 211
+          "answer_count": 232
         },
         "target": {
           "title_area": {
@@ -93,7 +104,7 @@
             "url": "https://pic1.zhimg.com/50/v2-06a01f9bdbcb7dee83e5833496e95a06_b.jpg"
           },
           "metrics_area": {
-            "text": "77 万热度",
+            "text": "74 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -108,7 +119,7 @@
             "url": "https://www.zhihu.com/question/2068466998103822555"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDc5NTA3MCDil83TBjAAOOECQA9yEzIwNjg0NjY5OTgxMDM4MjI1NTV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc5NTA3MCDil83TBjAAOIcDQBByEzIwNjg0NjY5OTgxMDM4MjI1NTV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -122,6 +133,12 @@
           "rank": 16,
           "heat_text": "77 万热度",
           "heat_value": 770000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 17,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
         }
       ]
     },
@@ -130,18 +147,23 @@
       "title": "游客称睡私家车被酒店收 150 元过夜费，酒店回应费用涉及停车、使用厨具及衣物清洗等，如何看待此事？",
       "url": "https://www.zhihu.com/question/2068356033634898265",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 3,
-      "latest_rank": 2,
-      "latest_heat_text": "231 万热度",
-      "latest_heat_value": 2310000,
+      "latest_rank": 13,
+      "latest_heat_text": "94 万热度",
+      "latest_heat_value": 940000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1786224587.960686",
+        "id": "12_1786239798.121380",
         "card_id": "Q_2068356033634898265",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 113
+          "answer_count": 143
         },
         "target": {
           "title_area": {
@@ -154,7 +176,7 @@
             "url": "https://picx.zhimg.com/80/v2-82e4d36486b5fa6cc425c8e4ac39ba4c_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "231 万热度",
+            "text": "94 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -169,7 +191,7 @@
             "url": "https://www.zhihu.com/question/2068356033634898265"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDc4OTc1NyCKycvTBjAAOIsCQAFyEzIwNjgzNTYwMzM2MzQ4OTgyNjV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc4OTc1NyCKycvTBjAAOMMCQAxyEzIwNjgzNTYwMzM2MzQ4OTgyNjV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -183,6 +205,12 @@
           "rank": 2,
           "heat_text": "231 万热度",
           "heat_value": 2310000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 13,
+          "heat_text": "94 万热度",
+          "heat_value": 940000
         }
       ]
     },
@@ -191,18 +219,18 @@
       "title": "比亚迪纯电 K-car「海獭」Racco 在日本获超 700 辆订单，这对其出海战略意味着什么？",
       "url": "https://www.zhihu.com/question/2068423027138859669",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 4,
-      "latest_rank": 3,
-      "latest_heat_text": "211 万热度",
-      "latest_heat_value": 2110000,
+      "latest_rank": 10,
+      "latest_heat_text": "97 万热度",
+      "latest_heat_value": 970000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1786224587.962997",
+        "id": "9_1786239798.119217",
         "card_id": "Q_2068423027138859669",
         "feed_specific": {
-          "answer_count": 55
+          "answer_count": 85
         },
         "target": {
           "title_area": {
@@ -215,7 +243,7 @@
             "url": "https://picx.zhimg.com/80/v2-e4537aee6ac3e760dee582afd85af8cd_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "211 万热度",
+            "text": "97 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -230,7 +258,7 @@
             "url": "https://www.zhihu.com/question/2068423027138859669"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDc5MzQ5NSDvxczTBjAAOIUBQAJyEzIwNjg0MjMwMjcxMzg4NTk2Njl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc5MzQ5NSDvxczTBjAAOOgBQAlyEzIwNjg0MjMwMjcxMzg4NTk2Njl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -244,6 +272,12 @@
           "rank": 3,
           "heat_text": "211 万热度",
           "heat_value": 2110000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 10,
+          "heat_text": "97 万热度",
+          "heat_value": 970000
         }
       ]
     },
@@ -440,18 +474,18 @@
       "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
       "url": "https://www.zhihu.com/question/2069421184177763676",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 8,
       "latest_rank": 8,
-      "latest_heat_text": "92 万热度",
-      "latest_heat_value": 920000,
+      "latest_heat_text": "100 万热度",
+      "latest_heat_value": 1000000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1786224587.968504",
+        "id": "7_1786239798.117677",
         "card_id": "Q_2069421184177763676",
         "feed_specific": {
-          "answer_count": 75
+          "answer_count": 111
         },
         "target": {
           "title_area": {
@@ -464,7 +498,7 @@
             "url": "https://picx.zhimg.com/80/v2-37fd36b9784a6ab7a984b978ad956aec_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "92 万热度",
+            "text": "100 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -479,7 +513,7 @@
             "url": "https://www.zhihu.com/question/2069421184177763676"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDgzMzAzNCCKidvTBjAAOLoBQAdyEzIwNjk0MjExODQxNzc3NjM2NzZ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDgzMzAzNCCKidvTBjAAOIgCQAdyEzIwNjk0MjExODQxNzc3NjM2NzZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -493,6 +527,12 @@
           "rank": 8,
           "heat_text": "92 万热度",
           "heat_value": 920000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 8,
+          "heat_text": "100 万热度",
+          "heat_value": 1000000
         }
       ]
     },
@@ -501,18 +541,18 @@
       "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
       "url": "https://www.zhihu.com/question/664667368",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 9,
-      "latest_rank": 10,
-      "latest_heat_text": "88 万热度",
-      "latest_heat_value": 880000,
+      "latest_rank": 4,
+      "latest_heat_text": "118 万热度",
+      "latest_heat_value": 1180000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1786224587.969703",
+        "id": "3_1786239798.113043",
         "card_id": "Q_664667368",
         "feed_specific": {
-          "answer_count": 45
+          "answer_count": 104
         },
         "target": {
           "title_area": {
@@ -525,7 +565,7 @@
             "url": "https://picx.zhimg.com/v2-5a62119b0529101bcd99202758324f9a.png"
           },
           "metrics_area": {
-            "text": "88 万热度",
+            "text": "118 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -540,7 +580,7 @@
             "url": "https://www.zhihu.com/question/664667368"
           }
         },
-        "attached_info": "Cj8ImtDkpI/C9r14EAMaCTEwOTk4MTIyNSDF1Im2BjAAOFNACXIJNjY0NjY3MzY4eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "CkAIrYuBpNPV5rV3EAMaCTEwOTk4MTIyNSDF1Im2BjAAOL0BQANyCTY2NDY2NzM2OHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -554,6 +594,12 @@
           "rank": 10,
           "heat_text": "88 万热度",
           "heat_value": 880000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 4,
+          "heat_text": "118 万热度",
+          "heat_value": 1180000
         }
       ]
     },
@@ -622,18 +668,18 @@
       "title": "知名博主峰哥实名举报编剧汪海林偷税漏税，汪海林回应系网红为流量炒作话题，此事真实性如何？两人有何恩怨？",
       "url": "https://www.zhihu.com/question/2069443167678632232",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 11,
-      "latest_rank": 12,
-      "latest_heat_text": "88 万热度",
-      "latest_heat_value": 880000,
+      "latest_rank": 11,
+      "latest_heat_text": "95 万热度",
+      "latest_heat_value": 950000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1786224587.970529",
+        "id": "10_1786239798.120285",
         "card_id": "Q_2069443167678632232",
         "feed_specific": {
-          "answer_count": 136
+          "answer_count": 163
         },
         "target": {
           "title_area": {
@@ -646,7 +692,7 @@
             "url": "https://pic2.zhimg.com/v2-9a36a7371d5f3c88aeb88afe8bb8d6cd_1440w.jpg"
           },
           "metrics_area": {
-            "text": "88 万热度",
+            "text": "95 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -661,7 +707,7 @@
             "url": "https://www.zhihu.com/question/2069443167678632232"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDgzNDI5MyCDstvTBjAAOKkCQAtyEzIwNjk0NDMxNjc2Nzg2MzIyMzJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDgzNDI5MyCDstvTBjAAOPgCQApyEzIwNjk0NDMxNjc2Nzg2MzIyMzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -675,6 +721,12 @@
           "rank": 12,
           "heat_text": "88 万热度",
           "heat_value": 880000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 11,
+          "heat_text": "95 万热度",
+          "heat_value": 950000
         }
       ]
     },
@@ -746,18 +798,18 @@
     },
     {
       "key": "Q_2068622608979813741",
-      "title": "台风白海豚将于 9 日晚到 10 日上午登陆，或将在浙江停留 20 多个小时，可以做好哪些应对？你那边天气如何？",
+      "title": "台风白海豚 10 级风圈触及浙江台州部分地区，中央气象台三预警齐发，你那边天气如何？",
       "url": "https://www.zhihu.com/question/2068622608979813741",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 02:36:37 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 13,
-      "latest_rank": 13,
-      "latest_heat_text": "121 万热度",
-      "latest_heat_value": 1210000,
+      "latest_rank": 5,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1786214197.701186",
+        "id": "4_1786239798.113917",
         "card_id": "Q_2068622608979813741",
         "card_label": {
           "type": "hot",
@@ -765,20 +817,20 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 38
+          "answer_count": 46
         },
         "target": {
           "title_area": {
-            "text": "台风白海豚将于 9 日晚到 10 日上午登陆，或将在浙江停留 20 多个小时，可以做好哪些应对？你那边天气如何？"
+            "text": "台风白海豚 10 级风圈触及浙江台州部分地区，中央气象台三预警齐发，你那边天气如何？"
           },
           "excerpt_area": {
-            "text": "8 日，记者在浙江省气象台了解到，「白海豚」与台风「巴威」最大的不同是，「白海豚」将在浙江省停留较长的时间。浙江省气象服务中心服务首席马辛宇告诉记者，据目前情况判断，「白海豚」将有可能在浙江省停留 20 多个小时，造成长时间大范围的降水。浙江省气象服务中心：台风「白海豚」预计在浙江停留时间超 20 小时，停留时间远超「巴威」！_ 腾讯新闻 记者从中国气象局获悉，今年第 13 号台风「白海豚」（强台风级）正以每小时 20 公里至 25 公里左右的速度向偏西方向移动，强度变化不大或略有所加强。预计，「白海豚」7 日白天穿过琉球群岛后移入东海，移速减慢，并向华东沿海靠近，将于 9 日晚上到 10 日上午登陆浙江至福建北部沿海（台风级或强台风级），登陆后先西行，以后逐渐减弱并转向偏北方向，将给华东等地带来强风雨。 专家介绍，「白海豚」在日界线西侧生成，随后「长途跋涉」朝我国沿海靠近，属于较为少见的远洋台风。其生命史长，移动路径远，在西行途中接连受到多个天气系统影响，尤其后期靠近我国沿海过程中，其引导环境变得更为复杂多变，导致路径预报不确定性明显加大。进入东海后，中纬度西风槽将影响副热带高压与南亚高压的位置和形态，而这两个系统对「白海豚」的走向起着决定作用。尤其西风槽的长时效预报难度大，其移动快慢与强弱将直接影响「白海豚」最终路径。但预计「白海豚」移动路径和对我国的影响将在 6 日逐渐趋于明朗。 另外值得注意的是，台风「白海豚」自 7 月 27 日生成以来，强度在超强台风级和台风级之间经历了多次变化。其主要原因在于多次发生眼墙置换与干空气侵入。台风眼墙置换中通常伴随强度阶段性减弱，但若环境条件适宜，置换完成后强度仍可能再度增强。专家解析台风「白海豚」：移动路径和对我国影响明日趋于明朗"
+            "text": "中央气象台今晨 6 时继续发布台风橙色预警、暴雨橙色预警和强对流蓝色预警：浙江东部沿海部分地区有特大暴雨（250~440 毫米），江浙沪皖等地有大暴雨。 中央气象台 8 月 9 日 06 时继续发布台风橙色预警： 今年第 13 号台风「白海豚」（强台风级）的中心今天（9 日）早晨 5 点钟位于浙江省温州市偏东方向大约 305 公里的东海南部海面上，就是北纬 27.4 度、东经 123.7 度，中心附近最大风力有 14 级（45 米 / 秒），中心最低气压为 950 百帕，七级风圈半径为 350-450 公里，十级风圈半径为 220-250 公里，十二级风圈半径为 100 公里。 预计，「白海豚」将以每小时 15-20 公里的速度向西偏北方向移动，强度维持或略有减弱，将于 9 日晚上至 10 日早晨在浙江舟山到福建福鼎一带沿海登陆（38-45 米 / 秒，13-14 级，台风级或强台风级），登陆后继续向西偏北方向移动，强度逐渐减弱。 大风预报：9 日 08 时至 10 日 08 时，黄海南部、东海大部及钓鱼岛附近海域、台湾以东洋面、巴士海峡、台湾海峡、南海大部以及长江口、杭州湾、江苏沿海、上海沿海、浙江沿海、福建东北部沿海、台湾岛沿海将有 6-8 级大风、阵风 9-10 级，其中东海大部及钓鱼岛附近海域、台湾以东洋面、杭州湾、浙江沿海、长江口将有 9-12 级大风、阵风 11-14 级，「白海豚」中心经过的附近海域风力有 13-14 级，阵风 15-16 级。 降雨预报：9 日 08 时至 10 日 08 时，浙江、上海、江苏南部、安徽南部、福建北部、台湾岛有大到暴雨，其中，江苏东南部、安徽东南部、上海大部、浙江大部等地有大暴雨，浙江东部沿海部分地区有特大暴雨（250-440 毫米）。①今天 7 时，「白海豚」中心位于距离浙江省温州市偏东方向约 290 公里的海面上。其 10 级风圈已经触及浙江台州部分地区，7 级风圈影响舟山、宁波、台州、温州等地。 ②目前「白海豚」中心附近最大风力 14 级，45 米 / 秒，维持强台风级。昨天夜间至今天凌晨，「白海豚」中心附近最大风力一度增强至 48 米 / 秒，但今天 5 时又减弱至 45 米 / 秒。 ③「白海豚」云系依旧十分庞大，环流云系直径超 1200 公里。在其云系影响下，江苏、安徽、江西、福建、浙江、上海、台湾等部分地区出现降雨回波。 ④预计「白海豚」将以每小时 15-20 公里的速度向西偏北方向移动，强度维持或略有减弱，将于 9 日晚上至 10 日早晨在浙江舟山到福建福鼎一带沿海登陆（38-45 米 / 秒，13-14 级，台风级或强台风级）。8 日，记者在浙江省气象台了解到，「白海豚」与台风「巴威」最大的不同是，「白海豚」将在浙江省停留较长的时间。浙江省气象服务中心服务首席马辛宇告诉记者，据目前情况判断，「白海豚」将有可能在浙江省停留 20 多个小时，造成长时间大范围的降水。浙江省气象服务中心：台风「白海豚」预计在浙江停留时间超 20 小时，停留时间远超「巴威」！_ 腾讯新闻 记者从中国气象局获悉，今年第 13 号台风「白海豚」（强台风级）正以每小时 20 公里至 25 公里左右的速度向偏西方向移动，强度变化不大或略有所加强。预计，「白海豚」7 日白天穿过琉球群岛后移入东海，移速减慢，并向华东沿海靠近， 专家介绍，「白海豚」在日界线西侧生成，随后「长途跋涉」朝我国沿海靠近，属于较为少见的远洋台风。其生命史长，移动路径远，在西行途中接连受到多个天气系统影响，尤其后期靠近我国沿海过程中，其引导环境变得更为复杂多变，导致路径预报不确定性明显加大。进入东海后，中纬度西风槽将影响副热带高压与南亚高压的位置和形态，而这两个系统对「白海豚」的走向起着决定作用。尤其西风槽的长时效预报难度大，其移动快慢与强弱将直接影响「白海豚」最终路径。但 另外值得注意的是，台风「白海豚」自 7 月 27 日生成以来，强度在超强台风级和台风级之间经历了多次变化。其主要原因在于多次发生眼墙置换与干空气侵入。台风眼墙置换中通常伴随强度阶段性减弱，但若环境条件适宜，置换完成后强度仍可能再度增强。专家解析台风「白海豚」：移动路径和对我国影响明日趋于明朗"
           },
           "image_area": {
             "url": "https://pic1.zhimg.com/80/v2-ff1d1aada8417ce8f30a103b6b90b584_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "121 万热度",
+            "text": "114 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -793,7 +845,7 @@
             "url": "https://www.zhihu.com/question/2068622608979813741"
           }
         },
-        "attached_info": "CkkIlrmJotfv9epCEAMaCTEyMDc5ODEwMyDPuc/TBjAAOG1ADHITMjA2ODYyMjYwODk3OTgxMzc0MXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDc5ODEwMyDPuc/TBjAAOH5ABHITMjA2ODYyMjYwODk3OTgxMzc0MXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -801,6 +853,12 @@
           "rank": 13,
           "heat_text": "121 万热度",
           "heat_value": 1210000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 5,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
         }
       ]
     },
@@ -997,15 +1055,15 @@
       "title": "于东来称要关闭营业 24 年的生活广场店，每一个项目都是国际一流的品质，达不到的都关了，如何看待此事？",
       "url": "https://www.zhihu.com/question/2069099745738593864",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 17,
-      "latest_rank": 5,
-      "latest_heat_text": "105 万热度",
-      "latest_heat_value": 1050000,
+      "latest_rank": 3,
+      "latest_heat_text": "192 万热度",
+      "latest_heat_value": 1920000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1786224587.964937",
+        "id": "2_1786239798.112311",
         "card_id": "Q_2069099745738593864",
         "card_label": {
           "type": "hot",
@@ -1013,7 +1071,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 17
+          "answer_count": 31
         },
         "target": {
           "title_area": {
@@ -1026,7 +1084,7 @@
             "url": "https://pic2.zhimg.com/50/v2-eed3f97e755563b35095af8422b5c2cf_b.jpg"
           },
           "metrics_area": {
-            "text": "105 万热度",
+            "text": "192 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1041,7 +1099,7 @@
             "url": "https://www.zhihu.com/question/2069099745738593864"
           }
         },
-        "attached_info": "CkkImtDkpI/C9r14EAMaCTEyMDgyNDA2MiCtstbTBjAAODhABHITMjA2OTA5OTc0NTczODU5Mzg2NHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDgyNDA2MiCtstbTBjAAOH9AAnITMjA2OTA5OTc0NTczODU5Mzg2NHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -1055,39 +1113,45 @@
           "rank": 5,
           "heat_text": "105 万热度",
           "heat_value": 1050000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 3,
+          "heat_text": "192 万热度",
+          "heat_value": 1920000
         }
       ]
     },
     {
       "key": "Q_2069125628117214469",
-      "title": "《工人日报》撰文批评郑钦文「盲目自信是自大…要听团队的劝」，对此你怎么看，《工人日报》说的对吗？",
+      "title": "媒体评郑钦文「她需调整自我认知，要听团队的劝」，对此你怎么看，这篇文章说的对吗？",
       "url": "https://www.zhihu.com/question/2069125628117214469",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 18,
-      "latest_rank": 6,
-      "latest_heat_text": "102 万热度",
-      "latest_heat_value": 1020000,
+      "latest_rank": 2,
+      "latest_heat_text": "244 万热度",
+      "latest_heat_value": 2440000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1786224587.965379",
+        "id": "1_1786239798.109934",
         "card_id": "Q_2069125628117214469",
         "feed_specific": {
-          "answer_count": 24
+          "answer_count": 74
         },
         "target": {
           "title_area": {
-            "text": "《工人日报》撰文批评郑钦文「盲目自信是自大…要听团队的劝」，对此你怎么看，《工人日报》说的对吗？"
+            "text": "媒体评郑钦文「她需调整自我认知，要听团队的劝」，对此你怎么看，这篇文章说的对吗？"
           },
           "excerpt_area": {
-            "text": "工人日报评郑钦文：她需调整自我认知，首先是听团队的劝 - 直播吧 《工人日报》撰文谈到了近期状态不佳的郑钦文，《工人日报》表示郑钦文需要调整自我认知，最主要的是要听劝。 曾经的奥运冠军、世界第四、澳网亚军和总决赛亚军，本赛季竟然遭遇六次「一轮游」，在多伦多站甚至连资格赛都过不了，排名猛跌至 124 位。 这一切的发生，只用了不到两年时间。而上一次郑钦文止步资格赛，还得追溯到 2021 年。 因为在 2024 年惊艳一时，郑钦文曾被网球界赠以「火箭少女」的雅号。谁又能想到，一年多后，当她「下坠」时，居然也是火箭式的。 当「火箭少女」火箭式坠落时，舆论并不友好，「人菜脾气大，输球扭头黑，赛后借口多，奥金狂捞钱」，这样的顺口溜太扎心，却似乎说的也是事实。 说一千道一万，对竞技体育来说，「菜」是原罪。当你身处低谷的时候，缺点就是缺点，甚至可能被无限放大。而当你「火箭式」上升时，缺点也能变成优点，脾气大是个性，借口多是自信，扭头黑源于好胜心，代言挣钱自然也是物有所值、顺理成章… 所以，独自上场的李娜曾说过一句掏心掏肺的话：当你笑的时候，有一堆人陪你笑；但是当你哭的时候，只有你一个人在哭。 作为李娜的老乡和后辈，眼下的郑钦文应该能对此感同身受。 在多伦多站无缘正赛后，曾经心高气傲的郑钦文说：「现阶段我的赛场状态和心气都存在很大问题。」状态不好，可以调整，心气没了，看起来更危险，也更牵动无数中国球迷的情绪。 郑钦文到底怎么了？她的心气去哪儿了？ 原因或许没那么复杂，伤病影响只是表象，每个运动员都会遭遇伤病，伤病是运动员最大的敌人，也是必须与之和解的朋友。业内普遍认为，郑钦文团队在处理其伤病时，操之过急，但此前早有消息传出，提前复出，并非团队的本意，而是郑钦文本人的意愿非常坚决。 至于今年上半年，郑钦文教练团队内部接二连三的调整，更是让人看不懂。一年三换教练，对于郑钦文这样级别的选手来说，实属罕见。而为什么要对教练团队进行这么频繁地调整，也许只有郑钦文本人最清楚。 要我说，解铃还须系铃人，郑钦文的问题还得郑钦文自己来解决。 郑钦文需要调整自我认知。自信是一件好事情，但当自身状况和对手状况都在发生变化时，盲目自信就是自大。举个例子，罗马赛前，郑钦文还在采访中表示，「萨巴伦卡是少有的跟我训练的时候能够扛住我球的人」。草地赛季开始前，她在镜头前也信誓旦旦地说要打脸「黑子」… 这些都给人一种感觉，郑钦文似乎还活在 2024 年。人不能活在过去，郑钦文也不能免俗。 当一个运动员对自我没有正确和理性的认知，她就很容易想赢怕输，神经紧绷，失去应有的比赛节奏和韧性。这就是郑钦文所说的心气没了。好的比赛，对于运动员和观众而言，都是享受。郑钦文曾经也带给我们这样的享受，但现在，无论输赢，我们都看不到她在享受网球。 那么，怎么办？ 其实也好办。首先要听劝，主要是听团队的劝，这是互相信任的基础；其次，忘掉过去的荣耀，接受当下的平凡，这样就可以用一种平和的心态看待输赢，并做积极的调整；最后，对这个世界好一点，和教练坦诚相见，对对手温柔以待，和观众积极互动。网球也是一个小社会，良好的人际关系，会让自己放松身心，为打好比赛营造宽松、和谐的环境。 我们还要为郑钦文加油吗？当然。没有不可治愈的伤痛，没有不能结束的沉沦。所有失去的，会以另一种方式归来。郑钦文只有 23 岁，上升或坠落，都是成长的一部分。走过至暗时刻，那个天赋异禀、自信敢打的郑钦文会回来的。"
+            "text": "《工人日报》撰文谈到了近期状态不佳的郑钦文，《工人日报》表示郑钦文需要调整自我认知，最主要的是要听劝。 曾经的奥运冠军、世界第四、澳网亚军和总决赛亚军，本赛季竟然遭遇六次「一轮游」，在多伦多站甚至连资格赛都过不了，排名猛跌至 124 位。 这一切的发生，只用了不到两年时间。而上一次郑钦文止步资格赛，还得追溯到 2021 年。 因为在 2024 年惊艳一时，郑钦文曾被网球界赠以「火箭少女」的雅号。谁又能想到，一年多后，当她「下坠」时，居然也是火箭式的。 当「火箭少女」火箭式坠落时，舆论并不友好，「人菜脾气大，输球扭头黑，赛后借口多，奥金狂捞钱」，这样的顺口溜太扎心，却似乎说的也是事实。 说一千道一万，对竞技体育来说，「菜」是原罪。当你身处低谷的时候，缺点就是缺点，甚至可能被无限放大。而当你「火箭式」上升时，缺点也能变成优点，脾气大是个性，借口多是自信，扭头黑源于好胜心，代言挣钱自然也是物有所值、顺理成章… 所以，独自上场的李娜曾说过一句掏心掏肺的话：当你笑的时候，有一堆人陪你笑；但是当你哭的时候，只有你一个人在哭。 作为李娜的老乡和后辈，眼下的郑钦文应该能对此感同身受。 在多伦多站无缘正赛后，曾经心高气傲的郑钦文说：「现阶段我的赛场状态和心气都存在很大问题。」状态不好，可以调整，心气没了，看起来更危险，也更牵动无数中国球迷的情绪。 郑钦文到底怎么了？她的心气去哪儿了？ 原因或许没那么复杂，伤病影响只是表象，每个运动员都会遭遇伤病，伤病是运动员最大的敌人，也是必须与之和解的朋友。业内普遍认为，郑钦文团队在处理其伤病时，操之过急，但此前早有消息传出，提前复出，并非团队的本意，而是郑钦文本人的意愿非常坚决。 至于今年上半年，郑钦文教练团队内部接二连三的调整，更是让人看不懂。一年三换教练，对于郑钦文这样级别的选手来说，实属罕见。而为什么要对教练团队进行这么频繁地调整，也许只有郑钦文本人最清楚。 要我说，解铃还须系铃人，郑钦文的问题还得郑钦文自己来解决。 郑钦文需要调整自我认知。自信是一件好事情，但当自身状况和对手状况都在发生变化时，盲目自信就是自大。举个例子，罗马赛前，郑钦文还在采访中表示，「萨巴伦卡是少有的跟我训练的时候能够扛住我球的人」。草地赛季开始前，她在镜头前也信誓旦旦地说要打脸「黑子」… 这些都给人一种感觉，郑钦文似乎还活在 2024 年。人不能活在过去，郑钦文也不能免俗。 当一个运动员对自我没有正确和理性的认知，她就很容易想赢怕输，神经紧绷，失去应有的比赛节奏和韧性。这就是郑钦文所说的心气没了。好的比赛，对于运动员和观众而言，都是享受。郑钦文曾经也带给我们这样的享受，但现在，无论输赢，我们都看不到她在享受网球。 那么，怎么办？ 其实也好办。首先要听劝，主要是听团队的劝，这是互相信任的基础；其次，忘掉过去的荣耀，接受当下的平凡，这样就可以用一种平和的心态看待输赢，并做积极的调整；最后，对这个世界好一点，和教练坦诚相见，对对手温柔以待，和观众积极互动。网球也是一个小社会，良好的人际关系，会让自己放松身心，为打好比赛营造宽松、和谐的环境。 我们还要为郑钦文加油吗？当然。没有不可治愈的伤痛，没有不能结束的沉沦。所有失去的，会以另一种方式归来。郑钦文只有 23 岁，上升或坠落，都是成长的一部分。走过至暗时刻，那个天赋异禀、自信敢打的郑钦文会回来的。"
           },
           "image_area": {
-            "url": "https://pic1.zhimg.com/50/v2-f250c586c3d0de35acc6b0081393e694_b.jpg"
+            "url": "https://pic1.zhimg.com/80/v2-f6a47376f7054083d58d38f7f3900b87_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "102 万热度",
+            "text": "244 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1102,7 +1166,7 @@
             "url": "https://www.zhihu.com/question/2069125628117214469"
           }
         },
-        "attached_info": "CkkImtDkpI/C9r14EAMaCTEyMDgyNTAzMiDI4tbTBjAAOClABXITMjA2OTEyNTYyODExNzIxNDQ2OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDgyNTAzMiDI4tbTBjAAOKIBQAFyEzIwNjkxMjU2MjgxMTcyMTQ0Njl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1116,6 +1180,12 @@
           "rank": 6,
           "heat_text": "102 万热度",
           "heat_value": 1020000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 2,
+          "heat_text": "244 万热度",
+          "heat_value": 2440000
         }
       ]
     },
@@ -1240,18 +1310,18 @@
       "title": "2026 年 8 月，黄金一天涨了 40 块，还会继续涨下去吗？有可能回到 880 那个区间吗？",
       "url": "https://www.zhihu.com/question/2068520976749531189",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 21,
       "latest_rank": 21,
-      "latest_heat_text": "69 万热度",
-      "latest_heat_value": 690000,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "20_1786224587.973092",
+        "id": "20_1786239798.129611",
         "card_id": "Q_2068520976749531189",
         "feed_specific": {
-          "answer_count": 26
+          "answer_count": 34
         },
         "target": {
           "title_area": {
@@ -1264,7 +1334,7 @@
             "url": "https://pica.zhimg.com/v2-503770e575230c7d956df007596b80c1.png"
           },
           "metrics_area": {
-            "text": "69 万热度",
+            "text": "72 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1279,7 +1349,7 @@
             "url": "https://www.zhihu.com/question/2068520976749531189"
           }
         },
-        "attached_info": "CkkImtDkpI/C9r14EAMaCTEyMDc5NjI1MCCo/M3TBjAAOFRAFHITMjA2ODUyMDk3Njc0OTUzMTE4OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDc5NjI1MCCo/M3TBjAAOGpAFHITMjA2ODUyMDk3Njc0OTUzMTE4OXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -1293,6 +1363,12 @@
           "rank": 21,
           "heat_text": "69 万热度",
           "heat_value": 690000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 21,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
         }
       ]
     },
@@ -1417,18 +1493,18 @@
       "title": "跑了几天外卖发现，很多人原来是修手机的、修汽车的、修家电的技术人员，有手艺为什么要来跑外卖呢？",
       "url": "https://www.zhihu.com/question/2068266947939153909",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 24,
-      "latest_rank": 18,
+      "latest_rank": 23,
       "latest_heat_text": "72 万热度",
       "latest_heat_value": 720000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "17_1786224587.972412",
+        "id": "22_1786239798.130858",
         "card_id": "Q_2068266947939153909",
         "feed_specific": {
-          "answer_count": 308
+          "answer_count": 323
         },
         "target": {
           "title_area": {
@@ -1456,7 +1532,7 @@
             "url": "https://www.zhihu.com/question/2068266947939153909"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDc4MzU4NyCSo8rTBjAAOJsJQBFyEzIwNjgyNjY5NDc5MzkxNTM5MDl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc4MzU4NyCSo8rTBjAAOOYJQBZyEzIwNjgyNjY5NDc5MzkxNTM5MDl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1468,6 +1544,12 @@
         {
           "observed_at": "2026-08-09 05:29:48 +0800",
           "rank": 18,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 23,
           "heat_text": "72 万热度",
           "heat_value": 720000
         }
@@ -1722,18 +1804,18 @@
       "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
       "url": "https://www.zhihu.com/question/2068108635620774765",
       "first_seen": "2026-08-09 02:36:37 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 29,
-      "latest_rank": 23,
-      "latest_heat_text": "68 万热度",
-      "latest_heat_value": 680000,
+      "latest_rank": 24,
+      "latest_heat_text": "67 万热度",
+      "latest_heat_value": 670000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "22_1786224587.973517",
+        "id": "23_1786239798.131166",
         "card_id": "Q_2068108635620774765",
         "feed_specific": {
-          "answer_count": 95
+          "answer_count": 101
         },
         "target": {
           "title_area": {
@@ -1746,7 +1828,7 @@
             "url": "https://pic3.zhimg.com/v2-ec94526fe668d939a118b9da7347920e_1440w.jpg"
           },
           "metrics_area": {
-            "text": "68 万热度",
+            "text": "67 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1761,7 +1843,7 @@
             "url": "https://www.zhihu.com/question/2068108635620774765"
           }
         },
-        "attached_info": "CkoImtDkpI/C9r14EAMaCTEyMDc4MDQzNCCi/MfTBjAAOJ8DQBZyEzIwNjgxMDg2MzU2MjA3NzQ3NjV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc4MDQzNCCi/MfTBjAAOLEDQBdyEzIwNjgxMDg2MzU2MjA3NzQ3NjV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1775,6 +1857,12 @@
           "rank": 23,
           "heat_text": "68 万热度",
           "heat_value": 680000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 24,
+          "heat_text": "67 万热度",
+          "heat_value": 670000
         }
       ]
     },
@@ -2014,18 +2102,18 @@
       "title": "《楚门的世界》中，妻子既然不爱楚门为什么反复提及要与楚门生一个孩子？",
       "url": "https://www.zhihu.com/question/305864895",
       "first_seen": "2026-08-09 05:29:48 +0800",
-      "last_seen": "2026-08-09 05:29:48 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
       "first_rank": 28,
-      "latest_rank": 28,
-      "latest_heat_text": "66 万热度",
-      "latest_heat_value": 660000,
+      "latest_rank": 25,
+      "latest_heat_text": "65 万热度",
+      "latest_heat_value": 650000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "27_1786224587.974824",
+        "id": "24_1786239798.131476",
         "card_id": "Q_305864895",
         "feed_specific": {
-          "answer_count": 787
+          "answer_count": 793
         },
         "target": {
           "title_area": {
@@ -2038,7 +2126,7 @@
             "url": "https://pic2.zhimg.com/80/v2-669b6ffcb775c82237d1ded65c7c5422_1440w.jpg?source=1940ef5c"
           },
           "metrics_area": {
-            "text": "66 万热度",
+            "text": "65 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2053,7 +2141,7 @@
             "url": "https://www.zhihu.com/question/305864895"
           }
         },
-        "attached_info": "Cj8ImtDkpI/C9r14EAMaCDMwMjQ2MDc5IODW1OAFMAA4rhpAG3IJMzA1ODY0ODk1eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "Cj8IrYuBpNPV5rV3EAMaCDMwMjQ2MDc5IODW1OAFMAA4wRpAGHIJMzA1ODY0ODk1eACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -2061,6 +2149,917 @@
           "rank": 28,
           "heat_text": "66 万热度",
           "heat_value": 660000
+        },
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 25,
+          "heat_text": "65 万热度",
+          "heat_value": 650000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068817961792623517",
+      "title": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？",
+      "url": "https://www.zhihu.com/question/2068817961792623517",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "266 万热度",
+      "latest_heat_value": 2660000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1786239798.108778",
+        "card_id": "Q_2068817961792623517",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 56
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待贵州网红金蝉子账号发布讣告，称外号「老表」的打工网红彭仕运在老家游泳时不幸溺水身亡？"
+          },
+          "excerpt_area": {
+            "text": "[视频]"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-d12c76fe5a1227a2c09908da4827c46d.png"
+          },
+          "metrics_area": {
+            "text": "266 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068817961792623517"
+          }
+        },
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDgxMDI1NyC+pdLTBjAAOIIBQAByEzIwNjg4MTc5NjE3OTI2MjM1MTd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 1,
+          "heat_text": "266 万热度",
+          "heat_value": 2660000
+        }
+      ]
+    },
+    {
+      "key": "Q_2069446019272724909",
+      "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
+      "url": "https://www.zhihu.com/question/2069446019272724909",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "109 万热度",
+      "latest_heat_value": 1090000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1786239798.116809",
+        "card_id": "Q_2069446019272724909",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？"
+          },
+          "excerpt_area": {
+            "text": "T1 官宣上调二队打野 Painter，对阵 HLE 的比赛他将首发出战，具体公告如下：大家好，这里是 T1 电子竞技俱乐部。8 月 8 日 (周六) 对阵 HLE 的比赛前，首发阵容有所变动，特此向大家说明。经过教练组讨论，T1A 的打野 Painter 选手将作为首发阵容出战，迎来他的 LCK 首秀。请粉丝们为今天出战的选手们送上支持与鼓励。 oner 替补！t1 官宣上调二队打野 painter：对阵 hle 他将首发出战！"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-ffd8fe5ceb49b0b8bdc00cf95f103662_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "109 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2069446019272724909"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDgzNDY3MSCrt9vTBjAAOBpABXITMjA2OTQ0NjAxOTI3MjcyNDkwOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 6,
+          "heat_text": "109 万热度",
+          "heat_value": 1090000
+        }
+      ]
+    },
+    {
+      "key": "Q_479719590",
+      "title": "你心目中最好的十款单机游戏是什么？",
+      "url": "https://www.zhihu.com/question/479719590",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "102 万热度",
+      "latest_heat_value": 1020000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1786239798.117387",
+        "card_id": "Q_479719590",
+        "feed_specific": {
+          "answer_count": 1777
+        },
+        "target": {
+          "title_area": {
+            "text": "你心目中最好的十款单机游戏是什么？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-238abe3cadfee101198bebf7088b0f2c_1440w.png"
+          },
+          "metrics_area": {
+            "text": "102 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/479719590"
+          }
+        },
+        "attached_info": "Cj8IrYuBpNPV5rV3EAMaCDY4ODg1ODQ5INfg3YgGMAA4+ElABnIJNDc5NzE5NTkweACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 7,
+          "heat_text": "102 万热度",
+          "heat_value": 1020000
+        }
+      ]
+    },
+    {
+      "key": "Q_2062672836922184193",
+      "title": "录取到浙大农学，我应该选择复读还是进大学转专业？",
+      "url": "https://www.zhihu.com/question/2062672836922184193",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "94 万热度",
+      "latest_heat_value": 940000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1786239798.120705",
+        "card_id": "Q_2062672836922184193",
+        "feed_specific": {
+          "answer_count": 45
+        },
+        "target": {
+          "title_area": {
+            "text": "录取到浙大农学，我应该选择复读还是进大学转专业？"
+          },
+          "excerpt_area": {
+            "text": "我今年在广东省高考 651 分，志愿填报时（脑抽）填了浙大农学来凑数。 由于我高一高二一直在学竞赛，导致我既没考好高考，又对清北有点执念，所以现在十分迷茫。看着同学都准备开心上大学，我十分羡慕，但是又不太想将就农学专业。 如果我选择上大学，转专业的可能性有多大？一般农学能够转到什么专业？ ——— 本人已决定复读。做出这个决定是艰难的，但是也不会后悔了。 感谢本问题下给予我回答的诸位。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-03705e6b5490061d43c90432cbb823be.png"
+          },
+          "metrics_area": {
+            "text": "94 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2062672836922184193"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDU1Nzk5OCCm7/jSBjAAODRAC3ITMjA2MjY3MjgzNjkyMjE4NDE5M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 12,
+          "heat_text": "94 万热度",
+          "heat_value": 940000
+        }
+      ]
+    },
+    {
+      "key": "Q_30020661",
+      "title": "网球影响力为何远远大于羽毛球乒乓球?",
+      "url": "https://www.zhihu.com/question/30020661",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1786239798.123989",
+        "card_id": "Q_30020661",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 78
+        },
+        "target": {
+          "title_area": {
+            "text": "网球影响力为何远远大于羽毛球乒乓球?"
+          },
+          "excerpt_area": {
+            "text": "就运动员而言，费德勒纳达尔德约的影响力大于林丹，李宗伟，张继科。而比赛规模，四大满贯关注度也比世乒赛和苏迪曼杯高的多。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-2b5dd680598e6e525cde23ddd730ad87_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "80 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/30020661"
+          }
+        },
+        "attached_info": "CjwIrYuBpNPV5rV3EAMaBzQxOTA2OTEg3ISNqgUwADh8QA1yCDMwMDIwNjYxeACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 14,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
+        }
+      ]
+    },
+    {
+      "key": "Q_2063285568411379508",
+      "title": "梁朝伟、梁家辉、周星驰，演技排名到底该怎么排？",
+      "url": "https://www.zhihu.com/question/2063285568411379508",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1786239798.124329",
+        "card_id": "Q_2063285568411379508",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 41
+        },
+        "target": {
+          "title_area": {
+            "text": "梁朝伟、梁家辉、周星驰，演技排名到底该怎么排？"
+          },
+          "excerpt_area": {
+            "text": "最近我翻看了专业奖项、影迷投票和导演评价，发现这三种维度的排名完全不一样，各有各的道理，有点好奇大家心里的顺序。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-b5ad17eadc7ee2d6ae4038d0e75824bc_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2063285568411379508"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDU4MzI3NSDN5IHTBjAAOC5ADnITMjA2MzI4NTU2ODQxMTM3OTUwOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 15,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068384820644800140",
+      "title": "婚外胚胎案男方再发声，在三方律师见证下已销毁胚胎，正遭受严重网暴准备报警，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2068384820644800140",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1786239798.124661",
+        "card_id": "Q_2068384820644800140",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "婚外胚胎案男方再发声，在三方律师见证下已销毁胚胎，正遭受严重网暴准备报警，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "8 月 5 日，「患癌妻子朱女士申请销毁丈夫婚外胚胎」案男方唐先生通过电话回应：在三方律师的见证下，他已向医院主动申请销毁了胚胎，其他问题不再一一回应。 据记者了解，朱女士不在现场，所以并不知情。当将情况告知朱女士后，朱女士表示，如果是真的，希望明天带着记者去医院核实。 今天下午 3:00，记者联系涉事医院，工作人员称：这个情况他还不了解，需要核实后回复。随后，记者向男方唐先生的律师阮女士求证，对方在电话中说：这个胚胎已经销毁了。 唐先生同时透露，自己正遭受严重网暴：手机遭 24 小时陌生电话轰炸，微信疑被黑客攻击无法支付，支付宝频遭 0.1 元恶意转账企图锁死账户。他强调此类行为涉嫌违法，准备报警。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-6b7ab0499bf6de712025bce73c33f76c.png"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068384820644800140"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDc5MjM4NSDZ/svTBjAAOFFAD3ITMjA2ODM4NDgyMDY0NDgwMDE0MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 16,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064761693331367613",
+      "title": "《全职猎人》中，贫者的蔷薇算不算机械降神？",
+      "url": "https://www.zhihu.com/question/2064761693331367613",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "73 万热度",
+      "latest_heat_value": 730000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1786239798.126157",
+        "card_id": "Q_2064761693331367613",
+        "feed_specific": {
+          "answer_count": 48
+        },
+        "target": {
+          "title_area": {
+            "text": "《全职猎人》中，贫者的蔷薇算不算机械降神？"
+          },
+          "excerpt_area": {
+            "text": "想象一下火影忍者里面最后打不过六道斑，结果鸣人突然掏出一发核弹，这种剧情太无厘头了吧。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-0d2482ac219a29348919ac18d18e6a8f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "73 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064761693331367613"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDY0NDc2NiCNopfTBjAAODVAEXITMjA2NDc2MTY5MzMzMTM2NzYxM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 18,
+          "heat_text": "73 万热度",
+          "heat_value": 730000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067995468202599329",
+      "title": "2026 暑期档国产片频繁提档、撤档，进口片档期却基本不变，可能有哪些原因？频繁调整档期的影响有多大？",
+      "url": "https://www.zhihu.com/question/2067995468202599329",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1786239798.126552",
+        "card_id": "Q_2067995468202599329",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "2026 暑期档国产片频繁提档、撤档，进口片档期却基本不变，可能有哪些原因？频繁调整档期的影响有多大？"
+          },
+          "excerpt_area": {
+            "text": "截止 8 月 4 日统计：空降组 《功夫女足》：空降 7.11 提档组 《八仙！》：原定 7.24 → 提档 7.18 《群星闪耀时》：原定 8.1 → 提档 7.25 《年会不能停！2》：原定 8.7 → 提档 8.1 《去你的岛》：原定 8.19 → 提档 8.7 《想你了》：原定 7.24 → 提档 7.17 《魔方小姐》：原定 7.3 → 提档 6.30 《我看见两朵一样的云》：原定 6.29 → 提档 6.19 撤档组 《心犬相随》：原档期 6.26，上映前发声明撤档 《三国第一部：争洛阳》：档期 7.10，上映 16 天撤档 《大圣崛起》：原档期 7.10，上映前发声明撤档 《群星闪耀时》：档期 7.25，上映 2 天撤档 《悟空大圣》：档期 7.24，上映 5 天撤档 《澎湖海战》、《开个玩笑》：悄然撤档改档组 《杀死比尔：血色全传》：原档期 8.7，调整至 9.4，退出暑期档不动组 《玩具总动员 5》6.19 《小黄人与大怪兽》7.3 《蜘蛛侠：崭新之日》7.29 《汪汪队立大功大电影 3：勇闯恐龙岛》8.8 《奥德赛》8.14"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-45dbd1fdb8bee4bc8d5c25b6dbfbca2a_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067995468202599329"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDc3NTM3MiC9qcbTBjAAOBdAEnITMjA2Nzk5NTQ2ODIwMjU5OTMyOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 19,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_2069556360698488227",
+      "title": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？",
+      "url": "https://www.zhihu.com/question/2069556360698488227",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1786239798.127999",
+        "card_id": "Q_2069556360698488227",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "台风「白海豚」逼近，9 岁男孩在浙江温岭海边被浪卷走，带来哪些警示？目前救援难点有哪些？"
+          },
+          "excerpt_area": {
+            "text": "据中央气象台预报，台风“白海豚”将于9日晚上至10日早晨在浙江舟山到福建福鼎一带沿海登陆。 8月7日至8日，社交平台流传多段视频称，浙江台州温岭市石塘镇一名9岁男孩被海浪卷走。 ▲海浪冲来的瞬间 网传视频截图 ▲海浪过后剩下三人在栏杆旁搜寻 网传视频截图 8日下午，红星新闻记者从当地应急救援人员处了解了情况。一名救援人员告诉记者，出事的不是温岭本地人，是外地游客，“前往海边的道路都事先管控了，他们自己跑了进去”。记者询问是否开展了搜救，对方表示，“现在风浪太大，船都开不出去”。 另一名当地著名的救援人士告诉红星新闻，事情发生在8月7日下午3点左右，地点在石塘镇石塘大坝。该人士证实，当时石塘镇已经提前安排人员封堵了前往海边的道路，但“游客找小路爬了进去”。 该人士是当地一名资深的渔民，他表示，躲海浪需要技巧，但外地人不懂，就容易被海浪卷走。 此外他还称，除了涉事的一家四口之外，当时海岛上还有10名游客被困，“都是偷偷跑过去的外地游客。”但当时的海浪已经十分凶猛，差点把后续赶来救援的消防车掀翻。“最后我们凭借多年的驾船技巧，开船穿过海浪，把10个人接回到岸上。” 此前报道>>> 台风来临，浙江温岭一家4口走在海边堤坝上，大浪来袭9岁男孩被卷入海中，当地：目前仍在搜救 受台风“白海豚”影响，浙江温岭石塘海边巨浪翻涌，一家四口走在海边堤坝上，凶猛的浪头瞬间将其中9岁的男孩卷入海中。 据石塘镇工作人员介绍，台风涨潮使坝区浪高流急，且伴有漩涡，目前搜救仍在进行中。 8月8日上午，温岭市人民政府防汛防旱指挥部发布《告全体市民书》，提醒广大市民台风影响期间非必要不出门，严禁前往海边、堤岸、河道等危险区域观潮或拍摄，以免发生意外。 台风天，请务必远离码头、礁石等危险区域——狂浪无情，生命只有一次，别让一时大意酿成一生遗憾。台风天一家四口走过浙江温岭海边堤坝，9岁男孩被巨浪卷走；当地回应：前往海边的道路事先已管控，是游客自己跑了进去_腾讯新闻"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2069556360698488227"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDgzODk3NCDuhN3TBjAAOBdAE3ITMjA2OTU1NjM2MDY5ODQ4ODIyN3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 20,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068298447619364747",
+      "title": "多地停车场计费试行取消「向上取整」，「按分钟计费」试点加速落地，如何看待这一调整？值得推广吗？",
+      "url": "https://www.zhihu.com/question/2068298447619364747",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1786239798.129865",
+        "card_id": "Q_2068298447619364747",
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "多地停车场计费试行取消「向上取整」，「按分钟计费」试点加速落地，如何看待这一调整？值得推广吗？"
+          },
+          "excerpt_area": {
+            "text": "停车按分钟计费的改革试点正加速落地。2026 年 8 月 3 日，合肥市区一处停车场启动该项试点，以小型车为例，前 15 分钟免费，超出后以每分钟 0.06 元计。此前，合肥高新区、肥西县已试行精准计费。 澎湃新闻 8 月 4 日从合肥城市泊车投资管理有限公司获悉，试点的铜望交口停车场位于包河区铜陵路望江东路口，是集停车、充电、汽车后市场于一体的复合型场站，周边有学校、公寓、钢材交易中心等，存在接送学潮汐车流、商务临时停靠、住宅夜间长时间停放等多元需求，试点旨在为临时办事、接送学生等短时停车群体提供更灵活的计费方式，引导车辆快停快走，提升泊位周转效率，并检验精准计费规则在不同客群、时段的适用效果。 机动车停放的计费周期一直是民生热点话题——现行周期普遍较长且向上取整，「停 61 分钟要收 2 小时费用」屡屡被吐槽。2026 年下半年以来，各地破除「向上取整」、试行按分钟计费的步伐明显加快。7 月起，晋城国投智慧停车有限公司在山西省率先进行试点，范围为 5 条道路的 534 个路侧泊位，小型车停车 30 分钟内免费，超过部分按分钟计费，每分钟 0.01 元，单日封顶 9 元。西安未央区的试点在朱宏路凤城四路立交南车场进行，保留此前「15 分钟内免费停放」的惠民政策，超出免费时长按实际停放时间计费，单价 0.03 元 / 分钟。7 月上旬，合肥高新区在省科技馆收储地块停车场升级收费系统，试点按分钟计费。 全国范围内，杭州是最早尝试按分钟计费停车的城市，2025 年 12 月下旬在 8 家政府定价停车场试行按分钟计费、按 15 分钟收费两种改革方案。2026 年 5 月底试点结束后，拱墅区的三家停车场自主选择继续执行试点方案。据统计，试点期内这三家经营单位各时段停车收费均比此前下降或持平，降幅以 1 小时内的停车最明显：「1 分钟模式」平均下降 43%，「15 分钟模式」平均下降 50%。此外，贵阳市、合肥肥西县分别于 4 月和 6 月在部分路侧泊位和停车场试行按分钟计费。 相关链接："
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-a055093ed4e7caa53f37b61c593a4a9a.png"
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068298447619364747"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDc4NjAxOCDp3crTBjAAOBpAFXITMjA2ODI5ODQ0NzYxOTM2NDc0N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 22,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_535168923",
+      "title": "对化学很感兴趣，请问有什么入门和进阶的书推荐吗？",
+      "url": "https://www.zhihu.com/question/535168923",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "64 万热度",
+      "latest_heat_value": 640000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1786239798.131690",
+        "card_id": "Q_535168923",
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "对化学很感兴趣，请问有什么入门和进阶的书推荐吗？"
+          },
+          "excerpt_area": {
+            "text": "本人初三，之前是不知道化学这个东西的，丝毫没有了解过。但是学了化学之后非常喜欢，有兴趣更进一步，深入了解。求推荐化学入门和进阶的相关书籍，非常感谢"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-e3223bf2c82e6e1ebe9a4794eb13c4ef_xl.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "64 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/535168923"
+          }
+        },
+        "attached_info": "Cj4IrYuBpNPV5rV3EAMaCDgxMjA4NTc3IIXAzpQGMAA4MEAZcgk1MzUxNjg5MjN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 26,
+          "heat_text": "64 万热度",
+          "heat_value": 640000
+        }
+      ]
+    },
+    {
+      "key": "Q_2064051997364506846",
+      "title": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？",
+      "url": "https://www.zhihu.com/question/2064051997364506846",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1786239798.132029",
+        "card_id": "Q_2064051997364506846",
+        "feed_specific": {
+          "answer_count": 821
+        },
+        "target": {
+          "title_area": {
+            "text": "你敢坦然穿着几十块钱的普通衣服正常去公司上班吗？"
+          },
+          "excerpt_area": {
+            "text": "从前总觉得职场门面，全靠衣着撑场面，昂贵服饰能给自己带来底气，生怕平价衣物会引来同事轻视。 走过一段职场路才慢慢醒悟，一个人的立身根本在于能力与心性，而非身上布料的价格。想问问大家，你们是否能抛开世俗眼光，不在意他人打量，一身平价布衣从容上下班？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-fbfd07bcb8eaacc8258548b28a6f57d1_720w.webp"
+          },
+          "metrics_area": {
+            "text": "59 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2064051997364506846"
+          }
+        },
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDYxNzUyOCCY+IzTBjAAOIsHQBpyEzIwNjQwNTE5OTczNjQ1MDY4NDZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 27,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2069074145325979039",
+      "title": "准大一新生，想换 mate80promax，问一下知友现在鸿蒙生态能否满足主力机要求？",
+      "url": "https://www.zhihu.com/question/2069074145325979039",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1786239798.132376",
+        "card_id": "Q_2069074145325979039",
+        "feed_specific": {
+          "answer_count": 43
+        },
+        "target": {
+          "title_area": {
+            "text": "准大一新生，想换 mate80promax，问一下知友现在鸿蒙生态能否满足主力机要求？"
+          },
+          "excerpt_area": {
+            "text": "准大一新生，手上的是 mate20, 想换 mate80promax，玩游戏有安卓平板，但是担心大学校园跑等软件无法使用，问一下知友现在鸿蒙生态能否满足主力机要求，卓易通能否填补生态漏洞。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-e63acf4ffef5bb6e0f8d0b57616661d9.png"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2069074145325979039"
+          }
+        },
+        "attached_info": "CkkIrYuBpNPV5rV3EAMaCTEyMDgxOTcxMiDVgtbTBjAAOC1AG3ITMjA2OTA3NDE0NTMyNTk3OTAzOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 28,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_59229305",
+      "title": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？",
+      "url": "https://www.zhihu.com/question/59229305",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1786239798.133068",
+        "card_id": "Q_59229305",
+        "feed_specific": {
+          "answer_count": 169
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么《人民的名义》中唯独没有介绍侯亮平和钟小艾的家庭背景？是因为他们是正面人物要考虑影响吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-73e52b150e71a6cddaab3983444236f6_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/59229305"
+          }
+        },
+        "attached_info": "Cj4IrYuBpNPV5rV3EAMaCDE1OTE0MTgwIODAmcgFMAA40wJAHHIINTkyMjkzMDV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 29,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068241594126267915",
+      "title": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？",
+      "url": "https://www.zhihu.com/question/2068241594126267915",
+      "first_seen": "2026-08-09 09:43:18 +0800",
+      "last_seen": "2026-08-09 09:43:18 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1786239798.134914",
+        "card_id": "Q_2068241594126267915",
+        "feed_specific": {
+          "answer_count": 106
+        },
+        "target": {
+          "title_area": {
+            "text": "35 岁女子 1 天 5 瓶可乐喝成 60 岁脸，可乐危害真有这么大吗？高糖饮食为何会加速健康恶化？"
+          },
+          "excerpt_area": {
+            "text": "河南中医药大学第一附属医院接诊了一名 35 岁面容却如同 60 岁的女子，医生询问了解到，这名女患者平时爱喝饮料，一天要喝四五瓶，导致她牙齿脱落、绝经、还有糖尿病，如同 60 岁的老太太。医生提醒大家切勿贪饮甜饮料，白开水才是最健康的选择。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-d7224ed836434decfcef0b325118615f_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068241594126267915"
+          }
+        },
+        "attached_info": "CkoIrYuBpNPV5rV3EAMaCTEyMDc4Mjc0MSD288nTBjAAOJ4CQB1yEzIwNjgyNDE1OTQxMjYyNjc5MTV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-09 09:43:18 +0800",
+          "rank": 30,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
         }
       ]
     }
