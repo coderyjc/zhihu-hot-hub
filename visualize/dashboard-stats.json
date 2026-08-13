@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-13 05:44:27 +0800",
+  "generated_at": "2026-08-13 09:57:31 +0800",
   "totals": {
     "day_count": 159,
-    "topic_record_count": 7223,
-    "unique_topic_count": 6376,
-    "history_point_count": 11310,
+    "topic_record_count": 7242,
+    "unique_topic_count": 6392,
+    "history_point_count": 11340,
     "v2_file_count": 34,
     "legacy_file_count": 125
   },
@@ -38,6 +38,16 @@
       "observed_at": "2026-07-14 16:04:41 +0800",
       "heat_text": "5435 万热度",
       "heat_value": 54350000
+    },
+    {
+      "date": "2026-08-13",
+      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
+      "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
+      "key": "AT_2070933430993414087",
+      "rank": 1,
+      "observed_at": "2026-08-13 09:57:31 +0800",
+      "heat_text": "4915 万热度",
+      "heat_value": 49150000
     },
     {
       "date": "2026-07-14",
@@ -98,16 +108,6 @@
       "observed_at": "2026-07-06 00:00:00 +0800",
       "heat_text": "4351 万热度",
       "heat_value": 43510000
-    },
-    {
-      "date": "2026-07-14",
-      "title": "知友发现 2026 菲尔兹奖名单泄露，王虹、邓煜疑似双双获奖，如何看待这一信息？",
-      "url": "https://www.zhihu.com/question/2060133066643879544",
-      "key": "Q_2060133066643879544",
-      "rank": 1,
-      "observed_at": "2026-07-14 18:46:35 +0800",
-      "heat_text": "4318 万热度",
-      "heat_value": 43180000
     }
   ],
   "daily_series": [
@@ -1535,10 +1535,10 @@
     },
     {
       "date": "2026-08-13",
-      "total_heat_value": 66180000,
-      "max_heat_value": 21860000,
-      "topic_count": 34,
-      "history_point_count": 60,
+      "total_heat_value": 154280000,
+      "max_heat_value": 49150000,
+      "topic_count": 53,
+      "history_point_count": 90,
       "top_topic_title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "top_topic_url": "https://zhuanlan.zhihu.com/p/2070933430993414087"
     }
