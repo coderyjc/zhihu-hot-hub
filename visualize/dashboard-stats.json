@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13 23:58:28 +0800",
+  "generated_at": "2026-08-14 03:02:07 +0800",
   "totals": {
-    "day_count": 159,
-    "topic_record_count": 7304,
-    "unique_topic_count": 6453,
-    "history_point_count": 11490,
-    "v2_file_count": 34,
+    "day_count": 160,
+    "topic_record_count": 7334,
+    "unique_topic_count": 6466,
+    "history_point_count": 11520,
+    "v2_file_count": 35,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1541,6 +1541,15 @@
       "history_point_count": 240,
       "top_topic_title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
       "top_topic_url": "https://zhuanlan.zhihu.com/p/2070933430993414087"
+    },
+    {
+      "date": "2026-08-14",
+      "total_heat_value": 75780000,
+      "max_heat_value": 19840000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
+      "top_topic_url": "https://www.zhihu.com/question/2071318356477662328"
     }
   ]
 }
