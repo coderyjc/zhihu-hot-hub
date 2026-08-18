@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18 23:31:23 +0800",
+  "generated_at": "2026-08-19 02:37:38 +0800",
   "totals": {
-    "day_count": 164,
-    "topic_record_count": 7868,
-    "unique_topic_count": 6892,
-    "history_point_count": 12690,
-    "v2_file_count": 39,
+    "day_count": 165,
+    "topic_record_count": 7898,
+    "unique_topic_count": 6898,
+    "history_point_count": 12720,
+    "v2_file_count": 40,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1586,6 +1586,15 @@
       "history_point_count": 240,
       "top_topic_title": "天安门下半旗悼念朱镕基同志",
       "top_topic_url": "https://www.zhihu.com/pin/2072973976771610297?page=video_pin&scene=share"
+    },
+    {
+      "date": "2026-08-19",
+      "total_heat_value": 71430000,
+      "max_heat_value": 15840000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "朱镕基同志遗体在京火化",
+      "top_topic_url": "https://zhuanlan.zhihu.com/p/2073063979505787803"
     }
   ]
 }
