@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-08-25 05:28:30 +0800",
+  "updated_at": "2026-08-25 09:14:15 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -243794,18 +243794,23 @@
       "title": "有什么有趣的中国文化溢出？",
       "url": "https://www.zhihu.com/question/266630139",
       "first_seen": "2026-08-23 20:38:53 +0800",
-      "last_seen": "2026-08-24 05:21:13 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 30,
-      "latest_rank": 30,
-      "latest_heat_text": "59 万热度",
-      "latest_heat_value": 590000,
+      "latest_rank": 13,
+      "latest_heat_text": "130 万热度",
+      "latest_heat_value": 1300000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "29_1787520072.966541",
+        "id": "12_1787620455.725114",
         "card_id": "Q_266630139",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 1491
+          "answer_count": 1493
         },
         "target": {
           "title_area": {
@@ -243815,10 +243820,10 @@
             "text": "不限于传统文化，更可以是引领潮流的流行文化，包括音乐、文学作品等。"
           },
           "image_area": {
-            "url": "https://picx.zhimg.com/v2-4ad617291446b63f91fd9fcb6b7af924.png"
+            "url": "https://picx.zhimg.com/v2-89255754cd50ca3fffb5951fa5b1f639.webp"
           },
           "metrics_area": {
-            "text": "59 万热度",
+            "text": "130 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -243833,7 +243838,7 @@
             "url": "https://www.zhihu.com/question/266630139"
           }
         },
-        "attached_info": "Cj8I9trr2ab33P1WEAMaCDIxMDg0MjIzIOH41tMFMAA4hEdAHXIJMjY2NjMwMTM5eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "Cj8IucujsobVq5FnEAMaCDIxMDg0MjIzIOH41tMFMAA4p0dADHIJMjY2NjMwMTM5eACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -243859,6 +243864,12 @@
           "rank": 30,
           "heat_text": "59 万热度",
           "heat_value": 590000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 13,
+          "heat_text": "130 万热度",
+          "heat_value": 1300000
         }
       ]
     },
@@ -248594,18 +248605,18 @@
       "title": "7 月财政收入增长 11.7% 、个税同比大涨 25.9%，个税「逆势高增」的原因是什么？",
       "url": "https://www.zhihu.com/question/2075163936920264840",
       "first_seen": "2026-08-24 17:47:13 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 15,
-      "latest_rank": 19,
-      "latest_heat_text": "90 万热度",
-      "latest_heat_value": 900000,
+      "latest_rank": 24,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "18_1787606910.747966",
+        "id": "23_1787620455.755440",
         "card_id": "Q_2075163936920264840",
         "feed_specific": {
-          "answer_count": 98
+          "answer_count": 110
         },
         "target": {
           "title_area": {
@@ -248618,7 +248629,7 @@
             "url": "https://pic2.zhimg.com/50/v2-6bda9be8843d7f35b3106c22cf42c2f9_b.jpg"
           },
           "metrics_area": {
-            "text": "90 万热度",
+            "text": "80 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -248633,7 +248644,7 @@
             "url": "https://www.zhihu.com/question/2075163936920264840"
           }
         },
-        "attached_info": "CkoI8+Dg/72zspIqEAMaCTEyMTA0OTU2OCDl0a7UBjAAOMUCQBJyEzIwNzUxNjM5MzY5MjAyNjQ4NDB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA0OTU2OCDl0a7UBjAAOP8CQBdyEzIwNzUxNjM5MzY5MjAyNjQ4NDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -248665,6 +248676,12 @@
           "rank": 19,
           "heat_text": "90 万热度",
           "heat_value": 900000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 24,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
         }
       ]
     },
@@ -248892,18 +248909,18 @@
       "title": "索尼发邮件重申「数字游戏不属于玩家」，账号封禁就全清零，你怎么看待这波操作？",
       "url": "https://www.zhihu.com/question/2075000240088805752",
       "first_seen": "2026-08-24 17:47:13 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 22,
-      "latest_rank": 3,
-      "latest_heat_text": "209 万热度",
-      "latest_heat_value": 2090000,
+      "latest_rank": 21,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1787606910.737754",
+        "id": "20_1787620455.748965",
         "card_id": "Q_2075000240088805752",
         "feed_specific": {
-          "answer_count": 210
+          "answer_count": 248
         },
         "target": {
           "title_area": {
@@ -248916,7 +248933,7 @@
             "url": "https://pic2.zhimg.com/50/v2-e71c0a9498c15858e71b6946ffa3628f_b.jpg"
           },
           "metrics_area": {
-            "text": "209 万热度",
+            "text": "87 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -248931,7 +248948,7 @@
             "url": "https://www.zhihu.com/question/2075000240088805752"
           }
         },
-        "attached_info": "CkoI8+Dg/72zspIqEAMaCTEyMTA0NTU0OCDwoKzUBjAAOO8CQAJyEzIwNzUwMDAyNDAwODg4MDU3NTJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA0NTU0OCDwoKzUBjAAOLoDQBRyEzIwNzUwMDAyNDAwODg4MDU3NTJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -248963,6 +248980,12 @@
           "rank": 3,
           "heat_text": "209 万热度",
           "heat_value": 2090000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 21,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
         }
       ]
     },
@@ -249257,18 +249280,18 @@
       "title": "Claude Code 增长熄火，网传现大规模退订，为啥会这样？如何看待其诸多老用户开始转用 Codex？",
       "url": "https://www.zhihu.com/question/2074071189530440759",
       "first_seen": "2026-08-24 20:49:19 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 13,
-      "latest_rank": 6,
-      "latest_heat_text": "171 万热度",
-      "latest_heat_value": 1710000,
+      "latest_rank": 22,
+      "latest_heat_text": "83 万热度",
+      "latest_heat_value": 830000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1787606910.739879",
+        "id": "21_1787620455.750343",
         "card_id": "Q_2074071189530440759",
         "feed_specific": {
-          "answer_count": 61
+          "answer_count": 82
         },
         "target": {
           "title_area": {
@@ -249281,7 +249304,7 @@
             "url": "https://pic1.zhimg.com/50/v2-b685cd26de55b3683e270ff1f4bd9026_b.jpg"
           },
           "metrics_area": {
-            "text": "171 万热度",
+            "text": "83 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -249296,7 +249319,7 @@
             "url": "https://www.zhihu.com/question/2074071189530440759"
           }
         },
-        "attached_info": "CkoI8+Dg/72zspIqEAMaCTEyMTAwOTExNyCx3p7UBjAAOKICQAVyEzIwNzQwNzExODk1MzA0NDA3NTl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTAwOTExNyCx3p7UBjAAOPACQBVyEzIwNzQwNzExODk1MzA0NDA3NTl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -249322,6 +249345,12 @@
           "rank": 6,
           "heat_text": "171 万热度",
           "heat_value": 1710000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 22,
+          "heat_text": "83 万热度",
+          "heat_value": 830000
         }
       ]
     },
@@ -249330,23 +249359,18 @@
       "title": "北京大学原副校长任羽中受贿 3195 万余元，一审被判 8 年，怎样看待这一结果？有哪些警示意义？",
       "url": "https://www.zhihu.com/question/2075268182822970650",
       "first_seen": "2026-08-24 20:49:19 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 15,
       "latest_rank": 10,
-      "latest_heat_text": "134 万热度",
-      "latest_heat_value": 1340000,
+      "latest_heat_text": "155 万热度",
+      "latest_heat_value": 1550000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1787606910.742973",
+        "id": "9_1787620455.718821",
         "card_id": "Q_2075268182822970650",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 128
+          "answer_count": 189
         },
         "target": {
           "title_area": {
@@ -249359,7 +249383,7 @@
             "url": "https://pic1.zhimg.com/v2-ee1f19cb6860d207efc96de5a7bcec22_1440w.jpg"
           },
           "metrics_area": {
-            "text": "134 万热度",
+            "text": "155 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -249374,7 +249398,7 @@
             "url": "https://www.zhihu.com/question/2075268182822970650"
           }
         },
-        "attached_info": "CkoI8+Dg/72zspIqEAMaCTEyMTA1NTk0OSD7k7DUBjAAOKUCQAlyEzIwNzUyNjgxODI4MjI5NzA2NTB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA1NTk0OSD7k7DUBjAAOKoDQAlyEzIwNzUyNjgxODI4MjI5NzA2NTB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -249400,6 +249424,12 @@
           "rank": 10,
           "heat_text": "134 万热度",
           "heat_value": 1340000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 10,
+          "heat_text": "155 万热度",
+          "heat_value": 1550000
         }
       ]
     },
@@ -249778,18 +249808,18 @@
       "title": "如何解读特朗普所说「用美军解决美债」这句话？",
       "url": "https://www.zhihu.com/question/2075089345044801293",
       "first_seen": "2026-08-24 20:49:19 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 25,
       "latest_rank": 25,
-      "latest_heat_text": "84 万热度",
-      "latest_heat_value": 840000,
+      "latest_heat_text": "78 万热度",
+      "latest_heat_value": 780000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "24_1787606910.750239",
+        "id": "24_1787620455.757039",
         "card_id": "Q_2075089345044801293",
         "feed_specific": {
-          "answer_count": 97
+          "answer_count": 139
         },
         "target": {
           "title_area": {
@@ -249802,7 +249832,7 @@
             "url": "https://picx.zhimg.com/v2-3b1fc1a1582e43a44e2769e588abb289.png"
           },
           "metrics_area": {
-            "text": "84 万热度",
+            "text": "78 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -249817,7 +249847,7 @@
             "url": "https://www.zhihu.com/question/2075089345044801293"
           }
         },
-        "attached_info": "CkoI8+Dg/72zspIqEAMaCTEyMTA0NjcyNSDtxq3UBjAAONkBQBhyEzIwNzUwODkzNDUwNDQ4MDEyOTN4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA0NjcyNSDtxq3UBjAAOKsCQBhyEzIwNzUwODkzNDUwNDQ4MDEyOTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -249843,6 +249873,12 @@
           "rank": 25,
           "heat_text": "84 万热度",
           "heat_value": 840000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 25,
+          "heat_text": "78 万热度",
+          "heat_value": 780000
         }
       ]
     },
@@ -249851,23 +249887,18 @@
       "title": "大家为什么接受不了整容的明星啊？",
       "url": "https://www.zhihu.com/question/2008652535855071748",
       "first_seen": "2026-08-24 20:49:19 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 26,
-      "latest_rank": 14,
-      "latest_heat_text": "95 万热度",
-      "latest_heat_value": 950000,
+      "latest_rank": 23,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "13_1787606910.744606",
+        "id": "22_1787620455.752871",
         "card_id": "Q_2008652535855071748",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 62
+          "answer_count": 76
         },
         "target": {
           "title_area": {
@@ -249880,7 +249911,7 @@
             "url": "https://pica.zhimg.com/v2-43cd14fb2c747a734353e30552ffe566_1440w.jpg"
           },
           "metrics_area": {
-            "text": "95 万热度",
+            "text": "80 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -249895,7 +249926,7 @@
             "url": "https://www.zhihu.com/question/2008652535855071748"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTExODQ5ODg0NSDT4ubMBjAAOHdADXITMjAwODY1MjUzNTg1NTA3MTc0OHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIucujsobVq5FnEAMaCTExODQ5ODg0NSDT4ubMBjAAOJUBQBZyEzIwMDg2NTI1MzU4NTUwNzE3NDh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -249921,6 +249952,12 @@
           "rank": 14,
           "heat_text": "95 万热度",
           "heat_value": 950000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 23,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
         }
       ]
     },
@@ -250049,18 +250086,18 @@
       "title": "樊振东德国杯上座率已经超 85%，影院为什么不加场呢?",
       "url": "https://www.zhihu.com/question/2075007747150591055",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 5,
-      "latest_rank": 2,
-      "latest_heat_text": "230 万热度",
-      "latest_heat_value": 2300000,
+      "latest_rank": 6,
+      "latest_heat_text": "189 万热度",
+      "latest_heat_value": 1890000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1787606910.737400",
+        "id": "5_1787620455.714167",
         "card_id": "Q_2075007747150591055",
         "feed_specific": {
-          "answer_count": 57
+          "answer_count": 67
         },
         "target": {
           "title_area": {
@@ -250073,7 +250110,7 @@
             "url": "https://pic2.zhimg.com/50/v2-79fb2233b3f271564518c2c743191fe1_b.jpg"
           },
           "metrics_area": {
-            "text": "230 万热度",
+            "text": "189 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250088,7 +250125,7 @@
             "url": "https://www.zhihu.com/question/2075007747150591055"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMTA0NTgxNCDurqzUBjAAOGtAAXITMjA3NTAwNzc0NzE1MDU5MTA1NXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA0NTgxNCDurqzUBjAAOIwBQAVyEzIwNzUwMDc3NDcxNTA1OTEwNTV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -250108,6 +250145,12 @@
           "rank": 2,
           "heat_text": "230 万热度",
           "heat_value": 2300000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 6,
+          "heat_text": "189 万热度",
+          "heat_value": 1890000
         }
       ]
     },
@@ -250177,23 +250220,18 @@
       "title": "如何评价黑客以「恢复实体光盘、抵制数字预购」为名威胁 R 星，并设置《GTA 6》源码开关？",
       "url": "https://www.zhihu.com/question/2074570715764896591",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 12,
-      "latest_rank": 9,
-      "latest_heat_text": "136 万热度",
-      "latest_heat_value": 1360000,
+      "latest_rank": 16,
+      "latest_heat_text": "106 万热度",
+      "latest_heat_value": 1060000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1787606910.742403",
+        "id": "15_1787620455.731621",
         "card_id": "Q_2074570715764896591",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 25
+          "answer_count": 33
         },
         "target": {
           "title_area": {
@@ -250206,7 +250244,7 @@
             "url": "https://pic1.zhimg.com/v2-671c057e6718e562eca699791cd93a0e.png"
           },
           "metrics_area": {
-            "text": "136 万热度",
+            "text": "106 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250221,7 +250259,7 @@
             "url": "https://www.zhihu.com/question/2074570715764896591"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMTAzMDY1NCDqgKbUBjAAOFNACHITMjA3NDU3MDcxNTc2NDg5NjU5MXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMTAzMDY1NCDqgKbUBjAAOHxAD3ITMjA3NDU3MDcxNTc2NDg5NjU5MXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -250241,6 +250279,12 @@
           "rank": 9,
           "heat_text": "136 万热度",
           "heat_value": 1360000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 16,
+          "heat_text": "106 万热度",
+          "heat_value": 1060000
         }
       ]
     },
@@ -250316,18 +250360,18 @@
       "title": "19 岁公路车手塔林比赛中被逆行车辆撞击离世，有人呼吁头盔安全标准需修改，你认为车手保障如何真正提升？",
       "url": "https://www.zhihu.com/question/2073069693901063016",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 18,
-      "latest_rank": 8,
-      "latest_heat_text": "141 万热度",
-      "latest_heat_value": 1410000,
+      "latest_rank": 9,
+      "latest_heat_text": "170 万热度",
+      "latest_heat_value": 1700000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1787606910.742021",
+        "id": "8_1787620455.718058",
         "card_id": "Q_2073069693901063016",
         "feed_specific": {
-          "answer_count": 32
+          "answer_count": 53
         },
         "target": {
           "title_area": {
@@ -250340,7 +250384,7 @@
             "url": "https://pic1.zhimg.com/50/v2-fd4262a1e1b1137ba73547608d2196b0_b.jpg"
           },
           "metrics_area": {
-            "text": "141 万热度",
+            "text": "170 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250355,7 +250399,7 @@
             "url": "https://www.zhihu.com/question/2073069693901063016"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMDk3MDAzNyD6lJDUBjAAODZAB3ITMjA3MzA2OTY5MzkwMTA2MzAxNngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMDk3MDAzNyD6lJDUBjAAOGZACHITMjA3MzA2OTY5MzkwMTA2MzAxNngAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -250375,6 +250419,12 @@
           "rank": 8,
           "heat_text": "141 万热度",
           "heat_value": 1410000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 9,
+          "heat_text": "170 万热度",
+          "heat_value": 1700000
         }
       ]
     },
@@ -250443,18 +250493,23 @@
       "title": "特洛伊木马，看来愚蠢之极，有没有可能这其实是利用希腊的某种传统共识，就像吕蒙白衣渡江？",
       "url": "https://www.zhihu.com/question/2072548823835185650",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 20,
-      "latest_rank": 20,
-      "latest_heat_text": "90 万热度",
-      "latest_heat_value": 900000,
+      "latest_rank": 15,
+      "latest_heat_text": "106 万热度",
+      "latest_heat_value": 1060000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1787606910.748549",
+        "id": "14_1787620455.728672",
         "card_id": "Q_2072548823835185650",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 27
+          "answer_count": 35
         },
         "target": {
           "title_area": {
@@ -250464,10 +250519,10 @@
             "text": ""
           },
           "image_area": {
-            "url": "https://pica.zhimg.com/50/v2-9c416d223b3434a5052794f6bde08c98_b.jpg"
+            "url": "https://pic1.zhimg.com/v2-e8de33dab4728ecd52fd0cf69cc58261_xl.jpg?source=57bbeac9"
           },
           "metrics_area": {
-            "text": "90 万热度",
+            "text": "106 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250482,7 +250537,7 @@
             "url": "https://www.zhihu.com/question/2072548823835185650"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMDk0ODMwNSDhyojUBjAAOEFAE3ITMjA3MjU0ODgyMzgzNTE4NTY1MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMDk0ODMwNSDhyojUBjAAOGtADnITMjA3MjU0ODgyMzgzNTE4NTY1MHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -250502,6 +250557,12 @@
           "rank": 20,
           "heat_text": "90 万热度",
           "heat_value": 900000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 15,
+          "heat_text": "106 万热度",
+          "heat_value": 1060000
         }
       ]
     },
@@ -250510,18 +250571,18 @@
       "title": "四川巴中市公安局为 3999.577 万元资金寻找合法所有人，无人认领将上缴国库，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2073023842335958417",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 21,
-      "latest_rank": 21,
-      "latest_heat_text": "89 万热度",
-      "latest_heat_value": 890000,
+      "latest_rank": 17,
+      "latest_heat_text": "104 万热度",
+      "latest_heat_value": 1040000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "20_1787606910.748757",
+        "id": "16_1787620455.734061",
         "card_id": "Q_2073023842335958417",
         "feed_specific": {
-          "answer_count": 37
+          "answer_count": 46
         },
         "target": {
           "title_area": {
@@ -250534,7 +250595,7 @@
             "url": "https://picx.zhimg.com/50/v2-d3d15dc358c77868f78a642f332d9061_b.jpg"
           },
           "metrics_area": {
-            "text": "89 万热度",
+            "text": "104 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250549,7 +250610,7 @@
             "url": "https://www.zhihu.com/question/2073023842335958417"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMDk2Nzc3NiDGv4/UBjAAOF1AFHITMjA3MzAyMzg0MjMzNTk1ODQxN3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMDk2Nzc3NiDGv4/UBjAAOI0BQBByEzIwNzMwMjM4NDIzMzU5NTg0MTd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -250569,6 +250630,12 @@
           "rank": 21,
           "heat_text": "89 万热度",
           "heat_value": 890000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 17,
+          "heat_text": "104 万热度",
+          "heat_value": 1040000
         }
       ]
     },
@@ -250637,15 +250704,15 @@
       "title": "为啥地下党发报不把电台藏了马车或者黄包车上就发就转圈？",
       "url": "https://www.zhihu.com/question/759444244",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 23,
       "latest_rank": 12,
-      "latest_heat_text": "97 万热度",
-      "latest_heat_value": 970000,
+      "latest_heat_text": "132 万热度",
+      "latest_heat_value": 1320000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1787606910.744068",
+        "id": "11_1787620455.722374",
         "card_id": "Q_759444244",
         "card_label": {
           "type": "hot",
@@ -250653,7 +250720,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 59
+          "answer_count": 69
         },
         "target": {
           "title_area": {
@@ -250666,7 +250733,7 @@
             "url": "https://pic1.zhimg.com/v2-b4fac24707d42f071d43c7c344202213.png"
           },
           "metrics_area": {
-            "text": "97 万热度",
+            "text": "132 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250681,7 +250748,7 @@
             "url": "https://www.zhihu.com/question/759444244"
           }
         },
-        "attached_info": "Cj8I8+Dg/72zspIqEAMaCTExMDk3MzQ4NyCtl4m4BjAAOHJAC3IJNzU5NDQ0MjQ0eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "CkAIucujsobVq5FnEAMaCTExMDk3MzQ4NyCtl4m4BjAAOJQBQAtyCTc1OTQ0NDI0NHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -250701,6 +250768,12 @@
           "rank": 12,
           "heat_text": "97 万热度",
           "heat_value": 970000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 12,
+          "heat_text": "132 万热度",
+          "heat_value": 1320000
         }
       ]
     },
@@ -250769,18 +250842,23 @@
       "title": "脑出血急诊去医院为什么几个小时不开始手术，最后我妈去世了，医院有没有责任？",
       "url": "https://www.zhihu.com/question/1905751114009272796",
       "first_seen": "2026-08-24 23:38:37 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 27,
-      "latest_rank": 16,
-      "latest_heat_text": "94 万热度",
-      "latest_heat_value": 940000,
+      "latest_rank": 7,
+      "latest_heat_text": "179 万热度",
+      "latest_heat_value": 1790000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1787606910.745568",
+        "id": "6_1787620455.714482",
         "card_id": "Q_1905751114009272796",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 47
+          "answer_count": 79
         },
         "target": {
           "title_area": {
@@ -250793,7 +250871,7 @@
             "url": "https://pica.zhimg.com/v2-2b5ab901c0fab532eefe8bd44af09242.png"
           },
           "metrics_area": {
-            "text": "94 万热度",
+            "text": "179 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250808,7 +250886,7 @@
             "url": "https://www.zhihu.com/question/1905751114009272796"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTExNDkyNzE5OSDorY3BBjAAOFtAD3ITMTkwNTc1MTExNDAwOTI3Mjc5NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIucujsobVq5FnEAMaCTExNDkyNzE5OSDorY3BBjAAOK0BQAZyEzE5MDU3NTExMTQwMDkyNzI3OTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -250828,6 +250906,12 @@
           "rank": 16,
           "heat_text": "94 万热度",
           "heat_value": 940000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 7,
+          "heat_text": "179 万热度",
+          "heat_value": 1790000
         }
       ]
     },
@@ -250946,18 +251030,18 @@
       "title": "为什么在《中兴四将图》里，岳飞是一个憨态可掬的小胖子，是作画者的想象，还是岳飞本人就这形象气质?",
       "url": "https://www.zhihu.com/question/306550343",
       "first_seen": "2026-08-25 02:38:53 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 2,
-      "latest_rank": 1,
-      "latest_heat_text": "622 万热度",
-      "latest_heat_value": 6220000,
+      "latest_rank": 3,
+      "latest_heat_text": "432 万热度",
+      "latest_heat_value": 4320000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1787606910.736639",
+        "id": "2_1787620455.710163",
         "card_id": "Q_306550343",
         "feed_specific": {
-          "answer_count": 125
+          "answer_count": 140
         },
         "target": {
           "title_area": {
@@ -250970,7 +251054,7 @@
             "url": "https://pic4.zhimg.com/v2-882dd55c269a005d45932f9b46f8fbd1_1440w.jpg"
           },
           "metrics_area": {
-            "text": "622 万热度",
+            "text": "432 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -250985,7 +251069,7 @@
             "url": "https://www.zhihu.com/question/306550343"
           }
         },
-        "attached_info": "Cj8I8+Dg/72zspIqEAMaCDMwMzk4NjI1ILuQ9uAFMAA42wJAAHIJMzA2NTUwMzQzeACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "Cj8IucujsobVq5FnEAMaCDMwMzk4NjI1ILuQ9uAFMAA4mwNAAnIJMzA2NTUwMzQzeACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -250999,6 +251083,12 @@
           "rank": 1,
           "heat_text": "622 万热度",
           "heat_value": 6220000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 3,
+          "heat_text": "432 万热度",
+          "heat_value": 4320000
         }
       ]
     },
@@ -251068,31 +251158,36 @@
       "title": "美军公开 AIM-424 超远程空空导弹，将如何改变未来空战模式？",
       "url": "https://www.zhihu.com/question/2074954631705379885",
       "first_seen": "2026-08-25 02:38:53 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 18,
-      "latest_rank": 18,
-      "latest_heat_text": "91 万热度",
-      "latest_heat_value": 910000,
+      "latest_rank": 11,
+      "latest_heat_text": "140 万热度",
+      "latest_heat_value": 1400000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "17_1787606910.747043",
+        "id": "10_1787620455.720042",
         "card_id": "Q_2074954631705379885",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 21
+          "answer_count": 35
         },
         "target": {
           "title_area": {
             "text": "美军公开 AIM-424 超远程空空导弹，将如何改变未来空战模式？"
           },
           "excerpt_area": {
-            "text": "【#美军突然公开超远程空空导弹#，号称射程大于 460 公里】美国「战区」（TWZ）网站 8 月 22 日报道，在内华达州里诺举行的美国海军尾钩协会（Tailhook Association）年会上，美国海军首次公开披露了一款全新的超远程空空导弹——AIM-424「Malice」（恶意）。海军公布的一张照片显示，去年 4 月拍摄的一架隶属海军第 23 测试与评估中队（VX-23）的 F/A-18E/F「超级大黄蜂」一次挂载了 4 枚 AIM-424。另一张照片则显示，这款导弹已经能够装入 F-35C 的内置弹舱。据《航空周刊》披露，美国海军首次披露了新一代超远程空空导弹 AIM-424「Malice」（恶意），正式名称为「远程空空导弹」（Long Range Air-to-Air Missile，LRAAM）。该导弹由雷神（RTX）研制，已进入深入飞行测试阶段，射程超过 250 海里（约 463 公里），采用两级固体火箭发动机设计，以实现更远射程和更高飞行速度。目前，AIM-424 已完成与 F/A-18E/F「超级大黄蜂」和 F-35C 舰载战斗机的集成测试，未来还将装备美国海军下一代舰载战斗机 F/A-XX。从外形来看，AIM-424 明显比服役多年的 AIM-120「阿姆拉姆」和新一代 AIM-260 联合先进战术导弹更大，射程也更远。与 AIM-260 仍基本沿用 AIM-120 尺寸不同，AIM-424 属于全新的大型导弹。不过，目前尚不清楚它与另一款超远程空空武器——AIM-174B「枪手」（由标准 -6 舰空导弹改装而来）的定位如何区分。目前，美国海军尚未公布 AIM-424 的制造商，也未说明是否存在多个型号配置。不过，「战区」指出，这款导弹的外形与波音数年前公开展示的 LRAAM 概念导弹极为相似，而且美国海军此次同样采用了「LRAAM」这一名称。早期波音模型曾展示一种带有大型尾部助推器的两级方案。如果 AIM-424 与其属于同一项目， 【#美军突然公开超远程空空导弹#，号称射程大于 460 公里】美国「战区」（twz）网站 8 月 22 日报道，在内华达州里诺举行的美国海军尾钩协会（tailhook association）年会上，美国海军首次公开披露了一款全新的超远程空空导弹——aim-424「malice」（恶意）。海军公布的一张照片显示，去年 4 月拍摄的一架隶 ... 全文"
+            "text": "美国「战区」（TWZ）网站 8 月 22 日报道，在内华达州里诺举行的美国海军尾钩协会（Tailhook Association）年会上，美国海军首次公开披露了一款全新的超远程空空导弹——AIM-424「Malice」（恶意）。 海军公布的一张照片显示，去年 4 月拍摄的一架隶属海军第 23 测试与评估中队（VX-23）的 F/A-18E/F「超级大黄蜂」一次挂载了 4 枚 AIM-424。另一张照片则显示，这款导弹已经能够装入 F-35C 的内置弹舱。 AIM-424 美国海军 据《航空周刊》披露，美国海军首次披露了新一代超远程空空导弹 AIM-424「Malice」（恶意），正式名称为「远程空空导弹」（Long Range Air-to-Air Missile，LRAAM）。该导弹由雷神（RTX）研制，已进入深入飞行测试阶段，射程超过 250 海里（约 463 公里），采用两级固体火箭发动机设计，以实现更远射程和更高飞行速度。目前，AIM-424 已完成与 F/A-18E/F「超级大黄蜂」和 F-35C 舰载战斗机的集成测试，未来还将装备美国海军下一代舰载战斗机 F/A-XX。 从外形来看，AIM-424 明显比服役多年的 AIM-120「阿姆拉姆」和新一代 AIM-260 联合先进战术导弹更大，射程也更远。与 AIM-260 仍基本沿用 AIM-120 尺寸不同，AIM-424 属于全新的大型导弹。 F/A-18 携带 AIM-424 测试美国海军 不过，目前尚不清楚它与另一款超远程空空武器——AIM-174B「枪手」（由标准 -6 舰空导弹改装而来）的定位如何区分。 目前，美国海军尚未公布 AIM-424 的制造商，也未说明是否存在多个型号配置。 不过，「战区」指出，这款导弹的外形与波音数年前公开展示的 LRAAM 概念导弹极为相似，而且美国海军此次同样采用了「LRAAM」这一名称。 美军突然公开超远程空空导弹，号称射程大于 460 公里 - 观察者网"
           },
           "image_area": {
-            "url": ""
+            "url": "https://picx.zhimg.com/v2-fc3bbdf1b0c390e16d4a3fe370d48999.png"
           },
           "metrics_area": {
-            "text": "91 万热度",
+            "text": "140 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -251107,7 +251202,7 @@
             "url": "https://www.zhihu.com/question/2074954631705379885"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMTA0MzgyNyD2y6vUBjAAOBtAEXITMjA3NDk1NDYzMTcwNTM3OTg4NXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMTA0MzgyNyD2y6vUBjAAOFFACnITMjA3NDk1NDYzMTcwNTM3OTg4NXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -251121,6 +251216,12 @@
           "rank": 18,
           "heat_text": "91 万热度",
           "heat_value": 910000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 11,
+          "heat_text": "140 万热度",
+          "heat_value": 1400000
         }
       ]
     },
@@ -251317,15 +251418,15 @@
       "title": "如何评价耗资 750 万投资的影游《恶校游戏》仅回血 50 万，发售 1 周后制作组宣布解散？",
       "url": "https://www.zhihu.com/question/2075002290789000092",
       "first_seen": "2026-08-25 05:28:30 +0800",
-      "last_seen": "2026-08-25 05:28:30 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "175 万热度",
-      "latest_heat_value": 1750000,
+      "latest_rank": 2,
+      "latest_heat_text": "580 万热度",
+      "latest_heat_value": 5800000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1787606910.738734",
+        "id": "1_1787620455.707711",
         "card_id": "Q_2075002290789000092",
         "card_label": {
           "type": "hot",
@@ -251333,7 +251434,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 19
+          "answer_count": 61
         },
         "target": {
           "title_area": {
@@ -251343,10 +251444,10 @@
             "text": "《恶校游戏》8 月 14 日正式发售，目前游戏 Steam 特别好评（评测中有 93% 为好评）。 但仅过一周，8 月 20 日，《恶校游戏》官宣做出解散制作组的决定，并发布 Steam 公告。同时游戏服务器已续费 20 年。"
           },
           "image_area": {
-            "url": ""
+            "url": "https://picx.zhimg.com/80/v2-f516f3821a60af604522541f7332e84d_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "175 万热度",
+            "text": "580 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -251361,7 +251462,7 @@
             "url": "https://www.zhihu.com/question/2075002290789000092"
           }
         },
-        "attached_info": "CkkI8+Dg/72zspIqEAMaCTEyMTA0NTYyNyDZpKzUBjAAOCJAA3ITMjA3NTAwMjI5MDc4OTAwMDA5MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA0NTYyNyDZpKzUBjAAOLIBQAFyEzIwNzUwMDIyOTA3ODkwMDAwOTJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -251369,6 +251470,12 @@
           "rank": 4,
           "heat_text": "175 万热度",
           "heat_value": 1750000
+        },
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 2,
+          "heat_text": "580 万热度",
+          "heat_value": 5800000
         }
       ]
     },
@@ -251484,6 +251591,766 @@
           "rank": 29,
           "heat_text": "75 万热度",
           "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2075346177952674642",
+      "title": "官方确认「帮扶老人遭索赔」事件中店主不承担法律责任，此前店主被索赔 1.9 万，这件事带给我们什么反思？",
+      "url": "https://www.zhihu.com/question/2075346177952674642",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "756 万热度",
+      "latest_heat_value": 7560000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1787620455.705283",
+        "card_id": "Q_2075346177952674642",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 258
+        },
+        "target": {
+          "title_area": {
+            "text": "官方确认「帮扶老人遭索赔」事件中店主不承担法律责任，此前店主被索赔 1.9 万，这件事带给我们什么反思？"
+          },
+          "excerpt_area": {
+            "text": "据新京报「我们视频」、九派新闻等媒体 8 月 24 日报道，湖南衡阳一老人身体不适在茶馆门口凳子上休息晕倒，店主帮扶送医后老人离世遭索赔 10 万元，最终在相关部门协调下支付了 1.9 万元，引发网友热议。祁东县司法局表示，已就店主帮扶老人遭索赔一事介入调查。据红网时刻新闻报道，有关部门对此进行了调解，确认店主没有过错，不承担法律责任。后店主出于人道主义关怀，一次性帮扶死者家属 1.9 万元。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-2a29b52b0ed31d4539f2c3ebe952c93a.png"
+          },
+          "metrics_area": {
+            "text": "756 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2075346177952674642"
+          }
+        },
+        "attached_info": "CkoIucujsobVq5FnEAMaCTEyMTA1OTIwMyCepbHUBjAAOPACQAByEzIwNzUzNDYxNzc5NTI2NzQ2NDJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 1,
+          "heat_text": "756 万热度",
+          "heat_value": 7560000
+        }
+      ]
+    },
+    {
+      "key": "Q_2075204160505341189",
+      "title": "四川省地震局称「成都高新减灾研究所冒用名义发 7.7 级地震预警」，研究所否认，如何看待此次乌龙预警？",
+      "url": "https://www.zhihu.com/question/2075204160505341189",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "288 万热度",
+      "latest_heat_value": 2880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1787620455.711769",
+        "card_id": "Q_2075204160505341189",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "四川省地震局称「成都高新减灾研究所冒用名义发 7.7 级地震预警」，研究所否认，如何看待此次乌龙预警？"
+          },
+          "excerpt_area": {
+            "text": "四川省地震局 2026 年 8 月 24 日发布《关于宜宾长宁 4.7 级地震预警相关情况的通报》： 据中国地震台网正式测定：2026 年 8 月 24 日 8 时 26 分在四川宜宾市长宁县（北纬 28.33 度，东经 104.98 度）发生 4.7 级地震，震源深度 5 公里。成都高新减灾研究所冒用「中国地震预警网」名义，通过荣耀、维沃手机以及小天才手表等渠道向社会公众发布震级为 7.7 级的预警信息，引起社会关注。四川省地震局已于 2026 年 7 月 22 日终止向成都高新减灾研究所提供中国地震预警网紧急地震信息服务第三方授权。 中国地震预警网在震后第一时间产出地震预警结果，预警震级 5.4 级，并通过微信小程序、电视、服务终端和手机等渠道向社会公众发布。请广大公众关注官方发布渠道。 "
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-a39502d23fa3ed69df95639ea394b55f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "288 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2075204160505341189"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMTA1MjA5NCDbnK/UBjAAOG9AA3ITMjA3NTIwNDE2MDUwNTM0MTE4OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 4,
+          "heat_text": "288 万热度",
+          "heat_value": 2880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2075214033292977192",
+      "title": "多家餐厅残留液体敌敌畏检测阳性，绿茶称不知情，官方调查，一旦发生食物中毒餐厅要担责吗？消费者如何维权？",
+      "url": "https://www.zhihu.com/question/2075214033292977192",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "250 万热度",
+      "latest_heat_value": 2500000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1787620455.712897",
+        "card_id": "Q_2075214033292977192",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 37
+        },
+        "target": {
+          "title_area": {
+            "text": "多家餐厅残留液体敌敌畏检测阳性，绿茶称不知情，官方调查，一旦发生食物中毒餐厅要担责吗？消费者如何维权？"
+          },
+          "excerpt_area": {
+            "text": "8 月 24 日午间消息，据《新京报》报道，厦门绿林森环境科技有限公司长期使用敌敌畏为绿茶、先启半步颠、池奈、凤缘家港式茶点、鱼旨寿司等数十家连锁餐饮企业提供消杀服务。为规避检查，员工将敌敌畏原液灌入矿泉水瓶并撕掉标签，还使用「三无」杀鼠剂。有员工坦言：「我们消杀过的餐厅我个人是不会去吃的，打死也不会去吃的！」 媒体对多家餐厅消杀后地面残留液体进行采样，采用敌敌畏胶体金快速检测方法检测，结果为阳性。在监管部门介入调查当晚，该公司仍在继续作业，且表面换用合规药品「残杀威」，但残留液体仍检测出敌敌畏成分。目前，当地市监部门正在持续调查中。 针对此事，截至发稿，绿茶餐厅暂无官方回应。多家绿茶餐厅厦门门店负责人表示，公司高度重视该问题，今天已经第一时间安排相关部门展开调查，后续有调查结果会及时公布。 天眼查经营信息资料显示，绿茶餐厅关联公司杭州绿茶餐饮管理有限公司此前抽查检查均未发现问题。法律诉讼信息显示，该公司曾因违反安全保障义务责任纠纷等被起诉。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-981c76cdcc59f427ec2893ea2f3d6aab_b.jpg"
+          },
+          "metrics_area": {
+            "text": "250 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2075214033292977192"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMTA1MjM4OSCNr6/UBjAAOGpABHITMjA3NTIxNDAzMzI5Mjk3NzE5MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 5,
+          "heat_text": "250 万热度",
+          "heat_value": 2500000
+        }
+      ]
+    },
+    {
+      "key": "Q_2075309167955240542",
+      "title": "陕西男子羁押期从看守所脱逃，伙同他人杀害举报人后「纸面服刑」，二审维持死刑判决，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2075309167955240542",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "171 万热度",
+      "latest_heat_value": 1710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1787620455.714985",
+        "card_id": "Q_2075309167955240542",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "陕西男子羁押期从看守所脱逃，伙同他人杀害举报人后「纸面服刑」，二审维持死刑判决，如何从法律角度解读？"
+          },
+          "excerpt_area": {
+            "text": "红星新闻记者从两个独立信源处获悉，8 月 24 日，此前备受关注的陕北「孙小果案」二审宣判：驳回上诉，维持原判。 去年 5 月 26 日，陕西省延安市中级人民法院作出一审判决，该案主要涉案人员郭二娃数罪并罚被判处死刑（红星新闻相关报道>>）。 郭二娃（又名郭华建）1975 年出生，1994 年持刀抢劫逃跑后成了煤老板。7 年后被抓，却从看守所离奇脱逃，后涉嫌杀害举报人再次被抓。2007 年，延安市中级法院作出判决，郭二娃被判有期徒刑 18 年。2011 年 1 月，郭二娃被批准保外就医，此后开始「纸面服刑」。其被判刑 18 年却服刑 6 年多就保外就医。 2020 年 4 月，郭二娃再次被收监。同年 6 月 28 日，延安市中级人民法院作出再审决定，认为郭二娃原审判决在认定事实上和适用法律上确有错误，决定另行组成合议庭进行再审。 2023 年 6 月，延安市检察院在原有起诉书基础上作出变更起诉决定，以郭二娃等人涉嫌故意杀人罪向延安市中级人民法院提起公诉。此外，姬艳花等人提起刑事附带民事诉讼。 该案一审判决后，郭二娃提起上诉，此后该案进入二审，直至今日陕西省高级人民法院作出二审判决。 抢劫、脱逃、故意杀人、行贿 郭二娃涉四宗罪 ▲一审判决书截图 据一审判决书，郭二娃涉及抢劫罪、脱逃罪和故意杀人罪、行贿罪等四个罪名，另外涉嫌非法占用农用地罪未认定。经延安市中级人民法院再审审理查明： 判决书提到，1994 年 8 月 29 日，郭二娃伙同他人预谋抢劫，从延安火车站乘坐榆林至西安的长途客车，行至甘泉县道镇路段时，在郭二娃指使下，郭二娃持刀、其他人持改锥，采用暴力手段对 11 名乘客实施抢劫，共抢得 5000 余元、手表两块、报时器一个，赃物价值 100 元。后郭二娃等四人逃到山上对赃物进行分配，其中郭二娃分得赃款 1300 余元。甘泉县公安局接到报警后于同月 30 日、 31 日将其他人抓获，郭二娃潜逃。2001 年 6 月 13 日，甘泉县公安局在新疆警方配合下将郭二娃抓捕归案。 2001 年 10 月 12 日，郭二娃在甘泉县看守所羁押期间，向看守所民警高某某提出去延安市办事，并向高某某许以重金酬谢，高某某同意并让郭二娃出看守所后，郭二娃乘机脱逃。 判决书还提到，2001 年 6 月 13 日被举报后，郭二娃被抓捕归案羁押于甘泉县看守所，同年 10 月 12 日从看守所脱逃后来到新疆乌鲁木齐市。郭二娃得知举报人系景某成后，向其余涉案人员打听景某成下落，扬言要收拾景某成。2002 年 11 月 6 日，景某成恰遇郭二娃等人，郭二娃强行将景某成拉上自己乘坐的桑塔纳轿车，在返回乌鲁木齐市区途中，郭二娃一直对景某成进行辱骂、威胁、戳打，并电话联系其他涉案人员。之后，景某成在逃跑过程中倒在路边的绿化带里，郭二娃等人上前对景某成拳打脚踢，有涉案人员倒骑在景某成身上持匕首在景某成的大腿部连捅三刀。后郭二娃等人逃离现场。经鉴定，被害人景某成系被他人用单刃锐器（如匕首等）刺破大血管致失血性休克死亡。 此外，对于行贿罪的事实，延安市中级人民法院也进行了查明。 延安市中级人民法院认为，郭二娃长期无视国法，1994 年持械在公共交通工具上抢劫后潜逃，2001 年被举报归案后从羁押场所脱逃，2002 年扬言并纠集他人在公共场所报复举报人，致举报人死亡，服刑期间不思悔改，以金钱开道，收买公职人员，纸面服刑，严重危害法治权威和司法公信力。 此前，至少两名独立信源人士曾向红星新闻记者确认，因郭二娃「纸面服刑」一事，多名公职人员受到刑事处罚或者纪律处分。 红星新闻记者梳理发现，相关资料显示，多名公职人员因郭二娃「纸面服刑」事件被判刑，被判刑公职人员分布于监狱、检察院等单位，因受贿罪等被判刑一年半至五年半不等。 法院认为，郭二娃目无法纪，对生命没有敬畏之心，对法律没有戒惧之心，对自己的罪行没有悔改之心。郭二娃犯罪动机极其卑劣，犯罪情节特别恶劣，社会危害程度极其严重，主观恶性极深，人身危险性极大，属于罪大恶极且不堪改造的犯罪分子，依法应当予以严惩。郭二娃家属虽代为补偿附带民事诉讼原告人 5 万元，但不足以对郭二娃从轻处罚，应对其判处极刑，经依法数罪并罚，决定执行死刑。 此后，郭二娃提起上诉。 8 月 24 日，红星新闻记者从两位独立信源处获悉，该案由陕西省高级法院作出二审判决：驳回上诉，维持原判。陕西男子羁押期从看守所脱逃，伙同他人杀害举报人后「纸面服刑」 二审今日宣判：维持一审死刑判决 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-3d25cd7193f731463554b04611f6780e_b.jpg"
+          },
+          "metrics_area": {
+            "text": "171 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2075309167955240542"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMTA1NzgyOCCn4LDUBjAAOEBAB3ITMjA3NTMwOTE2Nzk1NTI0MDU0MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 8,
+          "heat_text": "171 万热度",
+          "heat_value": 1710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2073315906734781496",
+      "title": "同样吃苦，为什么山河四省省吃俭用， 云贵川渝是活在当下？",
+      "url": "https://www.zhihu.com/question/2073315906734781496",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "127 万热度",
+      "latest_heat_value": 1270000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1787620455.726927",
+        "card_id": "Q_2073315906734781496",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "同样吃苦，为什么山河四省省吃俭用， 云贵川渝是活在当下？"
+          },
+          "excerpt_area": {
+            "text": "同样是吃过苦的祖先，为何传承的吃苦风格不一样呢？ 山河四省传承是省吃俭用，云贵川渝传承是活在当下， 为什么呢？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-008a07abf877e6abeaa751e1f08ab8a3.png"
+          },
+          "metrics_area": {
+            "text": "127 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2073315906734781496"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMDk3ODUwMCDI35PUBjAAOF9ADXITMjA3MzMxNTkwNjczNDc4MTQ5NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 14,
+          "heat_text": "127 万热度",
+          "heat_value": 1270000
+        }
+      ]
+    },
+    {
+      "key": "Q_2073404543459489643",
+      "title": "诺兰为什么要弱化《奥德赛》原著中的幽默、情色与荒诞，拍得如此严肃？",
+      "url": "https://www.zhihu.com/question/2073404543459489643",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "93 万热度",
+      "latest_heat_value": 930000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1787620455.740252",
+        "card_id": "Q_2073404543459489643",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "诺兰为什么要弱化《奥德赛》原著中的幽默、情色与荒诞，拍得如此严肃？"
+          },
+          "excerpt_area": {
+            "text": "荷马其实很会讲俗、好笑、荒诞甚至有点恶趣味的故事。奥德修斯会撒谎、骗人、装身份；求婚者很粗俗；各种宴饮、性关系、恶作剧也很多。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-56425198d9fc3933cbb87536f8f66e82_xl.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "93 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2073404543459489643"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMDk4Mjk4OSDVhJXUBjAAOClAEXITMjA3MzQwNDU0MzQ1OTQ4OTY0M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 18,
+          "heat_text": "93 万热度",
+          "heat_value": 930000
+        }
+      ]
+    },
+    {
+      "key": "Q_499019346",
+      "title": "太极拳思路的以柔克刚，借力打力都貌似很合理，为什么实战起来这个力就克不动，卸不掉，也借不到呢？",
+      "url": "https://www.zhihu.com/question/499019346",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1787620455.742454",
+        "card_id": "Q_499019346",
+        "feed_specific": {
+          "answer_count": 129
+        },
+        "target": {
+          "title_area": {
+            "text": "太极拳思路的以柔克刚，借力打力都貌似很合理，为什么实战起来这个力就克不动，卸不掉，也借不到呢？"
+          },
+          "excerpt_area": {
+            "text": "杨露禅时间太久远了，不可考证，但是上个世纪三十年代，在太极拳和仙鹤拳掌门人曾经打过擂台。两个人最后都变成了王八拳。这两绝不是现在自己信口胡诌假大师，是是公认的高手。，不知道的可以查一下，这场比赛震动全国，别张口就是假大师。。平常那些优美接化发，也包括仙鹤拳美丽招式，实战就完全没有了。连这样太极高手对战都是简单的撞，飞腿，大摆拳，太极拳武学理论思路到底儿有问题没有？ 这样的顶尖太极高手在对战时都放弃了接化发，硬接硬架，跟普通人打架差不多，能不让人反思拳理本身是不是幻想远大于实践么？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-0e7ece98c65e80b71fd6da1434124d01_xl.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/499019346"
+          }
+        },
+        "attached_info": "Cj8IucujsobVq5FnEAMaCDczMTc0NDY2IJWyx4wGMAA4owFAEnIJNDk5MDE5MzQ2eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 19,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2073718116069142744",
+      "title": "如何看待大学新生还未入学，高校辅导员已建立家长群这一现象？家校沟通的边界该如何把握？",
+      "url": "https://www.zhihu.com/question/2073718116069142744",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1787620455.746960",
+        "card_id": "Q_2073718116069142744",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待大学新生还未入学，高校辅导员已建立家长群这一现象？家校沟通的边界该如何把握？"
+          },
+          "excerpt_area": {
+            "text": "8 月以来 大批准大学生陆续收到录取通知书 一位家长的感慨成为热议： 大学还没开学 辅导员建立的家长群却先行就位 高校家长群并非新鲜事物 早已出现多年 最初只为异地学子安全保障、事务通知 搭建简易家校沟通渠道 如今主要分为两类： 校方官方建群 家长自发建群 随着高校管理愈发精细化 家长群早已不止于发布通知 部分群内会同步学生出勤、考试成绩 挂科情况、实习返乡 考研进度等个人信息 争议也随之显现 学生层面 多数大学生已是成年人 他们认为学业表现属于个人隐私 信息公开容易引发家庭攀比 过度监督会束缚独立成长 家长层面 孩子初次离家求学 家长能及时从群内获知孩子动态 缓解分离焦虑 校方层面 搭建家长群既是落实安全管理责任 也是规避风险、做好家校联动的管理选择 你支持高校建立官方家长群吗？ 大学生的成绩、在校日常该不该同步家长群？ 成年之后的成长缓冲期 家校沟通的边界该如何拿捏？ 欢迎评论区分享你的看法"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-52cd5c2270761a687141499a839e1631_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2073718116069142744"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMDk5NDg3MiDezJnUBjAAOCFAE3ITMjA3MzcxODExNjA2OTE0Mjc0NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 20,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_11192631745",
+      "title": "为什么反派不在主角变身前直接枪毙呢?",
+      "url": "https://www.zhihu.com/question/11192631745",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "77 万热度",
+      "latest_heat_value": 770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1787620455.763615",
+        "card_id": "Q_11192631745",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么反派不在主角变身前直接枪毙呢?"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "77 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/11192631745"
+          }
+        },
+        "attached_info": "CkEIucujsobVq5FnEAMaCTExMzIxNDQxOSD+u4K9BjAAOBpAGXILMTExOTI2MzE3NDV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 26,
+          "heat_text": "77 万热度",
+          "heat_value": 770000
+        }
+      ]
+    },
+    {
+      "key": "Q_280399522",
+      "title": "为什么昭烈庙在武侯祠的前殿里？",
+      "url": "https://www.zhihu.com/question/280399522",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "76 万热度",
+      "latest_heat_value": 760000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1787620455.763915",
+        "card_id": "Q_280399522",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么昭烈庙在武侯祠的前殿里？"
+          },
+          "excerpt_area": {
+            "text": "今天到武侯祠游玩，发现一个比较有意思的问题，正门牌匾是昭烈庙，前殿供奉的是刘备父子，后殿是武侯祠，供奉诸葛亮祖孙三代。个人感觉这个是很不合道理的。君臣祭祀同还可以用君臣一体来解释，但即使君臣一体祭祀，也应该是武侯祠在前，刘备昭烈庙在后吧。这个不知道可有什么缘由，期待哪位知友能解惑？ 到处都是游人，实在拍不出没人的照片了。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-32b547d056d21e0b17831a689f0b30db_b.jpg"
+          },
+          "metrics_area": {
+            "text": "76 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/280399522"
+          }
+        },
+        "attached_info": "Cj4IucujsobVq5FnEAMaCDI0NTg3MTk3IPrQ7tgFMAA4YEAacgkyODAzOTk1MjJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 27,
+          "heat_text": "76 万热度",
+          "heat_value": 760000
+        }
+      ]
+    },
+    {
+      "key": "Q_1913897751026050303",
+      "title": "什么才能被称为高认知？",
+      "url": "https://www.zhihu.com/question/1913897751026050303",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1787620455.764688",
+        "card_id": "Q_1913897751026050303",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 38
+        },
+        "target": {
+          "title_area": {
+            "text": "什么才能被称为高认知？"
+          },
+          "excerpt_area": {
+            "text": "在一个聊天交友软件上，有语音群聊房间，标题写着大概是「如何提高认知」、「做一个高认知的人」。虽然认知这个词也是会用到，但是题主一般都是用在对于完全没有了解，没有概念，没有接触过的事物上，说一句「超出我的认知之外了。」故而很好奇，高认知到底是什么。就有了如下问答（并不是完全的原话，大概意思是这样。） 房间 1（只有群主能发言）： 群主：做到高认知的前提是，破自我：要坚持不懈，不要轻言放弃，打败自己的缺点，类似于懒惰等等。破是非：不要带着有色眼镜看人，不然就无法得到一个客观的评价，对一件事儿不要明确的评判是非，黑白中间是有灰色的。破世俗（忘了是不是这个词了），大概就是说不要在乎他人的眼光。真理掌握在少数人手里。 破自我很好理解，这是所有的人都在说的。这个破是非有点难以理解，确实有的事情并不是非黑即白的，但是每个人经过自身的经历或是教育形成的统一是非观难倒也被包含其中么？BT 萨仁犯被枪决，难倒还要去了解他的过去，然后去同情他的遭遇么（极端例子）？ 群主：如果说你认为科学解释不了的东西那就是不存在的，那你的认知也不会高到哪去。 ？假如说我坚信唯物主义，难倒就注定做一个低认知的人了么？ 房间二： 问：都在说高认知，那么认知到底是什么呢？ 答：个人认为是对于一件事物是否有完全理解，归纳，总结信息的能力。 问：如果说对于一件事物的总结归纳能力，是不是说认知是分行业，分方向的？ 答：不是的，认知是一个整体能力，有的人学历很高或者在专业上很有建树，但是他不一定是认知高的。是一种你能不能对客观存在的事物有完整的认识。 问：那例如一个所谓高认知的人来说 1+2=3，我反而说 2+1=3，那是不是说明我不是高认知？或者说这个所谓的高认知，其实也不是高认知，毕竟他没有想到我想的方向？ 答：不是这样说的、（后面说了什么，具体忘记了。） 问：那这个高认知到底是谁在评判？就是有没有标准答案？对一件事儿有什么样的看法才算是高认知？ 答：这个没有评判，高认知的评价标准在上面（大概就说管理者、领导这样的上层。） 问题到这里就基本上结束了。因为群主说到这的时候就已经有点让题主迷惑了。所以说高认知就是在上级制定的标准下获取上层人物的肯定么？群主还说过人外有人，天外有天，那意思是上层还是有上层的，那么达到哪个上层的标准才是高认知？如果说只打到了自己能接触到的上层就算，那么是不是说高认知只是单纯的在迎合上层？用词可能不当。还有那些自诩高认知的人相对所谓低认知的人，是不是一种认知歧视？"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-61ce33eb8411773ca70a30d8b0f36321_b.jpg"
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1913897751026050303"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTExNTI0NTU5NiCO9IPCBjAAOEBAG3ITMTkxMzg5Nzc1MTAyNjA1MDMwM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 28,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_1985655127655352158",
+      "title": "为什么很多代价巨大的错误判断，在当时反而让人「感觉非常正确」？",
+      "url": "https://www.zhihu.com/question/1985655127655352158",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "71 万热度",
+      "latest_heat_value": 710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1787620455.767380",
+        "card_id": "Q_1985655127655352158",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 56
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么很多代价巨大的错误判断，在当时反而让人「感觉非常正确」？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-f51ae90c71b81aaafd0dc5a2bc8ba630_b.jpg"
+          },
+          "metrics_area": {
+            "text": "71 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1985655127655352158"
+          }
+        },
+        "attached_info": "CkoIucujsobVq5FnEAMaCTExNzc3ODQ4NCDSjpjKBjAAOIMBQBxyEzE5ODU2NTUxMjc2NTUzNTIxNTh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 29,
+          "heat_text": "71 万热度",
+          "heat_value": 710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2073851925699589915",
+      "title": "如何评价游戏《空之轨迹 the 2nd》的试玩 demo？",
+      "url": "https://www.zhihu.com/question/2073851925699589915",
+      "first_seen": "2026-08-25 09:14:15 +0800",
+      "last_seen": "2026-08-25 09:14:15 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "70 万热度",
+      "latest_heat_value": 700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1787620455.767728",
+        "card_id": "Q_2073851925699589915",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价游戏《空之轨迹 the 2nd》的试玩 demo？"
+          },
+          "excerpt_area": {
+            "text": "试玩过后，会想让你入坑么？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-3e7f5893708094aa0dc4bb4a12f39f8f_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "70 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2073851925699589915"
+          }
+        },
+        "attached_info": "CkkIucujsobVq5FnEAMaCTEyMTAwMjk1NSD9xZvUBjAAOBhAHXITMjA3Mzg1MTkyNTY5OTU4OTkxNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-08-25 09:14:15 +0800",
+          "rank": 30,
+          "heat_text": "70 万热度",
+          "heat_value": 700000
         }
       ]
     }
