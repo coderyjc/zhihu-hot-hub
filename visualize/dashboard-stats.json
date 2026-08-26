@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-08-26 20:51:14 +0800",
+  "generated_at": "2026-08-27 00:17:23 +0800",
   "totals": {
-    "day_count": 172,
-    "topic_record_count": 8783,
-    "unique_topic_count": 7607,
-    "history_point_count": 14580,
-    "v2_file_count": 47,
+    "day_count": 173,
+    "topic_record_count": 8813,
+    "unique_topic_count": 7619,
+    "history_point_count": 14610,
+    "v2_file_count": 48,
     "legacy_file_count": 125
   },
   "top_heat_points": [
+    {
+      "date": "2026-08-27",
+      "title": "西藏日喀则吉隆口岸发生泥石流，致重大人员伤亡失联，有建筑被掩埋，目前情况如何？",
+      "url": "https://www.zhihu.com/question/2075969425702741132",
+      "key": "Q_2075969425702741132",
+      "rank": 1,
+      "observed_at": "2026-08-27 00:17:22 +0800",
+      "heat_text": "9679 万热度",
+      "heat_value": 96790000
+    },
     {
       "date": "2026-07-16",
       "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
@@ -98,16 +108,6 @@
       "observed_at": "2026-07-16 06:00:24 +0800",
       "heat_text": "4443 万热度",
       "heat_value": 44430000
-    },
-    {
-      "date": "2026-07-12",
-      "title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2059262997873124815",
-      "key": "Q_2059262997873124815",
-      "rank": 1,
-      "observed_at": "2026-07-12 16:29:04 +0800",
-      "heat_text": "4441 万热度",
-      "heat_value": 44410000
     }
   ],
   "daily_series": [
@@ -1656,6 +1656,15 @@
       "max_heat_value": 62090000,
       "topic_count": 107,
       "history_point_count": 210,
+      "top_topic_title": "西藏日喀则吉隆口岸发生泥石流，致重大人员伤亡失联，有建筑被掩埋，目前情况如何？",
+      "top_topic_url": "https://www.zhihu.com/question/2075969425702741132"
+    },
+    {
+      "date": "2026-08-27",
+      "total_heat_value": 136350000,
+      "max_heat_value": 96790000,
+      "topic_count": 30,
+      "history_point_count": 30,
       "top_topic_title": "西藏日喀则吉隆口岸发生泥石流，致重大人员伤亡失联，有建筑被掩埋，目前情况如何？",
       "top_topic_url": "https://www.zhihu.com/question/2075969425702741132"
     }
