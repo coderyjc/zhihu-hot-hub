@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-03 18:45:49 +0800",
+  "generated_at": "2026-09-03 23:53:40 +0800",
   "totals": {
     "day_count": 180,
-    "topic_record_count": 9442,
-    "unique_topic_count": 8117,
-    "history_point_count": 15510,
+    "topic_record_count": 9456,
+    "unique_topic_count": 8131,
+    "history_point_count": 15540,
     "v2_file_count": 55,
     "legacy_file_count": 125
   },
@@ -90,6 +90,16 @@
       "heat_value": 46320000
     },
     {
+      "date": "2026-09-03",
+      "title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
+      "url": "https://www.zhihu.com/question/2078795422894658423",
+      "key": "Q_2078795422894658423",
+      "rank": 1,
+      "observed_at": "2026-09-03 23:53:39 +0800",
+      "heat_text": "4528 万热度",
+      "heat_value": 45280000
+    },
+    {
       "date": "2026-07-20",
       "title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2062177729605284253",
@@ -98,16 +108,6 @@
       "observed_at": "2026-07-20 10:56:59 +0800",
       "heat_text": "4483 万热度",
       "heat_value": 44830000
-    },
-    {
-      "date": "2026-07-16",
-      "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2060732712101716234",
-      "key": "Q_2060732712101716234",
-      "rank": 1,
-      "observed_at": "2026-07-16 13:41:00 +0800",
-      "heat_text": "4477 万热度",
-      "heat_value": 44770000
     }
   ],
   "daily_series": [
@@ -1724,12 +1724,12 @@
     },
     {
       "date": "2026-09-03",
-      "total_heat_value": 128050000,
-      "max_heat_value": 8710000,
-      "topic_count": 89,
-      "history_point_count": 150,
-      "top_topic_title": "家长自报干部身份，希望老师多关照孩子，保定纪检组介入调查，反映了哪些问题？家长会受到处罚吗？",
-      "top_topic_url": "https://www.zhihu.com/question/2078756520523719478"
+      "total_heat_value": 189430000,
+      "max_heat_value": 45280000,
+      "topic_count": 103,
+      "history_point_count": 180,
+      "top_topic_title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
+      "top_topic_url": "https://www.zhihu.com/question/2078795422894658423"
     }
   ]
 }
