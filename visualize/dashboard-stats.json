@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03 23:53:40 +0800",
+  "generated_at": "2026-09-04 04:34:26 +0800",
   "totals": {
-    "day_count": 180,
-    "topic_record_count": 9456,
-    "unique_topic_count": 8131,
-    "history_point_count": 15540,
-    "v2_file_count": 55,
+    "day_count": 181,
+    "topic_record_count": 9486,
+    "unique_topic_count": 8139,
+    "history_point_count": 15570,
+    "v2_file_count": 56,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1730,6 +1730,15 @@
       "history_point_count": 180,
       "top_topic_title": "男子充值 1000 元账户误到账 26419933 亿，疯狂消费后拒不退还，该男子需要承担法律责任吗？",
       "top_topic_url": "https://www.zhihu.com/question/2078795422894658423"
+    },
+    {
+      "date": "2026-09-04",
+      "total_heat_value": 47120000,
+      "max_heat_value": 5460000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "9 月 3 日晚 ChatGPT 、 Grok 、 Claude 、 Cursor 集体突发故障，怎么回事？带来哪些影响？",
+      "top_topic_url": "https://www.zhihu.com/question/2078984478073136308"
     }
   ]
 }
