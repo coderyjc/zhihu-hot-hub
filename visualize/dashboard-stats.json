@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-06 18:22:14 +0800",
+  "generated_at": "2026-09-06 23:00:41 +0800",
   "totals": {
     "day_count": 183,
-    "topic_record_count": 9740,
-    "unique_topic_count": 8339,
-    "history_point_count": 15990,
+    "topic_record_count": 9754,
+    "unique_topic_count": 8353,
+    "history_point_count": 16020,
     "v2_file_count": 58,
     "legacy_file_count": 125
   },
@@ -18,6 +18,16 @@
       "observed_at": "2026-08-27 00:17:22 +0800",
       "heat_text": "9679 万热度",
       "heat_value": 96790000
+    },
+    {
+      "date": "2026-09-06",
+      "title": "江西一低保家庭女孩自己攒钱去香港看演唱会，网传其全家低保资格被取消，当地民政局回应正在核查，你怎么看？",
+      "url": "https://www.zhihu.com/question/2079866742101241983",
+      "key": "Q_2079866742101241983",
+      "rank": 1,
+      "observed_at": "2026-09-06 23:00:40 +0800",
+      "heat_text": "7247 万热度",
+      "heat_value": 72470000
     },
     {
       "date": "2026-07-16",
@@ -98,16 +108,6 @@
       "observed_at": "2026-09-03 23:53:39 +0800",
       "heat_text": "4528 万热度",
       "heat_value": 45280000
-    },
-    {
-      "date": "2026-07-20",
-      "title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
-      "url": "https://www.zhihu.com/question/2062177729605284253",
-      "key": "Q_2062177729605284253",
-      "rank": 1,
-      "observed_at": "2026-07-20 10:56:59 +0800",
-      "heat_text": "4483 万热度",
-      "heat_value": 44830000
     }
   ],
   "daily_series": [
@@ -1751,12 +1751,12 @@
     },
     {
       "date": "2026-09-06",
-      "total_heat_value": 133360000,
-      "max_heat_value": 17660000,
-      "topic_count": 79,
-      "history_point_count": 150,
-      "top_topic_title": "如何看待联合国倡导使用「平等地球投影法」，这会让统治地图圈几百年的「墨卡托投影」彻底退出历史舞台吗？",
-      "top_topic_url": "https://www.zhihu.com/question/2079538010077643622"
+      "total_heat_value": 237020000,
+      "max_heat_value": 72470000,
+      "topic_count": 93,
+      "history_point_count": 180,
+      "top_topic_title": "江西一低保家庭女孩自己攒钱去香港看演唱会，网传其全家低保资格被取消，当地民政局回应正在核查，你怎么看？",
+      "top_topic_url": "https://www.zhihu.com/question/2079866742101241983"
     }
   ]
 }
