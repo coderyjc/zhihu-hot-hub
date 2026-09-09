@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-09-09 11:23:15 +0800",
+  "updated_at": "2026-09-09 18:50:57 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -317770,18 +317770,23 @@
       "title": "怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？",
       "url": "https://www.zhihu.com/question/2080799652820029727",
       "first_seen": "2026-09-09 11:23:15 +0800",
-      "last_seen": "2026-09-09 11:23:15 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
       "first_rank": 1,
-      "latest_rank": 1,
-      "latest_heat_text": "977 万热度",
-      "latest_heat_value": 9770000,
+      "latest_rank": 13,
+      "latest_heat_text": "194 万热度",
+      "latest_heat_value": 1940000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1788924194.725369",
+        "id": "12_1788951056.754962",
         "card_id": "Q_2080799652820029727",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 139
+          "answer_count": 249
         },
         "target": {
           "title_area": {
@@ -317794,7 +317799,7 @@
             "url": "https://picx.zhimg.com/80/v2-201228aa5958dfddaa5dd25570103f57_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "977 万热度",
+            "text": "194 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -317809,7 +317814,7 @@
             "url": "https://www.zhihu.com/question/2080799652820029727"
           }
         },
-        "attached_info": "CkoI2uKKuMyxgIBSEAMaCTEyMTI1NjA2MCCQ04DVBjAAOLkCQAByEzIwODA3OTk2NTI4MjAwMjk3Mjd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI1NjA2MCCQ04DVBjAAOKYEQAxyEzIwODA3OTk2NTI4MjAwMjk3Mjd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -317817,6 +317822,12 @@
           "rank": 1,
           "heat_text": "977 万热度",
           "heat_value": 9770000
+        },
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 13,
+          "heat_text": "194 万热度",
+          "heat_value": 1940000
         }
       ]
     },
@@ -317825,18 +317836,18 @@
       "title": "香港首任特首董建华逝世，享年 89 岁，他有哪些贡献值得铭记？",
       "url": "https://www.zhihu.com/question/2080921286784409779",
       "first_seen": "2026-09-09 11:23:15 +0800",
-      "last_seen": "2026-09-09 11:23:15 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
       "first_rank": 2,
-      "latest_rank": 2,
-      "latest_heat_text": "606 万热度",
-      "latest_heat_value": 6060000,
+      "latest_rank": 30,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1788924194.727408",
+        "id": "29_1788951056.782887",
         "card_id": "Q_2080921286784409779",
         "feed_specific": {
-          "answer_count": 85
+          "answer_count": 202
         },
         "target": {
           "title_area": {
@@ -317849,7 +317860,7 @@
             "url": "https://pica.zhimg.com/v2-9c268ebfefb99a5779b9afc2cc1f7c12.png"
           },
           "metrics_area": {
-            "text": "606 万热度",
+            "text": "113 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -317864,7 +317875,7 @@
             "url": "https://www.zhihu.com/question/2080921286784409779"
           }
         },
-        "attached_info": "CkoI2uKKuMyxgIBSEAMaCTEyMTI1ODE1MyDYtYLVBjAAONUBQAFyEzIwODA5MjEyODY3ODQ0MDk3Nzl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI1ODE1MyDYtYLVBjAAOLMEQB1yEzIwODA5MjEyODY3ODQ0MDk3Nzl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -317872,6 +317883,12 @@
           "rank": 2,
           "heat_text": "606 万热度",
           "heat_value": 6060000
+        },
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 30,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
         }
       ]
     },
@@ -317880,23 +317897,18 @@
       "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
       "url": "https://www.zhihu.com/question/2080887293624304807",
       "first_seen": "2026-09-09 11:23:15 +0800",
-      "last_seen": "2026-09-09 11:23:15 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
       "first_rank": 3,
-      "latest_rank": 3,
-      "latest_heat_text": "567 万热度",
-      "latest_heat_value": 5670000,
+      "latest_rank": 21,
+      "latest_heat_text": "162 万热度",
+      "latest_heat_value": 1620000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1788924194.729398",
+        "id": "20_1788951056.769509",
         "card_id": "Q_2080887293624304807",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 59
+          "answer_count": 234
         },
         "target": {
           "title_area": {
@@ -317909,7 +317921,7 @@
             "url": "https://pica.zhimg.com/v2-2ca31914feb0f7b4e5ab613b35cb6f8f.png"
           },
           "metrics_area": {
-            "text": "567 万热度",
+            "text": "162 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -317924,7 +317936,7 @@
             "url": "https://www.zhihu.com/question/2080887293624304807"
           }
         },
-        "attached_info": "CkoI2uKKuMyxgIBSEAMaCTEyMTI1NzI1MyCv9oHVBjAAONIBQAJyEzIwODA4ODcyOTM2MjQzMDQ4MDd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI1NzI1MyCv9oHVBjAAOKUHQBRyEzIwODA4ODcyOTM2MjQzMDQ4MDd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -317932,6 +317944,12 @@
           "rank": 3,
           "heat_text": "567 万热度",
           "heat_value": 5670000
+        },
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 21,
+          "heat_text": "162 万热度",
+          "heat_value": 1620000
         }
       ]
     },
@@ -318050,23 +318068,18 @@
       "title": "网友称自己上班时突然不认识字了，连数字也不认识了，这是咋回事？能认定为工伤吗？",
       "url": "https://www.zhihu.com/question/2080319967770015402",
       "first_seen": "2026-09-09 11:23:15 +0800",
-      "last_seen": "2026-09-09 11:23:15 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
       "first_rank": 6,
-      "latest_rank": 6,
-      "latest_heat_text": "239 万热度",
-      "latest_heat_value": 2390000,
+      "latest_rank": 5,
+      "latest_heat_text": "287 万热度",
+      "latest_heat_value": 2870000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1788924194.738046",
+        "id": "4_1788951056.747049",
         "card_id": "Q_2080319967770015402",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 33
+          "answer_count": 88
         },
         "target": {
           "title_area": {
@@ -318079,7 +318092,7 @@
             "url": "https://pic1.zhimg.com/v2-94a7bf9510bc4f5a8840e87d4eab981c.png"
           },
           "metrics_area": {
-            "text": "239 万热度",
+            "text": "287 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -318094,7 +318107,7 @@
             "url": "https://www.zhihu.com/question/2080319967770015402"
           }
         },
-        "attached_info": "CkkI2uKKuMyxgIBSEAMaCTEyMTIzNjgxNSDS1fnUBjAAOFtABXITMjA4MDMxOTk2Nzc3MDAxNTQwMngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTIzNjgxNSDS1fnUBjAAOMQCQARyEzIwODAzMTk5Njc3NzAwMTU0MDJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -318102,6 +318115,12 @@
           "rank": 6,
           "heat_text": "239 万热度",
           "heat_value": 2390000
+        },
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 5,
+          "heat_text": "287 万热度",
+          "heat_value": 2870000
         }
       ]
     },
@@ -318280,15 +318299,15 @@
       "title": "很多人认为本地部署一个大模型，就实现 token 自由，就可以干活了，真的吗？",
       "url": "https://www.zhihu.com/question/2079598262319855380",
       "first_seen": "2026-09-09 11:23:15 +0800",
-      "last_seen": "2026-09-09 11:23:15 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
       "first_rank": 15,
-      "latest_rank": 15,
-      "latest_heat_text": "126 万热度",
-      "latest_heat_value": 1260000,
+      "latest_rank": 10,
+      "latest_heat_text": "211 万热度",
+      "latest_heat_value": 2110000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1788924194.767471",
+        "id": "9_1788951056.750415",
         "card_id": "Q_2079598262319855380",
         "card_label": {
           "type": "hot",
@@ -318296,7 +318315,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 65
+          "answer_count": 125
         },
         "target": {
           "title_area": {
@@ -318309,7 +318328,7 @@
             "url": "https://pic1.zhimg.com/80/v2-e8bd35ea4f02770eb393fb43b1fac592_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "126 万热度",
+            "text": "211 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -318324,7 +318343,7 @@
             "url": "https://www.zhihu.com/question/2079598262319855380"
           }
         },
-        "attached_info": "CkoI2uKKuMyxgIBSEAMaCTEyMTIxMjc1MCCule/UBjAAOJQBQA5yEzIwNzk1OTgyNjIzMTk4NTUzODB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTIxMjc1MCCule/UBjAAOL8DQAlyEzIwNzk1OTgyNjIzMTk4NTUzODB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -318332,6 +318351,12 @@
           "rank": 15,
           "heat_text": "126 万热度",
           "heat_value": 1260000
+        },
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 10,
+          "heat_text": "211 万热度",
+          "heat_value": 2110000
         }
       ]
     },
@@ -318340,18 +318365,18 @@
       "title": "「甲醛风波」后康保白菜收购价跌至三分之一，全县紧急自救，网格员监督采收、菜农生吃白菜，能挽回信任吗？",
       "url": "https://www.zhihu.com/question/2080666441016256229",
       "first_seen": "2026-09-09 11:23:15 +0800",
-      "last_seen": "2026-09-09 11:23:15 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
       "first_rank": 17,
-      "latest_rank": 17,
-      "latest_heat_text": "115 万热度",
-      "latest_heat_value": 1150000,
+      "latest_rank": 4,
+      "latest_heat_text": "323 万热度",
+      "latest_heat_value": 3230000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "16_1788924194.772081",
+        "id": "3_1788951056.743907",
         "card_id": "Q_2080666441016256229",
         "feed_specific": {
-          "answer_count": 55
+          "answer_count": 322
         },
         "target": {
           "title_area": {
@@ -318364,7 +318389,7 @@
             "url": "https://pica.zhimg.com/v2-c0ce31a4ac070058ddd0aeb0c5fb8efa_1440w.jpg"
           },
           "metrics_area": {
-            "text": "115 万热度",
+            "text": "323 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -318379,7 +318404,7 @@
             "url": "https://www.zhihu.com/question/2080666441016256229"
           }
         },
-        "attached_info": "CkkI2uKKuMyxgIBSEAMaCTEyMTI0OTQxOCCA2/7UBjAAOEhAEHITMjA4MDY2NjQ0MTAxNjI1NjIyOXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI0OTQxOCCA2/7UBjAAONEDQANyEzIwODA2NjY0NDEwMTYyNTYyMjl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -318387,6 +318412,12 @@
           "rank": 17,
           "heat_text": "115 万热度",
           "heat_value": 1150000
+        },
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 4,
+          "heat_text": "323 万热度",
+          "heat_value": 3230000
         }
       ]
     },
@@ -318837,6 +318868,1351 @@
           "rank": 30,
           "heat_text": "58 万热度",
           "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080949653168550211",
+      "title": "如何看待高考数学 132 分的学生在西电数学开学考只考 12 分，33 分竟位列前 6%？大学入学考是在考察什么？",
+      "url": "https://www.zhihu.com/question/2080949653168550211",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "1042 万热度",
+      "latest_heat_value": 10420000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1788951056.740579",
+        "card_id": "Q_2080949653168550211",
+        "feed_specific": {
+          "answer_count": 311
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待高考数学 132 分的学生在西电数学开学考只考 12 分，33 分竟位列前 6%？大学入学考是在考察什么？"
+          },
+          "excerpt_area": {
+            "text": "近日，多名网友发布视频称自己高考数学 100 多分，但在西安电子科技大学开学考数学考试中只得了十几分。9 月 8 日，西安电子科技大学的同学王嘉祺告诉二三里资讯记者，自己高考数学 131 分，但开学考试只考了 15 分。他称其实在开学前就已经知道有开学考，但是当看到考试题时，心凉了半截，因为发现题目并非高考所学的内容，基本都是竞赛题。他还表示此次开学考试是为了分班，分数高的同学会被分到创新班，自己身边的朋友们，最高分也只有 30 分。 西安电子科技大学的徐同学告诉记者，他高考数学 132 分，这次开学考只考了 12 分，他自己看到成绩后也震惊了，他表示同宿舍里最高分是 33 分，位次在 404 名，此次参加考试的学生一共是 5800 多名，由此可见，学校真的是想通过这场考试筛选顶尖人才。他觉得这个机制本身没问题，是自己暑假准备的不够充分。 网友称高考数学 100 多分，在西安电子科技大学数学入学考试中却只考了十几分，同学：一共 5800 多人考试，宿舍里最高的 33 分，位次在 404 名"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-fc1061e692ab94bb40215eab99f19aa6.png"
+          },
+          "metrics_area": {
+            "text": "1042 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080949653168550211"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI1OTE2OSDD6oLVBjAAOIEFQAByEzIwODA5NDk2NTMxNjg1NTAyMTF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 1,
+          "heat_text": "1042 万热度",
+          "heat_value": 10420000
+        }
+      ]
+    },
+    {
+      "key": "Q_2067934077106087068",
+      "title": "网友称欧洲西瓜硬到要用锯子切，为啥西瓜看起来这么硬？跟我们种的西瓜有啥区别吗？",
+      "url": "https://www.zhihu.com/question/2067934077106087068",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "559 万热度",
+      "latest_heat_value": 5590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1788951056.741735",
+        "card_id": "Q_2067934077106087068",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "网友称欧洲西瓜硬到要用锯子切，为啥西瓜看起来这么硬？跟我们种的西瓜有啥区别吗？"
+          },
+          "excerpt_area": {
+            "text": "网友： 杀个西瓜吃欧洲西瓜太硬了"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-26bde96951d8cf65ad011ccc4aea0578_b.jpg"
+          },
+          "metrics_area": {
+            "text": "559 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2067934077106087068"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMDc3MTQxOCCQt8XTBjAAOGdAAXITMjA2NzkzNDA3NzEwNjA4NzA2OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 2,
+          "heat_text": "559 万热度",
+          "heat_value": 5590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080685915270295959",
+      "title": "8 月新能源车零售 100.5 万辆，同比下降 10.1%，燃油车零售 54 万辆，同比下降 40%，如何解读？",
+      "url": "https://www.zhihu.com/question/2080685915270295959",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "545 万热度",
+      "latest_heat_value": 5450000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1788951056.742380",
+        "card_id": "Q_2080685915270295959",
+        "feed_specific": {
+          "answer_count": 147
+        },
+        "target": {
+          "title_area": {
+            "text": "8 月新能源车零售 100.5 万辆，同比下降 10.1%，燃油车零售 54 万辆，同比下降 40%，如何解读？"
+          },
+          "excerpt_area": {
+            "text": "9 月 8 日，乘联分会发布 8 月份全国乘用车市场分析，详情如下： 新能源：8 月新能源乘用车生产达到 152.8 万辆，同比增长 19.2%，环比增长 5.0%。1-8 月累计新能源乘用车生产达到 975.8 万辆，同比增长 9.8%。 8 月新能源乘用车批发销量达到 151.0 万辆，同比增长 16.4%，环比增长 3.9%；1-8 月新能源乘用车批发销量达到 977.8 万辆，同比增长 9.1%。8 月常规燃油乘用车批发销量达到 84 万辆，同比下降 29%，环比增长 5%。 8 月新能源乘用车市场零售 100.5 万辆，同比下降 10.1%，环比增长 5.7%；1-8 月新能源乘用车市场零售 667.4 万辆，同比下降 12.1%。8 月常规燃油乘用车零售 54 万辆，同比下降 40%，环比增长 5.1%。 报告披露，国内新能源乘用车零售突破 2 万辆的企业品牌是： 比亚迪汽车（233,943 辆）、吉利汽车（110,560 辆）、零跑汽车（84,874 辆）、长安汽车（57,874 辆）、上汽通用五菱（53,087 辆）、特斯拉中国（50,047 辆）、奇瑞汽车（46,391 辆）、鸿蒙智行（42,101 辆）、理想汽车（37,679 辆）、蔚来汽车（35,655 辆）、长城汽车（33,531 辆）、小鹏汽车（30,982 辆）、小米汽车（30,153 辆）、上汽乘用车（27,663 辆）、广汽埃安（24,510 辆）。 乘联分会表示，从乘用车消费特征来看，当前市场呈现三大核心特征：一是高油价继续抑制燃油车的需求，「油电替代」 加速，新能源渗透率在 65% 以上高位运行，消费者购车决策中用车成本的权重持续上升；二是换购需求挤压首购需求，「消费升级与消费降级退出并存」，B 级及以上高端车型需求旺盛，但 A 级和 A00 级经济型电动车受复杂因素影响持续萎缩；三是以智驾驱动的新消费需求正在形成，消费者对 AI 智驾功能的关注度快速提升，技术体验正成为继续航和补能之后的第三大购车决策因素；四是 A 级车市场的纯电动化趋势明显，高油价下单车快充技术的提升将有效拉动 A 级电动车的销量。 值得注意的是，世界新能源车渗透率总体呈现快速提升趋势。2022 年已经达到 13.1% 水平，2023 年达到 15.9%，2024 年达到 19.5%，2025 年达到 23.6%，2026 年世界新能源车渗透率达到 24.1%，其中，德国达到 32.6%，挪威达到 81%，英国达到 35%， 2025 年中国新能源乘用车世界份额为 68.3%；2026 年 1-7 月中国新能源乘用车世界份额达到 62%，2026 年 7 月达到 65.3% 的较好水平。2026 年中国在世界纯电动车市场份额 58%，年初时中国纯电动车市场表现暂时较差，7 月已回升到了 62%。2025 年中国在世界插电混动份额达到 76.4% 的超高水平，2026 年中国在世界插电混动份额达到 71% 的高水平，7 月达到 74%，中国在世界插电混动市场呈现超强的表现。 2025 年时，自主新能源乘用车海外市场销量份额为 15.8%，提升较快。2026 年自主新能源乘用车海外市场销量份额进一步大幅提升，7 月达到了 28%，升幅较大。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-bd0481542a93302882aa447cbe9e5d2c_b.jpg"
+          },
+          "metrics_area": {
+            "text": "545 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080685915270295959"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI1MDc3MyCj//7UBjAAOLICQAJyEzIwODA2ODU5MTUyNzAyOTU5NTl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 3,
+          "heat_text": "545 万热度",
+          "heat_value": 5450000
+        }
+      ]
+    },
+    {
+      "key": "Q_2081042167821354932",
+      "title": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向班长，宁德时代宜宾基地回应称不是本公司？",
+      "url": "https://www.zhihu.com/question/2081042167821354932",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "262 万热度",
+      "latest_heat_value": 2620000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1788951056.747625",
+        "card_id": "Q_2081042167821354932",
+        "feed_specific": {
+          "answer_count": 190
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待曝某厂不让普工上厕所致拉裤兜，致其车间裸奔并拿粪便扔向班长，宁德时代宜宾基地回应称不是本公司？"
+          },
+          "excerpt_area": {
+            "text": "9 月 9 日，有网友在社交媒体发布视频称，宁德时代（300750.SZ）宜宾基地班长不让普工上厕所，导致员工产生过激行为。 对此，财闻联系宁德时代核实上述情况，而公司有关负责人回应称是恶意造谣，视频中并非宁德时代，公司已报警请警方调查。 这名有关负责人还表示，宁德时代各个基地甚至会给公司员工安排吸烟空间，不会不允许上厕所，而且「因为不让上厕所，所以脱光了出去走，这事也挺诡异的。」宁德时代回应「车间员工过激行为」：不是本公司，已报警 视频有伤风化，不展示了"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-f24c46b4764475d9ecf1d801e0d17fc8.png"
+          },
+          "metrics_area": {
+            "text": "262 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2081042167821354932"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI2Mzg3NSDsloTVBjAAOPUCQAVyEzIwODEwNDIxNjc4MjEzNTQ5MzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 6,
+          "heat_text": "262 万热度",
+          "heat_value": 2620000
+        }
+      ]
+    },
+    {
+      "key": "Q_315917158",
+      "title": "为什么感觉台湾的卤肉饭远没有大陆的「台湾卤肉饭」好吃，这中间差异在哪里？",
+      "url": "https://www.zhihu.com/question/315917158",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "250 万热度",
+      "latest_heat_value": 2500000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1788951056.748572",
+        "card_id": "Q_315917158",
+        "feed_specific": {
+          "answer_count": 57
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么感觉台湾的卤肉饭远没有大陆的「台湾卤肉饭」好吃，这中间差异在哪里？"
+          },
+          "excerpt_area": {
+            "text": "偶然在一个有关台湾的知乎话题里提到在台湾吃过的卤肉饭没有在大陆吃的冠名版好吃，瞬间得到了很多个赞，才知道很多人都有类似的感受。 在台北和垦丁都吃过「卤肉饭」或者「鲁肉饭」，都是没能坚持吃完的节奏…可是台湾卤肉饭如此出名，在大陆吃过的又都觉得不错。而且感觉在台湾卤肉饭更接近于白饭或者主食的定位，而在大陆则是豪华 N 件套？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-6d45a9592b0ff8ab314e807dff28a430_b.jpg"
+          },
+          "metrics_area": {
+            "text": "250 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/315917158"
+          }
+        },
+        "attached_info": "Cj8Ioomd8NG4s49oEAMaCDMyNDgwMjk5IMrBqOQFMAA4nAFABnIJMzE1OTE3MTU4eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 7,
+          "heat_text": "250 万热度",
+          "heat_value": 2500000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080324952679527276",
+      "title": "南阳「老头乐」被禁止上路，怎样看待这一规定？该如何平衡老年人出行需求与交通安全？",
+      "url": "https://www.zhihu.com/question/2080324952679527276",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "238 万热度",
+      "latest_heat_value": 2380000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1788951056.749063",
+        "card_id": "Q_2080324952679527276",
+        "feed_specific": {
+          "answer_count": 84
+        },
+        "target": {
+          "title_area": {
+            "text": "南阳「老头乐」被禁止上路，怎样看待这一规定？该如何平衡老年人出行需求与交通安全？"
+          },
+          "excerpt_area": {
+            "text": "钥匙一拔，门一锁，南阳人老李的「老头乐」已经闲置在楼下好几天了。像这样被定格原地的低速四轮电动车，仅在他的小区就有六十多辆。 自 8 月 6 日南阳市发布《关于加强中心城区低速四轮电动车通行秩序管理通告》（以下简称《通告》）后，关于「老头乐」的讨论喧嚣网络。支持者拍手称快，认为这些违规上路的「马路杀手」早就该管管；反对者则质疑：自己通过合法渠道、真金白银买来的车，怎么就一夜之间上路违法了？ 关于「老头乐」的争议在全国已持续多年，多个城市都曾严厉打击但收效甚微。在方便和规则面前，厂家明知「仅在厂区运行」的车却仍然卖给普通消费者的悖论和其背后的管理盲区，才是导致导致问题此起彼伏的真正病灶。 南阳这一举动能否见效且长期取得效果？它无疑为全国范围内的违规车辆治理提供了观察样本：生产、销售与依法管理之间错位所带来的经济损失，不应该由普通老百姓来全盘买单。 在 8 月 6 日前，老李接送孙子，完全仰仗他的「老头乐」。所谓「老头乐」，是网友对低速四轮电动车的戏称，因其方便快捷、颇受老年人青睐而得名。南阳市在《通告》中明确：本通告所称电动四轮车，是指未列入工信部《道路机动车辆生产企业及产品公告》、不符合机动车注册登记条件、以电力驱动的四轮车辆（含老年代步车、低速代步车、城市观光车等）。 记者从当地交管部门了解到，按照相关法律规定，此类车辆属于场（厂）内专用机动车辆，仅限在工厂厂区、旅游景区、游乐场所等封闭区域使用，不具备上道路行驶的法定条件。该《通告》和后续的查处工作效果明显，过去近一个月，南阳中心城区路面上「非标低速四轮电动车」的身影几乎绝迹。 这些「老头乐」大部分静静地趴在小区里观察风向。老李住的骏景花园小区就停放着近 70 辆低速四轮电动车。一些被迫改用自行车接送孩子的老人希望这只是一阵风。「骑自行车太累了，凭啥不让开电动车啊，这玩意多方便。」南阳「老头乐」退场引出全国性难题：能产能卖为什么不能开？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-33554f4036d9169ee46d5aee02599e75.png"
+          },
+          "metrics_area": {
+            "text": "238 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080324952679527276"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTIzNzE2NCD33vnUBjAAOHBAB3ITMjA4MDMyNDk1MjY3OTUyNzI3NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 8,
+          "heat_text": "238 万热度",
+          "heat_value": 2380000
+        }
+      ]
+    },
+    {
+      "key": "Q_2079557893922333512",
+      "title": "为什么近代西方推理小说在设计军人形象时总喜欢把军衔设定为上校?",
+      "url": "https://www.zhihu.com/question/2079557893922333512",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "212 万热度",
+      "latest_heat_value": 2120000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1788951056.750068",
+        "card_id": "Q_2079557893922333512",
+        "feed_specific": {
+          "answer_count": 41
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么近代西方推理小说在设计军人形象时总喜欢把军衔设定为上校?"
+          },
+          "excerpt_area": {
+            "text": "顺带问一下，日本推理小说会把对应人物设定为大佐吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-e3a20692abfcf83c26e960b8a9a8c453.png"
+          },
+          "metrics_area": {
+            "text": "212 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2079557893922333512"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTIxMTE2NiCWyu7UBjAAOJUBQAhyEzIwNzk1NTc4OTM5MjIzMzM1MTJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 9,
+          "heat_text": "212 万热度",
+          "heat_value": 2120000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080677705813643332",
+      "title": "多部门印发通知，扩大灵活就业人员等群体基本医保参保规模，哪些要点值得关注？",
+      "url": "https://www.zhihu.com/question/2080677705813643332",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "206 万热度",
+      "latest_heat_value": 2060000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1788951056.750802",
+        "card_id": "Q_2080677705813643332",
+        "feed_specific": {
+          "answer_count": 94
+        },
+        "target": {
+          "title_area": {
+            "text": "多部门印发通知，扩大灵活就业人员等群体基本医保参保规模，哪些要点值得关注？"
+          },
+          "excerpt_area": {
+            "text": "国家医保局、财政部、交通运输部等 6 部门近日联合印发通知，启动灵活就业人员、农民工、新就业形态人员参加基本医疗保险提质专项行动。计划用 3 年左右时间，持续扩大灵活就业人员等群体基本医保参保规模，重点提升职工医保参保人数。 我国将推动超大城市取消灵活就业人员参保的户籍限制。在保证医保基金收支平衡的基础上，各地可参照当地职工基本养老保险缴费基数，合理确定灵活就业人员的医保缴费基数。灵活就业人员参加职工医保，缴费年限可以按月累计，每满 12 个月折算为 1 年缴费年限。 国家医保局相关负责人表示，因为不少外出务工的灵活就业人员，可能每年断断续续缴纳职工医保，所以政策允许职工医保缴费年限按月累计，把零散的缴费时间都计入职工医保缴费年限。参保人达到法定退休年龄，且满足规定缴费年限，就可以享受退休医保待遇；缴费年限不够的，按照统筹地区相关规定补缴至规定年限。鼓励各地探索把连续缴纳居民医保的年限，折算为当地职工医保缴费年限，折算比例结合当地筹资水平确定。 按照规定，参加职工医保的个人办理医保关系转移接续时，缴费年限可以累计计算。各地不得把职工医保退休待遇，和按月领取基本养老金硬性捆绑。鼓励平台企业，针对稳定接单的新就业形态从业人员，推行「个人缴费 + 平台补贴」的职工医保缴费模式。同时鼓励各地把灵活就业人员纳入生育保险保障范围。 政策规定，灵活就业人员参加职工医保，支持按月缴费，同时探索按季度、半年、全年预缴的灵活缴费方式。打通线上、线下办事渠道，鼓励各地结合本地实际设立医保服务站点，提供参保咨询、缴费指导等服务。推进个人账户跨省共济使用，支持配偶、子女、父母等近亲属共用账户资金，方便大家就医购药、办理参保缴费等业务。更多资讯请下载央视新闻客户端"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-ad8b7cca9a20684edbe1673d3117be33_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "206 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080677705813643332"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI1MDA4MCD+7/7UBjAAOJkCQApyEzIwODA2Nzc3MDU4MTM2NDMzMzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 11,
+          "heat_text": "206 万热度",
+          "heat_value": 2060000
+        }
+      ]
+    },
+    {
+      "key": "Q_2081002634702321517",
+      "title": "星宇股份已获港股上市备案却三周仍无聆讯日程，受此次裁员风波影响有多大？会影响公司上市吗？",
+      "url": "https://www.zhihu.com/question/2081002634702321517",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "202 万热度",
+      "latest_heat_value": 2020000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1788951056.751901",
+        "card_id": "Q_2081002634702321517",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 61
+        },
+        "target": {
+          "title_area": {
+            "text": "星宇股份已获港股上市备案却三周仍无聆讯日程，受此次裁员风波影响有多大？会影响公司上市吗？"
+          },
+          "excerpt_area": {
+            "text": "星宇股份正在为「暴力」裁员付出巨大代价。 8 月初，多名应届毕业生在社交平台发声称，入职星宇车灯股份有限公司（以下简称「星宇股份」）后不久，便被公司以行业环境变化、组织架构调整等理由要求离职。按照当事人的说法，公司给出的方案带有明显的「二选一」色彩，因此被部分员工称为「暴力裁员」。 随后，一些被解除劳动关系的应届生向当地政府部门投诉，并向大众、奔驰等星宇股份客户反映情况；与此同时，相关材料也被寄送至香港交易所上市科。 事情很快有了官方回应。8 月 25 日，常州市人社部门通报称，星宇股份与 107 名应届高校毕业生解除劳动关系；经协调，公司已与相关人员达成补偿方案。通报还提到，公司已对相关负责人作出处理，并将为有意愿者提供重新入职机会。 但事情并未就此结束，星宇股份董事长周晓萍的过往发言、大众和奔驰等客户的回应，共同将事件推向更大的舆论漩涡，成为年度「现象级」劳资纠纷。 对正处于港股上市窗口期的星宇股份来说，问题还进入了另一套审查逻辑：裁员是否合法合规，公司治理是否有效，客户关系和公司经营是否受到重大影响，以及上市申请文件是否需要进一步补充披露。 「星宇股份现在的事态，有可能会被港交所暂缓上市进程。」一位在港的 IPO 律师对腾讯新闻《潜望》表示。多位在港的保荐人、其他 IPO 律师以及部分监管人士，也均对腾讯新闻《潜望》表达了类似的判断。 就在劳资纠纷被爆出前的 8 月 15 日，星宇股份对外确认已经取得中国证监会境外发行上市备案，拟发行不超过 44,799,650 股 H 股。 多位在港 IPO 人士对腾讯新闻《潜望》表示，常规而言，发行人在拿到中证监 「 大路条 」 后 1 至 2 周后便可获得聆讯排期——这是港股上市的最后一个关键节点；大多数情况下，取得备案的发行人都能拿到聆讯安排。 但是截至目前，距离星宇股份拿到「大路条」已经过去 3 周了，该公司至今未获得具体的聆讯日期。 多位在港的 IPO 中介人士对腾讯新闻《潜望》表示，这可能与港交所上市科要求星宇股份就近期事态作出更多的补充说明有关。 港交所方面对腾讯新闻《潜望》表示，暂不会对个案进行置评。 「现在这个阶段，港交所并不会直接叫停星宇股份的上市进程。」一位在港工作多年的保荐人对腾讯新闻《潜望》表示。 上述保荐人透露，一家公司赴港提交上市申请后，除了常规的许可上市流程外，港交所会给出另外 3 种结果，即停止审查、退回以及拒绝。 停止审查属于非公开信息，比如公司质地并不符合上市，或者招股书质量实在太差等，港交所上市科可以直接停止审查。多位监管人士曾对腾讯新闻《潜望》透露，自去年港股市场火爆以来，港交所上市科发现越来越多招股书质量太差的案例，而后不少 IPO 被停止审查。这也促使香港证监会于今年初发文限制 1 个保荐人至多负责 5 个 IPO 的要求。 退回的案例则并不常见。这类案例主要集中于招股书的材料披露不符合要求，或者有重大遗漏等。过去两年仅有 2 例，包括今年 6 月 22 日退回的内蒙古兴业银锡矿业股份有限公司的上市申请，该保荐人为中金公司。腾讯新闻《潜望》获悉，该公司被退回的直接原因则是提交了过期的矿业资产评估报告。一位监管人士认为，这属于非常低级且严重的错误。 拒绝则属于最严重的一种状况，即发行人不符合上市申请，包括但不限于在提交申请之后，财务数据严重恶化、公司创始人陷入法律纠纷，刑事案件或核心高管出现行贿等涉及诚信等问题。 「星宇股份当前的状况并不适用于上述可能的状况。」前述保荐人表示，就他过去 20 多年的港股 IPO 经验来看，星宇股份接下来将会面临漫长的问询过程，直至包括港交所和中国证监会在内的两地监管认可为止。压力落在公司和独家保荐人身上 不少公司赴港上市期间，港交所上市科都曾收到各种投诉材料。一位熟悉上市科流程的监管人士对腾讯新闻《潜望》透露，常规流程是收到投诉材料之后会告知投诉人「材料已经获悉」，随后转给发行人方。 发行人及其保荐人就此对上市科进行回复。公开资料显示，星宇股份的律师代表为君合律师事务所，独家保荐人为华泰国际。 腾讯新闻《潜望》暂未能获悉涉及星宇股份的投诉信具体内容。据多家媒体报道，星宇股份此次涉及的投诉包括涉及暴力裁员的 ESG 问题、虚假获取补贴等。 港股 IPO 律师对腾讯新闻《潜望》表示，仅就 8 月中旬的「暴力」裁员一事而言，星宇股份及华泰国际可能会让律师出具相关的法律意见书，以证明其没有违法违规的行为。 但星宇股份因为「暴力」裁员而引发国际客户大众、奔驰等跟进调查，事态变得更为复杂。 事件发酵初期，星宇股份总部所在地的常州市曾发公告，确认解约事实的同时，指出其不存在违规享受相关政府补贴的行为。一位熟悉港股 IPO 的人士对腾讯新闻《潜望》表示，一般情况下，发行人可用该政府公告作为背书，向港交所上市科说明其行为「合理性」。 上述保荐人对腾讯新闻《潜望》表示，相较于最初的「暴力」裁员一事，现在星宇股份和华泰国际当下需要做的工作远远超过之前，即华泰国际需要在星宇股份的协助下完成就投诉事宜及其引发的事件进行全面的尽调——「这或将是个漫长的过程」。 这个「漫长的过程」包括了对上述提及的可能的投诉内容如「暴力裁员」的法律法规问题、 ESG 问题及公司系统性管理问题做尽调，还有可能还包括更多因此引发的其他问题。 腾讯新闻《潜望》获悉，就被投诉事宜方面，港交所常规会询问保荐人及发行人，涉及的被投诉内容是否属实，保荐人曾经是否就该等被投诉事宜进行尽调以及如何尽调的过程等，最后保荐人及星宇股份都得对上述被投诉事宜发表意见。 这意味着，星宇股份和华泰国际需要处理的，已经不只是「裁员是否合规」这一项问题，还包括该事件是否影响客户关系和对公司运营是否引发重大影响等。裁员风波发酵后，大众、奔驰等客户被指已关注或调查相关情况。如果客户调查尚未结束，保荐人可能需要等待客户形成明确意见，才能对香港交易所作出较为确定的回复。 和大多数被投诉的发行人一样，作为独家保荐人的华泰国际当下需要与包括明确表示开启对星宇股份进行调查的汽车厂商大众及奔驰等客户做尽调，以获取客户明确表示并不会因此事而减少或者取消星宇股份的订单。 除此之外，华泰国际还得找到星宇股份的头部客户一一做尽调，以获得其对于此次事件是否会影响星宇股份订单的观点。 星宇股份并未具体披露大众、奔驰两家汽车厂商的订单占比。根据星宇股份招股说明书，其前五大客户收入占比超过 60%，详情如下： 上市文件显示，星宇股份提及多年的深耕后，其合作品牌包括一汽红旗、奇瑞、赛力斯、吉利、江淮、北汽新能源、理想、蔚来及小鹏等国产品牌以及宝马、大众、丰田、日产、本田、宾利等国际品牌。 在前述保荐人看来，华泰国际可能需要等相关的调查结束后，相关的客户才有机会给出明确的回复。这样，华泰国际才能进一步向港交所提供明确的回复。 任何一个环节尚未形成清晰结论，都可能拖慢审核节奏。 腾讯新闻《潜望》获悉，一般情况下，上市科会要求发行人对相关问题逐一补充说明，直至解释清楚且完全符合规定后才予放行，随后方可进行聆讯排期。 此外，尽管星宇股份已于 8 月 15 日获得中国证监会的境外发行上市备案，但是不排除中国证监会仍会向星宇股份继续问询。 星宇股份「暴力裁员」天价代价：赴港上市受阻 聆讯日程罕见延误 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-968ae12ac760a23984ac68efb31eda78_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "202 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2081002634702321517"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTI2MjA1NyCbzYPVBjAAOIkBQAtyEzIwODEwMDI2MzQ3MDIzMjE1MTd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 12,
+          "heat_text": "202 万热度",
+          "heat_value": 2020000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080561676160426269",
+      "title": "郑钦文从排名跌到一百名开外到如今一路挺进美网八强，你认为她的状态算重回巅峰了吗？",
+      "url": "https://www.zhihu.com/question/2080561676160426269",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "178 万热度",
+      "latest_heat_value": 1780000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1788951056.755462",
+        "card_id": "Q_2080561676160426269",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "郑钦文从排名跌到一百名开外到如今一路挺进美网八强，你认为她的状态算重回巅峰了吗？"
+          },
+          "excerpt_area": {
+            "text": "在美网的舞台上，郑钦文又一次贡献神奇表演。 继第三轮比赛上演决胜盘大逆转，在一度 0 比 5 落后的情况下以 7 比 5 获胜之后，第四轮比赛，郑钦文再度写出同样的剧本。 北京时间 9 月 8 日凌晨，面对波兰名将斯瓦泰克，郑钦文首盘克服 0 比 5 落后的困境，又一次以 7 比 5 完成绝地反击，随后第二盘比赛，中国金花一鼓作气以 6 比 3 锁定胜局，闯进美网八强。 伤愈复出后遭遇持续长达半年的低迷，郑钦文如今终于找回了在球场上的霸气，追平了生涯美网最佳战绩，也让球迷看到了「QueenWen」的回归。 7 连胜，再现绝地大逆转 在一盘网球比赛中，没有什么比分比 0 比 5 更令人绝望，然而郑钦文的回应是：永不放弃。 上一轮对阵凯斯，郑钦文在决胜盘遭遇这样的逆境，如今的八分之一决赛对阵斯瓦泰克，郑钦文又在首盘就面临这样的危机。 「今天比赛开始后我找到状态比较慢，所以让对手拿到了 5 比 0 领先的优势。」回顾比赛时郑钦文分析道，「在那之后，我打得更放开了。」 「我原本只是希望至少在第二盘找回感觉，但意外的是我在场上渐渐打得十分顺手，甚至一度记不清比分了，因为我始终在全神贯注打好每一分，我认为这就是我能逆转的关键。这也说明上一场比赛 0 比 5 逆转不是运气吧。」 就像郑钦文所说，比赛中将比分追到 4 比 5 时，郑钦文一时间还以为场上比分是 3 比 5，准备继续比赛，看到比分牌后才发现自己记错了比分，需要去局间休息，足以见得她对比赛的投入程度。 「我全身心投入每一分的比赛，压根记不住场上比分。脑子里就只有：处理好这一球，打下一分，就这样不断重复。」郑钦文直言。 再度实现大逆转，让郑钦文自己也感到意外，但中国球迷无疑乐于看到这样的惊喜。 凭借本场胜利，美网从资格赛打起的郑钦文也豪取一波 7 连胜。此前郑钦文对阵斯瓦泰克的历史战绩为 1 胜 7 负，处于巨大劣势，但如今在大满贯赛场，郑钦文拼下对阵斯瓦泰克的第 2 场胜利，同时也是生涯第 3 次晋级美网八强。 此前郑钦文曾表示，美网赛场对自己有特殊的意义——2023 年，她在这里晋级到女单八强，生涯首次打进大满贯八强。随后的 2024 年，郑钦文再度入围美网八强。 而在今年，伤愈复出后的郑钦文遭遇了一段长时间的低迷，澳网缺战，法网一轮游、温网一轮游…来到美网赛场，郑钦文终于找回了曾经那个能让所有对手胆寒的自己。 用苦练找回昔日比赛感觉 持续半年的低迷表现，让曾经世界排名第 4 的郑钦文在今年美网前掉出了百名开外，但不得不从资格赛开启征程的郑钦文，反而展现出了惊人的顽强与坚韧。 8 月初，郑钦文在 WTA1000 多伦多站的比赛中遭遇资格赛一轮游，随后她选择了用闭关苦练，来找回昔日的比赛感觉。 「在多伦多资格赛我打得一塌糊涂，赛后教练和我长谈，建议我开展一段训练，重新找回打球的感觉。于是我们前往布雷登顿的 IMG 学院。那里环境简单，只有网球场、健身房和住宿的地方。」郑钦文透露。 「我们把全部时间都投入训练，有一天从早上八点一直训练到了晚上八点半。训练很艰苦，但竞技体育就是这样，不努力付出，就不会有回报。」 找回身体的状态是一方面，找回心理上的强大同样重要。从女子网坛顶层滑落，这对郑钦文的心理也是一个打击。 「确实在心理上很难接受。我曾位列世界前 10，拿过奥运金牌，每项赛事从一开始就可以在大球场比赛。但受伤后我的排名下降了很多，比赛成绩也不好。过去三四个月，外界对我有很多的质疑，这段时间真的很难熬。」 「我只能每天告诉自己要坚持努力。过程是艰难的，每一次失利都让我非常痛苦。但你必须保持谦逊、持续拼搏。我埋头坚持训练，内心始终相信自己可以重回巅峰，只是时间早晚的问题，当然我希望不要来得太晚。」 如今，郑钦文终于用连续两场精彩逆转，向全世界宣告了自己的回归。 「能够重新回到现在的位置我非常高兴，我把此前所有的挫折，都当作命运给我的历练。」 虽然已经连打 7 场，但郑钦文表示自己并未遭遇体能危机，打完对阵斯瓦泰克的比赛后还进行了一些训练。当下的她，在身体状态和心态上都已回到上佳水准。 四分之一决赛，郑钦文将为自己的生涯首个美网四强而战，而她的对手将是赛会 2 号种子莱巴金娜。此前 5 次交手，郑钦文 1 胜 4 负落于下风，但已连续上演神奇表演的郑钦文，将再度全力一搏。 连续上演 0 比 5 落后逆转！郑钦文：我一直相信自己能重回巅峰郑钦文谈世界排名曾跌至百名开外「很煎熬，四个月没有赢，满脑子都是自我怀疑」，回应是否已恢复到昔日世界前五水准：还在路上，还在进步 | 极目新闻"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-f5541afd71b07b576c7705af6ee232d5_b.jpg"
+          },
+          "metrics_area": {
+            "text": "178 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080561676160426269"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI0NDUzMiDul/3UBjAAOCZADXITMjA4MDU2MTY3NjE2MDQyNjI2OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 14,
+          "heat_text": "178 万热度",
+          "heat_value": 1780000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080987759133594987",
+      "title": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？",
+      "url": "https://www.zhihu.com/question/2080987759133594987",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "175 万热度",
+      "latest_heat_value": 1750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1788951056.758568",
+        "card_id": "Q_2080987759133594987",
+        "feed_specific": {
+          "answer_count": 39
+        },
+        "target": {
+          "title_area": {
+            "text": "苹果首款折叠屏 iPhone 爆料起售价 2199 美元，人民币近 1.5 万元，如何看待该定价？"
+          },
+          "excerpt_area": {
+            "text": "苹果首款折叠屏 iPhone Ultra 即将亮相，内存短缺致起售价或上调至 2199 美元（约合人民币 14752 元）。苹果首款折叠屏 iPhone Ultra 即将亮相，内存短缺致起售价或上调至 2199 美元（约合人民币 14752 元） 本周，iPhone 有望迎来第三次、也是改动幅度最大的一次设计革新，推出传闻中的折叠机 iPhone Ultra，又称 iPhone Fold。苹果十余年来最重磅发布会：首款折叠 iPhone 即将亮相，新 CEO 首秀登场 据 TechWeb，关于这款备受瞩目的新机命名，目前业界说法不一。此前广泛流传的名称是「iPhone Ultra」，有爆料称苹果内部员工均以此称呼，这也符合苹果在高端产品线使用「Ultra」后缀的惯例。然而，配件厂商 CASETiFY 近日的一个举动让命名再生变数。该制造商曾短暂建立了一个苹果折叠屏配件的产品页面，并将其命名为「iPhone Duo」。虽然该页面随后被迅速下架，但「Duo」这一名称精准对应了折叠手机内外双屏的特性，引发了广泛讨论。最终命名究竟是「Ultra」还是「Duo」，只能等待发布会当天揭晓。十年磨一剑？苹果的首款折叠屏 iPhone 终于要在今夜发布了"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-25267b4ecabdc280fab7abc1375881df_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "175 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080987759133594987"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI2MTU2MiDAsYPVBjAAOFBADnITMjA4MDk4Nzc1OTEzMzU5NDk4N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 15,
+          "heat_text": "175 万热度",
+          "heat_value": 1750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2078792440534848753",
+      "title": "有没有什么已经是灭绝的动物但是古人见过甚至习以为常？",
+      "url": "https://www.zhihu.com/question/2078792440534848753",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "175 万热度",
+      "latest_heat_value": 1750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1788951056.760220",
+        "card_id": "Q_2078792440534848753",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "有没有什么已经是灭绝的动物但是古人见过甚至习以为常？"
+          },
+          "excerpt_area": {
+            "text": "我先说一个，肿骨鹿——有观点认为其实就是麒麟原型，因为它的两个角是并在一起的，曾在南北朝还有过捕获记录。还有奥氏马，《山海经》描述鹿蜀「其状如马而白首，其文如虎而赤尾」与身上有条纹的奥氏马形象非常接近"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-291988e0c7743ed9ce5b8fd744a4ed9c_b.jpg"
+          },
+          "metrics_area": {
+            "text": "175 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2078792440534848753"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTE4MjMyMiCzuOPUBjAAOFlAD3ITMjA3ODc5MjQ0MDUzNDg0ODc1M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 16,
+          "heat_text": "175 万热度",
+          "heat_value": 1750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080684176584308732",
+      "title": "黑龙江一次撤销 32 人次运动员技术等级称号，均涉省乒乓球锦标赛，具体是怎么回事？",
+      "url": "https://www.zhihu.com/question/2080684176584308732",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "175 万热度",
+      "latest_heat_value": 1750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1788951056.760980",
+        "card_id": "Q_2080684176584308732",
+        "feed_specific": {
+          "answer_count": 32
+        },
+        "target": {
+          "title_area": {
+            "text": "黑龙江一次撤销 32 人次运动员技术等级称号，均涉省乒乓球锦标赛，具体是怎么回事？"
+          },
+          "excerpt_area": {
+            "text": "2026 年 9 月 7 日，黑龙江省体育局宣布，根据《运动员技术等级管理办法》（国家体育总局令第 32 号）第二十四条规定，经核查认定，现撤销姜祺烁等 5 人次二级运动员、张苡齐等 27 人次三级运动员称号。 他们均牵涉 2025 年、 2026 年的黑龙江省乒乓球锦标赛，分布在哈尔滨一队、齐齐哈尔一队、佳木斯一队、大庆一队、绥化一队、哈尔滨二队、大庆二队等参赛单位。 运动员技术等级称号分为：国际级运动健将、运动健将、一级运动员、二级运动员、三级运动员。其中，授予奥运会比赛项目及武术项目二级运动员应当为省级运动会，省级体育行政部门主办的单项比赛；授予其他非奥运会比赛项目二级运动员应当为全国比赛；授予三级运动员应当为省级体育行政部门主办的单项比赛。 前述《运动员技术等级管理办法》第二十四条规定提到，运动员出现下列情形之一的，不得授予等级称号，已授予的等级称号予以撤销；情节严重的，列入限制、禁止参加竞技体育活动名单：违反兴奋剂管理规定在处理处罚期内的；违反赛风赛纪管理规定在处理处罚期内的；采用虚构事实、隐瞒真相等方式取得等级称号的；违反本办法规定的其他情形。黑龙江一次撤销 32 人次运动员技术等级称号，均涉省乒乓球锦标赛 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-13ba9ca6a4a61d0fe5d6a3d5759173a5.png"
+          },
+          "metrics_area": {
+            "text": "175 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080684176584308732"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI1MDY1MSCE/P7UBjAAOGFAEHITMjA4MDY4NDE3NjU4NDMwODczMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 17,
+          "heat_text": "175 万热度",
+          "heat_value": 1750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080644657436782661",
+      "title": "男子看望奶奶时因桥梁破损坠亡，9 天后奶奶也因受打击离世，死者父母获赔 120 万，从法律角度如何解读？",
+      "url": "https://www.zhihu.com/question/2080644657436782661",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "167 万热度",
+      "latest_heat_value": 1670000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1788951056.763227",
+        "card_id": "Q_2080644657436782661",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "男子看望奶奶时因桥梁破损坠亡，9 天后奶奶也因受打击离世，死者父母获赔 120 万，从法律角度如何解读？"
+          },
+          "excerpt_area": {
+            "text": "「山东省临清市先锋大桥步道桥板脱落，致行人坠河身亡」一事，有了最新进展。9 月 7 日，经法院调解，死者赵鑫水的父母与被告临清市住房和城乡建设局达成一致，后者一次性赔偿死亡赔偿金、丧葬费、精神损害抚慰金、停尸费等各项损失共计 120 万元。 9 月 6 日，澎湃新闻发布报道《山东临清一大桥步道桥板脱落致行人坠亡，13 年前被评为省文保单位却年久失修》，引发关注。 7 月 24 日 7 时左右，22 岁的河北临西县人赵鑫水在临清市先锋大桥上步行时，桥板突然脱落，致其坠入河中。一天后，他的尸体在距事发点下游约四公里处被打捞上来。 官方公开资料显示，该桥始建于 1958 年，由国务院交通部工程师会同苏联专家及山东省交通厅工程技术人员共同设计，2013 年被公布为「山东省第四批省级文物保护单位」。因年久失修等原因，自 1992 年起，先锋大桥便只允许行人及非机动车通行。近年来，尽快维修加固先锋大桥的呼声一直存在，山东省政协委员魏辉 2022 年起就曾发起提案，呼吁相关部门加快对大桥加固和维修，但一直没有结果。 事发前三个月，临清市多部门还曾召开先锋大桥安全隐患整改工作专题协调会。 事发后，赵鑫水父母向临清市人民法院提起诉讼。 临清市人民法院 9 月 7 日作出的民事调解书显示，二原告赵鑫水父母与被告临清市住房和城乡建设局、临清市文化和旅游局、临清市先锋路街道办事处、临清市交通运输局「建筑物、构筑物倒塌、塌陷损害责任纠纷」一案，该院 8 月 14 日立案后，依法适用简易程序进行了审理。二原告认为，四被告作为临清市先锋大桥的所有人、管理人和养护人，应保障该桥通行安全，应负全部赔偿责任。后二原告自愿撤回对被告临清市文化和旅游局、临清市先锋路街道办事处、临清市交通运输局的起诉。 调解书显示，经法院主持调解，当事人自愿达成协议，被告临清市住房和城乡建设局于 9 月 10 日前一次性赔偿二原告死亡赔偿金、丧葬费、精神损害抚慰金、停尸费等各项损失共计 120 万元。案件受理费减半收取，由被告临清市住房和城乡建设局承担。 9 月 7 日报道，赵鑫水是河北临西县人，在山东临清市定居，临清先锋大桥横跨两地。7 月 24 日一早，赵鑫水过桥看望住院的奶奶，当天因联系不到他，家人出门寻找，遇到民警才知道桥上发生了意外，有人坠河，一天后他的尸体被打捞上来。赵鑫水死亡 9 天后，疾病加上噩耗的打击，他的奶奶也去世了。据悉，因年久失修等原因，自 1992 年起，先锋大桥便只允许行人及非机动车通行。目前，家属向法院起诉临清市住建局、文旅局、街道办和交通运输局，诉请死亡赔偿金、丧葬费等。案件将于 9 月 8 日开庭。 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-a1f5aaf9d907df0de6807d12455d18a4_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "167 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080644657436782661"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI0ODU2MyC2sv7UBjAAOEtAEXITMjA4MDY0NDY1NzQzNjc4MjY2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 18,
+          "heat_text": "167 万热度",
+          "heat_value": 1670000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080334373740622218",
+      "title": "武亮称接棒张雪峰后压力大到斑秃，澄清本人并未持股且未来将交还家业，这种代管模式能支撑公司持续经营吗？",
+      "url": "https://www.zhihu.com/question/2080334373740622218",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "164 万热度",
+      "latest_heat_value": 1640000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1788951056.768053",
+        "card_id": "Q_2080334373740622218",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "武亮称接棒张雪峰后压力大到斑秃，澄清本人并未持股且未来将交还家业，这种代管模式能支撑公司持续经营吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，峰学蔚来负责人武亮在节目中称，接棒人选由张雪峰的家人和董事会成员共同商定，自己当时被选中接棒，压力很大，掉头发斑秃，并表示等张雪峰女儿长大后，自己做什么都可以，以回应争夺股份传言。企查查 App 显示，武亮名下关联 11 家企业，目前在业存续 9 家，武亮在这 9 家公司中担任董事、执行公司事务的董事、总经理、监事等职务。此外，张雪峰女儿张姩菡共持股 7 家公司，当前在业存续 6 家，其目前在苏州峰学蔚来教育科技有限公司持股 37.5%，在苏州峰研教育科技有限公司持股 99.99%。（扬子晚报）"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-824afaeaa036125a86a1d77821c97de4.png"
+          },
+          "metrics_area": {
+            "text": "164 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080334373740622218"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTIzNzkyMSC98PnUBjAAOCFAEnITMjA4MDMzNDM3Mzc0MDYyMjIxOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 19,
+          "heat_text": "164 万热度",
+          "heat_value": 1640000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080385733144076759",
+      "title": "宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？",
+      "url": "https://www.zhihu.com/question/2080385733144076759",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "163 万热度",
+      "latest_heat_value": 1630000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1788951056.769050",
+        "card_id": "Q_2080385733144076759",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "宇树科技发布视频称，首次实现人形机器人全自主搏击，这一进展意味着什么？"
+          },
+          "excerpt_area": {
+            "text": "9 月 7 日，宇树科技微博发布视频称，宇树突破全球首次世界模型实时驱动全自主人形机器人格斗。UnifoLM-X2-1.0 突破世界 - 动作大模型瞬时规划、决策和动态交互执行等瓶颈，实现高动态、强交互、实时实现对未来预测和规划，实现人形机器人全自主搏击。验证了世界模型驱动的人形机器人大规模落地部署的基础可行性。 宇树科技：首次实现人形机器人全自主搏击 | 每经网"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/v2-34435b2675f1a579351373dee0f0bbb7_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "163 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080385733144076759"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI0MDUxOSCS0PrUBjAAOCdAE3ITMjA4MDM4NTczMzE0NDA3Njc1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 20,
+          "heat_text": "163 万热度",
+          "heat_value": 1630000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080286422687281381",
+      "title": "韦斯莱一家到底应不应该把奖金都用于埃及旅游？",
+      "url": "https://www.zhihu.com/question/2080286422687281381",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "162 万热度",
+      "latest_heat_value": 1620000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1788951056.771956",
+        "card_id": "Q_2080286422687281381",
+        "feed_specific": {
+          "answer_count": 46
+        },
+        "target": {
+          "title_area": {
+            "text": "韦斯莱一家到底应不应该把奖金都用于埃及旅游？"
+          },
+          "excerpt_area": {
+            "text": "这两日因为低保家庭女孩去香港看爱豆演出的话题引发了讨论，由此和哈迷讨论起韦斯莱一家该不该把 700 加隆奖金花在举家旅游上，发现答案五花八门"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-78ca317a9754f58a4fd7221f36be5817.png"
+          },
+          "metrics_area": {
+            "text": "162 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080286422687281381"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTIzNTAyMCCVl/nUBjAAOEFAFXITMjA4MDI4NjQyMjY4NzI4MTM4MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 22,
+          "heat_text": "162 万热度",
+          "heat_value": 1620000
+        }
+      ]
+    },
+    {
+      "key": "Q_2079847993272786970",
+      "title": "郑钦文连续两场上演「让五追七」，这种级别的逆转有多罕见？关键转折点在哪？",
+      "url": "https://www.zhihu.com/question/2079847993272786970",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "161 万热度",
+      "latest_heat_value": 1610000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1788951056.773017",
+        "card_id": "Q_2079847993272786970",
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "郑钦文连续两场上演「让五追七」，这种级别的逆转有多罕见？关键转折点在哪？"
+          },
+          "excerpt_area": {
+            "text": "最新进展："
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-8d759f138566fd8f59517faf33b4ee24_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "161 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2079847993272786970"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTIxOTkwNyDD5vLUBjAAOEtAFnITMjA3OTg0Nzk5MzI3Mjc4Njk3MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 23,
+          "heat_text": "161 万热度",
+          "heat_value": 1610000
+        }
+      ]
+    },
+    {
+      "key": "Q_2081037199122895830",
+      "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
+      "url": "https://www.zhihu.com/question/2081037199122895830",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "159 万热度",
+      "latest_heat_value": 1590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1788951056.774240",
+        "card_id": "Q_2081037199122895830",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？"
+          },
+          "excerpt_area": {
+            "text": "DeepSeek 计划于北京时间 2026 年 9 月 10 日前后正式发布 V4.1 Flash 模型。经内部、外部多方测试，V4.1 Flash 在性能、费用、速度、总用时等各项指标上已全面超越 V4 Pro。秉持着对用户负责的态度，在 V4.1 Flash 正式上线之后、 V4.1 Pro 上线之前，我们会将对 V4 Pro 的请求全部路由到 V4.1 Flash，并按 V4.1 Flash 单价计费。如您在 V4 Pro 和 V4.1 Flash 的对比测试中发现任何问题，请及时向我们反馈，感谢您的支持！"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-e115cec36e7818bd4fad94e472b93373.png"
+          },
+          "metrics_area": {
+            "text": "159 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2081037199122895830"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI2MzQ5OCDMjYTVBjAAODBAF3ITMjA4MTAzNzE5OTEyMjg5NTgzMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 24,
+          "heat_text": "159 万热度",
+          "heat_value": 1590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2066876779252429589",
+      "title": "陈晓旭的林黛玉和欧阳奋强的贾宝玉被严重高估了吗？",
+      "url": "https://www.zhihu.com/question/2066876779252429589",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1788951056.775435",
+        "card_id": "Q_2066876779252429589",
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "陈晓旭的林黛玉和欧阳奋强的贾宝玉被严重高估了吗？"
+          },
+          "excerpt_area": {
+            "text": "是不是先入为主，营销手段加时代滤镜？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-cfc6e13d86b5b435684dc3a1932a3b29.png"
+          },
+          "metrics_area": {
+            "text": "146 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2066876779252429589"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMDczMjA2MiDghbbTBjAAOCNAGHITMjA2Njg3Njc3OTI1MjQyOTU4OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 25,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080721680796861543",
+      "title": "宁夏 7 人假意应聘，借居住条件差等理由「软暴力」向工方勒索共 16 起，最高被判七年，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2080721680796861543",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "145 万热度",
+      "latest_heat_value": 1450000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1788951056.776038",
+        "card_id": "Q_2080721680796861543",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "宁夏 7 人假意应聘，借居住条件差等理由「软暴力」向工方勒索共 16 起，最高被判七年，如何从法律角度解读？"
+          },
+          "excerpt_area": {
+            "text": "据新华社消息，9 月 8 日，宁夏回族自治区吴忠市同心县人民法院依法对被告人马某某、叶某某等 7 人实施的「劳务碰瓷」涉恶案件进行一审公开宣判。该团伙应聘工作后找理由制造矛盾索要钱财，先后在广东、海南、河北等多地建筑工地实施违法犯罪活动 16 起。 经审理查明，2024 年 3 月至 4 月，被告人马某某、叶某某为谋取非法利益，纠集被告人赵某某、夏某某等 5 人借助网络招工平台等物色目标，假借应聘务工名义进入工地，以管理制度严苛、居住条件差、饮食习惯不便、工期短等为由，提出各种不合理要求制造矛盾，并采取辱骂、围堵、威胁到项目部闹事等「软暴力」手段，向用工方勒索不合理路费、误工费等费用，以此方法先后在广东省、海南省、河北省建筑工地实施「劳务碰瓷」违法犯罪活动 16 起，为非作恶，欺压百姓，扰乱建筑行业招工和施工秩序，造成较为恶劣的社会影响，形成了以被告人马某某、叶某某为纠集者，被告人赵某某、夏某某等 5 人为成员的恶势力犯罪组织。 同心县人民法院根据本案的犯罪事实、犯罪性质、情节和对于社会的危害程度，依照《中华人民共和国刑法》《中华人民共和国刑事诉讼法》等规定，依法判处被告人马某某、叶某某等 7 人七年六个月至三年不等的有期徒刑，并处二万元至一万元不等的罚金，作案工具依法予以没收，责令各被告人依法退赔各被害人损失。 来源：新华社 相关链接："
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-27492ccad60194263a9fdda19d60f7bb_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "145 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080721680796861543"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI1MzI5MyDywf/UBjAAOCFAGXITMjA4MDcyMTY4MDc5Njg2MTU0M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 26,
+          "heat_text": "145 万热度",
+          "heat_value": 1450000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080662753119938210",
+      "title": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？",
+      "url": "https://www.zhihu.com/question/2080662753119938210",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "136 万热度",
+      "latest_heat_value": 1360000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1788951056.777483",
+        "card_id": "Q_2080662753119938210",
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "韩国执政党党首在国会演讲时表示，只看美国的时代结束了，美已不再扮演对韩的「宽容大哥」，他为何这么说？"
+          },
+          "excerpt_area": {
+            "text": "据环球时报，综合韩国 KBS 电视台、《首尔经济》等韩媒报道，韩国执政党共同民主党党首、前国务总理金民锡 9 月 7 日在国会发表演讲时称，「只看美国的时代结束了」，面对韩美关系的根本性变化，韩国需要进行重大战略调整。 金民锡强调，美国「压倒性的霸权」正在减弱，而韩国自主能力不断增强，这正是韩美关系变化的本质。韩国的国家战略不能再依赖任何一方，而应增强自身不可替代的实力。当前环境下，美国已不再扮演对韩国的「宽容大哥」，而是成了「苛刻的交易对象」。美国主动提出缩减韩美联合军演，又要求韩国加强自主国防，表明韩美关系所处的环境已经改变。金民锡还在讲话中主张，「不可替代的技术实力就是国家安全」，韩国不能从人工智能革命中掉队。 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-d72d074139ce49a566b441be0e315cbe_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "136 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080662753119938210"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI0OTI3MyCR1P7UBjAAOEFAGnITMjA4MDY2Mjc1MzExOTkzODIxMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 27,
+          "heat_text": "136 万热度",
+          "heat_value": 1360000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080248290201663170",
+      "title": "刘光慧 / 曲静夫妇论文被指造假，饶毅称「刘当选院士的概率远大于被处理概率」，如何理解他的这一说法？",
+      "url": "https://www.zhihu.com/question/2080248290201663170",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "123 万热度",
+      "latest_heat_value": 1230000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1788951056.778535",
+        "card_id": "Q_2080248290201663170",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "刘光慧 / 曲静夫妇论文被指造假，饶毅称「刘当选院士的概率远大于被处理概率」，如何理解他的这一说法？"
+          },
+          "excerpt_area": {
+            "text": "最近，中国科学院动物研究所刘光慧 / 曲静夫妇的论文被指控造假，已经有很多中文的报道，人人看了都可以自己判断。如果这种问题都可以解释成为失误，其他一般也能解释。 不久前，同济大学非常严肃地处理了其生命科学学院院长的造假。得到国家、科学界和广大师生的认同。 一般人会以为以后就很容易处理学术造假了，其实不一定。 例如，刘曲事件，被处理的可能性很小，刘在四年内当选中国科学院院士的可能性远大于他在四个月内被调查或者处理的可能性。 "
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-01cfd21fd9ce66d573126fb2491f6d8f.png"
+          },
+          "metrics_area": {
+            "text": "123 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080248290201663170"
+          }
+        },
+        "attached_info": "CkoIoomd8NG4s49oEAMaCTEyMTIzMjk0MSCR0PjUBjAAOIcBQBtyEzIwODAyNDgyOTAyMDE2NjMxNzB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 28,
+          "heat_text": "123 万热度",
+          "heat_value": 1230000
+        }
+      ]
+    },
+    {
+      "key": "Q_2080718730540204660",
+      "title": "2026 金球奖 30 人候选名单公布，凯恩、贝林厄姆、登贝莱入选，怎样评价这份名单？",
+      "url": "https://www.zhihu.com/question/2080718730540204660",
+      "first_seen": "2026-09-09 18:50:57 +0800",
+      "last_seen": "2026-09-09 18:50:57 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1788951056.781132",
+        "card_id": "Q_2080718730540204660",
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "2026 金球奖 30 人候选名单公布，凯恩、贝林厄姆、登贝莱入选，怎样评价这份名单？"
+          },
+          "excerpt_area": {
+            "text": "贝林厄姆 库巴西 库库雷利亚 登贝莱 上一届金球奖得主为巴黎前锋登贝莱，2026 金球奖颁奖典礼将于当地时间 10 月 26 日在伦敦举行，这是自 2019 年巴黎夏特莱剧院成为颁奖场地以来的首次异地举办。【实时更新】金球奖 30 人候选名单：贝林、库巴西、库库、 B 费入围 - 直播吧 据队报报道，金球奖 30 人候选 9 月 8 日公布，10 月 26 日伦敦颁奖。 2026 年金球奖提名名单将于 9 月 8 日公布。男足、女足以及其他奖项的名单，将在 10 月 26 日伦敦颁奖礼前一个半月揭晓。 各项金球奖提名将于 9 月 8 日星期二公布。届时将在金球奖社媒账号以及 ballondor.com 网站上，于 11 点至 16 点之间陆续发布。男足和女足金球奖的提名名单都将包含 30 名球员。最佳年轻球员、门将、教练、赛季最佳射手以及年度最佳俱乐部等奖项的提名，也会在当天一并公布。 颁奖典礼将于 10 月 26 日在伦敦举行，这是自 2019 年以来首次回到伦敦。2019 年，巴黎夏特莱剧院曾成为这一典礼的举办地。男足金球奖得主将接替登贝莱，成为金球奖历史上第 70 位获奖者；女足金球奖得主则将接替邦马蒂，成为第 8 位女足金球奖得主。队报：金球奖 30 人候选 9 月 8 日公布，10 月 26 日伦敦颁奖"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-04d82523f5f64358542255da8aad7096_b.jpg"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2080718730540204660"
+          }
+        },
+        "attached_info": "CkkIoomd8NG4s49oEAMaCTEyMTI1MzE5NSCzvP/UBjAAODRAHHITMjA4MDcxODczMDU0MDIwNDY2MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-09 18:50:57 +0800",
+          "rank": 29,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
         }
       ]
     }
