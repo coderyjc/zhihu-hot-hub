@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11 23:58:01 +0800",
+  "generated_at": "2026-09-12 04:32:51 +0800",
   "totals": {
-    "day_count": 188,
-    "topic_record_count": 10223,
-    "unique_topic_count": 8724,
-    "history_point_count": 16740,
-    "v2_file_count": 63,
+    "day_count": 189,
+    "topic_record_count": 10253,
+    "unique_topic_count": 8731,
+    "history_point_count": 16770,
+    "v2_file_count": 64,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1802,6 +1802,15 @@
       "history_point_count": 150,
       "top_topic_title": "微信被曝出「史诗级漏洞」，打个语音即可劫持账号，具体是怎么回事？对用户信息安全影响有多大？",
       "top_topic_url": "https://www.zhihu.com/question/2081069710037274809"
+    },
+    {
+      "date": "2026-09-12",
+      "total_heat_value": 38900000,
+      "max_heat_value": 7590000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "官方通报「男子称停止资助后遭受助学生质问催捐」为假消息，媒体曝该男子已被刑拘，哪些信息值得关注？",
+      "top_topic_url": "https://www.zhihu.com/question/2081793015459177603"
     }
   ]
 }
