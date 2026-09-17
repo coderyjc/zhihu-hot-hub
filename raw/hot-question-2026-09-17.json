@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-09-17 11:42:16 +0800",
+  "updated_at": "2026-09-17 19:05:05 +0800",
   "items": [
     {
       "key": "Q_2083156467859956956",
@@ -1665,18 +1665,18 @@
       "title": "一直走不出悲伤怎么办？困在原地走不出来，总是在纠结过往、否定自己，到底该怎么调适？",
       "url": "https://www.zhihu.com/question/666675989",
       "first_seen": "2026-09-17 00:15:18 +0800",
-      "last_seen": "2026-09-17 04:56:21 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 26,
-      "latest_rank": 26,
-      "latest_heat_text": "66 万热度",
-      "latest_heat_value": 660000,
+      "latest_rank": 29,
+      "latest_heat_text": "65 万热度",
+      "latest_heat_value": 650000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1789592181.736703",
+        "id": "28_1789643104.993060",
         "card_id": "Q_666675989",
         "feed_specific": {
-          "answer_count": 587
+          "answer_count": 596
         },
         "target": {
           "title_area": {
@@ -1689,7 +1689,7 @@
             "url": "https://pica.zhimg.com/v2-e264eadededb5a689129f5684b0218a2_qhd.jpg?source=57bbeac9"
           },
           "metrics_area": {
-            "text": "66 万热度",
+            "text": "65 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1704,7 +1704,7 @@
             "url": "https://www.zhihu.com/question/666675989"
           }
         },
-        "attached_info": "CkAIlsiR3IfKrrNFEAMaCTExMDQyODE2OCDCrPu2BjAAONAIQBlyCTY2NjY3NTk4OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkAIqraM+raSyoBKEAMaCTExMDQyODE2OCDCrPu2BjAAOIgJQBxyCTY2NjY3NTk4OXgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -1718,6 +1718,12 @@
           "rank": 26,
           "heat_text": "66 万热度",
           "heat_value": 660000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 29,
+          "heat_text": "65 万热度",
+          "heat_value": 650000
         }
       ]
     },
@@ -2223,23 +2229,18 @@
       "title": "美联储 3 年来首次加息，加息 25 个基点，将基准利率上调至 3.75%-4.00%，会对市场有哪些影响？",
       "url": "https://www.zhihu.com/question/2083684721486029950",
       "first_seen": "2026-09-17 07:34:42 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 1,
-      "latest_rank": 1,
-      "latest_heat_text": "4272 万热度",
-      "latest_heat_value": 42720000,
+      "latest_rank": 4,
+      "latest_heat_text": "222 万热度",
+      "latest_heat_value": 2220000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1789616535.726257",
+        "id": "3_1789643104.972549",
         "card_id": "Q_2083684721486029950",
-        "card_label": {
-          "type": "boiling",
-          "icon": "https://pic1.zhimg.com/80/v2-a8ec286ae756c2ab8377774b27f8ebc7_1440w.png",
-          "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 364
+          "answer_count": 572
         },
         "target": {
           "title_area": {
@@ -2252,7 +2253,7 @@
             "url": "https://pic1.zhimg.com/v2-fcccc8798f5702f18eb387249ded89dc.png"
           },
           "metrics_area": {
-            "text": "4272 万热度",
+            "text": "222 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2267,7 +2268,7 @@
             "url": "https://www.zhihu.com/question/2083684721486029950"
           }
         },
-        "attached_info": "CkoIl6+Jxtnqr9d/EAMaCTEyMTM2MDA5MCD+0KrVBjAAOPoIQAByEzIwODM2ODQ3MjE0ODYwMjk5NTB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM2MDA5MCD+0KrVBjAAOMMOQANyEzIwODM2ODQ3MjE0ODYwMjk5NTB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2281,6 +2282,12 @@
           "rank": 1,
           "heat_text": "4272 万热度",
           "heat_value": 42720000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 4,
+          "heat_text": "222 万热度",
+          "heat_value": 2220000
         }
       ]
     },
@@ -2952,25 +2959,25 @@
     },
     {
       "key": "Q_2083719036232324156",
-      "title": "国乒、中国体操队被困名古屋亚运机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？",
+      "title": "国乒、国羽、中国体操队被困名古屋机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？",
       "url": "https://www.zhihu.com/question/2083719036232324156",
       "first_seen": "2026-09-17 11:42:16 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "333 万热度",
-      "latest_heat_value": 3330000,
+      "latest_rank": 1,
+      "latest_heat_text": "1228 万热度",
+      "latest_heat_value": 12280000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1789616535.732408",
+        "id": "0_1789643104.969211",
         "card_id": "Q_2083719036232324156",
         "feed_specific": {
-          "answer_count": 105
+          "answer_count": 378
         },
         "target": {
           "title_area": {
-            "text": "国乒、中国体操队被困名古屋亚运机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？"
+            "text": "国乒、国羽、中国体操队被困名古屋机场，现场只提供水无食品，为什么会这样？暴露出亚运会组织方的哪些问题？"
           },
           "excerpt_area": {
             "text": "新华社日本名古屋 9 月 16 日电 16 日中午 12 点 15 分左右，中国体育代表团团部和部分队伍的参赛人员顺利抵达日本名古屋，准备参加即将开幕的亚运会。然而，飞机是准时到了，人却被困在机场附近，迟迟无法乘车赶往住地。 按照计划，当天抵达的各代表团要从机场附近坐大巴前往住所。然而下午 2 点，记者在机场交通中心仍然看到不少国家和地区的运动员「东倒西歪」就地等大巴，显得很疲惫。 记者与印度赛艇队教练攀谈起来，他说，队伍上午 10 点左右就落地了，但在交通中心等了 4 个多小时了，还是走不了。 韩国代表团成员在机场交通中心等待。新华社记者 赵紫羽 摄「工作人员的系统里查不到我们运动员的信息，所以没法安排车。」这名教练还说，「还有来得更早的队伍，两三个小时前就到了，也没等上车。」 中国体操队也遭遇了类似情况。21 人的队伍，只有两个人的信息能在系统里正常显示，这直接导致他们迟迟无法登上大巴。 中国体操队在机场交通中心等待。新华社记者 赵紫羽 摄等待期间，中国队不少运动员就地铺开瑜伽垫，拿出泡沫轴和弹力带现场开练。「没有人说几点能有车，一切都在等待中。」一名代表团成员说，问了工作人员，但对方也很茫然，「所有人都是你问我，我问你」。 下午 4 点左右，记者身旁的哈萨克斯坦射击队准备动身离开。一名运动员告诉记者，他们「只」等了两个多小时，「但工作人员没告诉我为什么要等」。 记者询问了一名志愿者，她略显无奈地说：「我们也不知道具体原因，可能‘一环没扣上一环’。各个代表团也可以单独行动，但需要自费。」 中国羽毛球队在机场交通中心内查询如何前往酒店。新华社记者 赵紫羽 摄中国羽毛球队没等到官方大巴，干脆自己想起了办法。起初，他们想在附近乘坐公共机场大巴离开，但车票数量不足。部分成员先乘车离开后，其余人碰上了中国驻名古屋总领事馆的工作人员，在他们的帮助下联系侨胞租了车。下午 4 点半左右，羽毛球队才总算都上了车。 直到下午 5 点左右，中国乒乓球队、武术队、赛艇队的部分人员才等到车；体操队则到 6 点左右才离开。此时，距离他们抵达名古屋机场已经过去了近 6 个小时。 记者在交通中心看到，现场只提供水，不提供食品。「白天一直没怎么吃饭，从下飞机到现在 5 个多小时，等得又累又困又饿，明天还要训练。」一名运动员告诉记者。 还有一名运动员苦笑着说：「这些事情，比比赛更难。」亚运会｜多国代表队落地名古屋被困机场数小时"
@@ -2979,7 +2986,7 @@
             "url": "https://pica.zhimg.com/v2-6ba3114f174cd42f53edfc91e22df612_1440w.jpg"
           },
           "metrics_area": {
-            "text": "333 万热度",
+            "text": "1228 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2994,7 +3001,7 @@
             "url": "https://www.zhihu.com/question/2083719036232324156"
           }
         },
-        "attached_info": "CkoIl6+Jxtnqr9d/EAMaCTEyMTM2MTI3NCDzkKvVBjAAOJgBQANyEzIwODM3MTkwMzYyMzIzMjQxNTZ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM2MTI3NCDzkKvVBjAAOPMEQAByEzIwODM3MTkwMzYyMzIzMjQxNTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3002,6 +3009,12 @@
           "rank": 4,
           "heat_text": "333 万热度",
           "heat_value": 3330000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 1,
+          "heat_text": "1228 万热度",
+          "heat_value": 12280000
         }
       ]
     },
@@ -3125,18 +3138,23 @@
       "title": "百度搜索为什么没落了？",
       "url": "https://www.zhihu.com/question/2020203409219809652",
       "first_seen": "2026-09-17 11:42:16 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 7,
-      "latest_rank": 7,
-      "latest_heat_text": "197 万热度",
-      "latest_heat_value": 1970000,
+      "latest_rank": 6,
+      "latest_heat_text": "188 万热度",
+      "latest_heat_value": 1880000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "6_1789616535.737720",
+        "id": "5_1789643104.974155",
         "card_id": "Q_2020203409219809652",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 222
+          "answer_count": 416
         },
         "target": {
           "title_area": {
@@ -3149,7 +3167,7 @@
             "url": "https://picx.zhimg.com/v2-7018fa2aad815ae001dbc363e73f46ae.png"
           },
           "metrics_area": {
-            "text": "197 万热度",
+            "text": "188 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3164,7 +3182,7 @@
             "url": "https://www.zhihu.com/question/2020203409219809652"
           }
         },
-        "attached_info": "CkoIl6+Jxtnqr9d/EAMaCTExODg5NzEwMCDq7Y7OBjAAOMsCQAZyEzIwMjAyMDM0MDkyMTk4MDk2NTJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTExODg5NzEwMCDq7Y7OBjAAOJ4FQAVyEzIwMjAyMDM0MDkyMTk4MDk2NTJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3172,6 +3190,12 @@
           "rank": 7,
           "heat_text": "197 万热度",
           "heat_value": 1970000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 6,
+          "heat_text": "188 万热度",
+          "heat_value": 1880000
         }
       ]
     },
@@ -3235,23 +3259,18 @@
       "title": "昔日「彩电大王」康佳要退市了，去年巨亏 126 亿元，扣非净利润连亏 15 年，是如何走到今天这步的？",
       "url": "https://www.zhihu.com/question/2076450178576413956",
       "first_seen": "2026-09-17 11:42:16 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 9,
-      "latest_rank": 9,
-      "latest_heat_text": "188 万热度",
-      "latest_heat_value": 1880000,
+      "latest_rank": 15,
+      "latest_heat_text": "111 万热度",
+      "latest_heat_value": 1110000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1789616535.738902",
+        "id": "14_1789643104.984763",
         "card_id": "Q_2076450178576413956",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 45
+          "answer_count": 80
         },
         "target": {
           "title_area": {
@@ -3264,7 +3283,7 @@
             "url": "https://picx.zhimg.com/80/v2-dd6173dd7ea4e4d4575351bb46be0149_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "188 万热度",
+            "text": "111 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3279,7 +3298,7 @@
             "url": "https://www.zhihu.com/question/2076450178576413956"
           }
         },
-        "attached_info": "CkkIl6+Jxtnqr9d/EAMaCTEyMTEwMTA5NSDNrcHUBjAAOGBACHITMjA3NjQ1MDE3ODU3NjQxMzk1NngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTEwMTA5NSDNrcHUBjAAON8BQA5yEzIwNzY0NTAxNzg1NzY0MTM5NTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3287,6 +3306,12 @@
           "rank": 9,
           "heat_text": "188 万热度",
           "heat_value": 1880000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 15,
+          "heat_text": "111 万热度",
+          "heat_value": 1110000
         }
       ]
     },
@@ -3295,15 +3320,15 @@
       "title": "为什么很多小说或电视剧里都是镇北侯，怎么没有镇南侯？",
       "url": "https://www.zhihu.com/question/2082261043515072893",
       "first_seen": "2026-09-17 11:42:16 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 10,
-      "latest_rank": 10,
-      "latest_heat_text": "167 万热度",
-      "latest_heat_value": 1670000,
+      "latest_rank": 7,
+      "latest_heat_text": "186 万热度",
+      "latest_heat_value": 1860000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1789616535.740448",
+        "id": "6_1789643104.974469",
         "card_id": "Q_2082261043515072893",
         "card_label": {
           "type": "hot",
@@ -3311,7 +3336,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 72
+          "answer_count": 178
         },
         "target": {
           "title_area": {
@@ -3324,7 +3349,7 @@
             "url": "https://picx.zhimg.com/v2-77f062db54849d15c358dfacb7af2058.png"
           },
           "metrics_area": {
-            "text": "167 万热度",
+            "text": "186 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3339,7 +3364,7 @@
             "url": "https://www.zhihu.com/question/2082261043515072893"
           }
         },
-        "attached_info": "CkkIl6+Jxtnqr9d/EAMaCTEyMTMwOTEzMCCX9ZXVBjAAOGpACXITMjA4MjI2MTA0MzUxNTA3Mjg5M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTMwOTEzMCCX9ZXVBjAAOPYBQAZyEzIwODIyNjEwNDM1MTUwNzI4OTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3347,6 +3372,12 @@
           "rank": 10,
           "heat_text": "167 万热度",
           "heat_value": 1670000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 7,
+          "heat_text": "186 万热度",
+          "heat_value": 1860000
         }
       ]
     },
@@ -3695,18 +3726,18 @@
       "title": "有哪些演员让你觉得第一眼惊为天人，后面觉得很普通，甚至怪怪的？",
       "url": "https://www.zhihu.com/question/1932799403552383280",
       "first_seen": "2026-09-17 11:42:16 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 18,
-      "latest_rank": 18,
-      "latest_heat_text": "126 万热度",
-      "latest_heat_value": 1260000,
+      "latest_rank": 17,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "17_1789616535.745737",
+        "id": "16_1789643104.986949",
         "card_id": "Q_1932799403552383280",
         "feed_specific": {
-          "answer_count": 29
+          "answer_count": 48
         },
         "target": {
           "title_area": {
@@ -3719,7 +3750,7 @@
             "url": "https://pica.zhimg.com/80/v2-dc0185490253e5709d2d912d5eecfeaa_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "126 万热度",
+            "text": "105 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3734,7 +3765,7 @@
             "url": "https://www.zhihu.com/question/1932799403552383280"
           }
         },
-        "attached_info": "CkkIl6+Jxtnqr9d/EAMaCTExNTk2NjU5OCCX+5bEBjAAOEBAEXITMTkzMjc5OTQwMzU1MjM4MzI4MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTExNTk2NjU5OCCX+5bEBjAAOJYBQBByEzE5MzI3OTk0MDM1NTIzODMyODB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3742,6 +3773,12 @@
           "rank": 18,
           "heat_text": "126 万热度",
           "heat_value": 1260000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 17,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
         }
       ]
     },
@@ -3805,23 +3842,18 @@
       "title": "学生提议保障宵夜，食堂留言板反问「能考到年级前一百名吗」引不满，为啥大家反感该回应？学生诉求合理吗？",
       "url": "https://www.zhihu.com/question/2083520419420713631",
       "first_seen": "2026-09-17 11:42:16 +0800",
-      "last_seen": "2026-09-17 11:42:16 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
       "first_rank": 20,
-      "latest_rank": 20,
-      "latest_heat_text": "107 万热度",
-      "latest_heat_value": 1070000,
+      "latest_rank": 3,
+      "latest_heat_text": "359 万热度",
+      "latest_heat_value": 3590000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1789616535.747115",
+        "id": "2_1789643104.971980",
         "card_id": "Q_2083520419420713631",
-        "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 56
+          "answer_count": 326
         },
         "target": {
           "title_area": {
@@ -3834,7 +3866,7 @@
             "url": "https://picx.zhimg.com/v2-0368d0ee30f041aff50a4de1c78d9e45.png"
           },
           "metrics_area": {
-            "text": "107 万热度",
+            "text": "359 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3849,7 +3881,7 @@
             "url": "https://www.zhihu.com/question/2083520419420713631"
           }
         },
-        "attached_info": "CkkIl6+Jxtnqr9d/EAMaCTEyMTM1MTcyNyD5nqjVBjAAOEZAE3ITMjA4MzUyMDQxOTQyMDcxMzYzMXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM1MTcyNyD5nqjVBjAAOLgDQAJyEzIwODM1MjA0MTk0MjA3MTM2MzF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3857,6 +3889,12 @@
           "rank": 20,
           "heat_text": "107 万热度",
           "heat_value": 1070000
+        },
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 3,
+          "heat_text": "359 万热度",
+          "heat_value": 3590000
         }
       ]
     },
@@ -4412,6 +4450,1266 @@
           "rank": 30,
           "heat_text": "73 万热度",
           "heat_value": 730000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083595578223636976",
+      "title": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？",
+      "url": "https://www.zhihu.com/question/2083595578223636976",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "544 万热度",
+      "latest_heat_value": 5440000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1789643104.971270",
+        "card_id": "Q_2083595578223636976",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 183
+        },
+        "target": {
+          "title_area": {
+            "text": "张一鸣身家突破 1050 亿美元首次成亚洲首富，如何评价其商业成就？"
+          },
+          "excerpt_area": {
+            "text": "随着与人工智能相关的财富飙升，传统行业的亿万富翁被超越，字节跳动的张一鸣首次成为了亚洲首富，现年 43 岁的张一鸣如今净值已突破 1050 亿美元。根据彭博亿万富豪指数，他的身家已超过印度富豪高塔姆·阿达尼。与 2019 年 3 月彭博首次追踪时记录的 130 亿美元相比，张一鸣的财富增长了约七倍。张一鸣本就是中国首富，这归功于火遍全球的 TikTok 以及字节跳动在 AI 领域的布局，包括热门 AI 聊天机器人豆包和视频生成模型 Seedance。如今的更上一层楼，凸显了 AI 热潮所创造的巨额新财富，使得阿达尼、能源及零售业大亨 MukeshAmbani 以及日本优衣库的柳井正等传统富豪被超越。 张一鸣身家 1050 亿美元成亚洲首富"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-85050769ef874d4bbe9569a58c2ffa1a.png"
+          },
+          "metrics_area": {
+            "text": "544 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083595578223636976"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM1NTI0NCD5qqnVBjAAOKsEQAFyEzIwODM1OTU1NzgyMjM2MzY5NzZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 2,
+          "heat_text": "544 万热度",
+          "heat_value": 5440000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083894090341377231",
+      "title": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？",
+      "url": "https://www.zhihu.com/question/2083894090341377231",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "191 万热度",
+      "latest_heat_value": 1910000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1789643104.973550",
+        "card_id": "Q_2083894090341377231",
+        "feed_specific": {
+          "answer_count": 84
+        },
+        "target": {
+          "title_area": {
+            "text": "亚运女子板球 1/4 决赛场地积水取消，中国队世界排名低于对手被判负，一场未打结束亚运征程，这规则合理吗？"
+          },
+          "excerpt_area": {
+            "text": "原定于今天早上进行的一场亚运会女子板球 1/4 决赛，中国 vs 孟加拉国，因场地积水问题无法进行，最终孟加拉国凭借更高的世界排名直接晋级半决赛。 今年 5 月的亚运资格赛中，中国女子板球队在生死战中力克尼泊尔，时隔 12 年重返亚运舞台。 而今日比赛场地虽然天气条件良好，但由于前几天的降雨导致的积水，场地在经过排水后仍达不到比赛条件，比赛一度推迟后最终取消。 按规则，孟加拉国队凭借更高的世界排名直接晋级，中国队一场未打就结束了亚运征程。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-ac54b7ed027b6042bd7cb023ec053b7f_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "191 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083894090341377231"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM2NjkzMiD81q3VBjAAOIoBQARyEzIwODM4OTQwOTAzNDEzNzcyMzF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 5,
+          "heat_text": "191 万热度",
+          "heat_value": 1910000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083865288337010896",
+      "title": "广电总局表示，将机顶盒功能以软件形态内置于电视机，会对行业带来哪些变化？能解决看电视麻烦的问题吗？",
+      "url": "https://www.zhihu.com/question/2083865288337010896",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "185 万热度",
+      "latest_heat_value": 1850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1789643104.974679",
+        "card_id": "Q_2083865288337010896",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 98
+        },
+        "target": {
+          "title_area": {
+            "text": "广电总局表示，将机顶盒功能以软件形态内置于电视机，会对行业带来哪些变化？能解决看电视麻烦的问题吗？"
+          },
+          "excerpt_area": {
+            "text": "新华社北京 9 月 17 日电（记者白瀛）广电总局副局长何飚 17 日在国新办举行的「开局起步‘十五五’」系列主题新闻发布会上介绍，今年，广电总局会同工业和信息化部制定一体化电视技术标准，将机顶盒功能以软件形态内置于电视机中，打造极简终端形态，一台电视即可畅享直播、点播等全类型电视业务，用户配备通用遥控器，可一键开关机、一键看频道节目。 广电总局：机顶盒功能将以软件形态内置于电视机 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-dcd37583a10832c3bc6be9aa083f9264_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "185 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083865288337010896"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM2NDI1MSCpoa3VBjAAOI0BQAdyEzIwODM4NjUyODgzMzcwMTA4OTZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 8,
+          "heat_text": "185 万热度",
+          "heat_value": 1850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083642920830251152",
+      "title": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？",
+      "url": "https://www.zhihu.com/question/2083642920830251152",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "139 万热度",
+      "latest_heat_value": 1390000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1789643104.975263",
+        "card_id": "Q_2083642920830251152",
+        "feed_specific": {
+          "answer_count": 46
+        },
+        "target": {
+          "title_area": {
+            "text": "DeepSeek 算子负责人发文《我不得不把才华埋葬在昨天》，是在反击 Anthropic 吗？"
+          },
+          "excerpt_area": {
+            "text": "DeepSeek 的注意力机制算子负责人刘胜与的一篇名为《我不得不把才华埋葬在昨天》的文章，最近引发广泛关注。有评论说：「以 DeepSeek 为代表的国产大模型开始反击 Anthropic 了。出手的不是公关部，是一个工程师。」还有评论认为：「一个正在被自己参与打造的技术淘汰的人，凌晨两点坐在那儿，想的不是怎么保住自己的位置，而是怎么把火种交出去。这种浪漫主义，才是真正硬核的东西。」 此前，Anthropic 发布报告，对包括 DeepSeek 在内的多家国产模型加以指责。这种对客户指名道姓，把用户数据拿来分析的做法，已经引起了业界的警觉，有消息指出，英伟达、帕兰提尔等合作方已经开始集体限制 Anthropic 的 Claude 的使用。 文章的主旨是道出顶尖开发者的困境：自己编写的高性能代码正在加速人工智能的蜕变，而在未来最多 1 年内，自己亲手培育的系统就将在底层算法设计上全面击败自己。 自动化织机超越最灵巧的绣娘 大模型在处理人类语言时，会把文本拆解成一个个被称作词元的数字单元。每一次推导答案，都是海量数字矩阵之间的庞大运算。在这场庞大的数学交响乐中，最为关键的指挥家之一就是注意力机制算子。它负责决定模型在阅读一句话时，究竟该把眼光重点聚焦在哪个词上，从而理解复杂的语义关联。 算子编写的质量，直接决定了整个超级计算集群的效率。在过去，能够为图形处理器手写核心算子的人，是整个科技工业界极其稀缺的珍贵头脑。当工程师凭借极高的抽象思维和耐性，设计出超越芯片大厂官方水平的自研算子时，那种兴奋感就像极客玩家在严苛的游戏规则下完成了打破世界纪录的极速通关。刘胜与正是这样一位能够驾驭微观指令的工匠，DeepSeek 最新版本模型的核心注意力机制算子，便出自他手。 曾经需要顶级工程师枯坐整个下午、反复抓耳挠腮才能找出的细微瓶颈，如今正被人工智能以不可思议的方式攻破。仅仅用了 1 年左右的时间，智能辅助工具就已经从只能查阅文档、修改拼写错误的小助手，进化成了能够自主通读底层流式汇编代码、自动利用专业剖析工具定位流水线停顿点，进而独立完成性能重构的代码大师。 面对这种近乎残酷的进化速度，置身其中的从业者感受到了前所未有的心理冲击。刘胜与在文章中打过极为精妙的比方：倘若你精通织毛衣的技艺，尤其擅长各种复杂纹样的编织和精妙色彩的搭配，你织出的毛衣远近闻名，十里八乡的人都带着重金排队请你定制。你十分享受坐在窗前，沏上一壶清茶，看着窗外的远山与炊烟，安安静静引针穿线度过一整个下午的慢时光。突然有一天，有人发明出了一台神奇的机器，只要喂入毛线和图纸，机器就能以远超人类的速度织出同样完美甚至更为精巧的衣物。你深知只要自己换上机器，凭借过去 20 年积攒的审美与见识，依然能比别人用得更好，饭碗并不至于被打破，但那份临窗听雨、手中捻线的匠人清欢，终究被机械的巨大轰鸣无情碾碎。 而算子工程师把代码写得越极致，新型底层模型的训练与推理成本就会越低，模型参数规模膨胀得就越快，其综合智力水平与编程能力也会以指数级飙升。这是人类历史上极其少见的职业图景：从业者明知前方是自我退场的深渊，却依然在为脚下的滑轨涂抹润滑油。 面对这样的两难，为什么顶尖工程师依然选择毫无保留地优化算子？刘胜与给出了自己的答案。一方面，探寻算力极限所带来的多巴胺分泌极其纯粹，破解世界级工程难题的自豪感让工程师欲罢不能。另一方面，在浩浩荡荡的全球科技竞赛面前，个体选择原地躺平或者消极怠工根本毫无意义。即便自己停下脚步，其他实验室研发的模型依然会日夜兼程地向前狂奔，最终还是会跨过地平线将旧工种淘汰。假使某种革命注定无法逆转，亲手革掉自己业务能力的人是自己，至少保全了身为探索者的尊严。 在技术范式迁移之后，过去那种人脑直接推演微观硬件状态的浪漫工匠时代正在缓缓落下帷幕，取而代之的是由各类自动化测试套件与底层模型协同驱动的智能体。工程师必须走出微雕工坊，穿上厚重的外骨骼，转型成为驾驭智能体的机甲驾驶员。过去那种个人兴趣、自身特长与商业市场需求高度契合的黄金时代宣告结束，为了留在时代的牌桌上，人们必须把昨天的才华封存起来，去适应那个手中多了机械齿轮、心中却少了灵动节拍的全新生产模式。 就在个体开发者为手艺的黄昏感伤之时，全球工业界的顶层结构也正在发生一场关于控制权的剧烈地震。来自美国知名科技媒体《The Information》的深度调查显示，英伟达、帕兰提尔等掌握着全球算力动脉、顶级情报分析与国防关键技术的巨头，近期正严密收紧内部人员对 Anthropic 旗下 Claude 系列前沿模型的调用权限。 Anthropic 在其最新版本的前沿模型中推行了默认保存 30 天用户交互提示词与输出结果的机制，若触发安全风险警报，相关数据甚至可能被封存长达 2 年。服务提供方给出的理由看似充分：单次看起来人畜无害的提问很难察觉异常，只有将数百次调用串联起来进行多轮行为审计，才能捕捉到复杂的网络攻击的蛛丝马迹。但对于每天需要处理高密级国防合同、千亿美元芯片设计图纸和尖端情报算法的商业巨擘而言，这种解释无异于悬在头顶的达摩克利斯之剑。 帕兰提尔首席执行官亚历克斯·卡普在面对企业客户的闭门会议上毫不客气地发出警告，呼吁企业界警惕被人工智能实验室剥夺属于自己的超额商业优势。帕兰提尔甚至直接向客户分发指导手册，教导企业在商业谈判中坚决捍卫零数据留存的底线，并明确表态只要模型方不提供不可撤销的零留存法律承诺，就坚决不允许该模型接入自身的核心软件平台。硬件巨头英伟达则迅速作出了防御性调整，将外部商业大模型严格限制在无关紧要的开源软件开发等边缘场景，涉及供应链分析与高端架构设计的核心业务，全面转入依托其自主研发的尼莫创系列开源架构建立的私有系统上。军工承包商诺斯罗普·格鲁曼的做法更为决绝，直接将所有核心科研与代码编写任务部署在彻底物理断网的机房内，只运行完全受控的开源模型，绝不让核心数据跨出自身设施半步。 这些身处科技金字塔尖端的巨头之所以如此紧张，根源在于通用人工智能底座展现出了令人胆寒的知识吸纳能力。当一家公司的员工长期依赖外部托管的闭源黑盒解决最棘手的工业难题时，这家企业过去数十年积累的工作流经验、工程直觉、商业决策逻辑，就会以微观知识的形式源源不断地流入云端。哪怕大模型公司承诺绝不利用这些数据进行后续训练，但在缺乏透明审计机制的前提下，谁也无法保证这些凝结着商业智慧的核心优势未来会不会在竞争对手的对话框中无意显现。这种对中心化闭源寡头的深深戒备，恰好与刘胜与的警示形成共鸣。 deepseek 算子负责人长文引爆网络，《我不得不把才华埋葬在昨天》是在反击 anthropic 吗"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-15b2c6495d396a51b30a22248b0ad96a.png"
+          },
+          "metrics_area": {
+            "text": "139 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083642920830251152"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM1ODA3MyCQg6rVBjAAONQBQAhyEzIwODM2NDI5MjA4MzAyNTExNTJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 9,
+          "heat_text": "139 万热度",
+          "heat_value": 1390000
+        }
+      ]
+    },
+    {
+      "key": "Q_436820863",
+      "title": "问一下大家，总层 24，只剩 18 楼和 5 楼，选哪个比较好？",
+      "url": "https://www.zhihu.com/question/436820863",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "138 万热度",
+      "latest_heat_value": 1380000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1789643104.977933",
+        "card_id": "Q_436820863",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 199
+        },
+        "target": {
+          "title_area": {
+            "text": "问一下大家，总层 24，只剩 18 楼和 5 楼，选哪个比较好？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-598c609caf703f28249196ec86621988.png"
+          },
+          "metrics_area": {
+            "text": "138 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/436820863"
+          }
+        },
+        "attached_info": "Cj8IqraM+raSyoBKEAMaCDU5MzQ5OTUzIPOBpf8FMAA4jgJACXIJNDM2ODIwODYzeACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 10,
+          "heat_text": "138 万热度",
+          "heat_value": 1380000
+        }
+      ]
+    },
+    {
+      "key": "Q_2050940396734361925",
+      "title": "为什么《泰坦尼克号》里要强行给男二卡尔安排个大萧条期间破产自杀的结局？",
+      "url": "https://www.zhihu.com/question/2050940396734361925",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "137 万热度",
+      "latest_heat_value": 1370000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1789643104.978192",
+        "card_id": "Q_2050940396734361925",
+        "feed_specific": {
+          "answer_count": 459
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么《泰坦尼克号》里要强行给男二卡尔安排个大萧条期间破产自杀的结局？"
+          },
+          "excerpt_area": {
+            "text": "大萧条期间（1929 年到 1933 年）受冲击最大的是中产阶级，对于顶级富豪和最底层冲击相对较小。整个大萧条期间都没有一个卡尔这样的顶级富豪破产自杀，你没看错，是一个也没有。反而如果杰克顺利到了美国发展顺利成为中产阶级的话，很可能会挺不过大萧条。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-5ba43e5570f752edc567d3474586473a_1440w.webp"
+          },
+          "metrics_area": {
+            "text": "137 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2050940396734361925"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMDAzNjM3NyD3kc7RBjAAOOkHQApyEzIwNTA5NDAzOTY3MzQzNjE5MjV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 11,
+          "heat_text": "137 万热度",
+          "heat_value": 1370000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083874290466821167",
+      "title": "华为昇腾 960 超节点正式发布，新款 AI 芯片昇腾 960DT 将提前至明年 Q1 发布，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2083874290466821167",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "130 万热度",
+      "latest_heat_value": 1300000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1789643104.978628",
+        "card_id": "Q_2083874290466821167",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "华为昇腾 960 超节点正式发布，新款 AI 芯片昇腾 960DT 将提前至明年 Q1 发布，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "华为在 2026 年全联接大会上集中披露多项重要进展：昇腾 960 系列芯片大幅提前发布时间表，新一代 NPO 形态光互联产品 Hi-ONE 首次亮相，昇腾 960 超节点正式发布、昇腾 950 超节点宣布进入规模商用阶段。 9 月 17 日，华为全联接大会 2026 在上海开幕。据中国基金报，华为副董事长、轮值董事长汪涛在演讲中宣布，华为昇腾 960 超节点正式发布，风冷和液冷版本将分别于 2027 年第三季度和第四季度陆续上市。 此外，昇腾 960DT 将于 2027 年第一季度发布，比原计划提前三个季度；昇腾 960PR 将于 2027 年第三季度发布，比原计划提前一个季度，两款芯片性能均「实现翻番」。 与此同时，华为研发的新一代 NPO（Near-Packaged Optics）形态光互联产品 Hi-ONE 正式亮相，这是业界首个量产的 NPO 产品。 汪涛在演讲中明确表态：「华为 AI 战略的核心是算力，将坚持硬件变现。」他同时宣布，昇腾 950 超节点已开始规模商用，部署超过 1000 套。据腾讯科技报道，上述进展共同指向一个信号：华为正在加速把 AI 战略推向交付期。昇腾 960 系列提前就绪，性能实现翻番 汪涛在演讲中披露了昇腾芯片的最新路线图。据汪涛介绍，昇腾 960DT 将于 2027 年第一季度发布，比原计划提前三个季度；昇腾 960PR 将于 2027 年第三季度发布，比原计划提前一个季度。 未来，昇腾系列芯片将持续坚持一年一代的演进节奏。2028 年和 2029 年，华为将陆续推出昇腾 970 、 980 芯片，依托τ定律的创新方向，实现算力规格继续翻倍，访存带宽、访存容量、互联带宽等也将大幅提升。 汪涛表示，除了昇腾芯片，华为还基于灵衢 UnifiedBus 打造了系列化套片，全面覆盖计算、互联、存储、管理等关键能力。 华为在 2025 年 9 月公布路线图时，对外口径为「昇腾 960 系列于 2027 年第四季度推出」，并未分别列出 DT 和 PR 的时间表。此次不仅将时间表拆分细化，960DT 更是大幅提前了九个月。 从 2025 年的路线图，到 7 月的 1024 卡真机，再到此次宣布规模商用，华为已将超节点从参数发布推进至系统工程和商业部署阶段。Hi-ONE 亮相：业界首个量产 NPO 产品 华为研发的新一代 NPO（Near-Packaged Optics）形态的光互联产品——Hi-ONE 于会上亮相。 汪涛在会上发表主题演讲时介绍了 Hi-ONE。Hi-ONE 基于华为自主创新技术，通过光、机、电、磁、热等要素的均衡设计，实现了单引擎 7.2T 的传输容量。这是业界首个量产的 NPO 产品，是行业目前最大传输能力的 NPO 产品，也是唯一实现内置光源的 NPO 产品。 同时，华为在全球光互联标准组织 OIF 提出了 NPO 标准立项的建议，得到了众多行业伙伴的积极响应，进一步完善 NPO 的产业生态。 基于 Hi-ONE，华为打造了业界首个采用 NPO 技术的超节点——AI 战略七大部署：算力为核，硬件变现不变 汪涛在演讲中系统阐述了华为面向智能时代的七项重要部署： 汪涛在演讲中表示：「 如果没有连接，这些算力也只能是信息孤岛。我们通过打造新一代的通信网络，将算力连接在一起，最终形成硅基黑土地。」 他还表示：「 人工智能时代，从中心到边缘，再到终端，算力无处不在。我们的战略选择清晰而坚定：聚焦 AI 基础设施，坚持打造硅基黑土地，让算力触手可及。坚持软件开源开放，让开发者释放潜能；坚持拥抱百模千态，让价值多元释放；坚持合作共赢，让客户成功，伙伴成长。」 据腾讯科技报道，对比去年，昇腾仍是华为 AI 战略的硬件核心，软件开源仍服务于硬件适配。变化在于，华为这次同时提到了模型、云、终端、汽车和网络，盘古的定位从服务行业大模型进一步转向提升华为自身产品的智能化能力。 大会前夕，华为与清华大学经济学研究所联合撰写的《全球数智化指数（GDII）2026》报告于 9 月 16 日发布。报告预测， IDC 数据显示，2025 年中国 AI 加速卡总出货约 400 万张，英伟达出货约 220 万张，占 55%；中国厂商合计约 165 万张，占 41%。其中，华为出货约 81.2 万张，是国内出货最多的厂商。行业信息显示，今年以来有单一国产厂商出货量有望突破百万张。华为汪涛：昇腾 960 超节点正式发布！新款 AI 芯片，将提前推出"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-e95bb0c3f3c6a73c42d2f557e6aeb465_b.jpg"
+          },
+          "metrics_area": {
+            "text": "130 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083874290466821167"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTM2NDczNiCLsq3VBjAAOE5AC3ITMjA4Mzg3NDI5MDQ2NjgyMTE2N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 12,
+          "heat_text": "130 万热度",
+          "heat_value": 1300000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083651322021266094",
+      "title": "重庆 2 岁幼童坠亡，母亲称父亲独自留娃遛狗，独留幼童，父母监护责任如何界定？",
+      "url": "https://www.zhihu.com/question/2083651322021266094",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "117 万热度",
+      "latest_heat_value": 1170000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1789643104.981256",
+        "card_id": "Q_2083651322021266094",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 45
+        },
+        "target": {
+          "title_area": {
+            "text": "重庆 2 岁幼童坠亡，母亲称父亲独自留娃遛狗，独留幼童，父母监护责任如何界定？"
+          },
+          "excerpt_area": {
+            "text": "近日，重庆发生一起令人痛心的意外事件：一名 2 岁 2 个月大的幼童从 18 楼坠楼身亡。孩子母亲刘女士在网络发帖称，丈夫崔先生外出遛狗时将幼童独自留在家中，导致悲剧发生。 9 月 16 日，记者分别联系了刘女士和崔先生，刘女士表示目前夫妻两都在处理孩子的后事，双方均讲述了事当天的经过。崔先生表示，「我愿意去承担这个事情，我自己也很愧疚。」 △坠亡幼童父亲崔先生的微信头像 幼童母亲外出开会，父亲独自带娃发生意外 张女士介绍，事发当日为 9 月 13 日（周末），上午一家三口还前往海洋公园游玩。下午 3 点左右，崔先生开车将张女士送至某酒店参加推广会。丈夫将孩子安置在家中播放电视随后出门遛狗，自己接到了丈夫的电话，声称孩子从楼上摔了下来，随后自己赶到了现场。 据崔先生讲述，13 日下午 3 点 26 分，自己将孩子安置在客厅沙发上看动画片，孩子怀里抱着最喜欢的被子。随后他出门遛狗，3 点 38 分返回家中，离开时间共计 12 分钟。 “回家后发现孩子不在沙发上，我找遍了次卧、主卧、厕所和厨房，都没找到人。\" 先生说，就在他焦急寻找时，听到阳台外有人呼喊 \" 有孩子坠楼了 \"。他冲到阳台向下望去，看到孩子倒在地上。 黄康睿，公众号：潇湘晨报重庆 2 岁幼童从 18 楼坠亡，母亲称父亲把孩子独自留在家中去遛狗，父亲发声：我很愧疚 悲剧的发生与阳台的安全隐患直接相关。崔先生介绍，家中阳台栏杆高度超过一米，此前有一段时间安装过简易防盗窗，后来又进行了拆除，事发时窗户没关。 崔先生表示，据法医现场勘查推测，孩子可能是踩在阳台放置的洗澡桶边缘，一只手抱着被子翻出了窗外。孩子从 18 楼坠下时砸中树杈，导致严重内出血身亡，体表无明显外伤。 黄康睿，公众号：潇湘晨报重庆 2 岁幼童从 18 楼坠亡，母亲称父亲把孩子独自留在家中去遛狗，父亲发声：我很愧疚 △张女士提供孩子生前照片。 张女士称事发房间监控设备未插电，无法还原坠楼的具体过程，丈夫平时极少参与育儿。张女士透露，事发前数日，夫妻双方曾因家务分担、育儿理念等生活琐事发生争吵。孩子坠楼事件发生后，小区物业第一时间发现异常并报警、呼叫救护车，同时封锁了现场。警方、刑警及法医迅速介入调查。 △邻居拍摄到现场视频画面截图。 「在小区的时候，孩子还在地上，我打了他三巴掌。到殡仪馆的时候我实在忍不了了，我感觉他心里没有痛。」张女士说，她打丈夫后，对方反击道：「这是最后一下，你再动我一下，我就调监控，我要报警。」 张女士告诉记者，警方明确告知家属该事件属于意外事件，不符合刑事立案标准，但家属可依法提起民事诉讼。 崔先生称现场监控等均能证明他在事发时确实不在家中，不存在主观故意或虐待行为。经过详细调查取证，警方认定该事件为意外事故，当晚即释放了自己。 目前夫妻双方正在处理孩子的后事，张女士表示，目前自己最大的诉求就是希望丈夫能够承认自己的过错，崔先生表示，自己理解妻子目前的情绪积压，「我知道她咽不下这口气，我怕她想不开，主要是我也是过错方，目前就是先把事情处理完，尽量去宽慰她，希望她不会发生意外。」 岳麓蓝天救援队队长谭章表示，这起两岁幼童坠亡的悲剧令人痛心，也为所有家长敲响了警钟。从事件中应该重点从以下两个方面加强儿童安全防护： 第一，强化监护责任。未成年人，尤其是 6 岁以下、甚至 12 岁以下的儿童，对危险的认知能力极差，无法准确判断哪些行为或环境存在风险。因此，家长必须切实履行监护职责，确保孩子始终处于自己的视线范围内，一旦发现孩子有危险行为，应立即采取措施制止，避免意外发生。2 岁幼童从 18 楼坠亡：父亲留其独自在家去遛狗；母亲称丈夫平时极少参与育儿，事发后打他三巴掌，对方称「再动我一下就报警」；父亲发声 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-4c6b9d42a5f167bd6c3d1d77a8a64f75_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "117 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083651322021266094"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTM1ODU4MiDjkqrVBjAAODBADHITMjA4MzY1MTMyMjAyMTI2NjA5NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 13,
+          "heat_text": "117 万热度",
+          "heat_value": 1170000
+        }
+      ]
+    },
+    {
+      "key": "Q_2078776197551481007",
+      "title": "一样的父母一样的教，大儿子考上好大学，小儿子却染了黄头发，为什么会有这么大差别？",
+      "url": "https://www.zhihu.com/question/2078776197551481007",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1789643104.984208",
+        "card_id": "Q_2078776197551481007",
+        "feed_specific": {
+          "answer_count": 46
+        },
+        "target": {
+          "title_area": {
+            "text": "一样的父母一样的教，大儿子考上好大学，小儿子却染了黄头发，为什么会有这么大差别？"
+          },
+          "excerpt_area": {
+            "text": "身边一个家庭，大儿子从小自律、成绩优异，顺利考入名校。小儿子从小难管、成绩差，青春期还开始染发叛逆。她崩溃地说：「 一样的教，一样的父母，怎么会这样。」 是教育方式其实并不一样，还是孩子天性就差这么远，或者还有其他原因？想听听大家各自角度的分析。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-298ceb147b880e888571ac1fdc497177_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2078776197551481007"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTE4MTU1OCCTmuPUBjAAODVADXITMjA3ODc3NjE5NzU1MTQ4MTAwN3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 14,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083202471971779529",
+      "title": "4 月被击落美军官首次讲述 50 小时惊险获救经历，如何评价美军动员 5000 人参与救援行动？",
+      "url": "https://www.zhihu.com/question/2083202471971779529",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "108 万热度",
+      "latest_heat_value": 1080000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1789643104.986153",
+        "card_id": "Q_2083202471971779529",
+        "feed_specific": {
+          "answer_count": 67
+        },
+        "target": {
+          "title_area": {
+            "text": "4 月被击落美军官首次讲述 50 小时惊险获救经历，如何评价美军动员 5000 人参与救援行动？"
+          },
+          "excerpt_area": {
+            "text": "9 月 13 日，美军的 F-15E 战机 4 月在伊朗上空被击落后，两名美国空军军官获救时的影像首次曝光。 报道称，这架美军 F-15E 当时被一枚肩扛式热寻防空导弹击落。画面显示，美国军官弹射逃生 8 小时后，美方出动 21 架飞机展开救援行动。 其中一名军官称弹射后降落伞损坏，导致他坠落到地面身负重伤。据此前报道，在营救行动中美军两架运输机在伊朗一偏远基地「受困」，无法起飞撤离。指挥官调派三架新飞机前来撤离所有美军人员。美军 F-15E 战机 4 月在伊朗上空被击落，两军官弹射后获救过程影像首次曝光 _ 行动 _ 李霞玲 _ 臧璐"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-b00001971c24ae29804e24509ffe0c63_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "108 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083202471971779529"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTMzOTY3OCDdzqPVBjAAOJoBQA9yEzIwODMyMDI0NzE5NzE3Nzk1Mjl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 16,
+          "heat_text": "108 万热度",
+          "heat_value": 1080000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083953791431397501",
+      "title": "如何看待赛力斯问界将在 2027 年 1 月 1 日正式撤出鸿蒙智行和华为专卖店？",
+      "url": "https://www.zhihu.com/question/2083953791431397501",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "104 万热度",
+      "latest_heat_value": 1040000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1789643104.987606",
+        "card_id": "Q_2083953791431397501",
+        "feed_specific": {
+          "answer_count": 96
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待赛力斯问界将在 2027 年 1 月 1 日正式撤出鸿蒙智行和华为专卖店？"
+          },
+          "excerpt_area": {
+            "text": "财联社 9 月 17 日电，界面新闻从华为渠道处获悉，已有多位经销商接到华为方面告知，明年 1 月 1 日开始，问界正式撤出鸿蒙智行和华为专卖店，经销商将自主选择华为、鸿蒙智行（其余四界）或问界品牌代理，问界将保留现有交付中心来支撑汽车售后与交付，如选择只做鸿蒙智行，经销商将保留直营模式。截至发稿，华为暂未回应该消息。问界将在 2027 年 1 月 1 日正式撤出鸿蒙智行和华为专卖店"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-b994872a4f1fce2366dfc0a85c30f812_r.jpg?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "104 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083953791431397501"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM2OTg3NSCVxq7VBjAAOLIBQBFyEzIwODM5NTM3OTE0MzEzOTc1MDF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 18,
+          "heat_text": "104 万热度",
+          "heat_value": 1040000
+        }
+      ]
+    },
+    {
+      "key": "Q_1929930862201378261",
+      "title": "不懂书法的人怎么分辨一副作品的好坏？",
+      "url": "https://www.zhihu.com/question/1929930862201378261",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "104 万热度",
+      "latest_heat_value": 1040000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1789643104.988160",
+        "card_id": "Q_1929930862201378261",
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "不懂书法的人怎么分辨一副作品的好坏？"
+          },
+          "excerpt_area": {
+            "text": "朋友圈经常有人晒书法作品，并赠送来往朋友。本人对书法不甚了解，总觉得这些作品并不太好看！ 请问欣赏书法作品好看是否是重要的评判标准？这些作品属于什么级别？ 有什么不懂书法的人可以装模作样评论几句的套路吗？"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-1fa5e2cdba40b8210e7e3cc09feeaa7d_b.jpg"
+          },
+          "metrics_area": {
+            "text": "104 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1929930862201378261"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTExNTg2NTA3MyCNnO3DBjAAOCxAEnITMTkyOTkzMDg2MjIwMTM3ODI2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 19,
+          "heat_text": "104 万热度",
+          "heat_value": 1040000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082012854706778243",
+      "title": "这次亚运会，中国男足能拿奖牌吗？",
+      "url": "https://www.zhihu.com/question/2082012854706778243",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "98 万热度",
+      "latest_heat_value": 980000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1789643104.988780",
+        "card_id": "Q_2082012854706778243",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "这次亚运会，中国男足能拿奖牌吗？"
+          },
+          "excerpt_area": {
+            "text": "如题：进决赛不太现实，第三名可以期待吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-c95558025d868c68fbc8183514a01749_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "98 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082012854706778243"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTI5OTAxNiDyppLVBjAAOCNAE3ITMjA4MjAxMjg1NDcwNjc3ODI0M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 20,
+          "heat_text": "98 万热度",
+          "heat_value": 980000
+        }
+      ]
+    },
+    {
+      "key": "Q_266697646",
+      "title": "如果任天堂是世界上最伟大的游戏公司，那么第二伟大的游戏公司是哪家？",
+      "url": "https://www.zhihu.com/question/266697646",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "92 万热度",
+      "latest_heat_value": 920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1789643104.989067",
+        "card_id": "Q_266697646",
+        "feed_specific": {
+          "answer_count": 150
+        },
+        "target": {
+          "title_area": {
+            "text": "如果任天堂是世界上最伟大的游戏公司，那么第二伟大的游戏公司是哪家？"
+          },
+          "excerpt_area": {
+            "text": "镜像问题: 你心中最伟大的游戏公司是哪个？ 那个回答下觉得任天堂是最伟大的游戏公司的答主是最多的，客观上让他们本身和其他答主被限制住了，没有对其他游戏公司的贡献和作品有个很好的梳理。 这个问题默认一个前提——如果任天堂是第一伟大的游戏公司，那么第二伟大的公司是哪家？ 我知道「先问是不是，再问为什么」的知乎原则，但是这个问题好就好在——如果你认同这一点，那么你就可以安心回答和歌颂你心中的亚军公司。 如果你不认同这一点，那你不用在这个问题下反驳我，而是去「最伟大」那个问题下，为自己心中那家公司呐喊。 本问题的提出是为了让更多游戏迷摆脱任天堂的巨大影响，更好的评价其他游戏公司对行业的贡献。 关键词：行业 而不仅仅是发行商、开发组"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-21961058f69458b4973defbfd4b22bd3_b.jpg"
+          },
+          "metrics_area": {
+            "text": "92 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/266697646"
+          }
+        },
+        "attached_info": "Cj8IqraM+raSyoBKEAMaCDIxMTExMzMxIMuS39MFMAA4uQNAFHIJMjY2Njk3NjQ2eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 21,
+          "heat_text": "92 万热度",
+          "heat_value": 920000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083852745874864109",
+      "title": "亚运会女足小组赛，乌兹别克斯坦女足 1-1 中国女足，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2083852745874864109",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "90 万热度",
+      "latest_heat_value": 900000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1789643104.989703",
+        "card_id": "Q_2083852745874864109",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "亚运会女足小组赛，乌兹别克斯坦女足 1-1 中国女足，如何评价本场比赛？"
+          },
+          "excerpt_area": {
+            "text": "相关问题 20 女足世界杯，中国 U20 女足 1-1 意大利 U20，如何评价本场比赛？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-69ed5c55a06c2bba1fabab7ce50d4b96_b.jpg"
+          },
+          "metrics_area": {
+            "text": "90 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083852745874864109"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTM2MzY5MyD6ia3VBjAAOBJAFXITMjA4Mzg1Mjc0NTg3NDg2NDEwOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 22,
+          "heat_text": "90 万热度",
+          "heat_value": 900000
+        }
+      ]
+    },
+    {
+      "key": "Q_2078738263423071300",
+      "title": "多地严控手机进校园，一刀切禁止手机，到底是保护孩子，还是隔绝了必要的学习工具？",
+      "url": "https://www.zhihu.com/question/2078738263423071300",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1789643104.990175",
+        "card_id": "Q_2078738263423071300",
+        "feed_specific": {
+          "answer_count": 62
+        },
+        "target": {
+          "title_area": {
+            "text": "多地严控手机进校园，一刀切禁止手机，到底是保护孩子，还是隔绝了必要的学习工具？"
+          },
+          "excerpt_area": {
+            "text": "关键是现在手机无处不在，其实应该练习用好它。多地立法严控学生手机入校 以制度划定权责边界 杜绝「毁灭式管理」 刚性规则之下守住育人底线丨热点即阅 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-aaff3857ecce4361430e5f79df8497be_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2078738263423071300"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTE4MDIwMiC/0+LUBjAAOGRAFnITMjA3ODczODI2MzQyMzA3MTMwMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 23,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083867967843049516",
+      "title": "怎么看待匿名模型 Union Alpha  ，它会是什么模型？",
+      "url": "https://www.zhihu.com/question/2083867967843049516",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1789643104.990577",
+        "card_id": "Q_2083867967843049516",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看待匿名模型 Union Alpha  ，它会是什么模型？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-dda3dba3e18e770a4e226fc29dd410df_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "84 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083867967843049516"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTM2NDM1NSCnpq3VBjAAOCNAF3ITMjA4Mzg2Nzk2Nzg0MzA0OTUxNngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 24,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083246063851410890",
+      "title": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？",
+      "url": "https://www.zhihu.com/question/2083246063851410890",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "77 万热度",
+      "latest_heat_value": 770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1789643104.990991",
+        "card_id": "Q_2083246063851410890",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "如果存在一个 100% 深海覆盖的海洋星球，对人类来说会不会非常恐怖？里面会发展出什么生命吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-bc00986b133892e5c2738418a235dc3a_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "77 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083246063851410890"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTM0MjY4OCD2n6TVBjAAOC5AGHITMjA4MzI0NjA2Mzg1MTQxMDg5MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 25,
+          "heat_text": "77 万热度",
+          "heat_value": 770000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083928128301412448",
+      "title": "荣耀 Magic9 系列定档 9 月 28 日，ARRI 电影模式 + 电影级枪麦，会是 iPhone 影像的强劲对手吗？",
+      "url": "https://www.zhihu.com/question/2083928128301412448",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "71 万热度",
+      "latest_heat_value": 710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1789643104.991383",
+        "card_id": "Q_2083928128301412448",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "荣耀 Magic9 系列定档 9 月 28 日，ARRI 电影模式 + 电影级枪麦，会是 iPhone 影像的强劲对手吗？"
+          },
+          "excerpt_area": {
+            "text": "荣耀 Magic9 系列官宣 9 月 28 日发布，这次最大的看点就是和好莱坞级百年专业电影机品牌 ARRI 阿莱的深度合作，将 ARRI 的专业色彩科学，ARRI LogC3 、 ARRI Looks 等植入手机，甚至还有号称「电影级枪麦」，20 米超远距离收音，带来电影片场级收音效果，可以说业界独一份，还有丰富的增距镜组合和兔笼，这套「掌中电影机」的配置，还有多少硬核看点？过去常说手机视频赛道只有 iPhone 和其他，ARRI 加持下的荣耀 Magic9 系列，会成为苹果的强大对手吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-dad2b3d0a270632512828d48f9252bbc.png"
+          },
+          "metrics_area": {
+            "text": "71 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083928128301412448"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTM2ODM2NSCvlq7VBjAAOCVAGXITMjA4MzkyODEyODMwMTQxMjQ0OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 26,
+          "heat_text": "71 万热度",
+          "heat_value": 710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083133384671368415",
+      "title": "一照相馆设体重要求，仅接受 120 斤以下客户预订，因 「部分顾客常要求过度修图」，如何看待这一规定？",
+      "url": "https://www.zhihu.com/question/2083133384671368415",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "71 万热度",
+      "latest_heat_value": 710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1789643104.991894",
+        "card_id": "Q_2083133384671368415",
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "一照相馆设体重要求，仅接受 120 斤以下客户预订，因 「部分顾客常要求过度修图」，如何看待这一规定？"
+          },
+          "excerpt_area": {
+            "text": "近日，有网友在社交平台发帖称，湖北黄石一家照相馆对拍照客户设置了体重要求，有写真套餐标明仅接受体重低于 120 斤的客户预订。 记者发现，页面明确写明，「以下套餐，我们的极限是仅能接受体重低于 120 斤的客户预订，因为我们觉得，有一种美是可以自己努力争取的，那就是瘦一点，还有一点就是我们真的不想浪费生命在无尽的液化之中。」 14 日，记者拨打了该照相馆联系方式，工作人员表示，这一说明并非硬性体重限制，而是因为部分顾客受网络审美影响，常要求过度修图，因此店家希望提前说明会以自然风格修图。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-c5376d911e328c0d6ee1979ae21af054.png"
+          },
+          "metrics_area": {
+            "text": "71 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083133384671368415"
+          }
+        },
+        "attached_info": "CkkIqraM+raSyoBKEAMaCTEyMTMzNjUyNyCFzqLVBjAAOBxAGnITMjA4MzEzMzM4NDY3MTM2ODQxNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 27,
+          "heat_text": "71 万热度",
+          "heat_value": 710000
+        }
+      ]
+    },
+    {
+      "key": "Q_311147503",
+      "title": "如果只能在上海待一天，有什么美食值得推荐？",
+      "url": "https://www.zhihu.com/question/311147503",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "70 万热度",
+      "latest_heat_value": 700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1789643104.992650",
+        "card_id": "Q_311147503",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 85
+        },
+        "target": {
+          "title_area": {
+            "text": "如果只能在上海待一天，有什么美食值得推荐？"
+          },
+          "excerpt_area": {
+            "text": "1。需要有上海地区的特色 2。费用不高 3。不是纯小吃类"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-fc4a3c9d4ad2e824aadc5bfef5825de4_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "70 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/311147503"
+          }
+        },
+        "attached_info": "Cj8IqraM+raSyoBKEAMaCDMxNDIwNDE3IJCI3OIFMAA4+ANAG3IJMzExMTQ3NTAzeACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 28,
+          "heat_text": "70 万热度",
+          "heat_value": 700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083802170001044893",
+      "title": "如何评价小米公开进行大语言模型 Mimo V2.6 的大规模强化学习训练？",
+      "url": "https://www.zhihu.com/question/2083802170001044893",
+      "first_seen": "2026-09-17 19:05:05 +0800",
+      "last_seen": "2026-09-17 19:05:05 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1789643104.993563",
+        "card_id": "Q_2083802170001044893",
+        "feed_specific": {
+          "answer_count": 87
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价小米公开进行大语言模型 Mimo V2.6 的大规模强化学习训练？"
+          },
+          "excerpt_area": {
+            "text": "什么情况？小米新模型的强化学习训练，直接开了现场直播。 点进去一看，这哪是训练现场啊，这就是烧钱现场，一眨眼就是 10 美刀，一分钟就是 4000 多元人民币出去了。 当然烧钱的速度可能不是均匀的，从 pro 模型开始训练算起 36 小时，两款模型已经花了超过 108 万美元，平均每小时 3 万美元。 要是别人干这事得喊一句误闯天家，但是小米干这事只能喊一句误闯米家了。 在这个页面上，训练花了多少钱、跑了多少步、奖励曲线涨没涨、哪个节点的显卡出了故障，全部公开可查。 见过开放权重、开放训练代码和开放训练数据的，开放训练过程的还真是没见过，围观群众纷纷大呼过瘾。 那么目前 MiMo-V2.6 的 Flash 和 Pro 两款模型训练得怎么样了？ 其实还在初期，毕竟刚开始训练 1 天多一点。 不过已经能看出两者在 RL 过程中都有了比较明显的能力提升： Pro 的 dynsam/avg@n 从第 1 步的约 0.565 提升至 0.614，Flash 则从约 0.514 提升至 0.603；最新公开的 DeepSWE v1.1 离线评测中，Pro 和 Flash 分别达到 62.24 和 60.77。（对比 DeepSeek-Flash v1.1 是 74.2%） Flash 从更低的起点快速追近，Pro 目前只保持小幅领先。不过 Pro 训练完一个 Step 更慢，所以最新的评分还没出来。罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧 3 万美元 信息量爆棚 mimo-v2.6 RL"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-bd429650e664610f38f2375a2b8958e4_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083802170001044893"
+          }
+        },
+        "attached_info": "CkoIqraM+raSyoBKEAMaCTEyMTM2MjE1OCDgq6zVBjAAOLcDQB1yEzIwODM4MDIxNzAwMDEwNDQ4OTN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-17 19:05:05 +0800",
+          "rank": 30,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
         }
       ]
     }
