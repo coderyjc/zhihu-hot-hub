@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-09-18 11:28:23 +0800",
+  "updated_at": "2026-09-18 23:56:03 +0800",
   "items": [
     {
       "key": "Q_2083865288337010896",
@@ -3529,18 +3529,18 @@
       "title": "穴居人晚上去哪里拉屎？",
       "url": "https://www.zhihu.com/question/511767882",
       "first_seen": "2026-09-18 11:28:23 +0800",
-      "last_seen": "2026-09-18 11:28:23 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
       "first_rank": 12,
-      "latest_rank": 12,
-      "latest_heat_text": "98 万热度",
-      "latest_heat_value": 980000,
+      "latest_rank": 17,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1789702103.474602",
+        "id": "16_1789746963.131643",
         "card_id": "Q_511767882",
         "feed_specific": {
-          "answer_count": 92
+          "answer_count": 119
         },
         "target": {
           "title_area": {
@@ -3553,7 +3553,7 @@
             "url": "https://pic1.zhimg.com/80/v2-bbb0659f1e7f0063b803c49eeedca75a_720w.webp?source=2c26e567"
           },
           "metrics_area": {
-            "text": "98 万热度",
+            "text": "75 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3568,7 +3568,7 @@
             "url": "https://www.zhihu.com/question/511767882"
           }
         },
-        "attached_info": "Cj8IvffoiJO447gGEAMaCDc2MDA3NTg3ILbjjY8GMAA4kAJAC3IJNTExNzY3ODgyeACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "Cj8I5qHtwruSsLlXEAMaCDc2MDA3NTg3ILbjjY8GMAA4/AJAEHIJNTExNzY3ODgyeACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -3576,6 +3576,12 @@
           "rank": 12,
           "heat_text": "98 万热度",
           "heat_value": 980000
+        },
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 17,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
         }
       ]
     },
@@ -4548,6 +4554,1631 @@
       "history": [
         {
           "observed_at": "2026-09-18 11:28:23 +0800",
+          "rank": 30,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084291380302574171",
+      "title": "有消息传智谱 Zcode 会上传用户的全量 Git 操作，这是否属实？",
+      "url": "https://www.zhihu.com/question/2084291380302574171",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "1486 万热度",
+      "latest_heat_value": 14860000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1789746963.112373",
+        "card_id": "Q_2084291380302574171",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 247
+        },
+        "target": {
+          "title_area": {
+            "text": "有消息传智谱 Zcode 会上传用户的全量 Git 操作，这是否属实？"
+          },
+          "excerpt_area": {
+            "text": "从 Zcode 的飞书群里面看到的... 已有部分用户把这个文章链接丢到 Zcode 使用 GLM 模型来分析，问是否属实...AI 也自己承认了 @扒一扒 ZCode 静默上传全量 Git 历史的骚操作 · Code is cheap, let's talk"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-96d8f66c5c4ace5aa93547cfda7c81a6_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "1486 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084291380302574171"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM4MjQxOCD9urPVBjAAOJMFQAByEzIwODQyOTEzODAzMDI1NzQxNzF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 1,
+          "heat_text": "1486 万热度",
+          "heat_value": 14860000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083887492047036761",
+      "title": "今年前 8 个月全国上线微短剧 43 万部，其中 AI 剧占比超九成，广电总局表示要大力扶持真人剧，透露哪些信号？",
+      "url": "https://www.zhihu.com/question/2083887492047036761",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "1025 万热度",
+      "latest_heat_value": 10250000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1789746963.113598",
+        "card_id": "Q_2083887492047036761",
+        "feed_specific": {
+          "answer_count": 122
+        },
+        "target": {
+          "title_area": {
+            "text": "今年前 8 个月全国上线微短剧 43 万部，其中 AI 剧占比超九成，广电总局表示要大力扶持真人剧，透露哪些信号？"
+          },
+          "excerpt_area": {
+            "text": "9 月 17 日，国新办举行「开局起步‘十五五’」系列主题新闻发布会。 国家广播电视总局网络视听节目管理司司长王小亮在发布会上介绍，全国微短剧用户已超 8 亿，2025 年市场规模突破千亿元。今年前 8 个月，上线微短剧 43 万部，是去年全年的 13 倍，其中 AI 剧占比超九成，主要是人工智能技术在微短剧创作中得以广泛应用。AI 技术为微短剧降本增效、创新表达打开了新空间，同时也带来权益保护、内容质量等新挑战。真人剧是精品创作的主力，要大力扶持。深入实施「微短剧精品创作传播计划」，指导平台开设「真人剧」专区，拿出真金白银来扶持，让好作品有市场、有回报。AI 剧发展很快、占比很高，坚持鼓励创新与守住底线并重，要求 AI 剧打上内容标注，推动平台严守肖像、声音授权底线，全流程把关。归根结底，AI 是工具，人是创作的主体。AI 剧发展越快，越要把好内容关。 今年以来，坚持问题导向，把有害低俗、儿童不良、盗版侵权的内容作为治理重点，全网下架违规微短剧 6.8 万部。把好内容关，平台负有主体责任，要持续压紧压实，着力净化行业生态。广电总局：要大力扶持真人剧！今年前 8 个月上线微短剧 43 万部，是去年全年的 13 倍，AI 剧占比超九成"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-e63607712aa66cfa06bc74730860c6c0_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "1025 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083887492047036761"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM2NjE4NSDWyq3VBjAAOM4BQAFyEzIwODM4ODc0OTIwNDcwMzY3NjF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 2,
+          "heat_text": "1025 万热度",
+          "heat_value": 10250000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083872661831263836",
+      "title": "姐姐姐夫答应我上大学送我电脑，现在说只给 5000 块钱，这应该吗？",
+      "url": "https://www.zhihu.com/question/2083872661831263836",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "601 万热度",
+      "latest_heat_value": 6010000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1789746963.114693",
+        "card_id": "Q_2083872661831263836",
+        "feed_specific": {
+          "answer_count": 850
+        },
+        "target": {
+          "title_area": {
+            "text": "姐姐姐夫答应我上大学送我电脑，现在说只给 5000 块钱，这应该吗？"
+          },
+          "excerpt_area": {
+            "text": "我表达不清楚，导致一些朋友没弄清楚人物关系，抱歉！给大家磕头了。 「 我 」 是妹妹，姐姐是「我」的亲姐姐，这是一对亲姐妹。 我朋友跟她俩是堂姐妹关系，所以知道这个事情，我俩就讨论了一下。我俩跟姐姐姐夫在同一个城市，有时约饭也会碰上，所以认得。 详细内容： 1 、我的情况：今年上大学，省内公办专科。姐姐姐夫：23 年结婚，近几年买房、装修、买车、生娃，据说是花了不少钱，目前储蓄不多。 2 、姐姐姐夫答应我上大学送我电脑，高考完后姐夫说最近电脑硬件价格太高了，超出正常的价值，建议我先不要买，毕竟我刚上大一，不着急用，等电脑价格后面看有没有回调，可以等等。 3 、我开学后问了辅导员，说还是需要一台电脑，同寝只有我一个人没有电脑，我就跟姐姐说，需要一台。 4 、后来不知道姐姐姐夫怎么商量的，现在说给我 5000 块钱，我自己看电脑，不够的让我找我妈妈想办法。 我该怎么评价这件事呢？之前都答应好了的，姐姐也有点过意不去。 再补充一下： 1 、主人公是我朋友的堂妹，早上跟我说了这事，我两就讨论了一下，发知乎就问问大家的看法，我真不是本人。 2 、据了解，大概收入姐姐 5 千姐夫 1 万 5，姐夫国企，姐姐体制内，没有车贷，房贷 2000，养娃不清楚。 3 、收入是我补充的，不是妹妹想要 2 万的电脑，文字信息看全啊喂！魂淡！！"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/80/v2-8c2617fb02447afcf7c9a7207204b962_720w.webp"
+          },
+          "metrics_area": {
+            "text": "601 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083872661831263836"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM2NDU1OSCHr63VBjAAON8HQAJyEzIwODM4NzI2NjE4MzEyNjM4MzZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 3,
+          "heat_text": "601 万热度",
+          "heat_value": 6010000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084269010455984115",
+      "title": "亚运男篮半决赛，中国男篮 77-97 不敌日本男篮，无缘亚运会决赛，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2084269010455984115",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "460 万热度",
+      "latest_heat_value": 4600000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1789746963.115811",
+        "card_id": "Q_2084269010455984115",
+        "feed_specific": {
+          "answer_count": 850
+        },
+        "target": {
+          "title_area": {
+            "text": "亚运男篮半决赛，中国男篮 77-97 不敌日本男篮，无缘亚运会决赛，如何评价本场比赛？"
+          },
+          "excerpt_area": {
+            "text": "北京时间 9 月 18 日，2026 年爱知·名古屋亚运会男篮迎来半决赛对决，中国男篮最终以 77 比 97 不敌东道主日本男篮，继上一届杭州亚运会之后，再次止步半决赛。他们将在三四名比赛中对阵伊朗男篮，此前，伊朗队在另一场半决赛中以 51 比 77 不敌韩国男篮。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-2a6df97e6a779b471886d27bad9d8294.png"
+          },
+          "metrics_area": {
+            "text": "460 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084269010455984115"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM4MTYzMSCnkbPVBjAAOKUIQANyEzIwODQyNjkwMTA0NTU5ODQxMTV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 4,
+          "heat_text": "460 万热度",
+          "heat_value": 4600000
+        }
+      ]
+    },
+    {
+      "key": "Q_658116158",
+      "title": "办公楼进来条蛇，我被惊吓后把它打死了，事后发现这是国家保护动物，我需要负法律责任吗？",
+      "url": "https://www.zhihu.com/question/658116158",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "392 万热度",
+      "latest_heat_value": 3920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1789746963.116769",
+        "card_id": "Q_658116158",
+        "feed_specific": {
+          "answer_count": 75
+        },
+        "target": {
+          "title_area": {
+            "text": "办公楼进来条蛇，我被惊吓后把它打死了，事后发现这是国家保护动物，我需要负法律责任吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-b85b047e57d399eb3b8b8e72cb6658d3_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "392 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/658116158"
+          }
+        },
+        "attached_info": "Cj8I5qHtwruSsLlXEAMaCTEwODUyNjAzOSDU3f6yBjAAOHNABHIJNjU4MTE2MTU4eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 5,
+          "heat_text": "392 万热度",
+          "heat_value": 3920000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084226545174962249",
+      "title": "如何看待住房城乡建设部称「我国房地产进入存量时代」？未来房地产行业将如何发展？房价如何变化？",
+      "url": "https://www.zhihu.com/question/2084226545174962249",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "358 万热度",
+      "latest_heat_value": 3580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1789746963.117251",
+        "card_id": "Q_2084226545174962249",
+        "feed_specific": {
+          "answer_count": 92
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待住房城乡建设部称「我国房地产进入存量时代」？未来房地产行业将如何发展？房价如何变化？"
+          },
+          "excerpt_area": {
+            "text": "据新华社北京 9 月 18 日电 9 月 18 日，国务院新闻办公室举行「开局起步‘十五五’」系列主题新闻发布会。住房城乡建设部新闻发言人、副部长陈绍旺在发布会上表示，住建事业主要有城乡建设、住房和房地产、建筑业三大板块。三大板块都处在转型发展的关键期，概括起来是「两个转向、两个转变、三化转型」。 「两个转向」讲的是城乡建设板块，是指城镇化正从快速增长期转向稳定发展期，城市发展正从大规模增量扩张阶段转向存量提质增效为主的阶段；「两个转变」讲的是住房和房地产板块，一个是房地产市场供求关系发生重大变化，一个是房地产进入存量时代；「三化转型」讲的是建筑业板块，也就是建筑业向智能化、绿色化、融合化方向转型。（记者王优玲、何晓）住房城乡建设部：我国房地产进入存量时代"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-41afb5165b9a576a13028f4e3415c14c_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "358 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084226545174962249"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM3ODY4OCCbwrLVBjAAOOwCQAVyEzIwODQyMjY1NDUxNzQ5NjIyNDl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 6,
+          "heat_text": "358 万热度",
+          "heat_value": 3580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084320053546022092",
+      "title": "更大的超级乌龙来了，亚运会曲棍球比赛，主办方将朝鲜国歌错当成韩国国歌播放，韩国计划抗议，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2084320053546022092",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "324 万热度",
+      "latest_heat_value": 3240000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1789746963.118048",
+        "card_id": "Q_2084320053546022092",
+        "feed_specific": {
+          "answer_count": 103
+        },
+        "target": {
+          "title_area": {
+            "text": "更大的超级乌龙来了，亚运会曲棍球比赛，主办方将朝鲜国歌错当成韩国国歌播放，韩国计划抗议，对此你怎么看？"
+          },
+          "excerpt_area": {
+            "text": "大乌龙！亚运会曲棍球韩国赛前错放朝鲜国歌，韩方计划正式抗议！- 直播吧 韩媒 news1 报道，在今日亚运会男子曲棍球韩国 5-0 孟加拉国比赛的赛前，组委会将韩国国歌错放成了朝鲜国歌。 韩媒表示曲棍球比赛与足球、篮球一样，在比赛开始前球员们列队时，会播放双方的国歌。 首先播放的是韩国国歌。然而由于赛事组委会的失误，播放的并非韩国国歌，而是朝鲜国歌。 当朝鲜国歌响起时，大吃一惊的韩国选手们立即将手从胸前移开，并向工作人员指出错误。 组委会紧急停止播放朝鲜国歌，转而播放了孟加拉国国歌。之后韩国国歌在双方结束互相问候，即将开赛的时候才被播放。 相关人士表示：「韩方为了准备掌握事态，收集了视频等证据，最终确认确实播放了朝鲜国歌，我们计划向组委会提出正式抗议。」"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-1059aad020045db57ce31e94127ef72e_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "324 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084320053546022092"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM4MzkwMiCx8LPVBjAAOMEBQAZyEzIwODQzMjAwNTM1NDYwMjIwOTJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 7,
+          "heat_text": "324 万热度",
+          "heat_value": 3240000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083956845534605480",
+      "title": "睡觉时将双手举过头顶的「投降式」睡姿，其实是身体在求救，这是真的吗？会带来哪些影响？怎样的睡姿最科学？",
+      "url": "https://www.zhihu.com/question/2083956845534605480",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "231 万热度",
+      "latest_heat_value": 2310000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1789746963.118697",
+        "card_id": "Q_2083956845534605480",
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "睡觉时将双手举过头顶的「投降式」睡姿，其实是身体在求救，这是真的吗？会带来哪些影响？怎样的睡姿最科学？"
+          },
+          "excerpt_area": {
+            "text": "川观新闻编辑 郭雨迪 综合央视新闻、生命时报、网友评论等 今天，「举手式睡姿是身体在求救」冲上微博热搜。 你有没有过这种经历：换了好几个姿势都睡不着，偶然把手举过头顶，突然觉得特别舒服，结果最后是被手臂麻醒的。 睡觉姿势示意图。图片由 AI 生成 如果你也有这个习惯，先别急着觉得「这只是睡得香」。有观点提醒：这种姿势让你觉得舒服，可能反而说明——你的呼吸模式出了问题。 不少网友表示：一直这样睡。 也有网友质疑：这说法可信吗？ 为什么有人睡觉爱把双手举过头顶？ 睡觉时不自觉向后举手，可能是因为颈肩部软组织过于紧张，导致入睡困难，把手举高后能暂时缓解。而肩颈僵硬、紧张，很可能和呼吸模式紊乱有关。 简单说，睡觉时喜欢向后举手，可能和肩颈部代偿呼吸相关：当膈肌没有好好工作，身体就会频繁启动肩颈肌肉参与呼吸。这部分肌肉白天忙，晚上也得不到休息，肩颈依然因为呼吸而持续「劳作」。 这时，身体就需要借助上抬手臂，让更多血液和营养聚集过来，继续维持肩颈肌肉的代偿工作。于是，睡觉时就不自觉把手举起来了。 长期「举手式睡姿」，可能带来这些伤害 抬起手睡觉，虽然短期会觉得很舒服，但长期保持这种睡姿，可能给健康带来负面影响。影响上肢血液循环诱发肩周炎引发反流性食管炎影响心肺健康 想改善睡姿，可以试试调整呼吸模式 呼吸调整练习：双手手掌放在肚脐位置，鼻吸鼻呼。吸气时，将气体更多引入胸腔下部和腹腔，能感觉扩张的腹腔将双手向上顶出；然后呼气放松，此时腹部回落。每组练习 5—8 次，每次练习 3 组以上。 推荐睡姿 不同睡姿各有优缺点，可根据自身情况「对号入座」，选择适合自己的睡觉姿势。 你有睡觉时把手举过头顶的习惯吗？饭点儿到，聊一聊。「举手式睡姿是身体在求救」冲上热搜，你有这个习惯吗？丨 V 观话题 _ 四川在线"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-b212db9c0e47eb13081611064ca663de_b.jpg"
+          },
+          "metrics_area": {
+            "text": "231 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083956845534605480"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM3MDA2NyDuy67VBjAAOIMBQAdyEzIwODM5NTY4NDU1MzQ2MDU0ODB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 8,
+          "heat_text": "231 万热度",
+          "heat_value": 2310000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083336552311272349",
+      "title": "如何评价《生化危机》新电影导演因低估里昂对玩家影响力擅自删减相关戏份, 被粉丝投诉后再度道歉?",
+      "url": "https://www.zhihu.com/question/2083336552311272349",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1789746963.121100",
+        "card_id": "Q_2083336552311272349",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价《生化危机》新电影导演因低估里昂对玩家影响力擅自删减相关戏份, 被粉丝投诉后再度道歉?"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-4cbaad563290d9a1c71dbae255596cee_b.jpg"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083336552311272349"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM0Njc5MCC8yKXVBjAAOBdACHITMjA4MzMzNjU1MjMxMTI3MjM0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 9,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082122467494064736",
+      "title": "孙悟空为什么被压前叫「泼猴」，出来后都喊「大圣」？",
+      "url": "https://www.zhihu.com/question/2082122467494064736",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1789746963.121565",
+        "card_id": "Q_2082122467494064736",
+        "feed_specific": {
+          "answer_count": 67
+        },
+        "target": {
+          "title_area": {
+            "text": "孙悟空为什么被压前叫「泼猴」，出来后都喊「大圣」？"
+          },
+          "excerpt_area": {
+            "text": "孙悟空没有被压在五行山下之前，神仙都喊他「泼猴」。被压了五百年之后，出来所有的神仙都喊他「大圣」。"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-81443d66c00b215cb907977d22f0685f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082122467494064736"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTMwMjk1NiCI85PVBjAAOG5ACXITMjA4MjEyMjQ2NzQ5NDA2NDczNngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 10,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083231068295886094",
+      "title": "8 个月婴儿被医院注射十倍肾上腺素，这可能会对婴儿造成哪些影响？医院在治疗过程中存在哪些违规操作？",
+      "url": "https://www.zhihu.com/question/2083231068295886094",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1789746963.122059",
+        "card_id": "Q_2083231068295886094",
+        "feed_specific": {
+          "answer_count": 43
+        },
+        "target": {
+          "title_area": {
+            "text": "8 个月婴儿被医院注射十倍肾上腺素，这可能会对婴儿造成哪些影响？医院在治疗过程中存在哪些违规操作？"
+          },
+          "excerpt_area": {
+            "text": "8 个月大的男婴晓乐（化名）进食后身体不适，到河北邢台市中心医院儿科就诊。医生初步诊断为「过敏性皮疹、血管神经性水肿」，并开具医嘱「0.08mg 盐酸肾上腺素注射液肌肉注射（立即）」。没想，护士实际操作为 0.8mg。「随后（患者）出现哭闹、心率增快、面色红」等症状。应家属要求，晓乐被转至河北省儿童医院进一步治疗。 因未达成调解，1 个月前，晓乐父亲向法院提起民事诉讼，要求邢台市中心医院赔偿医药费、误工费、护理费、营养费、住院伙食补助费等，并承担诉讼费、鉴定费等费用。 涉事药品肾上腺素 9 月 10 日，澎湃新闻致电邢台市中心医院，提出采访诉求。截至发稿，未获回应。9 月 13 日，澎湃新闻从有关渠道获悉，双方已达成调解意见。 男婴被误操作注射 10 倍肾上腺素 邢台市中心医院 2026 年 2 月 12 日 14 时 6 分作出的门诊初诊病历显示，8 个月 21 天的晓乐 1 小时前进食「蛋黄、核桃油」，30 分钟前出现大量红色皮疹，伴有痒感、稍有肿胀，不伴有发热，无寒战及抽搐，无咳嗽、气促及呼吸困难等。体格检查显示「病理征未引出」。 病历显示，初步诊断为「过敏性皮疹、血管神经性水肿」。医师开具处方药物「盐酸肾上腺素注射液」，剂量为「0.08mg」，用法为「肌肉注射立即」。 近日，晓乐父亲告诉澎湃新闻，护士注射时，家属在场，但对药物规格并不清楚。注射后，家属发现护士所拿药瓶上写的是 0.8mg。家属和护士多次沟通要求核对，对方不承认，医生解释称药物会进行稀释。 事发当日，晓乐转入河北省儿童医院，入院诊断为：药物过量、荨麻疹、先天性心脏病、心肌损害、特应性皮炎。其中，损伤、中毒的外部原因「主要为肾上腺素能受体显效药的有害效应，不可归类在他处」。 晓乐父亲表示，后经多次交涉，12 天后，邢台市中心医院将打错药的事补记进病历。 邢台市中心医院 2 月 24 日医师续写病历显示，于 2 月 12 日 14 时 24 分发现患儿肌注肾上腺素剂量错误，应肌注剂量为 0.08mg 肾上腺素，实际操作为 0.8mg 肾上腺素，「随后出现哭闹、心率增快、面色红，查心电图提示窦性心动过速 186 次 / 分，监测血氧饱和度波动正常，血压波动于 124-142/70-84mmHg，给予生理盐水、呋塞米促进代谢」。 病历显示，应家属要求请心内科会诊，心内科会诊意见建议暂时观察，家属要求转上级医院进一步治疗。在医患办协助下，派医院救护车，患者转至河北省儿童医院。 双方已达成调解意见 既往检查资料显示，晓乐患有先天性心脏病，存在动脉导管未闭。晓乐父亲称，在注射过量肾上腺素后曾带晓乐复查，发现存在动脉导管的反向扩张等。 晓乐父亲称，事发后，家属向当地卫健部门投诉并与医院进行调解，邢台市中心医院提出给 1 万元的补偿，家属未接受。1 个月前，他们向法院提起民事诉讼，要求医院赔偿医药费、误工费、护理费、营养费等，并承担本案诉讼费、鉴定费等。 晓乐父亲表示，诉讼中，将向法院申请进行鉴定。 2022 年 7 月，国家卫健委、国家中医药管理局发布《关于进一步加强用药安全管理提升合理用药水平的通知》要求，医疗机构要健全并落实用药安全相关制度，提高医药护技等人员防范用药错误的意识和能力，实施处方开具、调配、给药、用药的全流程管理…执行用药医嘱的护士等医务人员要认真进行核对，严格执行「三查七对」，确保给药的时间、途径、剂量等准确无误。鼓励医疗机构运用信息化手段，对临床用药全过程进行智能化审核与管理。 公开信息显示，「三查」指的是操作前查、操作中查、操作后查。「七对」指的是查对床号、姓名、药名、剂量、时间、浓度、用法。 9 月 10 日，澎湃新闻致电邢台市中心医院医患办，工作人员称会将相关情况汇报给领导。截至目前，澎湃新闻未获回应。 9 月 13 日，澎湃新闻从有关渠道获悉，晓乐家属和邢台市中心医院已达成调解意见。 河北一医院误给 8 月龄婴儿注射 10 倍剂量肾上腺素，双方已达成调解意见 _ 凤凰网河北一医院误给 8 月龄婴儿注射 10 倍剂量肾上腺素，双方已达成调解意见"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-f8f56bd33445b64a19079ed2cce09838_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "80 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083231068295886094"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM0MTU2MSD/g6TVBjAAOIwBQApyEzIwODMyMzEwNjgyOTU4ODYwOTR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 11,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084369406054720831",
+      "title": "长江倾倒淤泥事件官方通报，称涉事企业被立案查处，11 名相关责任人被追责，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2084369406054720831",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1789746963.125136",
+        "card_id": "Q_2084369406054720831",
+        "feed_specific": {
+          "answer_count": 40
+        },
+        "target": {
+          "title_area": {
+            "text": "长江倾倒淤泥事件官方通报，称涉事企业被立案查处，11 名相关责任人被追责，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "就网民反映的长江武汉段天兴洲附近水域有船只倾倒黑色泥状物有关问题，湖北省和武汉市联合调查组 18 日公布调查处理结果。经查，倾倒物为航道清淤疏浚产生的淤泥，属于「其他固体废物」，具有污染特性；抛泥区周边水域及下游取水点水质均符合地表水Ⅱ类标准；涉事企业因违法倾倒固体废物被立案查处，11 名相关责任人被追责。湖北省和武汉市联合调查组通报长江倾倒淤泥事件"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-fde31b1dcdaa143ca37344d127b3c88e_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "79 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084369406054720831"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM4NjgyMyCozLTVBjAAOFBAC3ITMjA4NDM2OTQwNjA1NDcyMDgzMXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 12,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084379544182416921",
+      "title": "中国男篮 77-97 不敌日本男篮后，网友称让郭士强下课，如何评价这场比赛他的战术安排？真的有问题吗？",
+      "url": "https://www.zhihu.com/question/2084379544182416921",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "78 万热度",
+      "latest_heat_value": 780000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1789746963.125818",
+        "card_id": "Q_2084379544182416921",
+        "feed_specific": {
+          "answer_count": 72
+        },
+        "target": {
+          "title_area": {
+            "text": "中国男篮 77-97 不敌日本男篮后，网友称让郭士强下课，如何评价这场比赛他的战术安排？真的有问题吗？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-13ad0961ce4a4ee84c7d9a0dfbb6fd18_720w.webp"
+          },
+          "metrics_area": {
+            "text": "78 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084379544182416921"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM4NzQ4MCCZ37TVBjAAOGVADHITMjA4NDM3OTU0NDE4MjQxNjkyMXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 13,
+          "heat_text": "78 万热度",
+          "heat_value": 780000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083986747210166982",
+      "title": "印度媒体吐槽名古屋亚运会「要是换成印度这么干，早就被骂翻成全球丑闻了」，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2083986747210166982",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "77 万热度",
+      "latest_heat_value": 770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1789746963.126194",
+        "card_id": "Q_2083986747210166982",
+        "feed_specific": {
+          "answer_count": 265
+        },
+        "target": {
+          "title_area": {
+            "text": "印度媒体吐槽名古屋亚运会「要是换成印度这么干，早就被骂翻成全球丑闻了」，对此你怎么看？"
+          },
+          "excerpt_area": {
+            "text": "印度都忍不了！媒体人：日本承办亚运一团糟，要是印度早成丑闻了 - 直播吧 本届爱知 - 名古屋亚运会场外事件不断，多个代表团遭遇住宿上的问题，印度媒体人维平·蒂瓦里在社媒上抨击了日本方面的后勤保障不到位，并表示要是印度这样，早就变成全球丑闻了。 维平·蒂瓦里写道：日本承办亚运会一团糟。要是换成印度，早就被骂翻了天。 周三，印度运动员在名古屋滞留超过 12 小时，房间一间都没准备好；游轮上的舱房也等了几个小时才安排下来；男子田径队周日抵达筑波，光办理入住就等了四个多小时。 第二天早上，酒店说根本没订早餐，部分运动员因此没吃上饭；随后，球队大巴也没能准时出现在晚间训练现场；运动员被分散安排在三个不同的酒店，距离训练场地和用餐地点超过四公里；运动营养补给甚至普通水果都已经成了问题。 如果印度主办成这样，社交媒体和新闻频道不到晚上就能把它炒成全球丑闻。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-b2951fe21ae521b42668a7945a962460_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "77 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083986747210166982"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM3MTk2OSDHg6/VBjAAONEDQA1yEzIwODM5ODY3NDcyMTAxNjY5ODJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 14,
+          "heat_text": "77 万热度",
+          "heat_value": 770000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084191863120946934",
+      "title": "永和豆浆被指擦边，400 万粉授权账号播黑丝、洗澡内容，这算品牌营销的一次「翻车」吗？",
+      "url": "https://www.zhihu.com/question/2084191863120946934",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "76 万热度",
+      "latest_heat_value": 760000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1789746963.126915",
+        "card_id": "Q_2084191863120946934",
+        "feed_specific": {
+          "answer_count": 93
+        },
+        "target": {
+          "title_area": {
+            "text": "永和豆浆被指擦边，400 万粉授权账号播黑丝、洗澡内容，这算品牌营销的一次「翻车」吗？"
+          },
+          "excerpt_area": {
+            "text": "当流量意味着销量，「擦边」成了一些品牌营销眼里性价比最高的捷径——用最暧昧的画面，换最便宜的热度。 今年 8 月初，因官方账号发布的多条短视频被指打擦边球，知名小家电品牌苏泊尔 (39.990, 0.29, 0.73%) 卷入舆论漩涡，相关话题登上热搜。彼时的批评声很集中：一个做了几十年厨具的国民品牌，何至于用这种方式博眼球？ 相似的剧情，如今换了主角再次上演。在某电商平台上，一个名为「永和豆浆冲饮旗舰店」的账号，发布了多条涉及「擦边」的视频：出镜主播换穿黑丝、剧情中出现洗澡桥段等。《消费者报道》查询发现，该账号为永和豆浆官方团队授权经营的账号，粉丝量甚至超过了永和豆浆官方旗舰店本身。 《消费者报道》以消费者身份致电上海永禾食品科技有限公司（注：永和豆浆官方旗舰店运营主体，下称「上海永禾」）客服部，工作人员称：「只要有标注『旗舰店’，即是由品牌供货，可以放心购买。至于视频内容涉嫌擦边，内部会去排查。」 「永和豆浆都玩擦边了？」 沙发上，一对年轻男女并排坐着看电视，女子将腿搁在对方身上，被后者一脸嫌弃地推开。随后，镜头切入到女子走入浴室洗澡，并出现蕾丝吊带裙、换上黑色丝袜等画面。 这段时长约 15 秒、与豆浆产品毫无关联的内容，出自「永和豆浆冲饮旗舰店」账号一条 4 分 05 秒的视频，视频后半段转入产品推介，配文写着：「拍一发八，下单即送便携搅拌杯。」 多位网友在该视频的弹幕和评论区里表达了不解：「换丝袜和豆浆有啥关系，这广告打一分都觉得多了」「如果产品够好不会靠这个吸引人」「永和豆浆都玩擦边了？」也有网友一针见血：「（为了）完播率。」 类似风格、内容的视频，还出现在名为「永和豆浆轻食旗舰店」的账号里，如出镜女主播衣着清凉，视频以起床场景开头等。 而比视频内容更值得追问的，是这些账号与永和豆浆是什么关系。《消费者报道》查询发现，「永和豆浆冲饮旗舰店」的认证主体为成立于 2025 年 9 月的杭州块八毛贸易有限公司，「永和豆浆轻食旗舰店」的认证主体为成立于 2021 年 12 月的杭州维幄贸易有限公司。 工商信息显示，两家公司经营范围均包括食品销售（仅销售预包装食品）、食品互联网销售（仅销售预包装食品）、品牌管理、市场营销策划、摄像及视频制作服务等，且均与上海永禾无股权关联。 不过，把「擦边」的板子打在永和豆浆身上，也并不冤枉它。上海永禾客服部工作人员对《消费者报道》表示，为了拓展销售渠道，很多品牌会授权其他公司带货，「我们也是这个模式。只要标注了』旗舰店’，便都是由我们品牌供货，链路是通的，可以放心购买，有品牌和平台去兜底。」换言之，这些账号虽由第三方公司运营，却是品牌授权并供货的销售渠道。 谈及视频内容涉嫌擦边，上述工作人员称「内部会去排查」，并表示，对授权账户发布的内容，公司有相关部门进行日常监管，「我们会把这个事情反馈过去。」 值得注意的是，「永和豆浆冲饮旗舰店」的粉丝达 405.7 万，远超永和豆浆官方旗舰店 60.7 万的规模。这个 2024 年 9 月发布第一条视频的账号，至今已发布短视频 1900 余条，但内容同质化、低质化问题突出。 授权合作方以这些擦边、低质的内容换来短期热度，影响的却是品牌几十年攒下的信誉。对永和豆浆来说，这笔账是否划算，值得算一算。 国民早餐品牌的「没落」 对 80 后、 90 后而言，永和豆浆承载着年少时的记忆。 1995 年，创始人林炳生带着已创立 13 年的永和豆浆进入大陆市场。当时，中式早餐多局限于早市、路边摊及家庭式小店，用餐环境较差，连锁化经营意识也不强。林炳生以代工预包装豆浆产品为切入点，进入武汉、长沙、成都等城市。 初步试水后，他于 1999 年在上海浦东开设了大陆首家直营店，不仅打破早餐「只做早市」的局限，还以明亮整洁的门店、明码标价、 24 小时营业、卤肉饭等台式简餐填补了当时的市场空白。 为打破现磨局限、支撑其全国化发展和出海布局，2004 年永和豆浆建成现代化豆浆粉生产基地，次年推出预包装商品，门店现制与零售商品由此并行铺开。超市货架上的豆浆粉也反过来强化了品牌认知，为门店带来了更多曝光。在特许连锁经营下，永和豆浆门店一度扩张至约 3000 家。 但问题也随之而来。除了与同样以豆浆为主打产品的连锁早餐品牌「永和大王」长达数年的商标权之争、被各种山寨店严重稀释品牌形象外，永和豆浆还暴露出对加盟店监管不到位、‌菜单多年不更新等问题。 近年来，早餐赛道的竞争日益激烈，前有肯德基、麦当劳的中式早餐日益多样化且越来越便宜，后有霸王茶姬、古茗、奈雪的茶等新茶饮品牌不断推出 10 元左右的低价早餐，永和豆浆逐渐失去性价比优势。据其官网今年 8 月发布的信息，目前全国有 500 余家餐饮门店——这一规模较巅峰期有明显收缩。 以豆浆粉为代表的第二大业务也面临挑战。传统冲调饮品行业普遍遭遇消费场景被现制茶饮分流乃至取代的「危机」：现制茶饮通过「真茶真奶」的新鲜口感、定制化体验及极强的社交属性，不仅抢占了休闲场景，还通过瓶装即饮产品反向渗透传统货架，对冲泡饮品全方位挤压。 曾以「一年卖出 3 亿多杯」占据市场心智的香飘飘 (11.260, 0.16, 1.44%) 是行业缩影之一。2024 年、 2025 年，香飘飘连续两年营收、净利双双下滑；今年上半年虽扭亏为盈，但扣非净利润仍处于亏损状态，意味着其主营业务并未真正扭亏。 而在追求健康化、新鲜化的消费趋势下，永和豆浆等传统品牌亟需打破「父辈食品」的刻板印象，重建与年轻群体的认知连接。这需要重构渠道与营销叙事。为此，永和豆浆加速线上化进程、聚焦「药食同源」与「精准轻养生」，推出中华老药工联名系列。 从数据看，这一策略初见成效。据「观潮新消费」今年 4 月对永和豆浆电商新零售总经理王双的采访，2025 年永和豆浆线上业务实现翻倍增长，电商新零售业务占总营收的 30%。 但消费场景拓展仍是痛点。华信人咨询发布的《2025 年中国豆浆市场洞察报告》显示，早餐搭配场景占比达 31%，消费时段集中在 6 点—9 点，占比 47%；而下午茶、运动后补充等场景渗透率均低于 10%。 将‌产品矩阵‌扩展到风味豆浆、食养系列等的永和豆浆，仍亟需回答一个问题：「如何让年轻人在早餐之外也愿意主动喝一杯豆浆？」 解答这个问题，显然不能依靠博眼球的擦边营销。 永和豆浆也玩起了擦边？400 万粉授权账号上，黑丝、洗澡和豆浆无关"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-3a2cf4123ffb3074116ec58ff96ee58e_b.jpg"
+          },
+          "metrics_area": {
+            "text": "76 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084191863120946934"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM3NzMyMiDOgbLVBjAAOKIBQA5yEzIwODQxOTE4NjMxMjA5NDY5MzR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 15,
+          "heat_text": "76 万热度",
+          "heat_value": 760000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083879086175117961",
+      "title": "印度央行强制塔塔控股公司上市，或成印度史上最大 IPO，为什么还有强制上市的情况？",
+      "url": "https://www.zhihu.com/question/2083879086175117961",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1789746963.130546",
+        "card_id": "Q_2083879086175117961",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "印度央行强制塔塔控股公司上市，或成印度史上最大 IPO，为什么还有强制上市的情况？"
+          },
+          "excerpt_area": {
+            "text": "印度储备银行近日驳回塔塔集团提出的豁免申请，要求其控股公司塔塔之子遵守上市规定。分析人士估计，塔塔之子上市估值可能超过 1200 亿美元，将成为印度历史上最大规模首次公开募股，并可能深刻改变这家百年企业集团的所有权与治理结构。（新浪财经）印度央行强制塔塔控股公司上市 或催生该国史上最大 IPO"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-69d588f38791ae04ebe3c0ad5c80e5d2_b.jpg"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083879086175117961"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM2NTM1NiCCu63VBjAAOO8BQA9yEzIwODM4NzkwODYxNzUxMTc5NjF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 16,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083239926473277972",
+      "title": "佟丽娅回应离婚对儿子的影响，称儿子现在还不知道父母离婚，孩子真的感受不到吗？如何看待她直面争议的态度？",
+      "url": "https://www.zhihu.com/question/2083239926473277972",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1789746963.132913",
+        "card_id": "Q_2083239926473277972",
+        "feed_specific": {
+          "answer_count": 133
+        },
+        "target": {
+          "title_area": {
+            "text": "佟丽娅回应离婚对儿子的影响，称儿子现在还不知道父母离婚，孩子真的感受不到吗？如何看待她直面争议的态度？"
+          },
+          "excerpt_area": {
+            "text": "9 月 15 日，佟丽娅在最新采访中表示，儿子现在还不知道父母离婚了。 9 月初，佟丽娅与陈思诚就曾拍到合体带儿子朵朵外出聚餐，一家三口同框。陈思诚带朵朵散步时，佟丽娅耐心等候，最美的笑容留给孩子。此前，也曾有网友偶遇佟丽娅、陈思诚带朵朵一起玩耍。 谈及过往，佟丽娅表示，外界会给她贴上「是谁谁谁的老婆」的名头，也因此被误解只会出演陈思诚的作品，影视邀约随之变少。佟丽娅提到，当初自己走进国家大剧院出演舞剧时，身边不少人都不理解，质疑她为什么要这么做。她表示自己要穿越风暴，划着小船往前走，只有坚持前行，才知道自己能走多远。 佟丽娅与陈思诚 2010 年因拍摄《北京爱情故事》结缘，2014 年在大溪地举行婚礼，2021 年 5 月 20 日官宣离婚。 来源：三湘都市报 编辑：姜雨璐"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-edad1312e2e61e6a116dfe89202be7a3.png"
+          },
+          "metrics_area": {
+            "text": "74 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083239926473277972"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM0MjIxMSC/lKTVBjAAOMcBQBFyEzIwODMyMzk5MjY0NzMyNzc5NzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 18,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083466637525762783",
+      "title": "作为家长，如何看待孩子的不完美？",
+      "url": "https://www.zhihu.com/question/2083466637525762783",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1789746963.134232",
+        "card_id": "Q_2083466637525762783",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "作为家长，如何看待孩子的不完美？"
+          },
+          "excerpt_area": {
+            "text": "日常教学中，总能看到一群满脸凝重，焦虑的父母，那自己的孩子跟别人家孩子横向比较，人家都会说句子了，他这词语都费劲。望子成龙，望女成凤心思很重。作为父母，我们该如何看待孩子的不完美？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-84ee2915045a7604d019e492170d68fa_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "74 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083466637525762783"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM0ODgwNiDjuqfVBjAAOCpAEnITMjA4MzQ2NjYzNzUyNTc2Mjc4M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 19,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084310833782379463",
+      "title": "LPL 2026 赛季资格赛 WE 1-3 JDG，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2084310833782379463",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1789746963.134972",
+        "card_id": "Q_2084310833782379463",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "LPL 2026 赛季资格赛 WE 1-3 JDG，如何评价这场比赛？"
+          },
+          "excerpt_area": {
+            "text": "虎扑 09 月 18 日讯 今日 1-3 不敌 JDG，WE 正式无缘 S16 世界赛今日 1-3 不敌 JDG，WE 正式无缘 S16 世界赛 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-38877f2b4258e9d802636099dfe0ee08_b.jpg"
+          },
+          "metrics_area": {
+            "text": "74 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084310833782379463"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM4MzQyNyCb37PVBjAAOAxAE3ITMjA4NDMxMDgzMzc4MjM3OTQ2M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 20,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084284024198116550",
+      "title": "中国海警回应菲船只碰撞我海警艇，正告菲方立即停止一切侵权挑衅行径，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2084284024198116550",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "73 万热度",
+      "latest_heat_value": 730000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1789746963.135686",
+        "card_id": "Q_2084284024198116550",
+        "feed_specific": {
+          "answer_count": 40
+        },
+        "target": {
+          "title_area": {
+            "text": "中国海警回应菲船只碰撞我海警艇，正告菲方立即停止一切侵权挑衅行径，有哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "中国海警局新闻发言人姜略表示，9 月 18 日，中国海警三洲澳艇依法在中国南沙群岛仙宾礁附近海域开展维权执法行动。菲 3015 号船无视中方多次严正警告，故意调整航向，突然加速斜插我海警艇船艏，导致发生擦碰。菲方行径严重违反国际法和国际关系基本准则，威胁中国海警船艇、人员安全。中国海警艇操作专业规范、合理合法，有关责任完全在菲方。我们正告菲方，立即停止一切侵权挑衅行径，否则由此引发的一切后果由菲方承担。中国海警将继续在中方管辖海域开展维权执法行动，维护国家领土主权和海洋权益。 更多资讯请下载央视新闻客户端"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-17582e3c7c91f7d2d74623edd5f336b8_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "73 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084284024198116550"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM4MjEyMSCjrbPVBjAAOFNAFHITMjA4NDI4NDAyNDE5ODExNjU1MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 21,
+          "heat_text": "73 万热度",
+          "heat_value": 730000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083296809175233530",
+      "title": "沙特发现 1.1 亿吨稀土铀超级矿，对全球稀土及能源市场意味着什么？",
+      "url": "https://www.zhihu.com/question/2083296809175233530",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "71 万热度",
+      "latest_heat_value": 710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1789746963.136860",
+        "card_id": "Q_2083296809175233530",
+        "feed_specific": {
+          "answer_count": 80
+        },
+        "target": {
+          "title_area": {
+            "text": "沙特发现 1.1 亿吨稀土铀超级矿，对全球稀土及能源市场意味着什么？"
+          },
+          "excerpt_area": {
+            "text": "当地时间 9 月 14 日，沙特能源部长阿卜杜勒阿齐兹于维也纳国际原子能机构大会上，对外公布一项重磅矿产勘探成果。位于麦地那地区的贾巴尔・赛义德项目，探明储量达 1.1 亿吨矿石，矿体同时富集高浓度稀土与铀资源，且以重稀土为主，沙特官方将其评价为全球最重要稀土发现之一。 根据美国战略与国际研究中心（CSIS）测算，该矿床内含 55.2 万吨重稀土，涵盖镝、铽等品类，是永磁材料、新能源产业与军工制造领域不可或缺的关键原料；另有 35.5 万吨钕、镨等轻稀土资源，综合资源价值位列全球第四。 长期依赖石油出口的沙特，正大力推进「2030 愿景」，矿业是其经济多元化转型的核心赛道。稀土和铀均属于国家级战略矿产，这座复合型矿床，能够同时支撑沙特核电产业发展以及稀土对外出口业务，助力该国降低经济对油气产业的单一依赖。 不 沙特发现 1.1 亿吨稀土铀超级矿 重稀土储量可观"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-48a2782a4867f741b4a23049d4c005af.png"
+          },
+          "metrics_area": {
+            "text": "71 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083296809175233530"
+          }
+        },
+        "attached_info": "CkoI5qHtwruSsLlXEAMaCTEyMTM0NTMwOSC5/qTVBjAAOOsBQBVyEzIwODMyOTY4MDkxNzUyMzM1MzB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 22,
+          "heat_text": "71 万热度",
+          "heat_value": 710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2075696277891839329",
+      "title": "你觉得职场中最重要的一条生存法则是什么？",
+      "url": "https://www.zhihu.com/question/2075696277891839329",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "69 万热度",
+      "latest_heat_value": 690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1789746963.138181",
+        "card_id": "Q_2075696277891839329",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "你觉得职场中最重要的一条生存法则是什么？"
+          },
+          "excerpt_area": {
+            "text": "一家公司各个部门各个条线相当复杂，一不小心说错一句话都有可能都会被拿捏，你在职场中踩过什么坑？作为过来人给后面的年轻人一条中肯的建议"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-4e8a5e9ba0666bd88d36b5392c3e6123_b.jpg"
+          },
+          "metrics_area": {
+            "text": "69 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2075696277891839329"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTA3MjM1MSCtsbbUBjAAOEFAFnITMjA3NTY5NjI3Nzg5MTgzOTMyOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 23,
+          "heat_text": "69 万热度",
+          "heat_value": 690000
+        }
+      ]
+    },
+    {
+      "key": "Q_2061099002372919964",
+      "title": "一日三餐自己做，今天吃点什么？",
+      "url": "https://www.zhihu.com/question/2061099002372919964",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "68 万热度",
+      "latest_heat_value": 680000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1789746963.140538",
+        "card_id": "Q_2061099002372919964",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "一日三餐自己做，今天吃点什么？"
+          },
+          "excerpt_area": {
+            "text": "一日三餐都自己做，坚持很长时间，做过美味，做过黑暗料理，现在最愁是下顿吃啥。家常便饭便可！ 想着把自己做过成功的形成家庭菜谱，以后就可以点菜了，大家有这样做的吗？欢迎分享"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "68 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2061099002372919964"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMDQ5MDg5MyDn++HSBjAAOBtAF3ITMjA2MTA5OTAwMjM3MjkxOTk2NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 24,
+          "heat_text": "68 万热度",
+          "heat_value": 680000
+        }
+      ]
+    },
+    {
+      "key": "Q_1963531355695616155",
+      "title": "内耗的本质是什么？有什么办法可以解决这个问题吗？",
+      "url": "https://www.zhihu.com/question/1963531355695616155",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "66 万热度",
+      "latest_heat_value": 660000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1789746963.141388",
+        "card_id": "Q_1963531355695616155",
+        "feed_specific": {
+          "answer_count": 65
+        },
+        "target": {
+          "title_area": {
+            "text": "内耗的本质是什么？有什么办法可以解决这个问题吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-c453b6a028b8e6835cff0cd1a779ce1c_b.jpg"
+          },
+          "metrics_area": {
+            "text": "66 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1963531355695616155"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTExNzAxODQyNyDzldbHBjAAOGhAGHITMTk2MzUzMTM1NTY5NTYxNjE1NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 25,
+          "heat_text": "66 万热度",
+          "heat_value": 660000
+        }
+      ]
+    },
+    {
+      "key": "Q_2074862832831747759",
+      "title": "带孩子一起去吃自助餐拿了很多食物吃不完，他还是想拿怎么办？",
+      "url": "https://www.zhihu.com/question/2074862832831747759",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "64 万热度",
+      "latest_heat_value": 640000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1789746963.142033",
+        "card_id": "Q_2074862832831747759",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "带孩子一起去吃自助餐拿了很多食物吃不完，他还是想拿怎么办？"
+          },
+          "excerpt_area": {
+            "text": "趁着还未开学，带着孩子到宝龙城汉阳廷自助餐，里面很多食物都是孩子喜欢的，我交代孩子吃多少拿多少，但是孩子每样都拿点，一下子就吃不完，孩子很委屈，怎么办？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-7801815b56f5df89c3dc675019c298c8_b.jpg"
+          },
+          "metrics_area": {
+            "text": "64 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2074862832831747759"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTAzOTE3OCD4oKrUBjAAOA9AGXITMjA3NDg2MjgzMjgzMTc0Nzc1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 26,
+          "heat_text": "64 万热度",
+          "heat_value": 640000
+        }
+      ]
+    },
+    {
+      "key": "Q_11198250359",
+      "title": "你觉得一个人人品重要还是能力重要？",
+      "url": "https://www.zhihu.com/question/11198250359",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "60 万热度",
+      "latest_heat_value": 600000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1789746963.145060",
+        "card_id": "Q_11198250359",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 95
+        },
+        "target": {
+          "title_area": {
+            "text": "你觉得一个人人品重要还是能力重要？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-b805929f02f06ef96b49eabcd508ef90_b.jpg"
+          },
+          "metrics_area": {
+            "text": "60 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/11198250359"
+          }
+        },
+        "attached_info": "CkEI5qHtwruSsLlXEAMaCTExMzIxNTU0OSDt7YK9BjAAOGNAGnILMTExOTgyNTAzNTl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 27,
+          "heat_text": "60 万热度",
+          "heat_value": 600000
+        }
+      ]
+    },
+    {
+      "key": "Q_2076309744126358094",
+      "title": "外媒曝新一任 007 詹姆斯·邦德 6 人演员候选名单，符合你的预期吗？有没有更好的人选？",
+      "url": "https://www.zhihu.com/question/2076309744126358094",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1789746963.145392",
+        "card_id": "Q_2076309744126358094",
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "外媒曝新一任 007 詹姆斯·邦德 6 人演员候选名单，符合你的预期吗？有没有更好的人选？"
+          },
+          "excerpt_area": {
+            "text": "外媒 Page Six 公布了下一任詹姆斯·邦德候选演员短名单： 杰克·巴顿，1995 年出生，代表作品《心跳漏一拍第二季》 雅各布·艾洛蒂，1997 年出生，代表作《亲吻亭》《亢奋》 保罗·麦斯卡，1996 年出生，代表作《晒后假日》《哈姆奈特》 卡勒姆·特纳，1990 年出生，代表作《神奇动物：格林德沃之罪》 杰克·劳登，1990 年出生，代表作《敦刻尔克》 哈里斯·迪金森，1996 年出生，代表作《沙滩鼠》《信任》 预计 9 月试镜"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-bfb946bdac78f175f43c5f232c14fee6_b.jpg"
+          },
+          "metrics_area": {
+            "text": "59 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2076309744126358094"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTA5NDIyNSCCqL/UBjAAOCxAG3ITMjA3NjMwOTc0NDEyNjM1ODA5NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 28,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2051897646558732829",
+      "title": "学哲学的人真的不爱社交吗？",
+      "url": "https://www.zhihu.com/question/2051897646558732829",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1789746963.146417",
+        "card_id": "Q_2051897646558732829",
+        "feed_specific": {
+          "answer_count": 48
+        },
+        "target": {
+          "title_area": {
+            "text": "学哲学的人真的不爱社交吗？"
+          },
+          "excerpt_area": {
+            "text": "对哲学人（民哲、科班、学术共同体、爱好者等等）刻板印象是什么？ 辩证法（赫拉克利特辩证法、柏拉图辩证法、黑格尔辩证法等等）是个人思辨还是私下辩论？ 哲学人们的得意之作与可谈经历是什么？ 哲学家们真的不配爱情？ 哲学的意义是什么？ 哲学能够「爱智慧」吗？ 缺失手臂，我尚且用嘴写作；缺失哲学，我双眸不再明亮。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-2f7f9a83db1b5e9ecef092626ca1486f_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "59 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2051897646558732829"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMDA3MDUzOSD5iNzRBjAAOEhAHHITMjA1MTg5NzY0NjU1ODczMjgyOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
+          "rank": 29,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083323710224721461",
+      "title": "一辆新能源车开 8 年，到底能不能真正省下一辆燃油车的钱？",
+      "url": "https://www.zhihu.com/question/2083323710224721461",
+      "first_seen": "2026-09-18 23:56:03 +0800",
+      "last_seen": "2026-09-18 23:56:03 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1789746963.147157",
+        "card_id": "Q_2083323710224721461",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "一辆新能源车开 8 年，到底能不能真正省下一辆燃油车的钱？"
+          },
+          "excerpt_area": {
+            "text": "别只算油费和电费。如果把保险、保值率、电池衰减、维修、充电成本、二手车价格全部算进去，新能源车的长期用车成本还占优势吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-842657532647ac9ab32c1c1144e37106_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083323710224721461"
+          }
+        },
+        "attached_info": "CkkI5qHtwruSsLlXEAMaCTEyMTM0NjI5MSDGsKXVBjAAOCBAHXITMjA4MzMyMzcxMDIyNDcyMTQ2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-18 23:56:03 +0800",
           "rank": 30,
           "heat_text": "58 万热度",
           "heat_value": 580000
