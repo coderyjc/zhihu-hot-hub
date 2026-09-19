@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-19 23:28:06 +0800",
+  "generated_at": "2026-09-20 04:08:01 +0800",
   "totals": {
-    "day_count": 196,
-    "topic_record_count": 10950,
-    "unique_topic_count": 9283,
-    "history_point_count": 17880,
-    "v2_file_count": 71,
+    "day_count": 197,
+    "topic_record_count": 10980,
+    "unique_topic_count": 9290,
+    "history_point_count": 17910,
+    "v2_file_count": 72,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -1874,6 +1874,15 @@
       "history_point_count": 150,
       "top_topic_title": "有消息传智谱 Zcode 会上传用户的全量 Git 操作，这是否属实？",
       "top_topic_url": "https://www.zhihu.com/question/2084291380302574171"
+    },
+    {
+      "date": "2026-09-20",
+      "total_heat_value": 40020000,
+      "max_heat_value": 5710000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "LPL 2026 冒泡赛决赛 iG 3:1 淘汰 JDG 夺得最后一张世界赛门票，如何评价这场比赛？",
+      "top_topic_url": "https://www.zhihu.com/question/2084674456329495646"
     }
   ]
 }
