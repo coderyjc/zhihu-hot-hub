@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-09-21 07:01:37 +0800",
+  "updated_at": "2026-09-21 11:37:10 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -371419,18 +371419,18 @@
       "title": "网贷为什么敢借钱给根本还不起的人？",
       "url": "https://www.zhihu.com/question/2047817805354029180",
       "first_seen": "2026-09-20 23:33:03 +0800",
-      "last_seen": "2026-09-21 07:01:37 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
       "first_rank": 22,
-      "latest_rank": 3,
-      "latest_heat_text": "181 万热度",
-      "latest_heat_value": 1810000,
+      "latest_rank": 6,
+      "latest_heat_text": "150 万热度",
+      "latest_heat_value": 1500000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1789945297.101259",
+        "id": "5_1789961830.99854",
         "card_id": "Q_2047817805354029180",
         "feed_specific": {
-          "answer_count": 62
+          "answer_count": 157
         },
         "target": {
           "title_area": {
@@ -371443,7 +371443,7 @@
             "url": "https://picx.zhimg.com/50/v2-28311bbcc5acc183f7d308566de8428f_720w.jpg?source=1940ef5c"
           },
           "metrics_area": {
-            "text": "181 万热度",
+            "text": "150 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -371458,7 +371458,7 @@
             "url": "https://www.zhihu.com/question/2047817805354029180"
           }
         },
-        "attached_info": "CkoIpcfw0uOfmqENEAMaCTExOTkwMzczMCDT2aDRBjAAOOkBQAJyEzIwNDc4MTc4MDUzNTQwMjkxODB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTExOTkwMzczMCDT2aDRBjAAOO0EQAVyEzIwNDc4MTc4MDUzNTQwMjkxODB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -371478,6 +371478,12 @@
           "rank": 3,
           "heat_text": "181 万热度",
           "heat_value": 1810000
+        },
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 6,
+          "heat_text": "150 万热度",
+          "heat_value": 1500000
         }
       ]
     },
@@ -371863,15 +371869,15 @@
       "title": "沙特首都利雅得凌晨遭遇空袭，现场传出导弹拦截声响，可能是哪一方发动的袭击？",
       "url": "https://www.zhihu.com/question/2084561294967956649",
       "first_seen": "2026-09-21 04:24:31 +0800",
-      "last_seen": "2026-09-21 07:01:37 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
       "first_rank": 3,
-      "latest_rank": 2,
-      "latest_heat_text": "287 万热度",
-      "latest_heat_value": 2870000,
+      "latest_rank": 14,
+      "latest_heat_text": "115 万热度",
+      "latest_heat_value": 1150000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1789945297.100747",
+        "id": "13_1789961830.105267",
         "card_id": "Q_2084561294967956649",
         "card_label": {
           "type": "hot",
@@ -371879,7 +371885,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 35
+          "answer_count": 58
         },
         "target": {
           "title_area": {
@@ -371892,7 +371898,7 @@
             "url": "https://pic3.zhimg.com/50/v2-bebbd4f66e099a707eb1e6fbf660cb24_b.jpg"
           },
           "metrics_area": {
-            "text": "287 万热度",
+            "text": "115 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -371907,7 +371913,7 @@
             "url": "https://www.zhihu.com/question/2084561294967956649"
           }
         },
-        "attached_info": "CkkIpcfw0uOfmqENEAMaCTEyMTM5MTE3MyDdsbfVBjAAOHdAAXITMjA4NDU2MTI5NDk2Nzk1NjY0OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTM5MTE3MyDdsbfVBjAAOOwBQA1yEzIwODQ1NjEyOTQ5Njc5NTY2NDl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -371921,6 +371927,12 @@
           "rank": 2,
           "heat_text": "287 万热度",
           "heat_value": 2870000
+        },
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 14,
+          "heat_text": "115 万热度",
+          "heat_value": 1150000
         }
       ]
     },
@@ -372045,23 +372057,18 @@
       "title": "特斯拉、宝马等车企已弃用，美众议院为何通过法案，强制要求在新车中配备调幅收音机？",
       "url": "https://www.zhihu.com/question/2083888759003791593",
       "first_seen": "2026-09-21 04:24:31 +0800",
-      "last_seen": "2026-09-21 07:01:37 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
       "first_rank": 18,
-      "latest_rank": 5,
-      "latest_heat_text": "103 万热度",
-      "latest_heat_value": 1030000,
+      "latest_rank": 24,
+      "latest_heat_text": "106 万热度",
+      "latest_heat_value": 1060000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1789945297.101885",
+        "id": "23_1789961830.111770",
         "card_id": "Q_2083888759003791593",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 30
+          "answer_count": 99
         },
         "target": {
           "title_area": {
@@ -372074,7 +372081,7 @@
             "url": "https://pic3.zhimg.com/50/v2-2052f4c73db85ae99a59cef487c51cd4_b.jpg"
           },
           "metrics_area": {
-            "text": "103 万热度",
+            "text": "106 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -372089,7 +372096,7 @@
             "url": "https://www.zhihu.com/question/2083888759003791593"
           }
         },
-        "attached_info": "CkkIpcfw0uOfmqENEAMaCTEyMTM2NjMyMiCEza3VBjAAOD5ABHITMjA4Mzg4ODc1OTAwMzc5MTU5M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTM2NjMyMiCEza3VBjAAOO0BQBdyEzIwODM4ODg3NTkwMDM3OTE1OTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -372103,6 +372110,12 @@
           "rank": 5,
           "heat_text": "103 万热度",
           "heat_value": 1030000
+        },
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 24,
+          "heat_text": "106 万热度",
+          "heat_value": 1060000
         }
       ]
     },
@@ -372513,23 +372526,18 @@
       "title": "人民币汇率升破 6.7 ，还会继续走强吗？",
       "url": "https://www.zhihu.com/question/2084428577022415342",
       "first_seen": "2026-09-21 07:01:37 +0800",
-      "last_seen": "2026-09-21 07:01:37 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
       "first_rank": 8,
-      "latest_rank": 8,
-      "latest_heat_text": "97 万热度",
-      "latest_heat_value": 970000,
+      "latest_rank": 17,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1789945297.103213",
+        "id": "16_1789961830.107124",
         "card_id": "Q_2084428577022415342",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 23
+          "answer_count": 59
         },
         "target": {
           "title_area": {
@@ -372539,10 +372547,10 @@
             "text": "9 月 18 日，在岸、离岸人民币对美元即期汇率盘中双双升破 6.70 关口，离岸人民币盘中最高触及 6.6933，在岸人民币最高触及 6.6964，均创下 2023 年 2 月以来新高。 这一突破并非孤立事件。当日，人民币对美元中间价报 6.7521，较上一交易日调升 59 个基点，这已是中间价连续第八个交易日调升。回溯本周行情，9 月 14 日至 17 日，中间价分别调升 45 、 28 、 42 、 48 个基点，本周累计调升 222 个基点。 人民币汇率，升破 6.7！还会继续走强吗？专家最新解读 | 每经网"
           },
           "image_area": {
-            "url": ""
+            "url": "https://pic1.zhimg.com/v2-530e878bdeb3ccf73458cd1aa01510f4.png"
           },
           "metrics_area": {
-            "text": "97 万热度",
+            "text": "113 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -372557,7 +372565,7 @@
             "url": "https://www.zhihu.com/question/2084428577022415342"
           }
         },
-        "attached_info": "CkkIpcfw0uOfmqENEAMaCTEyMTM4OTE0NyDDurXVBjAAOCZAB3ITMjA4NDQyODU3NzAyMjQxNTM0MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTM4OTE0NyDDurXVBjAAOLEBQBByEzIwODQ0Mjg1NzcwMjI0MTUzNDJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -372565,6 +372573,12 @@
           "rank": 8,
           "heat_text": "97 万热度",
           "heat_value": 970000
+        },
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 17,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
         }
       ]
     },
@@ -372625,6 +372639,1511 @@
           "rank": 13,
           "heat_text": "75 万热度",
           "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2071628916184332266",
+      "title": "如何评价男子患尘肺举报公司，却因在不具备防护条件下接受存在职业病危害作业被罚 5 万，卫健局随后撤销处罚？",
+      "url": "https://www.zhihu.com/question/2071628916184332266",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "1032 万热度",
+      "latest_heat_value": 10320000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1789961830.90963",
+        "card_id": "Q_2071628916184332266",
+        "feed_specific": {
+          "answer_count": 425
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价男子患尘肺举报公司，却因在不具备防护条件下接受存在职业病危害作业被罚 5 万，卫健局随后撤销处罚？"
+          },
+          "excerpt_area": {
+            "text": "最新进展：9 月 18 日，一份撤销行政处罚决定书送达李维志家中。昆明市五华区卫健局决定，撤销对李维志的 5 万元行政处罚。李维志告诉记者，这份文书由五华区疾控中心两名工作人员送达，对方表示还将努力帮助其获得后续 职业病诊断材料 。 昆明市五华区卫健局作出的《撤销行政处罚决定书》 这份撤销决定，指向一张曾引发舆论关注的罚单。 今年 3 月 3 日， 尘肺病 人李维志收到五华区卫健局开出的 5 万元罚单，理由是他在不具备职业病防护条件下接受了产生职业病危害的作业；而在此之前，正是他向该局举报了长期派单给自己的公司违反 职业病防治法 。 今年 3 月 11 日，因不服处罚决定，李维志将五华区卫健局告上法庭，案件还在审理中，他先收到了来自五华区卫健局的撤销行政处罚决定书。 李维志此前工作时的场景 索要职业病诊断材料未果后举报， 反获 5 万罚单 今日收到撤销行政处罚决定书，对李维志而言，是「获得了阶段性关键进展」，「没有想到，这对我来说，是一个莫大的安慰。」今年 7 月底，李维志刚从医院出院，对于一位本就罹患尘肺病的病人来说，撤销行政处罚是生活中难得的好消息。 这份来自五华区卫健局的撤销行政处罚决定书显示，五华区卫健局依据《中华人民共和国职业病防治法》《中华人民共和国行政处罚法》等法律法规对案卷材料、执法流程及程序要件全面复核，经审查并结合全案事实，决定撤销行政处罚决定书。 曾困扰李维志的行政处罚决定书，源于他此前对长期合作的公司的举报。李维志曾在昆明干装修，2020 年 5 月起，他以计件方式接收 云南石来商贸有限公司 派单，负责入户安装石板台面，据他回忆，入户安装长期处于粉尘环境，但公司未进行职业病防护培训，未提供防护口罩。直到 2023 年 7 月，他诊断疑似尘肺三期，无法再继续工作。 此后，李维志曾多次向石来商贸讨要职业病诊断材料未果，2025 年 6 月，李维志向五华区卫健局举报云南石来商贸有限公司（后更名为昆明石与木建材有限公司）违反职业病防治法，同时要求五华区卫健局积极履职，督促其提供职业病诊断材料。 最终，该公司被昆明市五华区卫健局处以 21 万罚款，但时隔数月后，今年 3 月 3 日，李维志也收到了 5 万元罚单。五华区卫健局在处罚决定书中称，李维志违反《职业病防治法》第三十一条，在不具备职业病防护条件下接受具有生产职业病危害的作业（石板台面安装）。 五华区卫健局提到的第三十一条，明文为：「任何单位和个人不得将产生职业病危害的作业转移给不具备职业病防护条件的单位和个人。不具备职业病防护条件的单位和个人不得接受产生职业病危害的作业。」 李维志的代理律师 麻侃 称，从司法实践和立法目的来看，该法律条款中的「个人」，多指向作为经营者的个人，是客观上承担了组织劳动并从中受益的包工头、作业召集人、施工小组长，个体承包商，而不是李维志这样仅出卖劳动力的普通务工者，昆明市五华区卫健局对李维志作出处罚，属机械理解适用法律条文，不当转嫁法律责任，损害劳动者权益，依法应当对行政处罚予以纠正撤销。 该案曾引起舆论关注。今年 8 月，李维志在接受南都采访时详述了其经历，他对处罚感到错愕，直陈「难以接受」，在近期接受看看新闻采访时更直言：「举报公司反被罚款，难道我举报了我自己？」 据了解，过去一个多月以来，五华区法院、卫健局曾多次与李维志沟通，希望就此案进行调解。上周五（9 月 11 日）9 点半，李维志在五华区法院与五华区卫健局就撤销行政处罚一事达成口头协议，五华区卫健局同时希望李维志撤销行政诉讼一案，李维志当时并未同意。 李维志称，法官曾当面表示，行政处罚决定书已经决定撤销，无需缴纳罚款，诉讼目的已经达成，可以考虑撤案，但李维志表示，自己不会撤案，「这起案件因我的举报而起，举报也是为索要职业病诊断材料，现在材料没拿到，我还是希望不放弃，把司法流程走完。」 值得关注的是，今日送达的撤销行政处罚决定书中并未提及法律适用错误等具体表述，李维志也在等待法院下一步明确的司法判决。 今年 5 月 25 日，李维志诉五华区卫健局一案在五华区法院开庭一审，近期，「因情况复杂」，经云南省高级人民法院批准，五华区法院对该案作出延长审理期限决定，延长审理期限六个月。 昆明市五华区法院对该案作出延长审理期限的决定。 另据南都此前报道，罹患尘肺病后，李维志也在努力推进职业病诊断，争取获得 工伤赔偿 。李维志曾通过劳动仲裁和司法诉讼要求确认与云南石来商贸有限公司之间的劳动关系，但均未获得支持，由于在法律上未确认劳动关系，他在云南省第三人民医院要求进行职业病诊断也被拒之门外。 因始终未取得职业病诊断，李维志虽经医院临床诊断尘肺三期，但仍无法被认定为法律意义上的职业病病人，也就无从获得工伤赔偿。 他告诉南都记者，自己仍在积极推进职业病诊断程序，曾向云南省卫健委反映情况，对方明确答复按照现有规定无法在不具备劳动关系的前提下进行职业病诊断。近期，他已向云南省政府申请 行政复议 ，要求云南省卫健委按照《职业病防治法》规定，积极履职，收集固定证据，推动职业病诊断，当前，行政复议案仍在进行中。 尘肺病人举报公司违法反被罚 5 万，最新进展：卫健局撤销处罚 _ 腾讯新闻 患上尘肺病后，李维志为争取工伤赔偿，历经一次劳动仲裁、两次行政诉讼、两次行政复议，仍然没有等来一个满意的结果。 在中国职业病工伤认定程序中，认定劳动关系、进行职业病诊断、获得工伤认定，环环相扣。没有签订劳动合同、没有五险一金的李维志，因无法在法律上确认劳动关系，被阻挡在第一关口。 更令他感到错愕的是，因举报公司违法，在昆明市五华区卫健局对公司处以 21 万行政处罚后，他也收到了一张 5 万元罚单。行政处罚书称，他违反《职业病防治法》第三十一条，在不具备防护条件下接受存在职业病危害的作业。今年 5 月，李维志诉请撤销该处罚，昆明市五华区人民法院一审开庭，至今尚待宣判。 近期，他向云南省卫健委反映诉求，提请卫生行政部门推动职业病诊断，再次被以无劳动关系为由拒绝。 从全国范围来看，李维志的个案并非孤例。为解决灵活就业劳动者劳动关系认定难、工伤赔偿难，去年，人社部等九部门推动扩大新就业形态人员职业伤害保障试点，尝试突破认定劳动关系为获得工伤赔偿前提的困境。最高人民法院、人社部也相继出台相关文件，针对违法企业转包、发包作业给劳动者导致伤亡的，不存在劳动关系，也可依据有关规定申请工伤认定。 这让李维志看到了希望，他期待试点将尘肺工人也纳入其中，帮助他获得职业伤害赔偿。男子患尘肺病花光 12 万元积蓄 又收到卫健局 5 万元罚单"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-6b4c4227bd707e07871ec7dcbf7ee214.png"
+          },
+          "metrics_area": {
+            "text": "1032 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2071628916184332266"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMDkxNTcxNiCmmfvTBjAAOLsGQAByEzIwNzE2Mjg5MTYxODQzMzIyNjZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 1,
+          "heat_text": "1032 万热度",
+          "heat_value": 10320000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084605764774131080",
+      "title": "专家怒斥「尸皮针」是将救命材料用于医美，真的是这样吗？这算是技术和资源滥用吗？",
+      "url": "https://www.zhihu.com/question/2084605764774131080",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "239 万热度",
+      "latest_heat_value": 2390000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1789961830.95187",
+        "card_id": "Q_2084605764774131080",
+        "feed_specific": {
+          "answer_count": 57
+        },
+        "target": {
+          "title_area": {
+            "text": "专家怒斥「尸皮针」是将救命材料用于医美，真的是这样吗？这算是技术和资源滥用吗？"
+          },
+          "excerpt_area": {
+            "text": "「把原本救命的人源脱细胞材料拿来做医美，我认为属于技术过度使用。我们有大量成熟医美注射产品和自体组织移植技术，没有必要冒这样风险。」 深圳市第二人民医院烧伤整形科主任医师、博士生导师黄广涛在接受《每日经济新闻》记者（以下简称每经记者）采访时直言。 近期，一款名为 Re2O 、俗称「尸皮针」的韩国再生水光产品引发行业热议。这款核心原料来自已故捐献者人体皮肤组织、经脱细胞处理后制成的医美注射耗材，在韩国获批上市，但并未取得中国国家药品监督管理局的任何审批。 尽管如此，每经记者调查发现，社交平台多个账号仍以「第五代水光」「胶原水光」的名义宣传「尸皮针」功效，并明码标价，招揽国内消费者前往韩国诊所接受注射。此外，多条笔记末尾均标注同一条与医疗广告审查文号格式一致的信息。 医疗广告审查证明是卫生健康部门向医疗机构核发的广告发布资质，不等于医疗器械产品注册许可。北京乾成（上海）律师事务所高级合伙人孙书保接受每经记者采访时表示，医疗广告审查证明应由地方卫生健康部门审批核发，上述文号尚未在公开渠道查询到对应公示信息，存在尚未公示或文号本身存疑两种可能性。 6 毫升 2200 元，专家怒斥：救命的材料拿去做医美！「尸皮针」乱象调查：未获国内审批，有机构借社交平台暗中引流去韩国注射"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-b622f8ae4a3de634ead803b7db088543.png"
+          },
+          "metrics_area": {
+            "text": "239 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084605764774131080"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTM5MzAyOSDIhLjVBjAAOJ8BQAFyEzIwODQ2MDU3NjQ3NzQxMzEwODB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 2,
+          "heat_text": "239 万热度",
+          "heat_value": 2390000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085023298992321522",
+      "title": "为避免再次放错国歌，亚组委在韩国对阵中国香港的女子手球赛前，直接取消这一环节，如何看待此操作？",
+      "url": "https://www.zhihu.com/question/2085023298992321522",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "229 万热度",
+      "latest_heat_value": 2290000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1789961830.96457",
+        "card_id": "Q_2085023298992321522",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "为避免再次放错国歌，亚组委在韩国对阵中国香港的女子手球赛前，直接取消这一环节，如何看待此操作？"
+          },
+          "excerpt_area": {
+            "text": "9 月 18 日，爱知·名古屋亚运会组委会错把朝鲜国歌作为韩国国歌播放，引发了广泛争议。据多家韩媒报道，在 19 日韩国对阵中国香港的亚运女子手球赛前，亚组委直接取消了奏放国歌的环节。 据五星体育 9 月 18 日消息，本届亚运会又上演尴尬场面，韩国队的比赛播放朝鲜国歌。 据澎湃新闻消息，韩国曲棍球协会的相关人士表示，「韩方为了准备掌握事态，收集了视频等证据，最终确认确实播放了朝鲜国歌，我们计划向组委会提出正式抗议。」 此前，据环球时报消息，韩联社 2018 年 10 月 23 日称，韩国足协当日致函亚足联，就前一天亚足联 U19 比赛主办方印尼误把朝鲜国歌当韩国国歌播放提出申诉。22 日晚韩国队与约旦队赛前播放国歌环节，主办方印尼在播放韩国国歌《爱国歌》时，错放为朝鲜国歌《爱国歌》。韩国教练组第一时间提出抗议，主办方改放韩国国歌，比赛得以正常进行。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-9a56fc075241666e3c940d473cde00ae.png"
+          },
+          "metrics_area": {
+            "text": "229 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085023298992321522"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQwODU3NyCkjr7VBjAAODRAAnITMjA4NTAyMzI5ODk5MjMyMTUyMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 3,
+          "heat_text": "229 万热度",
+          "heat_value": 2290000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084980399357350382",
+      "title": "男子花 84.51 万拍下省财政厅公物仓「金观音」，一测几乎全是铜，物品系收缴赃物，问题出在哪？",
+      "url": "https://www.zhihu.com/question/2084980399357350382",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "193 万热度",
+      "latest_heat_value": 1930000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1789961830.97259",
+        "card_id": "Q_2084980399357350382",
+        "feed_specific": {
+          "answer_count": 144
+        },
+        "target": {
+          "title_area": {
+            "text": "男子花 84.51 万拍下省财政厅公物仓「金观音」，一测几乎全是铜，物品系收缴赃物，问题出在哪？"
+          },
+          "excerpt_area": {
+            "text": "2023 年 5 月，珠宝商邱先生通过太原公共资源拍卖中心有限公司（简称太原公拍）竞买了一批罚没物品，其中包括一尊「观音金像」，回家检测后他发现这尊评估价 79 万余元，他以 84.51 万元竞得的足金观音像并不含金，其含铜量超 79.9%，含锌 20.08%，银含量为 0.01%。 日前，邱先生告诉澎湃新闻，经过三年维权，他终于追回了竞买「观音金像」的价款。太原中院二审判决书显示，太原市小店区法院一审判决解除原告邱先生与被告即案涉观音像委托拍卖方山西省财政厅预算评审中心之间的买卖合同关系，被告退还邱先生 84.51 万元并支付相应利息。一审后，山西省财政厅预算评审中心上诉至太原中院，但被驳回。 判决书显示，这尊「观音金像」系王某某在 2012 年花 88 万元购得，后送给太原某国企负责人，该负责人上报纪委后，按要求将「观音金像」存在公司财务室。2017 年，「观音金像」被检方定为赃物并收缴，2021 年入山西省财政厅公物仓。 这尊观音像如何由足金变为铜合金，目前尚不得知。2026 年 9 月 18 日，山西省财政厅预算评审中心工作人员告诉澎湃新闻，他们已经向上缴案涉金像的单位去函告知了相关情况，但对方尚未回函。澎湃新闻致电向该中心移送案涉金像的太原市尖草坪区检察院，但电话无人接听。 案涉「观音金像」所带鉴定证书 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-3ad69767579f08c21b3f18ccbd430ca9.png"
+          },
+          "metrics_area": {
+            "text": "193 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084980399357350382"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTQwNzA0NyCwvr3VBjAAOO0CQANyEzIwODQ5ODAzOTkzNTczNTAzODJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 4,
+          "heat_text": "193 万热度",
+          "heat_value": 1930000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085115668559553520",
+      "title": "如何看待二次元 3D 开放世界游戏《望月》制作人突然自宣辞职？",
+      "url": "https://www.zhihu.com/question/2085115668559553520",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "157 万热度",
+      "latest_heat_value": 1570000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1789961830.98349",
+        "card_id": "Q_2085115668559553520",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 49
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待二次元 3D 开放世界游戏《望月》制作人突然自宣辞职？"
+          },
+          "excerpt_area": {
+            "text": "突发，广州 GTA《望月》执行制作人宣布辞任"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-d8f409099d13875267aeb2822f2af993.png"
+          },
+          "metrics_area": {
+            "text": "157 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085115668559553520"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQxMzU1OSCqur/VBjAAODxABHITMjA4NTExNTY2ODU1OTU1MzUyMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 5,
+          "heat_text": "157 万热度",
+          "heat_value": 1570000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085038826842604950",
+      "title": "长沙一公司因每周上班三天半月薪七千遭质疑，公司回应不为博流量，希望员工有时间陪家人，这种模式能推广吗？",
+      "url": "https://www.zhihu.com/question/2085038826842604950",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "134 万热度",
+      "latest_heat_value": 1340000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1789961830.100487",
+        "card_id": "Q_2085038826842604950",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "长沙一公司因每周上班三天半月薪七千遭质疑，公司回应不为博流量，希望员工有时间陪家人，这种模式能推广吗？"
+          },
+          "excerpt_area": {
+            "text": "「一周只用工作 3 天半，不鼓励加班」，9 月 14 日，湖南长沙一家公司向全员发布反向减班的工作制度，引来网友关注。 15 日，该公司负责人朱先生告诉记者，这一制度已正式向员工公布执行，比法定多休的一天半时间，也会正常发薪水。 公司公布的工作制度。 记者在该公司官方账号上看到了这份工作制度文件，文件名为「每周四半天、每周五全天带薪休假通知」，通知中称，公司实行 3.5 天工作制，周有效工时 26 小时：周一、周二、周三全天上班（10:00 至 18:30，7.5 小时工作，午休 1 小时）；周四 3.5 小时，半天上班（10:00 至 14:30）；周五、周六、周日全天休息。女性员工每个月还可休一天「姨妈假」。 通知还明确，入职有五险一金，不降薪，因上班时间减少，一周会减去相对应的工作量考核。另外该公司也不鼓励加班，每年还可报销 2000 元的旅游机（车）票费用。通知上盖有长沙外卷文化有限公司公章。 在评论区，这份公司文件引来许多网友讨论，有人称：「这真是神仙公司，这是在给那些经常加班的公司打样。」还有人表示：「第一眼还以为是虚构出来的，我要是员工，真怕公司倒闭了。」 同时，也有网友对相关假期安排的真实性提出质疑，认为这家公司是为吸引流量搞的噱头。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-e88b2f97e6f119e099358878062bc45f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "134 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085038826842604950"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQwOTUxNyCaq77VBjAAOEdABnITMjA4NTAzODgyNjg0MjYwNDk1MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 7,
+          "heat_text": "134 万热度",
+          "heat_value": 1340000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084317719386481183",
+      "title": "之前东京奥运会办的就不行，现在名古屋更是把亚运会搞得一团糟，难道申办的时候，亚奥理事会难道没有审核吗？",
+      "url": "https://www.zhihu.com/question/2084317719386481183",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "120 万热度",
+      "latest_heat_value": 1200000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1789961830.101513",
+        "card_id": "Q_2084317719386481183",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 46
+        },
+        "target": {
+          "title_area": {
+            "text": "之前东京奥运会办的就不行，现在名古屋更是把亚运会搞得一团糟，难道申办的时候，亚奥理事会难道没有审核吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-7fcb277d22f486b3ce2e617e4ba5fa18.png"
+          },
+          "metrics_area": {
+            "text": "120 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084317719386481183"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTM4Mzc2MSCF7LPVBjAAOERAB3ITMjA4NDMxNzcxOTM4NjQ4MTE4M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 8,
+          "heat_text": "120 万热度",
+          "heat_value": 1200000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082747171796001617",
+      "title": "一中大侠退学了，你怎么看？",
+      "url": "https://www.zhihu.com/question/2082747171796001617",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "120 万热度",
+      "latest_heat_value": 1200000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1789961830.101784",
+        "card_id": "Q_2082747171796001617",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "一中大侠退学了，你怎么看？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-fdefa23138a405c5e87562846e9fa7a3.png"
+          },
+          "metrics_area": {
+            "text": "120 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082747171796001617"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTMyMjA0MyDV/pzVBjAAOHZACHITMjA4Mjc0NzE3MTc5NjAwMTYxN3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 9,
+          "heat_text": "120 万热度",
+          "heat_value": 1200000
+        }
+      ]
+    },
+    {
+      "key": "Q_50940224",
+      "title": "大学考试作弊一次就要失去学位证这个处罚严重吗？",
+      "url": "https://www.zhihu.com/question/50940224",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "119 万热度",
+      "latest_heat_value": 1190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1789961830.102241",
+        "card_id": "Q_50940224",
+        "feed_specific": {
+          "answer_count": 1433
+        },
+        "target": {
+          "title_area": {
+            "text": "大学考试作弊一次就要失去学位证这个处罚严重吗？"
+          },
+          "excerpt_area": {
+            "text": "大学里考试作弊一次就失去学位证，你对这个规定怎么看"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-63fea973729eb865f1114ab8da980586.png"
+          },
+          "metrics_area": {
+            "text": "119 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/50940224"
+          }
+        },
+        "attached_info": "Cj4I44yAiKGF7+JPEAMaCDEyNTkzNDkxIIXhlL8FMAA4uhZACXIINTA5NDAyMjR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 10,
+          "heat_text": "119 万热度",
+          "heat_value": 1190000
+        }
+      ]
+    },
+    {
+      "key": "Q_2083948065967421273",
+      "title": "如何评价澳大利亚将禁止留学生家属陪读？",
+      "url": "https://www.zhihu.com/question/2083948065967421273",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "119 万热度",
+      "latest_heat_value": 1190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1789961830.102935",
+        "card_id": "Q_2083948065967421273",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价澳大利亚将禁止留学生家属陪读？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "119 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2083948065967421273"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTM2OTQ0OCDAu67VBjAAOJ0BQApyEzIwODM5NDgwNjU5Njc0MjEyNzN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 11,
+          "heat_text": "119 万热度",
+          "heat_value": 1190000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085141629112009975",
+      "title": "大一新生军训跑去旅游，学校报警寻人，教官被处分，取消留役资格，新生称勇敢的人先享受人生，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2085141629112009975",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "119 万热度",
+      "latest_heat_value": 1190000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1789961830.103479",
+        "card_id": "Q_2085141629112009975",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 230
+        },
+        "target": {
+          "title_area": {
+            "text": "大一新生军训跑去旅游，学校报警寻人，教官被处分，取消留役资格，新生称勇敢的人先享受人生，如何看待此事？"
+          },
+          "excerpt_area": {
+            "text": "当事人「小森森」自爆为大一新生，参与学校组织的军训，因觉得军训辛苦，萌生私自外出游玩的想法。 在未向辅导员、教官提交任何请假手续、未告知任何人的情况下，悄悄脱离军训营地，独自前往上海旅游。 晚间军训点名时，老师、教官发现该生不在。拨打学生电话无法接通，联系其家长，家长也完全不清楚学生去向。 学校担心学生遭遇人身危险，组织校内人员搜寻，搜寻无果后向公安机关报案，按失踪人口处理，公安随即出警开展查找工作。 直至第二天凌晨，学校才成功联系上这名学生。 但学生并未立刻返回，而是继续在上海完成旅游行程，游玩结束后才返校。 \t 学生表示学校核实全部情况后作出校纪处分，自己选择办理退学。并在社交媒体发言勇敢的人先享受人生，要坚持自己的意志。 \t 辅导员，承担连带管理责任，五年内不得评优评先，绩效奖金被扣。 现役承训教官，部队认定其存在人员管控失职，给予军纪处分，失去留队资格。原本可享受的退役安置待遇、数十万元退役补贴被相应扣减。 其他学生，必须有规定的正当理由才能请假，禁止学生无申请请假，违反将被处分。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-5327cca6f534f256aeedb7d719384d76_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "119 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085141629112009975"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTQxNDQyNSDY6r/VBjAAOLACQAtyEzIwODUxNDE2MjkxMTIwMDk5NzV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 12,
+          "heat_text": "119 万热度",
+          "heat_value": 1190000
+        }
+      ]
+    },
+    {
+      "key": "Q_2002538072345180144",
+      "title": "朱元璋杀了那么多开国功臣却唯独放过汤和，真的只是发小情谊吗？",
+      "url": "https://www.zhihu.com/question/2002538072345180144",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "118 万热度",
+      "latest_heat_value": 1180000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1789961830.104406",
+        "card_id": "Q_2002538072345180144",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "朱元璋杀了那么多开国功臣却唯独放过汤和，真的只是发小情谊吗？"
+          },
+          "excerpt_area": {
+            "text": "重看《朱元璋》越看越纳闷：胡惟庸、蓝玉这些跟着他打天下的功臣，几乎被斩尽杀绝，连李善长都没能善终，为啥偏偏汤和能活到 70 多岁，还能安安稳稳退休回家？有人说汤和是朱元璋的发小，两人光屁股一起长大，朱元璋念旧情；也有人说汤和聪明，早早交出兵权，平时低调得像透明人，从不争功。 但我总觉得没这么简单——朱元璋连亲侄子、亲外甥都能下狠手，真会因为发小情谊就放过一个手握兵权的功臣？大家认为汤和保命的秘诀到底是什么？ #中国历史 #明朝历史 #明代历史人物 #朱元璋"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-eae8214dc6e0f3df5bec2283d215def3.png"
+          },
+          "metrics_area": {
+            "text": "118 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2002538072345180144"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTExODMyNjY5NiDJ5Y3MBjAAOD9ADHITMjAwMjUzODA3MjM0NTE4MDE0NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 13,
+          "heat_text": "118 万热度",
+          "heat_value": 1180000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084283266337710254",
+      "title": "阿尔茨海默病患者不再认识家人后，还能感受到熟悉、信任和爱吗？",
+      "url": "https://www.zhihu.com/question/2084283266337710254",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1789961830.105947",
+        "card_id": "Q_2084283266337710254",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 50
+        },
+        "target": {
+          "title_area": {
+            "text": "阿尔茨海默病患者不再认识家人后，还能感受到熟悉、信任和爱吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-a4ac016c8f73a192f1cdc909bacb31a3_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084283266337710254"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTM4MjEwOCDuq7PVBjAAOIYBQA5yEzIwODQyODMyNjYzMzc3MTAyNTR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 15,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082855603299409964",
+      "title": "如何解读国务院国资委称「中央企业带头及时支付账款」？对此还有哪些细节值得关注？",
+      "url": "https://www.zhihu.com/question/2082855603299409964",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1789961830.106294",
+        "card_id": "Q_2082855603299409964",
+        "feed_specific": {
+          "answer_count": 167
+        },
+        "target": {
+          "title_area": {
+            "text": "如何解读国务院国资委称「中央企业带头及时支付账款」？对此还有哪些细节值得关注？"
+          },
+          "excerpt_area": {
+            "text": "据新华社北京 9 月 14 日电 国务院国资委财管运行局负责人裴仁佺 14 日在国新办举行的国务院政策例行吹风会上说，《关于加强中小企业回款难问题治理有关工作的通知》对央企发挥表率作用提出专门要求。接下来，中央企业将积极筹措资金，确保及时支付；今后更要把对中小企业现金支付作为一条「硬杠杠」坚持好，同时结合自身实际对大型企业保持合理现金支付比例，推动沿业务链条传导，并严格「票证」使用，严禁新开 6 个月以上「票证」；将督促央企带头遵守所在行业领域规定，率先在合同中明确四项关键要素，率先响应并践行行业及时支付倡议等。 编辑 刘佳妮 %3D%3D"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-ed9ee8b5b2381337c99d81ae965ed80a.png"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082855603299409964"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTMyNjk4NCDRyJ7VBjAAOPACQA9yEzIwODI4NTU2MDMyOTk0MDk5NjR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 16,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_647108012",
+      "title": "王熙凤那么爱说笑，可是她为何从不和薛宝钗开玩笑？",
+      "url": "https://www.zhihu.com/question/647108012",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1789961830.107841",
+        "card_id": "Q_647108012",
+        "feed_specific": {
+          "answer_count": 105
+        },
+        "target": {
+          "title_area": {
+            "text": "王熙凤那么爱说笑，可是她为何从不和薛宝钗开玩笑？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-cf3003ade717db29d47b15d2c95c06c7.png"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/647108012"
+          }
+        },
+        "attached_info": "CkAI44yAiKGF7+JPEAMaCTEwNjA3OTE1NiD+5pmvBjAAOLwBQBFyCTY0NzEwODAxMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 18,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_1934046539757655310",
+      "title": "刚离职，又想回去了，怎么办？",
+      "url": "https://www.zhihu.com/question/1934046539757655310",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1789961830.108449",
+        "card_id": "Q_1934046539757655310",
+        "feed_specific": {
+          "answer_count": 103
+        },
+        "target": {
+          "title_area": {
+            "text": "刚离职，又想回去了，怎么办？"
+          },
+          "excerpt_area": {
+            "text": "怎么办"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-771bf2a0118bae8ecfc4c15df088cfa4.png"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1934046539757655310"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTExNjAxNTE2OCCTjqnEBjAAOIsBQBJyEzE5MzQwNDY1Mzk3NTc2NTUzMTB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 19,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_2081949838673974900",
+      "title": "别人看不起你，究竟是你不行，还是对方的问题？",
+      "url": "https://www.zhihu.com/question/2081949838673974900",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1789961830.108995",
+        "card_id": "Q_2081949838673974900",
+        "feed_specific": {
+          "answer_count": 234
+        },
+        "target": {
+          "title_area": {
+            "text": "别人看不起你，究竟是你不行，还是对方的问题？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-a44787bfa7528ca53e80625e2d889791.png"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2081949838673974900"
+          }
+        },
+        "attached_info": "CkoI44yAiKGF7+JPEAMaCTEyMTI5Nzk1NCDCsZHVBjAAOOkBQBNyEzIwODE5NDk4Mzg2NzM5NzQ5MDB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 20,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084949965886048196",
+      "title": "苹果硬件负责人称看到 iPhone 贴膜就浑身不自在，这反映了厂商与用户之间怎样的理念冲突？",
+      "url": "https://www.zhihu.com/question/2084949965886048196",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1789961830.109310",
+        "card_id": "Q_2084949965886048196",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "苹果硬件负责人称看到 iPhone 贴膜就浑身不自在，这反映了厂商与用户之间怎样的理念冲突？"
+          },
+          "excerpt_area": {
+            "text": "苹果硬件负责人马里布：每次看到有人给 iPhone 贴膜，我就浑身不自在 IT 之家 2026-09-20 09:30 发布于 IT 之家官方账号 苹果硬件负责人马里布：每次看到有人给 iPhone 贴膜，我就浑身不自在"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-5c79f44ae067a85d4f8b2401a5fb535d.png"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084949965886048196"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQwNDU1MiDYhb3VBjAAOBdAFHITMjA4NDk0OTk2NTg4NjA0ODE5NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 21,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085053032220161208",
+      "title": "红果短剧日均使用时长达 125 分钟超越抖音，你的日均刷短剧时长有多久？为啥短剧能让人停不下来的想刷？",
+      "url": "https://www.zhihu.com/question/2085053032220161208",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "112 万热度",
+      "latest_heat_value": 1120000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1789961830.110064",
+        "card_id": "Q_2085053032220161208",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "红果短剧日均使用时长达 125 分钟超越抖音，你的日均刷短剧时长有多久？为啥短剧能让人停不下来的想刷？"
+          },
+          "excerpt_area": {
+            "text": "近日，《中国微短剧精品创作与传播研究报告（2026）》披露了一组颇具冲击力的数据：截至 2026 年 7 月，红果短剧日活跃用户达到 1.68 亿，已经超过爱奇艺、优酷、腾讯视频和芒果 TV 四家平台日活跃用户之和；红果用户日均使用时长达到 125 分钟，同比增长 33 分钟。 根据《中国互联网和新媒体》月度研究报告，7 月抖音单一用户月均使用时长首次超过微信，成为国内使用时长最高的 App。数据显示，抖音单用户日均使用时长约为 112 至 120 分钟，而微信约为 82 至 85 分钟。抖音用户时长首次超越微信！短视频主宰世界？ _ 游民星空 GamerSky.com 1.68 亿人追短剧，红果开始收割用户时间"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-67866a4542aaad37a8ff1669e8d7d5d1.png"
+          },
+          "metrics_area": {
+            "text": "112 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085053032220161208"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQxMDM5MyDVxb7VBjAAODZAFXITMjA4NTA1MzAzMjIyMDE2MTIwOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 22,
+          "heat_text": "112 万热度",
+          "heat_value": 1120000
+        }
+      ]
+    },
+    {
+      "key": "Q_2077679926761754950",
+      "title": "韩立修仙修到最后，有孙悟空的几成实力？",
+      "url": "https://www.zhihu.com/question/2077679926761754950",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "109 万热度",
+      "latest_heat_value": 1090000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1789961830.111295",
+        "card_id": "Q_2077679926761754950",
+        "feed_specific": {
+          "answer_count": 51
+        },
+        "target": {
+          "title_area": {
+            "text": "韩立修仙修到最后，有孙悟空的几成实力？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-8027131d724b4933816e79d6602c4ec6.png"
+          },
+          "metrics_area": {
+            "text": "109 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2077679926761754950"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTE0MDI3MCCXoNPUBjAAOEJAFnITMjA3NzY3OTkyNjc2MTc1NDk1MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 23,
+          "heat_text": "109 万热度",
+          "heat_value": 1090000
+        }
+      ]
+    },
+    {
+      "key": "Q_2068401908591727264",
+      "title": "现在纯牛奶每 100 毫升的蛋白质含量，怎么越来越高了？高的牛奶已经到 4.0 了?",
+      "url": "https://www.zhihu.com/question/2068401908591727264",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "104 万热度",
+      "latest_heat_value": 1040000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1789961830.113038",
+        "card_id": "Q_2068401908591727264",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "现在纯牛奶每 100 毫升的蛋白质含量，怎么越来越高了？高的牛奶已经到 4.0 了?"
+          },
+          "excerpt_area": {
+            "text": "前几年基本还在 3.0 上下，基本 2.8 的也很普遍，现在普遍都是 3.4g\\3.6g 了，高一点的都是 4.0g, 这是奶牛吃得好了？还是提纯了？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-ca91a5df1c3c0c4a114099ea28cf8c8b.png"
+          },
+          "metrics_area": {
+            "text": "104 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2068401908591727264"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMDc5Mjk1MSDEnszTBjAAOBlAGHITMjA2ODQwMTkwODU5MTcyNzI2NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 25,
+          "heat_text": "104 万热度",
+          "heat_value": 1040000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084904236790429244",
+      "title": "解说称郭士强对日本男篮准备不足，如何评价其执教表现？",
+      "url": "https://www.zhihu.com/question/2084904236790429244",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "96 万热度",
+      "latest_heat_value": 960000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1789961830.114011",
+        "card_id": "Q_2084904236790429244",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "解说称郭士强对日本男篮准备不足，如何评价其执教表现？"
+          },
+          "excerpt_area": {
+            "text": "近日解说管维佳、殳海和孔德昕录制了《体坛篮球秀》播客，在最新更新的一期里，他们谈到中国男篮的相关话题。 管维佳：所以我昨天在比赛之后我说，这场比赛教练组尤其是郭士强需要负责任，而且他是被完爆的比赛，其中的第一点我就觉得对于这场比赛的困难程度准备的不够充分。在备战在对球员的这种激励方面，其实并没有做到位。 当然我们说打日本队肯定对于中国球员来说是一场重要的比赛。但是这支日本队他是一个什么样成色的球队，他到底有什么样的特点，因为日本队在大家这场比赛之前大家都会认为他们很弱。我觉得这个也毋庸讳言，因为他们之前刚刚输给了韩国 17 分。然后在其他的打沙特那场比赛他们也赢得不轻松。包括打中国台北也没有赢特别多。所以就这种重视程度的问题，我觉得这可能是昨天这场比赛咱们溃败的首要的、第一个可以被说的原因。 孔德昕：那就是有一种，昨天那个比赛大家也都知道啊，就赛前也有调侃说谁还有中国男篮压力大，因为这个在这个地点然后面对这样一个对手，又是一个比较特殊的时间点，那我觉得在心理层面我不相信中国男篮的球员会怎么说就是不重视这场比赛，或者说掉以轻心。 管维佳：没有不重视，对，我觉得不是不重视而是就没有觉得这是一个非常困难的比赛。 孔德昕：就是你给了自己很大的精神压力，就觉得这是一场必须赢的比赛，但是你的潜意识里又把对手小看了，就觉 解说：郭士强对打日本男篮的困难程度准备不足 赛前激励没做到位"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-c36c81e44f3941a3a263a33f8d364fbe.png"
+          },
+          "metrics_area": {
+            "text": "96 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084904236790429244"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQwMzA5MCDBsLzVBjAAOBpAGXITMjA4NDkwNDIzNjc5MDQyOTI0NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 26,
+          "heat_text": "96 万热度",
+          "heat_value": 960000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084014137865257125",
+      "title": "朱元璋为什么亲手编制了一本《御制纪非录》记录他的儿子们的暴行？",
+      "url": "https://www.zhihu.com/question/2084014137865257125",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "90 万热度",
+      "latest_heat_value": 900000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1789961830.115446",
+        "card_id": "Q_2084014137865257125",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "朱元璋为什么亲手编制了一本《御制纪非录》记录他的儿子们的暴行？"
+          },
+          "excerpt_area": {
+            "text": "中国历史是只有朱元璋做了这件事情，然后黑朱元璋和黑大明的人认为其他朝代的皇帝儿子们都遵纪守法不会无故杀人做荒唐的事情。 其他皇帝的儿子们做坏事当然在史书里也有记录，但一般是因为皇帝对这种行为进行处罚的时候，是为了体现皇帝英明和公正，爱民如子的形象的或者是要贬低这些皇子，无论是哪一种都是出于政治的目的而非真的要记录这些皇子们的罪行。 那么朱元璋为什么要这么做呢？难道就是要后人戳朱元璋及其儿子们的脊梁骨吗？显然不是嘛！他是为了教育儿子们及其后来的藩王的。其目的是要求藩王遵纪守法。当然那些黑子认为朱元璋是为了鼓励藩王犯罪，所以才写这个书的。 至于其他朝代没有记录，其他朝代的皇子就不胡作非为了吗？我们就看看唐太宗李世民的儿子李承乾，看他做了什么好事？他这些坏事如果不是造反被废，你会知道吗？一个太子都能如此，更何况其它普通皇子？而相比李承乾，朱标就明显是一个仁爱且有能力的合格储君。 所以那些黑粉为什么不动脑子想想？"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-ebafc8c4efce0bd7af0389a710761c93.png"
+          },
+          "metrics_area": {
+            "text": "90 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084014137865257125"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTM3MzU0MiDJtq/VBjAAOEVAGnITMjA4NDAxNDEzNzg2NTI1NzEyNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 27,
+          "heat_text": "90 万热度",
+          "heat_value": 900000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085000025088733360",
+      "title": "多所高校推进「无手机课堂」，需将手机调至静音并放入手机收纳袋，大学限制手机合理吗？这种方法管用吗？",
+      "url": "https://www.zhihu.com/question/2085000025088733360",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "89 万热度",
+      "latest_heat_value": 890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1789961830.116329",
+        "card_id": "Q_2085000025088733360",
+        "feed_specific": {
+          "answer_count": 79
+        },
+        "target": {
+          "title_area": {
+            "text": "多所高校推进「无手机课堂」，需将手机调至静音并放入手机收纳袋，大学限制手机合理吗？这种方法管用吗？"
+          },
+          "excerpt_area": {
+            "text": "「上课前主动将手机调至静音模式，统一放入教室手机收纳盒。课堂上未经教学允许不得使用手机。」2026 年 9 月 19 日，广州理工学院学生处微信公众号发布了一则《关于重申课堂手机管理有关要求的通知》。 这则通知也对任课教师提出了工作要求，即每节课完成手机签到后，督促学生将手机调至静音并放入教室手机收纳盒，课程教学确需使用手机的情况除外，及时制止课堂不当使用手机行为。对课堂违规使用手机的学生及时劝阻并做好情况记录，相关记录作为课堂表现纳入学生平时成绩；违规情节严重的，报送学生所在学院处置。 近段时间，多所高校推进「无手机课堂」建设。 如北京航空航天大学飞行学院 9 月 14 日发布的消息称，为进一步规范课堂秩序，北京航空航天大学飞行学院面向大一大二年级全面推进「无手机课堂」常态化建设。针对课堂电子设备易分散注意力等问题，2025 级各班级建立课前标准化管理机制，课前同学们将手机调至静音，按编号放入班级手机收纳袋，实现设备集中存放、统一管控、课后有序取回。2026 级则将手机统一放在宿舍不带入教室。 该消息提到，手机「停机」，专注归位。少了碎片化信息干扰，同学们更能收心归课、专注听讲。 另外，为进一步夯实课堂教学管理，营造专注浓厚的课堂学习氛围，西安航空学院低空管理与数字经济学院制定了教室手机收纳袋使用管理办法，并于今年 9 月 6 日在学院微信公众号上发布。 该办法提出，课堂教学时段，倡导同学们将手机关机或者调至静音模式，按照学号顺序，统一放置到教室手机收纳袋妥善保管，全身心投入课堂学习。除任课教师明确教学安排，允许使用手机开展辅助学习外，上课期间建议尽量不使用手机。如发现同学课堂使用手机分散注意力，任课教师将进行现场教育引导。 学院方面表示，让手机「退居二线」，让课堂回归本心。课堂是求知向学的主阵地，远离手机干扰，方能沉下心汲取知识养分。希望全体师生共同努力，严格遵守本管理办法，互相督促、同向发力，自觉维护课堂秩序，共建专注高效、勤学善思的优良课堂学风。 南京航空航天大学继续教育学院 9 月 18 日以倡议书的形式，呼吁全体学生「文明课堂，远离手机，规范收纳」。 学院方面提及，课堂刷短视频、频繁看消息、低头玩手机，不仅会打断听课思路、降低学习效率，也辜负了宝贵的课堂时光和老师的用心授课。每节课上课前，应自觉将手机调至静音或关机状态，统一放入班级手机收纳袋。坚持手机入袋、专注入心，彻底告别课堂低头、刷手机、摸鱼分心的小陋习，把全部精力留给课堂、留给学习。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-f9d8d8db8956400bb627f7673e7931b8.png"
+          },
+          "metrics_area": {
+            "text": "89 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085000025088733360"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQwNzY2OSD34r3VBjAAOGhAG3ITMjA4NTAwMDAyNTA4ODczMzM2MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 28,
+          "heat_text": "89 万热度",
+          "heat_value": 890000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085060319890470096",
+      "title": "继中国男篮 77‑97 惨败日本男篮后，又输伊朗男篮，暴露了中国男篮现存的哪些问题？又该如何突破？",
+      "url": "https://www.zhihu.com/question/2085060319890470096",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1789961830.117755",
+        "card_id": "Q_2085060319890470096",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "继中国男篮 77‑97 惨败日本男篮后，又输伊朗男篮，暴露了中国男篮现存的哪些问题？又该如何突破？"
+          },
+          "excerpt_area": {
+            "text": "相关问题：亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-2f72791a79f823c13ee153176d0637b7.png"
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085060319890470096"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQxMDgxMSCe077VBjAAOBpAHHITMjA4NTA2MDMxOTg5MDQ3MDA5NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 29,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085177562754447141",
+      "title": "26/27 赛季英超第五轮曼联 1：1 富勒姆，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2085177562754447141",
+      "first_seen": "2026-09-21 11:37:10 +0800",
+      "last_seen": "2026-09-21 11:37:10 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1789961830.118267",
+        "card_id": "Q_2085177562754447141",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "26/27 赛季英超第五轮曼联 1：1 富勒姆，如何评价这场比赛？"
+          },
+          "excerpt_area": {
+            "text": "英超第 5 轮，曼联客场 1-1 战平富勒姆，至此，曼联本赛季英超前 5 轮只拿到 5 分，为队史英超同期并列最低。 在此役 1-1 战平富勒姆之后，曼联本赛季英超前 5 轮战绩为 1 胜 2 平 2 负，积 5 分排名第 12 位。 据统计，曼联在英超赛季前 5 轮拿到 5 分，这是曼联队史英超同期并列最低积分，此前 2014-15 赛季前 5 轮同样只有 5 分。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-4e768945526a7fb55a6297bcb9286568.webp"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085177562754447141"
+          }
+        },
+        "attached_info": "CkkI44yAiKGF7+JPEAMaCTEyMTQxNTE3MSDPrcDVBjAAOBRAHXITMjA4NTE3NzU2Mjc1NDQ0NzE0MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-21 11:37:10 +0800",
+          "rank": 30,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
         }
       ]
     }
