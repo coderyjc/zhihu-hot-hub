@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-09-23 11:35:35 +0800",
+  "updated_at": "2026-09-23 18:53:21 +0800",
   "items": [
     {
       "key": "Q_2085812663049613991",
@@ -3915,18 +3915,23 @@
       "title": "老人突发心梗，5 次拨打 120 未能接通后死亡，院方称通信光缆故障，各方应承担怎样的责任？暴露了哪些问题？",
       "url": "https://www.zhihu.com/question/2085845337738932843",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 8,
       "latest_rank": 8,
-      "latest_heat_text": "105 万热度",
-      "latest_heat_value": 1050000,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1790134534.822278",
+        "id": "7_1790160801.697149",
         "card_id": "Q_2085845337738932843",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 64
+          "answer_count": 205
         },
         "target": {
           "title_area": {
@@ -3939,7 +3944,7 @@
             "url": "https://picx.zhimg.com/v2-9faac8a4f721ce5ac1efac0fa4b3f341_1440w.jpg"
           },
           "metrics_area": {
-            "text": "105 万热度",
+            "text": "146 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3954,7 +3959,7 @@
             "url": "https://www.zhihu.com/question/2085845337738932843"
           }
         },
-        "attached_info": "CkoI4+zoz+nL/eUMEAMaCTEyMTQzODkyOCC5icrVBjAAOJ4BQAdyEzIwODU4NDUzMzc3Mzg5MzI4NDN4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQzODkyOCC5icrVBjAAOKQEQAdyEzIwODU4NDUzMzc3Mzg5MzI4NDN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3962,6 +3967,12 @@
           "rank": 8,
           "heat_text": "105 万热度",
           "heat_value": 1050000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 8,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
         }
       ]
     },
@@ -4030,18 +4041,18 @@
       "title": "iPhone Duo 整机组装良率仅六成多，供应链在等苹果决定是否放宽质量要求，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2085398866065618860",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 11,
       "latest_rank": 11,
-      "latest_heat_text": "91 万热度",
-      "latest_heat_value": 910000,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "10_1790134534.826245",
+        "id": "10_1790160801.705396",
         "card_id": "Q_2085398866065618860",
         "feed_specific": {
-          "answer_count": 56
+          "answer_count": 83
         },
         "target": {
           "title_area": {
@@ -4054,7 +4065,7 @@
             "url": "https://pica.zhimg.com/80/v2-a52e78080e2b65ca9d33fc6ca46f3dde_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "91 万热度",
+            "text": "146 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4069,7 +4080,7 @@
             "url": "https://www.zhihu.com/question/2085398866065618860"
           }
         },
-        "attached_info": "CkoI4+zoz+nL/eUMEAMaCTEyMTQyMjIzMyDqycPVBjAAOIQBQApyEzIwODUzOTg4NjYwNjU2MTg4NjB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQyMjIzMyDqycPVBjAAONQBQApyEzIwODUzOTg4NjYwNjU2MTg4NjB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4077,6 +4088,12 @@
           "rank": 11,
           "heat_text": "91 万热度",
           "heat_value": 910000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 11,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
         }
       ]
     },
@@ -4265,15 +4282,15 @@
       "title": "如何评价 GPT-6 Sol 和 Luna？",
       "url": "https://www.zhihu.com/question/2085927666914432329",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 15,
       "latest_rank": 15,
-      "latest_heat_text": "83 万热度",
-      "latest_heat_value": 830000,
+      "latest_heat_text": "130 万热度",
+      "latest_heat_value": 1300000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1790134534.829030",
+        "id": "14_1790160801.715940",
         "card_id": "Q_2085927666914432329",
         "card_label": {
           "type": "hot",
@@ -4281,7 +4298,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 42
+          "answer_count": 115
         },
         "target": {
           "title_area": {
@@ -4294,7 +4311,7 @@
             "url": "https://pic1.zhimg.com/80/v2-e417ed6306401f924edb92ee5aab14f1_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "83 万热度",
+            "text": "130 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4309,7 +4326,7 @@
             "url": "https://www.zhihu.com/question/2085927666914432329"
           }
         },
-        "attached_info": "CkkI4+zoz+nL/eUMEAMaCTEyMTQ0MDY5NCDmosvVBjAAOH1ADnITMjA4NTkyNzY2NjkxNDQzMjMyOXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQ0MDY5NCDmosvVBjAAOOgCQA5yEzIwODU5Mjc2NjY5MTQ0MzIzMjl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4317,6 +4334,12 @@
           "rank": 15,
           "heat_text": "83 万热度",
           "heat_value": 830000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 15,
+          "heat_text": "130 万热度",
+          "heat_value": 1300000
         }
       ]
     },
@@ -4325,18 +4348,18 @@
       "title": "怎么看待《金融时报》报道俄罗斯已经摧毁了乌克兰全国超过一半，即 210 万平方米的仓储设施？",
       "url": "https://www.zhihu.com/question/2085982505958744812",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 16,
-      "latest_rank": 16,
-      "latest_heat_text": "83 万热度",
-      "latest_heat_value": 830000,
+      "latest_rank": 18,
+      "latest_heat_text": "129 万热度",
+      "latest_heat_value": 1290000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1790134534.829939",
+        "id": "17_1790160801.720876",
         "card_id": "Q_2085982505958744812",
         "feed_specific": {
-          "answer_count": 43
+          "answer_count": 98
         },
         "target": {
           "title_area": {
@@ -4349,7 +4372,7 @@
             "url": "https://picx.zhimg.com/80/v2-fb41b370c90798740c71487bec4de405_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "83 万热度",
+            "text": "129 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4364,7 +4387,7 @@
             "url": "https://www.zhihu.com/question/2085982505958744812"
           }
         },
-        "attached_info": "CkkI4+zoz+nL/eUMEAMaCTEyMTQ0MTM4MCD5iMzVBjAAOFFAD3ITMjA4NTk4MjUwNTk1ODc0NDgxMngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQ0MTM4MCD5iMzVBjAAOOMBQBFyEzIwODU5ODI1MDU5NTg3NDQ4MTJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4372,6 +4395,12 @@
           "rank": 16,
           "heat_text": "83 万热度",
           "heat_value": 830000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 18,
+          "heat_text": "129 万热度",
+          "heat_value": 1290000
         }
       ]
     },
@@ -4380,18 +4409,23 @@
       "title": "为什么大家通常说的都是小猫统治世界，而不是小狗统治世界呢？",
       "url": "https://www.zhihu.com/question/2039459450818404540",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 17,
-      "latest_rank": 17,
-      "latest_heat_text": "83 万热度",
-      "latest_heat_value": 830000,
+      "latest_rank": 9,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "16_1790134534.830274",
+        "id": "8_1790160801.702610",
         "card_id": "Q_2039459450818404540",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 34
+          "answer_count": 88
         },
         "target": {
           "title_area": {
@@ -4404,7 +4438,7 @@
             "url": "https://pic1.zhimg.com/80/v2-2165e0b0332564c83fb47890e3eac3bf_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "83 万热度",
+            "text": "146 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4419,7 +4453,7 @@
             "url": "https://www.zhihu.com/question/2039459450818404540"
           }
         },
-        "attached_info": "CkkI4+zoz+nL/eUMEAMaCTExOTU0NTQ0NyCAiafQBjAAODtAEHITMjAzOTQ1OTQ1MDgxODQwNDU0MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTExOTU0NTQ0NyCAiafQBjAAOKIBQAhyEzIwMzk0NTk0NTA4MTg0MDQ1NDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4427,6 +4461,12 @@
           "rank": 17,
           "heat_text": "83 万热度",
           "heat_value": 830000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 9,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
         }
       ]
     },
@@ -4655,23 +4695,23 @@
       "title": "12306 回应国庆假期高铁涨价，「不同日期优惠折扣不同，并非涨价」，哪些信息值得关注？",
       "url": "https://www.zhihu.com/question/2084229555133461679",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 22,
-      "latest_rank": 22,
-      "latest_heat_text": "81 万热度",
-      "latest_heat_value": 810000,
+      "latest_rank": 10,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "21_1790134534.832552",
+        "id": "9_1790160801.703639",
         "card_id": "Q_2084229555133461679",
         "card_label": {
-          "type": "new",
-          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 28
+          "answer_count": 124
         },
         "target": {
           "title_area": {
@@ -4684,7 +4724,7 @@
             "url": "https://pic2.zhimg.com/50/v2-bbde80a3d18d48ee78dc17718f697285_b.jpg"
           },
           "metrics_area": {
-            "text": "81 万热度",
+            "text": "146 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4699,7 +4739,7 @@
             "url": "https://www.zhihu.com/question/2084229555133461679"
           }
         },
-        "attached_info": "CkkI4+zoz+nL/eUMEAMaCTEyMTM3ODg1NCDpx7LVBjAAOCJAFXITMjA4NDIyOTU1NTEzMzQ2MTY3OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTM3ODg1NCDpx7LVBjAAOLgBQAlyEzIwODQyMjk1NTUxMzM0NjE2Nzl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4707,6 +4747,12 @@
           "rank": 22,
           "heat_text": "81 万热度",
           "heat_value": 810000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 10,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
         }
       ]
     },
@@ -4890,18 +4936,18 @@
       "title": "奥运冠军张家齐节目中被妈妈数落，直言『不是你养大的』，这反映了怎样的亲子关系问题？",
       "url": "https://www.zhihu.com/question/2082046907552215882",
       "first_seen": "2026-09-23 11:35:35 +0800",
-      "last_seen": "2026-09-23 11:35:35 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
       "first_rank": 26,
       "latest_rank": 26,
-      "latest_heat_text": "66 万热度",
-      "latest_heat_value": 660000,
+      "latest_heat_text": "95 万热度",
+      "latest_heat_value": 950000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "25_1790134534.834479",
+        "id": "25_1790160801.742026",
         "card_id": "Q_2082046907552215882",
         "feed_specific": {
-          "answer_count": 83
+          "answer_count": 121
         },
         "target": {
           "title_area": {
@@ -4914,7 +4960,7 @@
             "url": "https://picx.zhimg.com/80/v2-0748efcd07eeea7dc348f6da7053e3d3_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "66 万热度",
+            "text": "95 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4929,7 +4975,7 @@
             "url": "https://www.zhihu.com/question/2082046907552215882"
           }
         },
-        "attached_info": "CkoI4+zoz+nL/eUMEAMaCTEyMTI5OTk4NyCp5pLVBjAAOJoBQBlyEzIwODIwNDY5MDc1NTIyMTU4ODJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTI5OTk4NyCp5pLVBjAAOPgBQBlyEzIwODIwNDY5MDc1NTIyMTU4ODJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4937,6 +4983,12 @@
           "rank": 26,
           "heat_text": "66 万热度",
           "heat_value": 660000
+        },
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 26,
+          "heat_text": "95 万热度",
+          "heat_value": 950000
         }
       ]
     },
@@ -5162,6 +5214,1311 @@
           "rank": 30,
           "heat_text": "58 万热度",
           "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085738440742670337",
+      "title": "沃尔玛中国、山姆中国首席采购官双双换人，美国山姆高管空降执掌山姆采购，这次人事调整释放了哪些战略信号？",
+      "url": "https://www.zhihu.com/question/2085738440742670337",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "554 万热度",
+      "latest_heat_value": 5540000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1790160801.688636",
+        "card_id": "Q_2085738440742670337",
+        "feed_specific": {
+          "answer_count": 172
+        },
+        "target": {
+          "title_area": {
+            "text": "沃尔玛中国、山姆中国首席采购官双双换人，美国山姆高管空降执掌山姆采购，这次人事调整释放了哪些战略信号？"
+          },
+          "excerpt_area": {
+            "text": "9 月 22 日，沃尔玛中国宣布，现任美国山姆会员商店非食品采购高级副总裁 Sean Jackson，将接受国际外派，加入沃尔玛中国团队，担任山姆会员商店首席采购官，直接向山姆会员商店业态总裁刘鹏汇报。Sean 将与山姆会员商店代理首席采购官 Neil Maffey 进行工作交接，并在完成中国本地相关业务培训后正式履职，Neil 也将继续以全职顾问的身份，为山姆业务的持续发展提供战略支持。 同时，现任沃尔玛中国副总裁、山姆会员商店非食品采购负责人 Amber Bynum，将调任沃尔玛商店首席采购官，直接向沃尔玛商店业态总裁祝骏汇报。Amber 将在未来的一个月内完成工作交接，并于 10 月中旬正式到任新岗位。沃尔玛中国、山姆中国首席采购官双双换人 _10% 公司 _ 澎湃新闻 -The Paper"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-c8c13d4f89cc5867098ec03caf91df99_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "554 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085738440742670337"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQzMzYwNyCrwsjVBjAAOOUDQAByEzIwODU3Mzg0NDA3NDI2NzAzMzd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 1,
+          "heat_text": "554 万热度",
+          "heat_value": 5540000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086049666445965036",
+      "title": "闲鱼称「涉未成年人淫秽」不实，已就引流行为报案，这算反转了吗？「来自其他平台」的违规截图是谁的责任？",
+      "url": "https://www.zhihu.com/question/2086049666445965036",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "489 万热度",
+      "latest_heat_value": 4890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1790160801.689927",
+        "card_id": "Q_2086049666445965036",
+        "feed_specific": {
+          "answer_count": 159
+        },
+        "target": {
+          "title_area": {
+            "text": "闲鱼称「涉未成年人淫秽」不实，已就引流行为报案，这算反转了吗？「来自其他平台」的违规截图是谁的责任？"
+          },
+          "excerpt_area": {
+            "text": "9 月 23 日，闲鱼调查结果公布：经全面清查，在平台公开展示信息中未发现淫秽信息，更不存在涉未成年人淫秽信息；近期媒体报道中涉及的违规聊天截图，经核实来自其他平台，并非发生在闲鱼，闲鱼已就相关事件向公安机关报案。 平台对利用闲鱼进行违法违规引流的行为零容忍，更不允许侵害未成年人的信息和事件发生。 调查结果称，闲鱼依法依规对公开展示信息进行严格管控。针对媒体报道的内容，闲鱼对整个平台进行了多轮自查，在平台内公开展示的信息中未查到淫秽信息，更不存在涉未成年人淫秽内容。 关于私域聊天中的引流行为，闲鱼一直采用技术手段屏蔽违法关键词，并严防利用平台进行违法行为的引流。报道中揭示的违规内容，包括涉及未成年人的聊天记录，从截图看应为其他平台聊天记录，并非发生在闲鱼。目前，闲鱼已将相关商家、二维码和聊天记录向该平台举报，由其跟进处理。 闲鱼表示，虽然媒体报道中的聊天与交易发生在其他平台，但闲鱼作为不法分子实施引流的目标平台之一，负有不可推卸的治理责任。为防止不法分子以正常商品为掩护规避审核、将用户恶意引流至其他社交平台从事非法交易，闲鱼已第一时间报案，将相关报道及所涉信息移交公安机关处理，并将全力配合调查。 打击黑灰产是一场长期艰巨的斗争，需要不断努力。面对跨平台引流等行业性难题，闲鱼将全力履行平台主体责任，主动配合各级主管部门，持续升级技术识别能力，加大人工巡查力度，同时倡议，各互联网平台联手建立针对黑灰产的反引流联盟，以技术手段和多平台协同，阻断利用网络平台为违法犯罪引流的行为。闲鱼公布调查结果：「涉未成年人淫秽」系不实消息，已就引流行为报案 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-6bbc3f2477c1348fef0635b6935a6669.png"
+          },
+          "metrics_area": {
+            "text": "489 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086049666445965036"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQ0MzM0OSCFhs3VBjAAONICQAFyEzIwODYwNDk2NjY0NDU5NjUwMzZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 2,
+          "heat_text": "489 万热度",
+          "heat_value": 4890000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085787605107470746",
+      "title": "如何评价腾讯新游《粒粒的小人国》二测表现？",
+      "url": "https://www.zhihu.com/question/2085787605107470746",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "169 万热度",
+      "latest_heat_value": 1690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1790160801.691311",
+        "card_id": "Q_2085787605107470746",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 41
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价腾讯新游《粒粒的小人国》二测表现？"
+          },
+          "excerpt_area": {
+            "text": "二测比一测好，重点应该在冒险 + 建造。看直播有一个类似搜打撤打怪搜集资源的。（很拉）剧情和 NPC 对话没有配音，直接用音效代替。（拉中拉）。而且这次测试资格很少，也懒得反馈了。在知乎吐槽一下得了"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-c102f1601b6e363c21d716ad817172ee_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "169 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085787605107470746"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzNjA1OSD1ncnVBjAAODRAAnITMjA4NTc4NzYwNTEwNzQ3MDc0NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 3,
+          "heat_text": "169 万热度",
+          "heat_value": 1690000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084219216232821034",
+      "title": "山上明明没有水库，为什么溪水一年到头流不完？",
+      "url": "https://www.zhihu.com/question/2084219216232821034",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "164 万热度",
+      "latest_heat_value": 1640000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1790160801.691788",
+        "card_id": "Q_2084219216232821034",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "山上明明没有水库，为什么溪水一年到头流不完？"
+          },
+          "excerpt_area": {
+            "text": "明明山顶上没有湖，也没有水库，半山腰却总能找到一条小溪。有些地方甚至连续十几天不下雨，山沟里的水还是哗啦啦往下流。更神奇的是，顺着溪水往上找，最后往往不是找到一个大水潭，而是发现水就这么从石头缝里冒出来了。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-25edf0c3e6e03a234e28ed31ebde19ae_b.jpg"
+          },
+          "metrics_area": {
+            "text": "164 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084219216232821034"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTM3ODM0OCDItLLVBjAAOExAA3ITMjA4NDIxOTIxNjIzMjgyMTAzNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 4,
+          "heat_text": "164 万热度",
+          "heat_value": 1640000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085881529876718129",
+      "title": "华人藏家花费 2400 万元追回疑似圆明园龙首，此事具有哪些意义？",
+      "url": "https://www.zhihu.com/question/2085881529876718129",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "148 万热度",
+      "latest_heat_value": 1480000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1790160801.692248",
+        "card_id": "Q_2085881529876718129",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 40
+        },
+        "target": {
+          "title_area": {
+            "text": "华人藏家花费 2400 万元追回疑似圆明园龙首，此事具有哪些意义？"
+          },
+          "excerpt_area": {
+            "text": "9 月 22 日，加拿大籍藏家、上海市收藏协会会员孙伟中在参与 2026 年北京文化论坛期间接受中新社专访。2018 年，孙伟中与台湾收藏家周海圣联手，在法国巴黎拍卖会以约 2400 万元人民币的价格拍下谢满禄家族旧藏器物，这件器物被认为疑似圆明园龙首，现已回到祖国。 过去八年，孙伟中持续征集、系统性保护同属谢满禄遗存的千余张 19 世纪北京原版老照片。这批影像记录了三山五园、中轴线、长城、十三陵等珍贵历史风貌。他与北京联合大学共建北京影像研究中心，依托这批影像开展古都历史与都城保护研究。孙伟中表示，龙是中华民族的根脉，这件器物的回归凝聚众多「护龙人」的心血。待器物身份完成严谨论证后，他表达了未来将其捐赠国家的意愿。孙伟中表示，「国运兴则文物归」，国家强盛带给海外华人底气与信心，也让文明对话的窗口更加开阔。华人华侨身在海外，掌握海外文物线索，能够搭建文明互鉴桥梁，海内外中华儿女携手，助力流失文物追索，守护中华文脉。 (记者 范思忆 制作 王佳琪) 华人藏家孙伟中：2400 万追回疑似圆明园龙首 国运兴则文物归"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-9b9d14a21d0a38a1e4d4bdecabf6f1da_b.jpg"
+          },
+          "metrics_area": {
+            "text": "148 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085881529876718129"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQ0MDIyNyDuzMrVBjAAODVABHITMjA4NTg4MTUyOTg3NjcxODEyOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 5,
+          "heat_text": "148 万热度",
+          "heat_value": 1480000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084950958245667791",
+      "title": "欧盟要求中国「自愿限制」汽车出口，会如何影响中欧贸易关系？",
+      "url": "https://www.zhihu.com/question/2084950958245667791",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "147 万热度",
+      "latest_heat_value": 1470000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1790160801.693270",
+        "card_id": "Q_2084950958245667791",
+        "feed_specific": {
+          "answer_count": 140
+        },
+        "target": {
+          "title_area": {
+            "text": "欧盟要求中国「自愿限制」汽车出口，会如何影响中欧贸易关系？"
+          },
+          "excerpt_area": {
+            "text": "【环球时报报道 记者 尹野平 王策】欧盟近期考虑采取一系列针对中国的贸易限制措施，范围从纯电动汽车扩大至混合动力汽车、钢铁及其下游产品，引发外界对中欧经贸关系及供应链合作的担忧。 据路透社报道，欧盟 18 日表示，将对电工钢及其下游产品实施进口配额和最低价格措施，以保护欧盟免受主要来自亚洲的低价进口产品冲击。英国《金融时报》17 日报道称，欧盟还要求中国「自愿限制」混合动力汽车出口，寻求中方承诺将中国制造的混动汽车在欧盟市场的销售份额限制在约 15%，而目前这一比例已超过 1/3。 针对欧盟有关举措，中国商务部新闻发言人 18 日表示，所谓自愿出口限制严重违反世贸组织规则，违背市场经济规律和公平竞争原则。中方对此坚决反对。发言人强调，中欧之间的任何解决方案必须确保利益平衡，必须符合世贸组织规则和各自国内法律，并充分照顾双方业界利益。 与欧盟不断加码限制形成对比的是，英国目前并未效仿欧盟对中国制造的纯电动汽车额外征收反补贴关税。英国《每日电讯报》17 日报道称，英国商业和贸易大臣乔纳森·雷诺兹日前表示，英国不能简单通过对中国电动汽车加征关税来保护本土汽车产业，因为此举可能引发中国反制，并伤及英国企业对华出口。雷诺兹表示，在考虑是否设置新的贸易壁垒时，英国首先需要考虑自身利益。 值得注意的是，在欧盟酝酿采取上述举措之际，中国商务部部长王文涛 17 日应约与欧委会贸易和经济安全委员谢夫乔维奇就中欧经贸问题举行视频会谈。欧盟「一边谈、一边限」的做法令外界对其解决中欧经贸分歧的诚意产生质疑。 复旦大学中欧关系研究中心主任简军波 19 日对《环球时报》记者表示，欧盟工业面临能源成本高企、产业转型缓慢和创新能力不足等结构性问题，贸易保护主义或许能暂时缓解部分产业压力，却无法解决深层问题。中国是欧盟许多产业链的重要组成部分，如果欧洲企业无法继续获得具有成本优势的中国原材料、中间产品和零部件，可能被迫寻找价格更高的替代品，从而推高生产成本，最终损害双边贸易、消费者利益以及欧洲企业竞争力。让中国「自愿限制」汽车出口？中方：坚决反对，欧盟有关举措严重违反世贸组织规则"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-40db204e1dc48dc1e6fe77d904a42e06_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "147 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084950958245667791"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQwNDYxMiDEh73VBjAAOKMCQAVyEzIwODQ5NTA5NTgyNDU2Njc3OTF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 6,
+          "heat_text": "147 万热度",
+          "heat_value": 1470000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086074591688876992",
+      "title": "高市早苗在联合国大会呼吁删除「敌国条款」，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2086074591688876992",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "147 万热度",
+      "latest_heat_value": 1470000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1790160801.694679",
+        "card_id": "Q_2086074591688876992",
+        "feed_specific": {
+          "answer_count": 195
+        },
+        "target": {
+          "title_area": {
+            "text": "高市早苗在联合国大会呼吁删除「敌国条款」，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "据俄媒报道，当地时间 9 月 22 日，高市早苗在第 81 届联合国大会发言时表示，联合国应从其宪章中删除「敌国」一词。高市早苗说，早在 2005 年联合国世界首脑会议就通过一项决议，决心从《联合国宪章》中删除有关「敌国」的表述。高市早苗称，「根据该决议，这些表述应当删除」。 她强调，日本为近 70 年来对联合国事业所作的贡献，以及为促进和平与繁荣所作的努力，感到自豪。 日本预计将于今年晚些时候公布新的有关计划，包括在未来十年内将国防开支提高到 GDP 的 3.5% 左右——是目前水平的两倍多，与美国其他盟友保持一致。 早在 2025 年 11 月 21 日，日本首相高市早苗曾公然发表涉台露骨挑衅言论，暗示武力介入台海的可能性，而中国驻日大使馆随后援引《联合国宪章》「敌国条款」对日本发出警告。 今年 8 月以来，中俄两国多次重申《联合国宪章》中「敌国条款」的约束力。俄罗斯外长拉夫罗夫曾表示，《联合国宪章》确立了第二次世界大战的结果。他指出，日本从一开始就被《联合国宪章》认定为「敌国」。日本当年是在承认军国主义罪行、承认《联合国宪章》全部内容的情况下加入联合国。如果日本领导层试图突破本国宪法约束、改写国际法、逃避历史责任，当然会引起严重担忧。 在评论俄外长言论时，中国外交部发言人林剑表示， 中方赞同拉夫罗夫外长有关表态。「敌国条款」是《联合国宪章》的重要规定。今年是东京审判开庭 80 周年，重申「敌国条款」的含义，强调这一条款的约束力，对于捍卫中国人民抗日战争和世界反法西斯战争胜利成果、严防军国主义幽灵死灰复燃具有重要意义。 直新闻特约评论员张思南分析称，所谓「敌国条款」是指《联合国宪章》中的第 53 条、第 77 条和第 107 条，赋予反法西斯同盟国为防止二战「轴心国」死灰复燃而先发制人采取军事行动的「例外权限」。其中，第 53 条明确规定，如战败国「重新走上侵略道路」或者出现这样的可能性威胁，有关地区组织或反法西斯盟国在采取措施防止进一步侵略时无需寻求联合国安理会授权；第 107 条则确认，对敌国的一切战时和战后处置，如军事占领和战争审判，在国际法上完全有效，不受《联合国宪章》限制。 简而言之，「敌国条款」的核心意义在于从国际法层面，允许对战败国，也就是德、日、意及其附属国的再次军事冒险进行无需联合国安理会授权的直接打击。二战以来，「敌国条款」虽从未触发，但一直作为战后国际秩序的法律基石和重要威慑存在。 张思南指出，从二战结束至今已经过去 80 年，当年的战败国都以「会员国」的身份加入联合国，考虑到各会员国主权地位平等，的确有观点对于「敌国条款」是否还有效存疑，包括 1995 年的联大决议曾提出「敌国条款」已经过时，并建议启动修改《联合国宪章》的程序予以删除。 但另一方面，直到今天，「敌国条款」仍然完整保留在《联合国宪章》的文本之中，无论「敌国条款」的法律适用性如何，它在法律技术层面的有效性不容置疑，仍然为战胜国至少保留了政治与舆论上的威慑手段。 高市早苗在联大呼吁删除「敌国条款」，为何中俄会阻止？_ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-091dbb4b9ac4965be455ef3f23d03d82_b.jpg"
+          },
+          "metrics_area": {
+            "text": "147 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086074591688876992"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQ0NTE4MCC8tM3VBjAAOOcCQAZyEzIwODYwNzQ1OTE2ODg4NzY5OTJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 7,
+          "heat_text": "147 万热度",
+          "heat_value": 1470000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086020321677505575",
+      "title": "如何看待周琦主动表态愿出战亚运会被拒，林葳跟郭士强只集训两次就被彻底放弃等爆料？是真的吗？",
+      "url": "https://www.zhihu.com/question/2086020321677505575",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1790160801.707856",
+        "card_id": "Q_2086020321677505575",
+        "feed_specific": {
+          "answer_count": 42
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待周琦主动表态愿出战亚运会被拒，林葳跟郭士强只集训两次就被彻底放弃等爆料？是真的吗？"
+          },
+          "excerpt_area": {
+            "text": "几个消息源交叉验证，周琦亚运前主动向国家队表态愿意出战，没进名单。中国青年报补了刀：徐杰也请缨被拒。 郭士强的理由是「周琦没参加夏天集训」，可他选了刚做完手术的余嘉豪，余嘉豪休赛期同样在养伤，俩人情况本质没区别。 林葳跟郭士强只集训两次就被彻底放弃——训练中发生冲突，郭士强让同曦方面直接把人领走。之后短训营没他，赴美考察见了赵维伦、王俊杰，唯独不见林葳。 具体的情况大概就是林葳在训练的时候没有听到队友喊的换位，下来的时候，郭士强质问他，他就回说确实没听到，然后就不再让他进队了。 不知道有多少人细心的和我一样观察到…每次中国男篮或者郭士强出一些新闻，林葳也会同步发一些训练的视频。 反正我认为想要林葳回来，就必须要换掉郭士强。 …如何看待管维佳爆料，称男篮某球员抱怨郭士强「可能输的比赛让我上，能拿金牌的比赛不选我」，对此你怎么看？"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-d9ac764a4f814ea6b32f7865ce84aab0_b.jpg"
+          },
+          "metrics_area": {
+            "text": "146 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086020321677505575"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQ0MjI1NSCxz8zVBjAAODxAC3ITMjA4NjAyMDMyMTY3NzUwNTU3NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 12,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084736087918908877",
+      "title": "经济学家鞠建东建议「对外发行 10 万亿元人民币国债」，以实现「经济结构性」再平衡，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2084736087918908877",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "141 万热度",
+      "latest_heat_value": 1410000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1790160801.711039",
+        "card_id": "Q_2084736087918908877",
+        "feed_specific": {
+          "answer_count": 99
+        },
+        "target": {
+          "title_area": {
+            "text": "经济学家鞠建东建议「对外发行 10 万亿元人民币国债」，以实现「经济结构性」再平衡，对此你怎么看？"
+          },
+          "excerpt_area": {
+            "text": "鞠建东：对外发行 10 万亿元人民币国债，可实现三重再平衡 _7x24 快讯 _ 新浪财经"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-0c53816ed367ca8f9b242b84048bd557_b.jpg"
+          },
+          "metrics_area": {
+            "text": "141 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084736087918908877"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTM5OTY1NiCn97nVBjAAOK4BQAxyEzIwODQ3MzYwODc5MTg5MDg4Nzd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 13,
+          "heat_text": "141 万热度",
+          "heat_value": 1410000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086004261821878734",
+      "title": "如何看待赛力斯董事长回应与华为合作生变，称是全球通行做法？",
+      "url": "https://www.zhihu.com/question/2086004261821878734",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "131 万热度",
+      "latest_heat_value": 1310000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1790160801.713745",
+        "card_id": "Q_2086004261821878734",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 42
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待赛力斯董事长回应与华为合作生变，称是全球通行做法？"
+          },
+          "excerpt_area": {
+            "text": "赛力斯（601127.SH）再度回应与华为合作生变。 9 月 22 日，在半年度业绩会上，赛力斯董事长张兴海在回应公司与华为合作模式变化时表示，双方的跨界合作进一步升级为问界专属专营模式，通过专属渠道、专属服务团队、专属品牌运营等多维度提升品牌价值与销量，这也是全球高端豪华品牌的通行做法。 他强调，新的合作模式是双方跨界融合，持续加强合作的基础上的又一次创新，是体系和协同机制的进一步升级，也是资源的聚焦和渠道的提质增效，有利于推动问界高质量可持续发展。 9 月 15 日，鸿蒙智行和问界汽车同日发布说明，宣布即日起问界在鸿蒙智行合作框架下探索新合作模式，问界品牌将「专属专营」。 围绕「华为税」（即向华为支付的高额硬件采购费和综合服务费），有投资者询问赛力斯在技术授权费、渠道营销费等综合服务费方面的结算机制是否变化。对此，赛力斯方面回应，「新的合作模式下，产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能，引望持续推进问界产品智能化升级，资源更加聚焦、渠道提质增效。公司与相关合作方的商务安排，按照市场化原则和协议约定执行。」 赛力斯方面还表示，此次主导权交接后，公司将根据经营状况和战略需要统筹各项费用安排，在保持战略投入的同时兼顾效率：销售费用的投入更聚焦、覆盖更精准，研发投入持续沉淀、复用并创造价值。 今年上半年，赛力斯由盈转亏，上半年实现营业收入 574.93 亿元，同比下降 7.87%；净亏损 17.17 亿元，去年同期净利润为 29.41 亿元。 赛力斯方面解释，公司第二季度主要受电池、芯片等核心零部件阶段性涨价及资产减值计提影响，叠加行业终端价格竞争加剧，毛利率阶段性下滑。下半年公司将从供应链和费用管控两端推进提质增效：供应链端统筹成本管控，依托大宗物料锁价对冲价格波动，通过工艺改进提升材料利用效率；公司加强全口径费用管控，严控非必要支出，并优化产品结构，持续跟踪经营情况，力争尽快实现扭亏为盈。 截至 9 月 22 日收盘，赛力斯涨 0.04%，报收 47.78 元。"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-5c1a0a79b7e6201208d1be96bdf821cb_b.jpg"
+          },
+          "metrics_area": {
+            "text": "131 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086004261821878734"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQ0MTc1OSC8sczVBjAAODxADXITMjA4NjAwNDI2MTgyMTg3ODczNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 14,
+          "heat_text": "131 万热度",
+          "heat_value": 1310000
+        }
+      ]
+    },
+    {
+      "key": "Q_2081527612858425924",
+      "title": "蛋白质摄入不足会有哪些信号？",
+      "url": "https://www.zhihu.com/question/2081527612858425924",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "130 万热度",
+      "latest_heat_value": 1300000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1790160801.718294",
+        "card_id": "Q_2081527612858425924",
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "蛋白质摄入不足会有哪些信号？"
+          },
+          "excerpt_area": {
+            "text": "每天摄入标准是多少？"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-b5ee56771ced9023b47344510a4a41ff_b.jpg"
+          },
+          "metrics_area": {
+            "text": "130 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2081527612858425924"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTI4MzQ0MCCHn4vVBjAAOLcBQA9yEzIwODE1Mjc2MTI4NTg0MjU5MjR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 16,
+          "heat_text": "130 万热度",
+          "heat_value": 1300000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085768493086019850",
+      "title": "西贝员工称因长期被镜头曝光，一线员工承受巨大心理压力甚至离职，持续曝光对普通店员的心理健康影响有多大？",
+      "url": "https://www.zhihu.com/question/2085768493086019850",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "129 万热度",
+      "latest_heat_value": 1290000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1790160801.719306",
+        "card_id": "Q_2085768493086019850",
+        "feed_specific": {
+          "answer_count": 41
+        },
+        "target": {
+          "title_area": {
+            "text": "西贝员工称因长期被镜头曝光，一线员工承受巨大心理压力甚至离职，持续曝光对普通店员的心理健康影响有多大？"
+          },
+          "excerpt_area": {
+            "text": "9 月 21 日中午 12 点多，这家西贝店内只有寥寥数位顾客。这是长沙目前仅存的三家西贝门店之一。据店员介绍，原富兴时代广场店完成搬迁重装后，新门店经营面积有所缩减。有店员表示，从去年西贝陷入争议以来，有很多人来门店拍摄，部分一线员工的画面、声音被传到网络上。持续曝光给员工带来巨大心理压力，不少人出现心理应激反应，甚至有员工不堪重负选择离职。至于经营情况，该店员表示，周末客流量会高一些。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-0b41e18226ecd5ce9e9c59dd9ce83e75_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "129 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085768493086019850"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzNTIxMiCo+sjVBjAAOHpAEHITMjA4NTc2ODQ5MzA4NjAxOTg1MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 17,
+          "heat_text": "129 万热度",
+          "heat_value": 1290000
+        }
+      ]
+    },
+    {
+      "key": "Q_2070191522474095134",
+      "title": "中国机床出口都超过德国了，东南亚工厂也在换中国设备，那国产机床到底行不行？有没有过来人说说真实体验？",
+      "url": "https://www.zhihu.com/question/2070191522474095134",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "129 万热度",
+      "latest_heat_value": 1290000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1790160801.722382",
+        "card_id": "Q_2070191522474095134",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "中国机床出口都超过德国了，东南亚工厂也在换中国设备，那国产机床到底行不行？有没有过来人说说真实体验？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-53875e1be09029240995677df01f6eb5_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "129 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2070191522474095134"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMDg2MDIwOSD5o+bTBjAAOIMBQBJyEzIwNzAxOTE1MjI0NzQwOTUxMzR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 19,
+          "heat_text": "129 万热度",
+          "heat_value": 1290000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085780725207228502",
+      "title": "亚运会开幕以来，中国代表团目前一半以上奖牌都来自游泳，中国游泳近几年是如何崛起的？",
+      "url": "https://www.zhihu.com/question/2085780725207228502",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "128 万热度",
+      "latest_heat_value": 1280000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1790160801.726512",
+        "card_id": "Q_2085780725207228502",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "亚运会开幕以来，中国代表团目前一半以上奖牌都来自游泳，中国游泳近几年是如何崛起的？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-13b843d3e06fb789f4ec9e59dc8b733b_b.jpg"
+          },
+          "metrics_area": {
+            "text": "128 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085780725207228502"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzNTc2NiCMkcnVBjAAOBpAE3ITMjA4NTc4MDcyNTIwNzIyODUwMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 20,
+          "heat_text": "128 万热度",
+          "heat_value": 1280000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085795227550458061",
+      "title": "班主任在群聊发准考证致 7 人志愿被改，篡改他人志愿的学生被判一年六个月，班主任不承担责任，如何解读？",
+      "url": "https://www.zhihu.com/question/2085795227550458061",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "121 万热度",
+      "latest_heat_value": 1210000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1790160801.730281",
+        "card_id": "Q_2085795227550458061",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "班主任在群聊发准考证致 7 人志愿被改，篡改他人志愿的学生被判一年六个月，班主任不承担责任，如何解读？"
+          },
+          "excerpt_area": {
+            "text": "一份发在班级群的准考证照片，泄露了考生账号与初始密码；一名在校生远程登录考试系统，擅自修改多名同学的升学志愿。近日，新疆乌鲁木齐市新市区人民法院就这起隐私权、个人信息保护纠纷案作出一审判决，认定篡改志愿的学生承担主要侵权责任，涉事学校因教师泄露考生信息存在管理过失承担次要责任。 李某原为新疆某学院中职学生。2023 年 6 月，李某参加三校生（中专、职校、技校）升高职考试并填报志愿，其班主任徐某将包含准考证号、身份证号、志愿填报系统初始密码在内的准考证照片，直接发到班级群。同校学生孙某看到信息后，在家使用电脑登录招考系统，一次性篡改包括李某在内 7 名考生的第一志愿代码，致使多名考生无法被原本填报的院校录取。 案发后，孙某因破坏计算机信息系统罪，被判处有期徒刑一年六个月。刑事尘埃落定，李某及其母亲赵某提起民事诉讼，将孙某、学校、班主任徐某一并告上法庭，索赔各项损失合计 17 万余元，同时要求被告在国家级媒体上登道歉声明。 李某母亲称，班主任违规在群内公开考生敏感信息，学校未尽到学生个人信息保护管理义务，为孙某实施侵权创造了条件。李某辛苦备考，却因他人恶意篡改志愿错失升学机会，身心遭受巨大打击，后续只能重新参加考试，全家为维权奔波，产生交通费、住宿费、律师费等多项开支。 该案经法院审理后查明，班主任徐某作为学校在职教师，把载有考生账号密码的准考证照片发到班级群，主观上并无损害学生权益的故意，但该行为直接为孙某实施侵权提供便利，属于职务行为，相关责任由学校承担。最终，法院认定孙某擅自登录系统篡改志愿，是直接侵权人，承担 70% 责任；学校存在管理疏漏，承担 30% 责任，班主任徐某个人不承担民事赔偿责任。 最终，该案经法院逐项核定损失，一审判决孙某赔偿原告约 2.3 万元；涉事学校合计赔偿原告约 1.7 万元；驳回对班主任徐某的诉讼请求，其余超额诉讼请求不予支持。同时，判令孙某与涉事学校在乌鲁木齐市新市区人民法院，向李某当面口头赔礼道歉。班主任将考生准考证照片发班级群，泄露账号与初始密码；同校学生远程登录考生系统，一次性篡改 7 名考生第一志愿致多人未被录取；法院判了"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "121 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085795227550458061"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzNjM2MiCOrMnVBjAAOCVAFHITMjA4NTc5NTIyNzU1MDQ1ODA2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 21,
+          "heat_text": "121 万热度",
+          "heat_value": 1210000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086042105793847307",
+      "title": "亚运会男足小组赛，中国 U23 0-0 战平阿联酋，小组头名晋级 8 强，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2086042105793847307",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "116 万热度",
+      "latest_heat_value": 1160000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1790160801.733984",
+        "card_id": "Q_2086042105793847307",
+        "feed_specific": {
+          "answer_count": 143
+        },
+        "target": {
+          "title_area": {
+            "text": "亚运会男足小组赛，中国 U23 0-0 战平阿联酋，小组头名晋级 8 强，如何评价本场比赛？"
+          },
+          "excerpt_area": {
+            "text": "北京时间 9 月 23 日 13:30，亚运男足小组赛第三轮 U23 中国男足迎战阿联酋 U23 的比赛在丰田体育场进行，U23 国足前两轮 1 胜 1 平暂居小组第 2，上半场张玉宁头球造险，同组朝鲜 U23 半场暂 2 比 1 伊朗 U23，按此比分结束 U23 国足将小组第一出线。下半场张玉宁推射造险，朱马破门无效，李昊神扑救险，最终，U23 国足 0-0 阿联酋 U23，小组不败头名晋级八强。U23 国足亚运会 1/4 决赛将战 A 组第二日本或泰国，比赛将会在 9 月 26 日进行。 头名出线！U23 国足 0-0 阿联酋 U23 李昊神扑救险国足小组不败进八强"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-dc96ce393abb7eac3f8af4218742aec7_b.jpg"
+          },
+          "metrics_area": {
+            "text": "116 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086042105793847307"
+          }
+        },
+        "attached_info": "CkoIrP6Qs9fy95R1EAMaCTEyMTQ0Mjk1NSD698zVBjAAOKUBQBVyEzIwODYwNDIxMDU3OTM4NDczMDd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 22,
+          "heat_text": "116 万热度",
+          "heat_value": 1160000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085687195243902574",
+      "title": "一个细胞最后能长成完整的人，它怎么知道哪里该是眼睛、哪里该是心脏？",
+      "url": "https://www.zhihu.com/question/2085687195243902574",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1790160801.735775",
+        "card_id": "Q_2085687195243902574",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "一个细胞最后能长成完整的人，它怎么知道哪里该是眼睛、哪里该是心脏？"
+          },
+          "excerpt_area": {
+            "text": "想到人最早只是一个受精卵，总觉得很神奇。后来出现的那些细胞既没有地图，也没有总设计师，为什么能长到正确的位置，组成完全不同的器官？"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-ccc28e630207134105e85acac9064b0e_b.jpg"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085687195243902574"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzMDYzNSDx4sfVBjAAOEtAFnITMjA4NTY4NzE5NTI0MzkwMjU3NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 23,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085690077313594488",
+      "title": "名古屋亚运会蒙古国游泳选手身材臃肿，所以游泳到底能不能减肥？",
+      "url": "https://www.zhihu.com/question/2085690077313594488",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "114 万热度",
+      "latest_heat_value": 1140000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1790160801.737041",
+        "card_id": "Q_2085690077313594488",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "名古屋亚运会蒙古国游泳选手身材臃肿，所以游泳到底能不能减肥？"
+          },
+          "excerpt_area": {
+            "text": "这次 400 混成绩 5 分 06 秒（旁边还有一个 5 分 24 秒的哥们），在国内拿不到二级证的水平。 查了下过往成绩，蒙古国内算还不错的，但就是这个水平了"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-a0ca18186f381ccfb7860c78e33ca150_b.jpg"
+          },
+          "metrics_area": {
+            "text": "114 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085690077313594488"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzMDkyMiCg6MfVBjAAOBZAF3ITMjA4NTY5MDA3NzMxMzU5NDQ4OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 24,
+          "heat_text": "114 万热度",
+          "heat_value": 1140000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085773736427223035",
+      "title": "张展硕亚运男子 1500 米自由泳夺冠，从 100 米到 1500 米短中长距离全部通吃世界一流水平，他咋做到的？",
+      "url": "https://www.zhihu.com/question/2085773736427223035",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "96 万热度",
+      "latest_heat_value": 960000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1790160801.739423",
+        "card_id": "Q_2085773736427223035",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "张展硕亚运男子 1500 米自由泳夺冠，从 100 米到 1500 米短中长距离全部通吃世界一流水平，他咋做到的？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-f8d75a0d29b7c4e8cc6ded1f634469c3_b.jpg"
+          },
+          "metrics_area": {
+            "text": "96 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085773736427223035"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzNTQ2MCCKhMnVBjAAOEZAGHITMjA4NTc3MzczNjQyNzIyMzAzNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 25,
+          "heat_text": "96 万热度",
+          "heat_value": 960000
+        }
+      ]
+    },
+    {
+      "key": "Q_2077317140517077680",
+      "title": "年龄大了，回农村搞养殖有盼头吗？",
+      "url": "https://www.zhihu.com/question/2077317140517077680",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "95 万热度",
+      "latest_heat_value": 950000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1790160801.743997",
+        "card_id": "Q_2077317140517077680",
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "年龄大了，回农村搞养殖有盼头吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-7bac70ec8545750d0a2d3b431ee856cd.png"
+          },
+          "metrics_area": {
+            "text": "95 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2077317140517077680"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTEyODc3NiC4/M3UBjAAOB5AGnITMjA3NzMxNzE0MDUxNzA3NzY4MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 27,
+          "heat_text": "95 万热度",
+          "heat_value": 950000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086050880902656445",
+      "title": "姆巴佩接受采访表示自己的非洲血统对他意义重大，希望能把金球奖带回非洲，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2086050880902656445",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1790160801.746032",
+        "card_id": "Q_2086050880902656445",
+        "feed_specific": {
+          "answer_count": 93
+        },
+        "target": {
+          "title_area": {
+            "text": "姆巴佩接受采访表示自己的非洲血统对他意义重大，希望能把金球奖带回非洲，对此你怎么看？"
+          },
+          "excerpt_area": {
+            "text": "雷速体育 9 月 22 日讯 接受 RFI 采访时，姆巴佩表示，自己的非洲血统对他意义重大，非洲球队如今已经有能力击败任何对手；谈到金球奖时，他表示如果能够获奖，希望将这份荣誉献给非洲。"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-d70cfd06d0a8a7246ece76d75abd784c_b.jpg"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086050880902656445"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQ0MzQ1OCCmiM3VBjAAOHlAG3ITMjA4NjA1MDg4MDkwMjY1NjQ0NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 28,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085768276173383102",
+      "title": "为什么绝大多数家长做不到对孩子「无条件的爱」，你能做到吗？",
+      "url": "https://www.zhihu.com/question/2085768276173383102",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "67 万热度",
+      "latest_heat_value": 670000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1790160801.748422",
+        "card_id": "Q_2085768276173383102",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么绝大多数家长做不到对孩子「无条件的爱」，你能做到吗？"
+          },
+          "excerpt_area": {
+            "text": "学校给我们开家长会，提倡「无条件的爱」，但不提升学，你怎么看？"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "67 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085768276173383102"
+          }
+        },
+        "attached_info": "CkkIrP6Qs9fy95R1EAMaCTEyMTQzNTE5MyD0+cjVBjAAOBVAHHITMjA4NTc2ODI3NjE3MzM4MzEwMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 29,
+          "heat_text": "67 万热度",
+          "heat_value": 670000
+        }
+      ]
+    },
+    {
+      "key": "Q_559731668",
+      "title": "老员工比新员工干的多，工资却被倒挂？为什么会有薪资倒挂？怎么办？",
+      "url": "https://www.zhihu.com/question/559731668",
+      "first_seen": "2026-09-23 18:53:21 +0800",
+      "last_seen": "2026-09-23 18:53:21 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "62 万热度",
+      "latest_heat_value": 620000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1790160801.753455",
+        "card_id": "Q_559731668",
+        "feed_specific": {
+          "answer_count": 51
+        },
+        "target": {
+          "title_area": {
+            "text": "老员工比新员工干的多，工资却被倒挂？为什么会有薪资倒挂？怎么办？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-d449620268c36fa099cc019d95264b97_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "62 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/559731668"
+          }
+        },
+        "attached_info": "Cj4IrP6Qs9fy95R1EAMaCDg2NjY3NDE3IKS9qpoGMAA4bEAdcgk1NTk3MzE2Njh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-23 18:53:21 +0800",
+          "rank": 30,
+          "heat_text": "62 万热度",
+          "heat_value": 620000
         }
       ]
     }
