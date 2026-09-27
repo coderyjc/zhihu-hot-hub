@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27 07:23:44 +0800",
+  "generated_at": "2026-09-27 11:58:56 +0800",
   "totals": {
     "day_count": 204,
-    "topic_record_count": 11648,
-    "unique_topic_count": 9826,
-    "history_point_count": 18870,
+    "topic_record_count": 11668,
+    "unique_topic_count": 9846,
+    "history_point_count": 18900,
     "v2_file_count": 79,
     "legacy_file_count": 125
   },
@@ -70,6 +70,16 @@
       "heat_value": 62090000
     },
     {
+      "date": "2026-09-27",
+      "title": "中美达成八点成果共识，达成「300 亿美元」对等降税安排，哪些信息值得重点关注？",
+      "url": "https://www.zhihu.com/question/2087214676530525535",
+      "key": "Q_2087214676530525535",
+      "rank": 1,
+      "observed_at": "2026-09-27 11:58:54 +0800",
+      "heat_text": "5581 万热度",
+      "heat_value": 55810000
+    },
+    {
       "date": "2026-04-24",
       "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
       "url": "https://www.zhihu.com/question/2030963929510310856",
@@ -98,16 +108,6 @@
       "observed_at": "2026-08-13 09:57:31 +0800",
       "heat_text": "4915 万热度",
       "heat_value": 49150000
-    },
-    {
-      "date": "2026-09-16",
-      "title": "平陆运河正式通航，广西从此江海直连，这条设想了近百年的运河建设难度有多大？它能「带飞」中国西南吗？",
-      "url": "https://www.zhihu.com/question/2082841016533632412",
-      "key": "Q_2082841016533632412",
-      "rank": 2,
-      "observed_at": "2026-09-16 18:56:21 +0800",
-      "heat_text": "4814 万热度",
-      "heat_value": 48140000
     }
   ],
   "daily_series": [
@@ -1940,12 +1940,12 @@
     },
     {
       "date": "2026-09-27",
-      "total_heat_value": 61940000,
-      "max_heat_value": 20000000,
-      "topic_count": 39,
-      "history_point_count": 60,
-      "top_topic_title": "中美同意共同构建基于尊重、公平、对等的建设性战略稳定关系，这一新定位有哪些深意和影响？",
-      "top_topic_url": "https://www.zhihu.com/question/2087138028443668724"
+      "total_heat_value": 154530000,
+      "max_heat_value": 55810000,
+      "topic_count": 59,
+      "history_point_count": 90,
+      "top_topic_title": "中美达成八点成果共识，达成「300 亿美元」对等降税安排，哪些信息值得重点关注？",
+      "top_topic_url": "https://www.zhihu.com/question/2087214676530525535"
     }
   ]
 }
