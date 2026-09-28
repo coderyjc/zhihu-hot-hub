@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28 21:03:57 +0800",
+  "generated_at": "2026-09-29 05:05:36 +0800",
   "totals": {
-    "day_count": 205,
-    "topic_record_count": 11776,
-    "unique_topic_count": 9936,
-    "history_point_count": 19080,
-    "v2_file_count": 80,
+    "day_count": 206,
+    "topic_record_count": 11806,
+    "unique_topic_count": 9951,
+    "history_point_count": 19110,
+    "v2_file_count": 81,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -18,6 +18,16 @@
       "observed_at": "2026-08-27 00:17:22 +0800",
       "heat_text": "9679 万热度",
       "heat_value": 96790000
+    },
+    {
+      "date": "2026-09-29",
+      "title": "2026 亚运会乒乓球男单决赛，林诗栋 4-0 王楚钦夺得金牌，如何评价本场比赛？",
+      "url": "https://www.zhihu.com/question/2087911809458102776",
+      "key": "Q_2087911809458102776",
+      "rank": 1,
+      "observed_at": "2026-09-29 05:05:35 +0800",
+      "heat_text": "7771 万热度",
+      "heat_value": 77710000
     },
     {
       "date": "2026-09-06",
@@ -98,16 +108,6 @@
       "observed_at": "2026-07-14 16:04:41 +0800",
       "heat_text": "5435 万热度",
       "heat_value": 54350000
-    },
-    {
-      "date": "2026-08-13",
-      "title": "中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世",
-      "url": "https://zhuanlan.zhihu.com/p/2070933430993414087",
-      "key": "AT_2070933430993414087",
-      "rank": 1,
-      "observed_at": "2026-08-13 09:57:31 +0800",
-      "heat_text": "4915 万热度",
-      "heat_value": 49150000
     }
   ],
   "daily_series": [
@@ -1953,6 +1953,15 @@
       "max_heat_value": 26600000,
       "topic_count": 92,
       "history_point_count": 150,
+      "top_topic_title": "2026 亚运会乒乓球男单决赛，林诗栋 4-0 王楚钦夺得金牌，如何评价本场比赛？",
+      "top_topic_url": "https://www.zhihu.com/question/2087911809458102776"
+    },
+    {
+      "date": "2026-09-29",
+      "total_heat_value": 111430000,
+      "max_heat_value": 77710000,
+      "topic_count": 30,
+      "history_point_count": 30,
       "top_topic_title": "2026 亚运会乒乓球男单决赛，林诗栋 4-0 王楚钦夺得金牌，如何评价本场比赛？",
       "top_topic_url": "https://www.zhihu.com/question/2087911809458102776"
     }
