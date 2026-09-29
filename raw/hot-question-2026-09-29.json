@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-09-29 05:05:35 +0800",
+  "updated_at": "2026-09-29 12:32:59 +0800",
   "items": [
     {
       "key": "Q_2087911809458102776",
@@ -68,18 +68,18 @@
       "title": "怎么看待超长蛋挞的爆红？",
       "url": "https://www.zhihu.com/question/2085307820598105501",
       "first_seen": "2026-09-29 05:05:35 +0800",
-      "last_seen": "2026-09-29 05:05:35 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
       "first_rank": 2,
-      "latest_rank": 2,
-      "latest_heat_text": "331 万热度",
-      "latest_heat_value": 3310000,
+      "latest_rank": 8,
+      "latest_heat_text": "127 万热度",
+      "latest_heat_value": 1270000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1790629534.977308",
+        "id": "7_1790656379.604152",
         "card_id": "Q_2085307820598105501",
         "feed_specific": {
-          "answer_count": 88
+          "answer_count": 411
         },
         "target": {
           "title_area": {
@@ -89,10 +89,10 @@
             "text": "最近超长蛋挞订单暴增，有的店甚至都要排队，专家建议不要一个人吃完，热量爆炸。"
           },
           "image_area": {
-            "url": "https://picx.zhimg.com/80/v2-31aa4c2721511ed4559db8e9787c0a2f_1440w.webp?source=1def8aca"
+            "url": "https://picx.zhimg.com/80/v2-67ea8ee93582bfe09149474dbe77029d_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "331 万热度",
+            "text": "127 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -107,7 +107,7 @@
             "url": "https://www.zhihu.com/question/2085307820598105501"
           }
         },
-        "attached_info": "CkkIg63dj/Gv4PVcEAMaCTEyMTQxNzUxOSCfoMLVBjAAOHVAAXITMjA4NTMwNzgyMDU5ODEwNTUwMXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQxNzUxOSCfoMLVBjAAOK0EQAdyEzIwODUzMDc4MjA1OTgxMDU1MDF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -115,6 +115,12 @@
           "rank": 2,
           "heat_text": "331 万热度",
           "heat_value": 3310000
+        },
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 8,
+          "heat_text": "127 万热度",
+          "heat_value": 1270000
         }
       ]
     },
@@ -123,18 +129,18 @@
       "title": "我觉得乾隆的字挺好看呀，为什么在书法界评价很低？",
       "url": "https://www.zhihu.com/question/2085453188900168444",
       "first_seen": "2026-09-29 05:05:35 +0800",
-      "last_seen": "2026-09-29 05:05:35 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
       "first_rank": 3,
-      "latest_rank": 3,
-      "latest_heat_text": "235 万热度",
-      "latest_heat_value": 2350000,
+      "latest_rank": 22,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1790629534.977894",
+        "id": "21_1790656379.614674",
         "card_id": "Q_2085453188900168444",
         "feed_specific": {
-          "answer_count": 80
+          "answer_count": 111
         },
         "target": {
           "title_area": {
@@ -147,7 +153,7 @@
             "url": "https://picx.zhimg.com/80/v2-9c78cd8d70fae145ef5cbcc2a32e2223_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "235 万热度",
+            "text": "75 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -162,7 +168,7 @@
             "url": "https://www.zhihu.com/question/2085453188900168444"
           }
         },
-        "attached_info": "CkoIg63dj/Gv4PVcEAMaCTEyMTQyNTIzOSCCr8TVBjAAOMwBQAJyEzIwODU0NTMxODg5MDAxNjg0NDR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQyNTIzOSCCr8TVBjAAOJ8CQBVyEzIwODU0NTMxODg5MDAxNjg0NDR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -170,6 +176,12 @@
           "rank": 3,
           "heat_text": "235 万热度",
           "heat_value": 2350000
+        },
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 22,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
         }
       ]
     },
@@ -178,23 +190,18 @@
       "title": "印、美联合团队研究称「混凝土中掺入人粪，抗折强度提高 42%」，如何理解该研究的理论和现实意义？",
       "url": "https://www.zhihu.com/question/2087853929207787791",
       "first_seen": "2026-09-29 05:05:35 +0800",
-      "last_seen": "2026-09-29 05:05:35 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "163 万热度",
-      "latest_heat_value": 1630000,
+      "latest_rank": 3,
+      "latest_heat_text": "183 万热度",
+      "latest_heat_value": 1830000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1790629534.978828",
+        "id": "2_1790656379.600704",
         "card_id": "Q_2087853929207787791",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 36
+          "answer_count": 190
         },
         "target": {
           "title_area": {
@@ -207,7 +214,7 @@
             "url": "https://pic4.zhimg.com/50/v2-ba486b55b150f5477bb951c653d72fed_b.jpg"
           },
           "metrics_area": {
-            "text": "163 万热度",
+            "text": "183 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -222,7 +229,7 @@
             "url": "https://www.zhihu.com/question/2087853929207787791"
           }
         },
-        "attached_info": "CkkIg63dj/Gv4PVcEAMaCTEyMTQ5NDcwNSDfpufVBjAAOERAA3ITMjA4Nzg1MzkyOTIwNzc4Nzc5MXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ5NDcwNSDfpufVBjAAOOgCQAJyEzIwODc4NTM5MjkyMDc3ODc3OTF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -230,6 +237,12 @@
           "rank": 4,
           "heat_text": "163 万热度",
           "heat_value": 1630000
+        },
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 3,
+          "heat_text": "183 万热度",
+          "heat_value": 1830000
         }
       ]
     },
@@ -238,18 +251,18 @@
       "title": "双汇火腿肠销量连续下滑，传统火腿肠为何越来越卖不动？方便面触底反弹，火腿肠却持续下滑，问题出在哪里？",
       "url": "https://www.zhihu.com/question/2087819360249144084",
       "first_seen": "2026-09-29 05:05:35 +0800",
-      "last_seen": "2026-09-29 05:05:35 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
       "first_rank": 5,
-      "latest_rank": 5,
-      "latest_heat_text": "161 万热度",
-      "latest_heat_value": 1610000,
+      "latest_rank": 30,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "4_1790629534.980235",
+        "id": "29_1790656379.620868",
         "card_id": "Q_2087819360249144084",
         "feed_specific": {
-          "answer_count": 173
+          "answer_count": 200
         },
         "target": {
           "title_area": {
@@ -262,7 +275,7 @@
             "url": "https://pic4.zhimg.com/50/v2-efa221d6010bf384f7f0985c8bad692f_b.jpg"
           },
           "metrics_area": {
-            "text": "161 万热度",
+            "text": "59 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -277,7 +290,7 @@
             "url": "https://www.zhihu.com/question/2087819360249144084"
           }
         },
-        "attached_info": "CkoIg63dj/Gv4PVcEAMaCTEyMTQ5MzY1NyCt5ubVBjAAONcCQARyEzIwODc4MTkzNjAyNDkxNDQwODR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ5MzY1NyCt5ubVBjAAOJMDQB1yEzIwODc4MTkzNjAyNDkxNDQwODR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -285,6 +298,12 @@
           "rank": 5,
           "heat_text": "161 万热度",
           "heat_value": 1610000
+        },
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 30,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
         }
       ]
     },
@@ -1038,18 +1057,18 @@
       "title": "一个人开车跑高速犯困了，除了喝红牛和掐大腿，还有什么真正有效的提神方法？",
       "url": "https://www.zhihu.com/question/2084653683766191673",
       "first_seen": "2026-09-29 05:05:35 +0800",
-      "last_seen": "2026-09-29 05:05:35 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
       "first_rank": 19,
-      "latest_rank": 19,
-      "latest_heat_text": "80 万热度",
-      "latest_heat_value": 800000,
+      "latest_rank": 29,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "18_1790629534.994952",
+        "id": "28_1790656379.620179",
         "card_id": "Q_2084653683766191673",
         "feed_specific": {
-          "answer_count": 225
+          "answer_count": 338
         },
         "target": {
           "title_area": {
@@ -1062,7 +1081,7 @@
             "url": "https://pic1.zhimg.com/v2-7cc4f76926b9f385511a3958b16f2d77_xl.jpg?source=57bbeac9"
           },
           "metrics_area": {
-            "text": "80 万热度",
+            "text": "59 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1077,7 +1096,7 @@
             "url": "https://www.zhihu.com/question/2084653683766191673"
           }
         },
-        "attached_info": "CkoIg63dj/Gv4PVcEAMaCTEyMTM5NTMxNSDp3bjVBjAAONgCQBJyEzIwODQ2NTM2ODM3NjYxOTE2NzN4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTM5NTMxNSDp3bjVBjAAOO0DQBxyEzIwODQ2NTM2ODM3NjYxOTE2NzN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1085,6 +1104,12 @@
           "rank": 19,
           "heat_text": "80 万热度",
           "heat_value": 800000
+        },
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 29,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
         }
       ]
     },
@@ -1690,6 +1715,1431 @@
           "rank": 30,
           "heat_text": "64 万热度",
           "heat_value": 640000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087997878270523124",
+      "title": "从本届亚运会来看，林诗栋夺得 3 金 1 银要成为国乒一哥了吗？",
+      "url": "https://www.zhihu.com/question/2087997878270523124",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "2169 万热度",
+      "latest_heat_value": 21690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1790656379.595453",
+        "card_id": "Q_2087997878270523124",
+        "card_label": {
+          "type": "boiling",
+          "icon": "https://pic1.zhimg.com/80/v2-a8ec286ae756c2ab8377774b27f8ebc7_1440w.png",
+          "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 201
+        },
+        "target": {
+          "title_area": {
+            "text": "从本届亚运会来看，林诗栋夺得 3 金 1 银要成为国乒一哥了吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-58b4dc00dc6098d52fb82e609a7055f8_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "2169 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087997878270523124"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTUwMTE4MyDvsunVBjAAOJ4CQAByEzIwODc5OTc4NzgyNzA1MjMxMjR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 1,
+          "heat_text": "2169 万热度",
+          "heat_value": 21690000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087614254006400641",
+      "title": "多地贷款中介集体解散群聊、删除朋友圈，背后原因是什么？会带来哪些影响？",
+      "url": "https://www.zhihu.com/question/2087614254006400641",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "649 万热度",
+      "latest_heat_value": 6490000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1790656379.596301",
+        "card_id": "Q_2087614254006400641",
+        "feed_specific": {
+          "answer_count": 88
+        },
+        "target": {
+          "title_area": {
+            "text": "多地贷款中介集体解散群聊、删除朋友圈，背后原因是什么？会带来哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "解散客户群、改微信名、删除朋友圈…近段时间，一贯「人声鼎沸」的助贷行业正努力降低自己的存在感，变得异常安静。过去在朋友圈里喊着「秒批」口号的贷款中介们，也变成了「仅展示最近三天的朋友圈」。 而这一切的变化，缘于 9 月 30 日起将正式实施的《金融产品网络营销管理办法》（下称《办法》），根据《办法》，金融机构、第三方互联网平台外的其他组织或者个人，不得开展或者变相开展金融产品网络营销。 自「助贷新规」落地以来，监管「组合拳」密集出台，助贷行业迎来一轮系统性重构。专家认为，助贷行业野蛮增长的阶段已经结束了，接下来，合规能力会变成入场竞争的基础门槛。 助贷行业退潮 尽管《办法》是面对所有金融机构和金融产品的，但却从获客入口端对助贷平台进行「釜底抽薪」式约束，直击行业主流的导流模式。 在过去，从小红书到闲鱼、从抖音到快手、从朋友圈到 QQ，几乎所有能够触达受众的媒介都成了贷款中介、助贷平台的导流工具，甚至为了绕过平台监管，贷款中介还演化出各式「黑话」，诸如「花户」「白户」「黑户」等。如今，这些导流方式都将面临强监管。 「贷款中介自由发广告的时代已经结束了。」江苏圣典律师事务所律师张国佳解释说，以贷款中介个人在朋友圈发布贷款广告为例，若无金融机构正式授权委托，属于「其他组织或个人变相开展金融产品网络营销」，违反《办法》第二条规定，而且，贷款中介作为第三方，即使获得授权，也不能以「××贷款中心」「××信贷顾问」等名义发布，必须由金融机构以自身名义发布产品信息。 张国佳说，中介只能作为「渠道」，不能成为「发声主体」，过去贷款中介朋友圈常见的「黑户可贷」「秒批秒放」「利率低至」「无任何费用」等话术，均属于违规内容。 除了禁止诱导性话术与非持牌主体营销外，《办法》还禁止多层转委托与套娃式导流、禁止支付与信贷捆绑、转接必须跳转至金融机构自营平台，API 隐形导流被叫停。 而《办法》仅是监管「组合拳」中的「冰山一角」，去年以来，与助贷行业相关的政策密集出台，其中，力度最强的莫过于 2025 年 10 月 1 日起开始施行的《关于加强商业银行互联网助贷业务管理提升金融服务质效的通知》（下称「助贷新规」）。助贷新规划定互联网助贷业务机构准入和成本上限的底线，尽管直接约束的是商业银行，但却通过银行的合作管理责任，对助贷平台形成了间接而有力的约束。 《个人贷款业务明示综合融资成本规定》（下称《明示成本规定》）也已于 2026 年 8 月 1 日起正式施行，《明示成本规定》将成本约束落地为借款人可核验的披露义务。 这三者叠加， 「这一套政策实际上宣告了助贷行业野蛮增长的阶段已经结束，接下来将要以合规和资产质量为核心。」博通咨询首席分析师王蓬博说，以后，助贷行业不再是一门简单的流量变现生意，相关机构需要搭建起可落地的风控体系，匹配资金方稳健经营的诉求，合规能力会变成入场竞争的基础门槛。 「今年做这行，真的太难了。」一助贷行业人士说，如今监管力度持续加大，红线划得清清楚楚，稍有操作不合规，就要承担很大的法律风险。身边不少同行被约谈，很多人选择暂停业务休整。 「《办法》落地以后，老手都要消失一大片，没入行的就别入了。」另一贷款中介也说。 近段时间，在助贷圈广为流传着多张与贷款中介规范经营相关的《告知书》，对贷款中介的行为划定高压红线，诸如冒充银行等金融机构进行营销引流、伪造材料、非法放贷、 AB 贷、套路贷等。 王蓬博分析说，助贷业务的权责关系正在被重新理顺， 「据我们观察来看，未来，中小助贷机构对接资金的难度会明显加大，资源会持续向风控体系完善、合规整改到位的头部机构倾斜。依托高客息、靠营销包装获客的平台，业务规模会逐步收缩，没有足够资金和技术完成整改的机构，只能缩减业务甚至退出赛道，行业的‘马太效应’会进一步凸显。」王蓬博说。 另一行业人士也表示，虽然助贷行业不会消失，但会在从「增长逻辑」切换到「生存逻辑」，这是长期重构的开始。过去，不少助贷公司的核心模式是「高定价覆盖风险、高转化摊薄获客、高周转放大规模」，如今这套模型正在失效。 在监管趋严的背景下，即便是头部助贷平台，业绩也出现了极其明显的下滑。根据 2026 年二季度业绩报告， 财报显示，在业务规模方面，奇富科技（03660.HK）二季度撮合放款 633.77 亿元，同比下降 25.1%；截至二季度末，在贷余额 1075.62 亿元，同比下降 23.2%。信也科技（FINV.N）二季度在中国内地市场撮合放款 410 亿元，同比下降 19.3%；在贷余额 654 亿元，同比下降 13.3%。 小赢科技（XYF.N）二季度撮合放款 116.3 亿元，环比下降 20.5%，同比下降 70.2%；截至二季度末在贷余额为 249.7 亿元，环比下降 29.2%，同比下降 61.5%。维信金科（02003.HK）上半年在中国内地撮合放款 56.9 亿元，同比大幅下降 85.0%；在贷余额为 77.3 亿元，同比下降 64.5%。 另外，嘉银科技（JFIN.O）二季度撮合放款 95 亿元，同比下降了 74.4%。陆金所（06623.HK）截至二季度末在贷余额 1673 亿元，同比下降 13.5%。 7 家上市助贷平台中，仅乐信（LX.O）实现了增长，二季度撮合放款 554 亿元，同比增长 4.8%，但在贷余额依旧同比下降了 11.4% 至 937 亿元。 在资产规模层面，除了信也科技截至 2026 年 6 月末总资产较年初微增 2.60% 以外，其余 6 家均不同程度下滑，其中，小赢科技下滑 17.48%，维信金科甚至大幅下滑了 41.49%。 业务规模的收缩直接反馈到利润表上，奇富科技上半年实现营业收入 74.76 亿元，同比下降 24.54%，归母净利润 12.89 亿元，同比大降 63.52%。信也科技上半年实现营业收入 66.13 亿元、归母净利润 8.57 亿元，分别同比下降 6.31% 、 42.64%。乐信上半年实现营业收入 64.96 亿元、归母净利润 3.03 亿元，分别同比下降 2.92% 、 67.85%。 而小赢科技、维信金科上半年营业收入同比分别下降 48.47% 、 61.23%，归母净利润降幅均超过 90%，分别为下滑 91.39% 和 94.44%，对应只有 0.85 亿元和 0.12 亿元。 嘉银科技直接由盈转亏，上半年归母净利润亏损 2.45 亿元，二季度单季亏损 1.84 亿元；陆金所上半年归母净利润亏损 6.94 亿元，去年同期为亏损 5.19 亿元。 「未来，助贷行业的整体盈利空间会收窄，助贷机构只能依靠精细化运营、技术手段压缩成本来保住收益。」王蓬博说。 (本文来自第一财经) 解散客户群、删除朋友圈…贷款中介这几天都集体安静了 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-26e68e5f6b67abbd95c303b758f6a1e1_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "649 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087614254006400641"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ5MDYzOSCo6OPVBjAAONYDQAFyEzIwODc2MTQyNTQwMDY0MDA2NDF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 2,
+          "heat_text": "649 万热度",
+          "heat_value": 6490000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087076854901499314",
+      "title": "如何看待联合国专家预测未来七年内全球性战争风险急速攀升？",
+      "url": "https://www.zhihu.com/question/2087076854901499314",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "177 万热度",
+      "latest_heat_value": 1770000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1790656379.602126",
+        "card_id": "Q_2087076854901499314",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 81
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待联合国专家预测未来七年内全球性战争风险急速攀升？"
+          },
+          "excerpt_area": {
+            "text": "联合国警告：大规模战争风险迅速攀升！76% 受访者预计大规模战争，预计将在 7 年内发生，跃居全球风险专家最担忧事项首位"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-05fced44dc846867c11062238d113b38_b.jpg"
+          },
+          "metrics_area": {
+            "text": "177 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087076854901499314"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ3NDM5NSCq/9vVBjAAON8BQANyEzIwODcwNzY4NTQ5MDE0OTkzMTR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 4,
+          "heat_text": "177 万热度",
+          "heat_value": 1770000
+        }
+      ]
+    },
+    {
+      "key": "Q_2053048540797130503",
+      "title": "哆啦 A 梦明明拥有无数逆天道具，却似乎没怎么改变大雄的人生，创作者想表达什么？",
+      "url": "https://www.zhihu.com/question/2053048540797130503",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "163 万热度",
+      "latest_heat_value": 1630000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1790656379.602691",
+        "card_id": "Q_2053048540797130503",
+        "feed_specific": {
+          "answer_count": 51
+        },
+        "target": {
+          "title_area": {
+            "text": "哆啦 A 梦明明拥有无数逆天道具，却似乎没怎么改变大雄的人生，创作者想表达什么？"
+          },
+          "excerpt_area": {
+            "text": "大雄的人生没有因为哆啦 A 梦的道具发生剧变，隐含什么寓意？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-e4ddbd4310b593fbd45966f6a577cb85_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "163 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2053048540797130503"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMDExNjk5OSDT6OzRBjAAOGNABHITMjA1MzA0ODU0MDc5NzEzMDUwM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 5,
+          "heat_text": "163 万热度",
+          "heat_value": 1630000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087220367001645469",
+      "title": "如何评价刘欢《从头再来》这首歌？",
+      "url": "https://www.zhihu.com/question/2087220367001645469",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "161 万热度",
+      "latest_heat_value": 1610000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1790656379.603094",
+        "card_id": "Q_2087220367001645469",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 106
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价刘欢《从头再来》这首歌？"
+          },
+          "excerpt_area": {
+            "text": "听闻刘欢老师离世，重听《从头再来》，感触良多。这首歌诞生于特殊的时代，曾经鼓励过很多陷入困境的普通人。时隔多年再回头看，这首歌带给我们怎样的感受，欢迎聊聊。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-902589cf139195fca8020ccf170f6bf6_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "161 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087220367001645469"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ3OTU2MyDSit7VBjAAOIkBQAVyEzIwODcyMjAzNjcwMDE2NDU0Njl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 6,
+          "heat_text": "161 万热度",
+          "heat_value": 1610000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087855251550200178",
+      "title": "林雨薇长文告别国家队，称伤病缠身，赛前「领导劝不必硬拼」，此后将赴福州大学教书，对此你怎么看？",
+      "url": "https://www.zhihu.com/question/2087855251550200178",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "159 万热度",
+      "latest_heat_value": 1590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1790656379.603673",
+        "card_id": "Q_2087855251550200178",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "林雨薇长文告别国家队，称伤病缠身，赛前「领导劝不必硬拼」，此后将赴福州大学教书，对此你怎么看？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-22bc2f8546b713445b444b99248a607a_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "159 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087855251550200178"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ5NDc0NiCaqefVBjAAOElABnITMjA4Nzg1NTI1MTU1MDIwMDE3OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 7,
+          "heat_text": "159 万热度",
+          "heat_value": 1590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082064671708922600",
+      "title": "地球上的所有动物都没有穿衣服，还不是活得好好的，为什么只有我们人类才穿衣服，难道不穿衣服就活不了吗？",
+      "url": "https://www.zhihu.com/question/2082064671708922600",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "104 万热度",
+      "latest_heat_value": 1040000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1790656379.604658",
+        "card_id": "Q_2082064671708922600",
+        "feed_specific": {
+          "answer_count": 83
+        },
+        "target": {
+          "title_area": {
+            "text": "地球上的所有动物都没有穿衣服，还不是活得好好的，为什么只有我们人类才穿衣服，难道不穿衣服就活不了吗？"
+          },
+          "excerpt_area": {
+            "text": "地球上的所有动物都没有穿衣服，还不是活得好好的，为什么只有我们人类才穿衣服，难道不穿衣服就活不了吗？"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/v2-b63d4df1d7e2de0494e578e72e5180bc_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "104 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082064671708922600"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTMwMDg1NyC0h5PVBjAAOIgBQAhyEzIwODIwNjQ2NzE3MDg5MjI2MDB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 9,
+          "heat_text": "104 万热度",
+          "heat_value": 1040000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087300723268481332",
+      "title": "网友吐槽「毫无人性关怀的大厂却总致力于打造出充满人性光辉的产品」，你怎么看待这个观点？",
+      "url": "https://www.zhihu.com/question/2087300723268481332",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "102 万热度",
+      "latest_heat_value": 1020000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1790656379.605291",
+        "card_id": "Q_2087300723268481332",
+        "feed_specific": {
+          "answer_count": 67
+        },
+        "target": {
+          "title_area": {
+            "text": "网友吐槽「毫无人性关怀的大厂却总致力于打造出充满人性光辉的产品」，你怎么看待这个观点？"
+          },
+          "excerpt_area": {
+            "text": "网友： 想法设法通过恶心员工节省裁员成本，斤斤计较到让你灵活打卡晚 1 分钟，就要晚 1 分钟下班… 却天天在会议室里宣称，我们要做出最具人性光辉的产品 离谱，你们怕是都不知道人性两个字怎么写 网友： 让母鸡下鸵鸟蛋，真是创造奇迹的地方 极其同意。其实你从产品里也能发现蛛丝马迹。有些产品里各种大杂烩，眼花缭乱风马牛不相及的功能堆叠，没有自己的清晰定位，背后基本就是各个互相倾轧的山头文化，一线牛马都是炮灰耗材。不明说了，懂的都懂"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-1e05c6c0ef148835adf8985ca3fc4479.png"
+          },
+          "metrics_area": {
+            "text": "102 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087300723268481332"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ4MjE4NiCooN/VBjAAOKYBQAlyEzIwODczMDA3MjMyNjg0ODEzMzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 10,
+          "heat_text": "102 万热度",
+          "heat_value": 1020000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087956519622898632",
+      "title": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法？",
+      "url": "https://www.zhihu.com/question/2087956519622898632",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "101 万热度",
+      "latest_heat_value": 1010000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1790656379.606206",
+        "card_id": "Q_2087956519622898632",
+        "feed_specific": {
+          "answer_count": 98
+        },
+        "target": {
+          "title_area": {
+            "text": "东京奥运前夕，张家齐母亲写了一封满是训诫内容的家书，但教练没有把家书给张家齐，怎样看待教练的做法？"
+          },
+          "excerpt_area": {
+            "text": "[视频]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-f73466252abf02a46e7b1ac3deb55daa_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "101 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087956519622898632"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTUwMDE3OSDq5ejVBjAAOKcBQApyEzIwODc5NTY1MTk2MjI4OTg2MzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 11,
+          "heat_text": "101 万热度",
+          "heat_value": 1010000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087746333335615230",
+      "title": "《复联 4》重映全球首周票房斩获 8600 万美元，为何还能展现出如此强的号召力？",
+      "url": "https://www.zhihu.com/question/2087746333335615230",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "101 万热度",
+      "latest_heat_value": 1010000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1790656379.606723",
+        "card_id": "Q_2087746333335615230",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "《复联 4》重映全球首周票房斩获 8600 万美元，为何还能展现出如此强的号召力？"
+          },
+          "excerpt_area": {
+            "text": "《复联 4》重映版《复仇者联盟 4：终局之战 (加码臻享版)》中国内地首周票房约 9020 万元 (周五六日三天 4040 万 -2830 万 -1510 万，以及零点场 640 万)；北美首周 / 三天粗报 2600 万美元 (开 3060 馆)，拿下北美本周票房榜冠军。此次重映全球首周约拿下 8600 万美元。如今《复联 4》总票房累积 28.85 亿美元，仍排在影史单片票房榜第二，距离冠军《阿凡达 1》(也经历了重映) 差 3870 万美元左右。【《复仇者联盟 4》重映版首周全球票房约 8600 万美元】 #复仇"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-d2281f3d0fce3992c45806f484558a1c_b.jpg"
+          },
+          "metrics_area": {
+            "text": "101 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087746333335615230"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ5MjY4MCCq3uXVBjAAOCtAC3ITMjA4Nzc0NjMzMzMzNTYxNTIzMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 12,
+          "heat_text": "101 万热度",
+          "heat_value": 1010000
+        }
+      ]
+    },
+    {
+      "key": "Q_2086472782729196810",
+      "title": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给的太多了吗？",
+      "url": "https://www.zhihu.com/question/2086472782729196810",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "92 万热度",
+      "latest_heat_value": 920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1790656379.607570",
+        "card_id": "Q_2086472782729196810",
+        "feed_specific": {
+          "answer_count": 71
+        },
+        "target": {
+          "title_area": {
+            "text": "手机内置广告一直被骂，为什么没有一个厂商出一款纯净无广告的手机，是给的太多了吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-6f11a84feb47d0888f9fcb9afa3f6e1e_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "92 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2086472782729196810"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ1Nzk1NiCUmtPVBjAAOGhADHITMjA4NjQ3Mjc4MjcyOTE5NjgxMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 13,
+          "heat_text": "92 万热度",
+          "heat_value": 920000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088009996894037950",
+      "title": "怎样看待王楚钦称不知道为什么就是感觉累，找不太到之前打球的感觉？他要怎样才能找回之前的状态？",
+      "url": "https://www.zhihu.com/question/2088009996894037950",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1790656379.607995",
+        "card_id": "Q_2088009996894037950",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 364
+        },
+        "target": {
+          "title_area": {
+            "text": "怎样看待王楚钦称不知道为什么就是感觉累，找不太到之前打球的感觉？他要怎样才能找回之前的状态？"
+          },
+          "excerpt_area": {
+            "text": "直播吧 09 月 28 日讯 爱知·名古屋亚运会男单决赛，王楚钦 0-4 不敌林诗栋无缘夺金，赛后王楚钦接受采访谈到了本届赛事。 谈林诗栋 王楚钦：从之前的混双决赛到今天的男单决赛，林诗栋一路战胜了许多优秀的选手，尤其是在男单半决赛，他也打得特别艰难，我觉得他这一次突破了自己之前低迷的状态，这是中国乒乓球队值得高兴的一件事情，会对中国乒乓球队的未来有很大的帮助，对他自己也是一个新的起点。 谈自己 王楚钦：本次亚运会呢，其实整个的过程，我感觉很难总结吧，就会被说找客观什么的，但其实不是，并不是因为输了又怎么样，我觉得还是，感觉整体还是，现在打球感觉一直在消耗吧，更多一些。 也不知道为什么，就是感觉累，然后并且感觉通过世界杯世锦赛完了以后，自己找不太到之前打球的一种感觉，享受或者说喜欢在赛场上的那种感觉。渐渐的我觉得这也是后面自己需要去好好问自己的一个课题。王楚钦：不知道为什么就是感觉累，找不太到之前打球的感觉 - 直播吧"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-06b332a278606b82888152151acfc73c_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088009996894037950"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTUwMTQ5MyC4yenVBjAAOMMDQA1yEzIwODgwMDk5OTY4OTQwMzc5NTB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 14,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "EV_12222862",
+      "title": "你的城市进入秋天了吗？",
+      "url": "https://www.zhihu.com/topic/2082793596365947133/hot",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1790656379.609179",
+        "card_id": "EV_12222862",
+        "feed_specific": {
+          "answer_count": 0
+        },
+        "target": {
+          "title_area": {
+            "text": "你的城市进入秋天了吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-0891421e512c69e8c9b04932e65687f9.jpg?source=c885d018"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/topic/2082793596365947133/hot"
+          }
+        },
+        "attached_info": "CmgIue/2mvHP7upYEBgaBDg0NDgg+f7n1QZADnIIMTIyMjI4NjJ4AKoBCWJpbGxib2FyZMoBM2h0dHBzOi8vd3d3LnpoaWh1LmNvbS90b3BpYy8yMDgyNzkzNTk2MzY1OTQ3MTMzL2hvdA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 15,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088116998165226049",
+      "title": "如何评价 9 月 28 日发布的 Claude Sonnet 5.5？",
+      "url": "https://www.zhihu.com/question/2088116998165226049",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1790656379.609359",
+        "card_id": "Q_2088116998165226049",
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 9 月 28 日发布的 Claude Sonnet 5.5？"
+          },
+          "excerpt_area": {
+            "text": "Anthropic 发布了 Claude 5.5 系列的第二个模型 Sonnet 5.5。 它的价格和 Sonnet 5 一样，每百万 token 输入 2 美元、输出 10 美元，价格是 Opus 5.5 的一半。 在速度方面，Sonnet 5.5 也是遥遥领先，比 Sonnet 5 快 30% 以上。由于完成同样的工作用的 token 更少，官方测试里单个任务的成本最多能再低 30%。 按官方的定位，Opus 5.5 负责需要持续判断的复杂开放任务，Sonnet 5.5 更擅长边界清楚的日常任务、修 bug，以及做文档、幻灯片和表格，对设计也很有眼光。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-9fa3c0eca36d4bdf3c12caf46184ba0d_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "84 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088116998165226049"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTUwMzA0NyDfkOvVBjAAOFNAD3ITMjA4ODExNjk5ODE2NTIyNjA0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 16,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
+        }
+      ]
+    },
+    {
+      "key": "Q_650263507",
+      "title": "格斗家为什么不用鞭锏锤来捶打自己，增加身体的抗击打能力？",
+      "url": "https://www.zhihu.com/question/650263507",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "83 万热度",
+      "latest_heat_value": 830000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1790656379.610505",
+        "card_id": "Q_650263507",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 189
+        },
+        "target": {
+          "title_area": {
+            "text": "格斗家为什么不用鞭锏锤来捶打自己，增加身体的抗击打能力？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-708410375fd58961dc19e4e655ccc854_b.jpg"
+          },
+          "metrics_area": {
+            "text": "83 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/650263507"
+          }
+        },
+        "attached_info": "CkAIue/2mvHP7upYEAMaCTEwNjc4MDg4MiDAsYqwBjAAOOwBQBByCTY1MDI2MzUwN3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 17,
+          "heat_text": "83 万热度",
+          "heat_value": 830000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087913459472131593",
+      "title": "国足 0:3 新西兰，邵佳一的执教能力遭怀疑，一场论是否适合足球评价体系？",
+      "url": "https://www.zhihu.com/question/2087913459472131593",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "82 万热度",
+      "latest_heat_value": 820000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1790656379.610926",
+        "card_id": "Q_2087913459472131593",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "国足 0:3 新西兰，邵佳一的执教能力遭怀疑，一场论是否适合足球评价体系？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-b63f2d76aaf2de7a37c8d703a90171fb_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "82 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087913459472131593"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ5NzQ4MSDQlejVBjAAOBJAEXITMjA4NzkxMzQ1OTQ3MjEzMTU5M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 18,
+          "heat_text": "82 万热度",
+          "heat_value": 820000
+        }
+      ]
+    },
+    {
+      "key": "Q_2084700478647039717",
+      "title": "面对「过紧日子」的要求，大学预算中哪些开支「该紧」，哪些「不该紧」？",
+      "url": "https://www.zhihu.com/question/2084700478647039717",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1790656379.611279",
+        "card_id": "Q_2084700478647039717",
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "面对「过紧日子」的要求，大学预算中哪些开支「该紧」，哪些「不该紧」？"
+          },
+          "excerpt_area": {
+            "text": "▲安徽建筑大学资料图。图 / 安徽建筑大学官网 近日，「高校过紧日子」的话题登上社交平台热榜。 据南方都市报报道， 高校「过紧日子」，关键要把钱紧在「当紧处」"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-57eb37ee2a71ddda38bd4ec1dbdf6360_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2084700478647039717"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTM5ODUwMyD9tLnVBjAAOEVAEnITMjA4NDcwMDQ3ODY0NzAzOTcxN3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 19,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2085012761411589566",
+      "title": "制作月饼需要如此多的油和糖吗？",
+      "url": "https://www.zhihu.com/question/2085012761411589566",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1790656379.612511",
+        "card_id": "Q_2085012761411589566",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "制作月饼需要如此多的油和糖吗？"
+          },
+          "excerpt_area": {
+            "text": "我看网上的短视频，都是一桶一桶的倒油，一袋一袋的放糖，还有好多鸡蛋黄，看着触目惊心的。 实际制作月饼的时候，真的需要用这么多的油和糖吗？"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-6504bcc8cc4c613146d9a0eca4d2312d_b.jpg"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2085012761411589566"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQwODA1OCDT+r3VBjAAOB5AE3ITMjA4NTAxMjc2MTQxMTU4OTU2NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 20,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087817719617774842",
+      "title": "锤子科技前投资人郑刚实名举报罗永浩偷税漏税，罗永浩指其诬告，具体是什么情况？他俩有啥恩怨？",
+      "url": "https://www.zhihu.com/question/2087817719617774842",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1790656379.613294",
+        "card_id": "Q_2087817719617774842",
+        "feed_specific": {
+          "answer_count": 83
+        },
+        "target": {
+          "title_area": {
+            "text": "锤子科技前投资人郑刚实名举报罗永浩偷税漏税，罗永浩指其诬告，具体是什么情况？他俩有啥恩怨？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-b55e78a6e21628c9c628a08f66805fb3_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087817719617774842"
+          }
+        },
+        "attached_info": "CkoIue/2mvHP7upYEAMaCTEyMTQ5MzYyMyCm4+bVBjAAOLgBQBRyEzIwODc4MTc3MTk2MTc3NzQ4NDJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 21,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087961937862550230",
+      "title": "如何看待国羽教练李矛的这段采访谈国家队训练「3000 米×6，间隔休息 2 分钟…真这么干要死人的」？",
+      "url": "https://www.zhihu.com/question/2087961937862550230",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1790656379.615431",
+        "card_id": "Q_2087961937862550230",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待国羽教练李矛的这段采访谈国家队训练「3000 米×6，间隔休息 2 分钟…真这么干要死人的」？"
+          },
+          "excerpt_area": {
+            "text": "[视频]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-ef9783fde5cae34cf39a5da8788bb65b_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "74 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087961937862550230"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTUwMDM1NSD27+jVBjAAODhAFnITMjA4Nzk2MTkzNzg2MjU1MDIzMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 23,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087307863853097302",
+      "title": "为什么摩托车永远成不了主流交通工具？",
+      "url": "https://www.zhihu.com/question/2087307863853097302",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1790656379.616283",
+        "card_id": "Q_2087307863853097302",
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么摩托车永远成不了主流交通工具？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/100/v2-760af56d9f3ece4e09a20c82243a679e_r.jpg"
+          },
+          "metrics_area": {
+            "text": "74 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087307863853097302"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ4MjM1MiDPrd/VBjAAOCdAF3ITMjA4NzMwNzg2Mzg1MzA5NzMwMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 24,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2031334174242681674",
+      "title": "杜兰特打球敬业，实力超强，为何他离开勇士之后，他换了 3 个球队，却一事无成？",
+      "url": "https://www.zhihu.com/question/2031334174242681674",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1790656379.616819",
+        "card_id": "Q_2031334174242681674",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "杜兰特打球敬业，实力超强，为何他离开勇士之后，他换了 3 个球队，却一事无成？"
+          },
+          "excerpt_area": {
+            "text": "怎么说呢，这个赛季火箭的常规赛，杜兰特就缺席了一场，可以说他算是劳模了。 然而到了季后赛，杜兰特缺席了两场，湖人 3：0 火箭，如今就别说杜兰特伤好复出，他就是回到巅峰期，这个赛季火箭也翻盘不了，杜兰特又白玩一年。 那么回顾杜兰特的职业生涯，杜兰特离开了勇士之后，他 7 年换 3 队, 但是在这七年的时间，他别说再拿一个总冠军，杜兰特都没再进过总决赛。 那么就事论事，杜兰特实力很强，他打球也挺拼命的，可是为何他离开勇士之后，他走哪都失败，他怎么就那么点背，他的问题出在哪里呢"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-f3b14e27f72da70d3ca85ae72bce36cc_b.jpg"
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2031334174242681674"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTExOTI3NjU0OCC/6rDPBjAAOBVAGHITMjAzMTMzNDE3NDI0MjY4MTY3NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 25,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087522277814543803",
+      "title": "为什么亚运会上游泳项目这么多？这对其他项目和国家是否有些不公平？",
+      "url": "https://www.zhihu.com/question/2087522277814543803",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "70 万热度",
+      "latest_heat_value": 700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1790656379.617836",
+        "card_id": "Q_2087522277814543803",
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么亚运会上游泳项目这么多？这对其他项目和国家是否有些不公平？"
+          },
+          "excerpt_area": {
+            "text": "总感觉亚运会靠游泳项目刷这么多金牌没什么含金量。奥运会游泳项目多可以理解，亚运会游泳项目搞这么多干嘛？亚洲喜欢游泳的国家都没几个……"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-e2e3e84874c21c57cf527b276a2aff48_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "70 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087522277814543803"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ4NzExNCD/vOLVBjAAOBdAGXITMjA4NzUyMjI3NzgxNDU0MzgwM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 26,
+          "heat_text": "70 万热度",
+          "heat_value": 700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087923922893271677",
+      "title": "秋天吃山药有什么好处？",
+      "url": "https://www.zhihu.com/question/2087923922893271677",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "62 万热度",
+      "latest_heat_value": 620000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1790656379.618642",
+        "card_id": "Q_2087923922893271677",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "秋天吃山药有什么好处？"
+          },
+          "excerpt_area": {
+            "text": "秋养肺、健脾，山药适合搭配百合、银耳、莲子、老鸭等做润肺健脾食谱？"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-d208513827bd1ae172183c5e8c9d7e03_b.jpg"
+          },
+          "metrics_area": {
+            "text": "62 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087923922893271677"
+          }
+        },
+        "attached_info": "CkkIue/2mvHP7upYEAMaCTEyMTQ5Nzg4MSCOqejVBjAAOBFAGnITMjA4NzkyMzkyMjg5MzI3MTY3N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 27,
+          "heat_text": "62 万热度",
+          "heat_value": 620000
+        }
+      ]
+    },
+    {
+      "key": "Q_497250165",
+      "title": "真实历史上的瞎子阿炳是怎样的人？",
+      "url": "https://www.zhihu.com/question/497250165",
+      "first_seen": "2026-09-29 12:32:59 +0800",
+      "last_seen": "2026-09-29 12:32:59 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1790656379.619287",
+        "card_id": "Q_497250165",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "真实历史上的瞎子阿炳是怎样的人？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-91fd45aad01b128bec4b526556d19102_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "59 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/497250165"
+          }
+        },
+        "attached_info": "Cj4Iue/2mvHP7upYEAMaCDcyNzgxMjA3IJb4nYwGMAA4bEAbcgk0OTcyNTAxNjV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-09-29 12:32:59 +0800",
+          "rank": 28,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
         }
       ]
     }
