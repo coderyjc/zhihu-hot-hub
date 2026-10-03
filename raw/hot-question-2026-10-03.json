@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-10-03 19:11:58 +0800",
+  "updated_at": "2026-10-03 23:48:52 +0800",
   "items": [
     {
       "key": "Q_2089437755591713926",
@@ -2109,18 +2109,18 @@
       "title": "《给阿嬷的情书》院线下映，累计票房 20.05 亿，观影人次 5881.9 万，如何评价这一成绩？",
       "url": "https://www.zhihu.com/question/2088584992443954470",
       "first_seen": "2026-10-03 12:03:02 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 3,
-      "latest_rank": 9,
-      "latest_heat_text": "128 万热度",
-      "latest_heat_value": 1280000,
+      "latest_rank": 29,
+      "latest_heat_text": "54 万热度",
+      "latest_heat_value": 540000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1791025918.597039",
+        "id": "28_1791042532.620369",
         "card_id": "Q_2088584992443954470",
         "feed_specific": {
-          "answer_count": 110
+          "answer_count": 126
         },
         "target": {
           "title_area": {
@@ -2133,7 +2133,7 @@
             "url": "https://pica.zhimg.com/v2-4ae7cf4a6ed599419c8665be9c4c8fec_1440w.jpg"
           },
           "metrics_area": {
-            "text": "128 万热度",
+            "text": "54 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2148,7 +2148,7 @@
             "url": "https://www.zhihu.com/question/2088584992443954470"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTUxNTc1NSC6+PHVBjAAOOYBQAhyEzIwODg1ODQ5OTI0NDM5NTQ0NzB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTUxNTc1NSC6+PHVBjAAOJ0CQBxyEzIwODg1ODQ5OTI0NDM5NTQ0NzB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2162,6 +2162,12 @@
           "rank": 9,
           "heat_text": "128 万热度",
           "heat_value": 1280000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 29,
+          "heat_text": "54 万热度",
+          "heat_value": 540000
         }
       ]
     },
@@ -2463,23 +2469,18 @@
       "title": "理论上讲 XX 是女性染色体，那为什么 YY 不是男性染色体，必须是 XY？",
       "url": "https://www.zhihu.com/question/2088316403992507840",
       "first_seen": "2026-10-03 12:03:02 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 10,
-      "latest_rank": 8,
-      "latest_heat_text": "135 万热度",
-      "latest_heat_value": 1350000,
+      "latest_rank": 27,
+      "latest_heat_text": "56 万热度",
+      "latest_heat_value": 560000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1791025918.596804",
+        "id": "26_1791042532.619730",
         "card_id": "Q_2088316403992507840",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 76
+          "answer_count": 92
         },
         "target": {
           "title_area": {
@@ -2492,7 +2493,7 @@
             "url": "https://picx.zhimg.com/80/v2-76855e81cc9af80af2fa4581593efef2_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "135 万热度",
+            "text": "56 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2507,7 +2508,7 @@
             "url": "https://www.zhihu.com/question/2088316403992507840"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTUxMDM0OSCVhO7VBjAAOK4BQAdyEzIwODgzMTY0MDM5OTI1MDc4NDB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTUxMDM0OSCVhO7VBjAAOOMBQBpyEzIwODgzMTY0MDM5OTI1MDc4NDB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2521,6 +2522,12 @@
           "rank": 8,
           "heat_text": "135 万热度",
           "heat_value": 1350000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 27,
+          "heat_text": "56 万热度",
+          "heat_value": 560000
         }
       ]
     },
@@ -2529,18 +2536,18 @@
       "title": "如何评价极客湾最新视频《逻辑折叠深度解析！华为 Mate 90 系列韬定律芯片有多强？》？",
       "url": "https://www.zhihu.com/question/2089412797440455404",
       "first_seen": "2026-10-03 12:03:02 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 11,
-      "latest_rank": 11,
-      "latest_heat_text": "89 万热度",
-      "latest_heat_value": 890000,
+      "latest_rank": 16,
+      "latest_heat_text": "110 万热度",
+      "latest_heat_value": 1100000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "10_1791025918.597801",
+        "id": "15_1791042532.599574",
         "card_id": "Q_2089412797440455404",
         "feed_specific": {
-          "answer_count": 171
+          "answer_count": 198
         },
         "target": {
           "title_area": {
@@ -2553,7 +2560,7 @@
             "url": "https://picx.zhimg.com/80/v2-658e4402f452c7e37fb505ddbcb4d47f_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "89 万热度",
+            "text": "110 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2568,7 +2575,7 @@
             "url": "https://www.zhihu.com/question/2089412797440455404"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTUzOTQ0MCCu/v3VBjAAOKEDQApyEzIwODk0MTI3OTc0NDA0NTU0MDR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTUzOTQ0MCCu/v3VBjAAOIYEQA9yEzIwODk0MTI3OTc0NDA0NTU0MDR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2582,6 +2589,12 @@
           "rank": 11,
           "heat_text": "89 万热度",
           "heat_value": 890000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 16,
+          "heat_text": "110 万热度",
+          "heat_value": 1100000
         }
       ]
     },
@@ -2882,18 +2895,18 @@
       "title": "汉大帮高育良的外甥女陆亦可为什么被大家厌恶？她和侯亮平是一类人吗？",
       "url": "https://www.zhihu.com/question/2086972101483930401",
       "first_seen": "2026-10-03 12:03:02 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 17,
-      "latest_rank": 14,
-      "latest_heat_text": "85 万热度",
-      "latest_heat_value": 850000,
+      "latest_rank": 19,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "13_1791025918.598814",
+        "id": "18_1791042532.615565",
         "card_id": "Q_2086972101483930401",
         "feed_specific": {
-          "answer_count": 48
+          "answer_count": 64
         },
         "target": {
           "title_area": {
@@ -2906,7 +2919,7 @@
             "url": "https://pic3.zhimg.com/80/v2-e0d6b922a836080e97b5aa21ff6aed76_1440w.webp"
           },
           "metrics_area": {
-            "text": "85 万热度",
+            "text": "84 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2921,7 +2934,7 @@
             "url": "https://www.zhihu.com/question/2086972101483930401"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTQ3MzIxNiCbvNrVBjAAOJUBQA1yEzIwODY5NzIxMDE0ODM5MzA0MDF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTQ3MzIxNiCbvNrVBjAAONcBQBJyEzIwODY5NzIxMDE0ODM5MzA0MDF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2935,6 +2948,12 @@
           "rank": 14,
           "heat_text": "85 万热度",
           "heat_value": 850000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 19,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
         }
       ]
     },
@@ -2943,18 +2962,18 @@
       "title": "六神是怎么做到在花露水市场常年稳居第一的？甚至有不少人除了六神好像都不了解其他的花露水品牌？",
       "url": "https://www.zhihu.com/question/2087306147153666673",
       "first_seen": "2026-10-03 12:03:02 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 18,
-      "latest_rank": 3,
-      "latest_heat_text": "236 万热度",
-      "latest_heat_value": 2360000,
+      "latest_rank": 18,
+      "latest_heat_text": "90 万热度",
+      "latest_heat_value": 900000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "2_1791025918.592983",
+        "id": "17_1791042532.614805",
         "card_id": "Q_2087306147153666673",
         "feed_specific": {
-          "answer_count": 53
+          "answer_count": 71
         },
         "target": {
           "title_area": {
@@ -2967,7 +2986,7 @@
             "url": "https://pic1.zhimg.com/80/v2-413b9e9e1f82fa8c76de9352b7523171_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "236 万热度",
+            "text": "90 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -2982,7 +3001,7 @@
             "url": "https://www.zhihu.com/question/2087306147153666673"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTQ4MjMxNiC1qt/VBjAAOMgBQAJyEzIwODczMDYxNDcxNTM2NjY2NzN4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTQ4MjMxNiC1qt/VBjAAOJ0CQBFyEzIwODczMDYxNDcxNTM2NjY2NzN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -2996,6 +3015,12 @@
           "rank": 3,
           "heat_text": "236 万热度",
           "heat_value": 2360000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 18,
+          "heat_text": "90 万热度",
+          "heat_value": 900000
         }
       ]
     },
@@ -3571,15 +3596,15 @@
       "title": "亚运男足铜牌争夺战，中国 U23 点球 4-3 乌兹别克斯坦 U23，获得铜牌，如何评价本场比赛？",
       "url": "https://www.zhihu.com/question/2089722594677055841",
       "first_seen": "2026-10-03 19:11:58 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 1,
       "latest_rank": 1,
-      "latest_heat_text": "2542 万热度",
-      "latest_heat_value": 25420000,
+      "latest_heat_text": "3354 万热度",
+      "latest_heat_value": 33540000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1791025918.591043",
+        "id": "0_1791042532.572759",
         "card_id": "Q_2089722594677055841",
         "card_label": {
           "type": "boiling",
@@ -3587,7 +3612,7 @@
           "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 344
+          "answer_count": 460
         },
         "target": {
           "title_area": {
@@ -3600,7 +3625,7 @@
             "url": "https://picx.zhimg.com/50/v2-9b039ccbe93676de80cc77085a6ed29e_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "2542 万热度",
+            "text": "3354 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3615,7 +3640,7 @@
             "url": "https://www.zhihu.com/question/2089722594677055841"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTU0NTY2MCCzv4LWBjAAOIAEQAByEzIwODk3MjI1OTQ2NzcwNTU4NDF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTU0NTY2MCCzv4LWBjAAOO4FQAByEzIwODk3MjI1OTQ2NzcwNTU4NDF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3623,6 +3648,12 @@
           "rank": 1,
           "heat_text": "2542 万热度",
           "heat_value": 25420000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 1,
+          "heat_text": "3354 万热度",
+          "heat_value": 33540000
         }
       ]
     },
@@ -3631,18 +3662,18 @@
       "title": "网友称纹身是免疫细胞一辈子的战斗，这是真的吗？对健康会有哪些影响？",
       "url": "https://www.zhihu.com/question/2089414718989365661",
       "first_seen": "2026-10-03 19:11:58 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 2,
-      "latest_rank": 2,
-      "latest_heat_text": "325 万热度",
-      "latest_heat_value": 3250000,
+      "latest_rank": 3,
+      "latest_heat_text": "487 万热度",
+      "latest_heat_value": 4870000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1791025918.592038",
+        "id": "2_1791042532.575104",
         "card_id": "Q_2089414718989365661",
         "feed_specific": {
-          "answer_count": 35
+          "answer_count": 52
         },
         "target": {
           "title_area": {
@@ -3655,7 +3686,7 @@
             "url": "https://picx.zhimg.com/80/v2-bd07911f482f34c35288fc6e8ba92528_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "325 万热度",
+            "text": "487 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3670,7 +3701,7 @@
             "url": "https://www.zhihu.com/question/2089414718989365661"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMTUzOTQ2OSD4gf7VBjAAOIwBQAFyEzIwODk0MTQ3MTg5ODkzNjU2NjF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTUzOTQ2OSD4gf7VBjAAOLcCQAJyEzIwODk0MTQ3MTg5ODkzNjU2NjF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3678,6 +3709,12 @@
           "rank": 2,
           "heat_text": "325 万热度",
           "heat_value": 3250000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 3,
+          "heat_text": "487 万热度",
+          "heat_value": 4870000
         }
       ]
     },
@@ -3686,18 +3723,23 @@
       "title": "七国集团将释放 1 亿桶战略石油储备，会带来哪些影响？",
       "url": "https://www.zhihu.com/question/2089655246322495630",
       "first_seen": "2026-10-03 19:11:58 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 4,
       "latest_rank": 4,
-      "latest_heat_text": "165 万热度",
-      "latest_heat_value": 1650000,
+      "latest_heat_text": "275 万热度",
+      "latest_heat_value": 2750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1791025918.594061",
+        "id": "3_1791042532.575723",
         "card_id": "Q_2089655246322495630",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 31
+          "answer_count": 65
         },
         "target": {
           "title_area": {
@@ -3710,7 +3752,7 @@
             "url": "https://pic1.zhimg.com/80/v2-40a6133e95aea5087af5f2bb08d6f9df_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "165 万热度",
+            "text": "275 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -3725,7 +3767,7 @@
             "url": "https://www.zhihu.com/question/2089655246322495630"
           }
         },
-        "attached_info": "CkkIjub22+eKvrEDEAMaCTEyMTU0MzE0NCD6wYHWBjAAOF9AA3ITMjA4OTY1NTI0NjMyMjQ5NTYzMHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTU0MzE0NCD6wYHWBjAAOPgBQANyEzIwODk2NTUyNDYzMjI0OTU2MzB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -3733,6 +3775,12 @@
           "rank": 4,
           "heat_text": "165 万热度",
           "heat_value": 1650000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 4,
+          "heat_text": "275 万热度",
+          "heat_value": 2750000
         }
       ]
     },
@@ -3966,18 +4014,18 @@
       "title": "网友质疑国足 0 比 5 惨败却让 17 岁小将赵松源接受采访，如何看待这种安排？是有意为之吗？",
       "url": "https://www.zhihu.com/question/2089616052405498293",
       "first_seen": "2026-10-03 19:11:58 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 15,
       "latest_rank": 15,
-      "latest_heat_text": "84 万热度",
-      "latest_heat_value": 840000,
+      "latest_heat_text": "111 万热度",
+      "latest_heat_value": 1110000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "14_1791025918.599144",
+        "id": "14_1791042532.597899",
         "card_id": "Q_2089616052405498293",
         "feed_specific": {
-          "answer_count": 72
+          "answer_count": 92
         },
         "target": {
           "title_area": {
@@ -3990,7 +4038,7 @@
             "url": "https://picx.zhimg.com/80/v2-56ba2c1548d2df93a174e104327e1ff9_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "84 万热度",
+            "text": "111 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4005,7 +4053,7 @@
             "url": "https://www.zhihu.com/question/2089616052405498293"
           }
         },
-        "attached_info": "CkkIjub22+eKvrEDEAMaCTEyMTU0MjQ0OSD6+IDWBjAAOHdADnITMjA4OTYxNjA1MjQwNTQ5ODI5M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTU0MjQ0OSD6+IDWBjAAOK0BQA5yEzIwODk2MTYwNTI0MDU0OTgyOTN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4013,6 +4061,12 @@
           "rank": 15,
           "heat_text": "84 万热度",
           "heat_value": 840000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 15,
+          "heat_text": "111 万热度",
+          "heat_value": 1110000
         }
       ]
     },
@@ -4186,18 +4240,18 @@
       "title": "为何家用 WiFi 总觉得 2.4G 反而快于 5G，这是我的错觉吗？",
       "url": "https://www.zhihu.com/question/2066457750947763567",
       "first_seen": "2026-10-03 19:11:58 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 19,
-      "latest_rank": 19,
-      "latest_heat_text": "76 万热度",
-      "latest_heat_value": 760000,
+      "latest_rank": 13,
+      "latest_heat_text": "118 万热度",
+      "latest_heat_value": 1180000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "18_1791025918.601160",
+        "id": "12_1791042532.593465",
         "card_id": "Q_2066457750947763567",
         "feed_specific": {
-          "answer_count": 156
+          "answer_count": 174
         },
         "target": {
           "title_area": {
@@ -4210,7 +4264,7 @@
             "url": "https://pic2.zhimg.com/50/v2-06f4939838a91059391278b675e3f8bf_b.jpg"
           },
           "metrics_area": {
-            "text": "76 万热度",
+            "text": "118 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4225,7 +4279,7 @@
             "url": "https://www.zhihu.com/question/2066457750947763567"
           }
         },
-        "attached_info": "CkoIjub22+eKvrEDEAMaCTEyMDcxMjU5NCCg+a/TBjAAONYBQBJyEzIwNjY0NTc3NTA5NDc3NjM1Njd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMDcxMjU5NCCg+a/TBjAAOMACQAxyEzIwNjY0NTc3NTA5NDc3NjM1Njd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -4233,6 +4287,12 @@
           "rank": 19,
           "heat_text": "76 万热度",
           "heat_value": 760000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 13,
+          "heat_text": "118 万热度",
+          "heat_value": 1180000
         }
       ]
     },
@@ -4241,18 +4301,18 @@
       "title": "你知道哪些顶级食材？",
       "url": "https://www.zhihu.com/question/21390049",
       "first_seen": "2026-10-03 19:11:58 +0800",
-      "last_seen": "2026-10-03 19:11:58 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
       "first_rank": 20,
-      "latest_rank": 20,
-      "latest_heat_text": "75 万热度",
-      "latest_heat_value": 750000,
+      "latest_rank": 30,
+      "latest_heat_text": "53 万热度",
+      "latest_heat_value": 530000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1791025918.601438",
+        "id": "29_1791042532.622183",
         "card_id": "Q_21390049",
         "feed_specific": {
-          "answer_count": 112
+          "answer_count": 121
         },
         "target": {
           "title_area": {
@@ -4265,7 +4325,7 @@
             "url": "https://pic3.zhimg.com/50/v2-c88a0846be86abfe38e38bea034c5990_b.jpg"
           },
           "metrics_area": {
-            "text": "75 万热度",
+            "text": "53 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -4280,7 +4340,7 @@
             "url": "https://www.zhihu.com/question/21390049"
           }
         },
-        "attached_info": "CjwIjub22+eKvrEDEAMaBjczNjY5NSDBpMqPBTAAONwIQBNyCDIxMzkwMDQ5eACqAQliaWxsYm9hcmTSAQA="
+        "attached_info": "CjwI+PC91/q7gNBpEAMaBjczNjY5NSDBpMqPBTAAOOgJQB1yCDIxMzkwMDQ5eACqAQliaWxsYm9hcmTSAQA="
       },
       "history": [
         {
@@ -4288,6 +4348,12 @@
           "rank": 20,
           "heat_text": "75 万热度",
           "heat_value": 750000
+        },
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 30,
+          "heat_text": "53 万热度",
+          "heat_value": 530000
         }
       ]
     },
@@ -4568,6 +4634,1111 @@
           "rank": 30,
           "heat_text": "56 万热度",
           "heat_value": 560000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089736714340102430",
+      "title": "如何评价亚运会中国代表团 169 金 89 银 83 铜收官，创境外参加亚运会最佳战绩？有哪些项目发挥关键作用？",
+      "url": "https://www.zhihu.com/question/2089736714340102430",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "547 万热度",
+      "latest_heat_value": 5470000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1791042532.573925",
+        "card_id": "Q_2089736714340102430",
+        "feed_specific": {
+          "answer_count": 68
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价亚运会中国代表团 169 金 89 银 83 铜收官，创境外参加亚运会最佳战绩？有哪些项目发挥关键作用？"
+          },
+          "excerpt_area": {
+            "text": "第二十届亚运会中国队共收获 169 枚金牌、 89 枚银牌、 83 枚铜牌，共计 341 枚奖牌收官，位居金牌榜、奖牌榜首位，创境外参加亚运会最佳战绩！ 中国代表团此前的境外参赛金牌数最好成绩是在多哈亚运会上夺得 165 金。多哈亚运会共设 39 个大项、 424 个小项，中国队参加 37 个大项、 362 个小项；爱知·名古屋亚运会设 43 个大项、 469 个小项，中国队参加其中 38 个大项、 369 个小项。 ©2026 中央广播电视总台版权所有。未经许可，请勿转载使用。169 金 89 银 83 铜收官！中国队创境外参加亚运会最佳战绩 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-9a0dbf4660c957b35e8c11e5208faddd.png"
+          },
+          "metrics_area": {
+            "text": "547 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089736714340102430"
+          }
+        },
+        "attached_info": "CkoI+PC91/q7gNBpEAMaCTEyMTU0NjE1NiDa2YLWBjAAOIABQAFyEzIwODk3MzY3MTQzNDAxMDI0MzB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 2,
+          "heat_text": "547 万热度",
+          "heat_value": 5470000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089670263927464668",
+      "title": "如何评价 Gemini Flash 和 Pro 模型将于 2026 年 10 月 9 日转入付费模式？",
+      "url": "https://www.zhihu.com/question/2089670263927464668",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "180 万热度",
+      "latest_heat_value": 1800000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1791042532.576950",
+        "card_id": "Q_2089670263927464668",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 Gemini Flash 和 Pro 模型将于 2026 年 10 月 9 日转入付费模式？"
+          },
+          "excerpt_area": {
+            "text": "针对个人用户的 Gemini Apps 和网页端，Gemini Flash 和 Pro 模型将转入付费模式，新政策将于 2026 年 10 月 9 日正式对免费用户生效，届时免费用户无法使用 Flash 和 Pro 模型。 并且，Plus 订阅将仅可使用 Flash 模型，只有 Pro 及以上可以使用 Pro 模型。 AI Plus 订阅用户将收到邮件通知，各自的生效时间以邮件通知为准。 祖宗之法要变了？！Argon 先给 Ultra 一等公民用就算了，突出量大管饱的 Gemini App 之前 flash 慢更缓更批次更还不满足，现在 Google 要明动了？动手还这么快？啊？ 公告链接："
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-3441665194530ac04bbbcb90dd000394_1440w.png"
+          },
+          "metrics_area": {
+            "text": "180 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089670263927464668"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTU0MzQ1OCD33YHWBjAAOEtABHITMjA4OTY3MDI2MzkyNzQ2NDY2OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 5,
+          "heat_text": "180 万热度",
+          "heat_value": 1800000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089756234240844300",
+      "title": "亚运会男足铜牌战，李昊扑出两个点球助中国队获得铜牌，完成这样的扑救有多难？会怎样影响球队？",
+      "url": "https://www.zhihu.com/question/2089756234240844300",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "178 万热度",
+      "latest_heat_value": 1780000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1791042532.577921",
+        "card_id": "Q_2089756234240844300",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "亚运会男足铜牌战，李昊扑出两个点球助中国队获得铜牌，完成这样的扑救有多难？会怎样影响球队？"
+          },
+          "excerpt_area": {
+            "text": "在刚刚结束的爱知·名古屋亚运会男足铜牌赛中，中国队在常规时间与乌兹别克斯坦队 2:2 战平，最终中国队经过点球大战击败对手，获得铜牌。 这是中国队时隔 28 年再次摘得亚运会男足奖牌。在 1998 年曼谷亚运会，中国男足获得铜牌。 上半场 14 分钟，中国队禁区前二过一，蒯纪闻助攻，胡荷韬跟进推射破门。 第 43 分钟，乌兹别克斯坦队巴赫罗莫夫兜射破门。 上半场结束，中国队 1-1 战平乌兹别克斯坦队。 下半场第 53 分钟，王钰栋中圈带球一条龙，禁区前沿晃开角度后轰出世界波，皮球直挂死角，亚运国足 2-1 再次领先乌兹别克斯坦！ 进球后王钰栋双手堵耳庆祝！ 第 90 分钟，乌兹别克斯坦球员补射破门，经 VAR 认定进球有效，国足 2-2 遭扳平。 常规时间战罢，两队战成 2-2，进入点球大战。 第一轮：乌兹别克罚点球被李昊扑出；刘浩帆罚丢。 第二轮：乌兹别克罚进；朱辰杰罚进。 第三轮：乌兹别克罚点球被李昊扑出；向余望罚进。 第三轮主罚后，双方球员爆发冲突。 第四轮：乌兹别克罚进；依木兰罚进。 第五轮：乌兹别克罚进；彭啸罚进。 我们赢啦~~ 我们赢了！中国队时隔 28 年再获亚运会男足铜牌！王钰栋世界波破门，李昊点球大战扑出 2 个点球 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-34388b0bab6cdc91d4fa233e6a5caccc_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "178 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089756234240844300"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTU0NzM4NSCI/oLWBjAAODtABXITMjA4OTc1NjIzNDI0MDg0NDMwMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 6,
+          "heat_text": "178 万热度",
+          "heat_value": 1780000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089644266393952732",
+      "title": "如何评价 Gemini 新的付费方案？",
+      "url": "https://www.zhihu.com/question/2089644266393952732",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "172 万热度",
+      "latest_heat_value": 1720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1791042532.580283",
+        "card_id": "Q_2089644266393952732",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价 Gemini 新的付费方案？"
+          },
+          "excerpt_area": {
+            "text": "免费用户无法使用 Flash 和 Pro，Plus 仅可使用 Flash，只有 Pro 及以上可以使用 Pro。"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "172 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089644266393952732"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTU0MjkxOCDArYHWBjAAOC1ABnITMjA4OTY0NDI2NjM5Mzk1MjczMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 7,
+          "heat_text": "172 万热度",
+          "heat_value": 1720000
+        }
+      ]
+    },
+    {
+      "key": "Q_369833104",
+      "title": "有什么关于福建的冷知识?",
+      "url": "https://www.zhihu.com/question/369833104",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "161 万热度",
+      "latest_heat_value": 1610000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1791042532.581311",
+        "card_id": "Q_369833104",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 70
+        },
+        "target": {
+          "title_area": {
+            "text": "有什么关于福建的冷知识?"
+          },
+          "excerpt_area": {
+            "text": "有什么关于福建省的冷知识 欢迎大家回答"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-fe640d581c0fee07701df0ae84fc3ab8_b.jpg"
+          },
+          "metrics_area": {
+            "text": "161 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/369833104"
+          }
+        },
+        "attached_info": "Cj8I+PC91/q7gNBpEAMaCDQ0NDYyNzM4IIfb6fEFMAA4ogJAB3IJMzY5ODMzMTA0eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 8,
+          "heat_text": "161 万热度",
+          "heat_value": 1610000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089761055652012149",
+      "title": "国足 U23 屡创佳绩，关键胜因是什么？这支年轻球队正在发生哪些变化？能给中国足球带来更多可能吗？",
+      "url": "https://www.zhihu.com/question/2089761055652012149",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "154 万热度",
+      "latest_heat_value": 1540000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1791042532.582557",
+        "card_id": "Q_2089761055652012149",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 37
+        },
+        "target": {
+          "title_area": {
+            "text": "国足 U23 屡创佳绩，关键胜因是什么？这支年轻球队正在发生哪些变化？能给中国足球带来更多可能吗？"
+          },
+          "excerpt_area": {
+            "text": "雷速体育 10 月 3 日讯 亚运男足季军战，中国 U23 男足凭借点球大战 6-5 击败乌兹夺得铜牌。赛后，亚运男足的表现引发热议，不少媒体人都表示这枚奖牌来之不易，亚运国脚的发挥无法用言语形容，只能说太棒了。 中国男足时隔 28 年再次登上亚运会领奖台，在现场见证的记者马德兴激动不已，「28 年前，我在泰国宋卡，见证了中国队登上亚运会男足领奖台！今天，又一次现场见证，虽然时隔 28 年，有点时间长，但老天爷不负有心人啊。」 媒体人孙雨轩只用 2 个字来点评中国男足的发挥，「牛逼！u23 国足勇夺亚运会铜牌！点球大战击败乌兹别克斯坦，我们时隔 28 年再次亚运会夺牌，并且是改制以来（改为 u23 赛事）的头一次！ 」 媒体人徐江则对比了国足和 U23 国足两队的发挥，「关于亚运队主教练能不能成为国家队主教练这个事，其实也挺简单，一句话的事情，自行理解吧… 」 上海记者刘闻超，同样对 2 支国家队的表现进行了长篇点评，「这个节假日，国足和 U23 男足双线出击，有收获也有疑惑。另一边，U23 男足在亚运会上实现了夺牌的目标。在为成绩起色鼓掌的同时，我们面临着下一个问题，那就是当这群被认为有潜力有希望的年轻一代进入成年国家队后，竞争力是否能够继续保持？」 媒体人丁旭则表示，无法用言语来形容 U23 国足的发挥，「任何言语来夸赞这支中国男足亚运队都不为过，任何言语也显得很多余，只能说小伙子们太棒了！！！这枚亚运男足铜牌 正在复苏的中国足球带来新的希望，加油中国足球！」 上海媒体人姬宇阳表示，中国男足的亚运奖牌来之不易，「祝贺中国队，时隔 28 年，再次拿到亚运男足奖牌！一块来之不易的铜牌！」热议 U23 国足亚运摘铜：奖牌来之不易，表现无法用言语形容 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-cd8d665712581f0a083b1717fae314e8_b.jpg"
+          },
+          "metrics_area": {
+            "text": "154 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089761055652012149"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTU0NzY5MyCFh4PWBjAAOD9ACHITMjA4OTc2MTA1NTY1MjAxMjE0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 9,
+          "heat_text": "154 万热度",
+          "heat_value": 1540000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089411284261512252",
+      "title": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？",
+      "url": "https://www.zhihu.com/question/2089411284261512252",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "146 万热度",
+      "latest_heat_value": 1460000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1791042532.585565",
+        "card_id": "Q_2089411284261512252",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "《艾希》续作众筹破 1200 万元远超预期，为何能引发现象级反响？"
+          },
+          "excerpt_area": {
+            "text": "国产横版动作游戏《艾希》（ICEY）迎来发售十周年，开发商幻刃网络正式公布续作《艾希：续》，并开启众筹。原本设定的众筹目标仅为 1 万元，但活动上线后迅速引爆玩家热情，截至目前已筹得 12,651,622.52 元，达成率超过 1265 倍。 《艾希》最初于 2016 年发售，以快节奏的横版动作战斗、打破第四面墙的旁白叙事和多重结局设计成为当年国产独立游戏的代表作之一。玩家扮演女主角艾希，在机械都市中对抗犹大组织，而游戏中的旁白会不断试图引导玩家的行动，玩家可以选择顺从或反抗，由此触发不同的剧情分支。这种「与旁白对抗」的互动设计在当年颇具新意，也让《艾希》在国内外积累了稳定的玩家群体。 《艾希》续作众筹达 1200 万元 原定目标 1 万"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-02f356659e3a58a2655a1f5020fe2d05_b.jpg"
+          },
+          "metrics_area": {
+            "text": "146 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089411284261512252"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTUzOTQxNiDF+/3VBjAAOCdACXITMjA4OTQxMTI4NDI2MTUxMjI1MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 10,
+          "heat_text": "146 万热度",
+          "heat_value": 1460000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089646327395082321",
+      "title": "葡足协主席希望 C 罗「以体面的方式谢幕」，正推动其重返国家队，如何理解当前各方态度？最终可能怎样收场？",
+      "url": "https://www.zhihu.com/question/2089646327395082321",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "141 万热度",
+      "latest_heat_value": 1410000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1791042532.588237",
+        "card_id": "Q_2089646327395082321",
+        "feed_specific": {
+          "answer_count": 62
+        },
+        "target": {
+          "title_area": {
+            "text": "葡足协主席希望 C 罗「以体面的方式谢幕」，正推动其重返国家队，如何理解当前各方态度？最终可能怎样收场？"
+          },
+          "excerpt_area": {
+            "text": "在此前葡萄牙 2 比 1 客胜挪威的比赛中，葡萄牙主帅若热·热苏斯安排 C 罗热身，但没有让 C 罗登场，C 罗在比赛结束后直接返回更衣室，没有与全队一起谢场，并前往机场离开国家队集训，引发外界热议。 C 罗在离开时，通过社交媒体账号发文，确认此事，「在国家队主帅的新闻发布会之后，并在与葡萄牙足协主席进行了一次交谈之后，我做出了离开国家队集训的决定。在合适的时机，我会向所有葡萄牙人说明我离开的原因，我始终为国家队全心奉献。祝葡萄牙队以及我所有的队友好运。」 在 C 罗宣布离开葡萄牙队集训之后，欧足联官网信息显示，在欧国联葡萄牙对阵丹麦的比赛中，葡萄牙球星莱奥已经身披国家队传奇的 7 号球衣。 10 月 3 日，据媒体报道，葡萄牙足协主席普罗恩萨计划在下周安排 C 罗与主帅若热·热苏斯进行会面。 葡萄牙足协正全力推动 C 罗重返国家队。主席普罗恩萨将推动 C 罗与若热·热苏斯进行新一轮三方会谈。 目前各方都保持沉默，但足协高层正在幕后寻找达成和解的最佳方案。 考虑到此前 C 罗突然退出国家队集训的一系列风波，普罗恩萨的这项任务难度不小。 足协主席希望在下周促成 C 罗与热苏斯的会面，这起事件的影响早已超出葡萄牙本土。 普罗恩萨认为双方仍有对话余地，目标是让 C 罗重返国家队，以体面的方式结束自己的国家队生涯。 来源：综合北青体育、此前报道 C 罗离队风波持续发酵，葡足协主席希望 C 罗「以体面的方式谢幕」，正推动其重返国家队 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-cfa8a131cc7f48d6c1d691e0bbf4bbfb.png"
+          },
+          "metrics_area": {
+            "text": "141 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089646327395082321"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTU0Mjk3NSCssYHWBjAAOGFACnITMjA4OTY0NjMyNzM5NTA4MjMyMXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 11,
+          "heat_text": "141 万热度",
+          "heat_value": 1410000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088305221902587649",
+      "title": "如何评价马伊琍、王佳佳主演的悬疑剧《余红旧事》？",
+      "url": "https://www.zhihu.com/question/2088305221902587649",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "136 万热度",
+      "latest_heat_value": 1360000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1791042532.593036",
+        "card_id": "Q_2088305221902587649",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价马伊琍、王佳佳主演的悬疑剧《余红旧事》？"
+          },
+          "excerpt_area": {
+            "text": "改编自《漫长的季节》作者班宇的原著《于洪》"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-24e198212e376e0b22edfb994eefb090_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "136 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088305221902587649"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTUwOTcxOCCr7+3VBjAAOC1AC3ITMjA4ODMwNTIyMTkwMjU4NzY0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 12,
+          "heat_text": "136 万热度",
+          "heat_value": 1360000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088675997675688683",
+      "title": "为什么秦桧之后没人再用桧字取名，但司马懿之后还有无数人叫懿？",
+      "url": "https://www.zhihu.com/question/2088675997675688683",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "112 万热度",
+      "latest_heat_value": 1120000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1791042532.595493",
+        "card_id": "Q_2088675997675688683",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么秦桧之后没人再用桧字取名，但司马懿之后还有无数人叫懿？"
+          },
+          "excerpt_area": {
+            "text": " "
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-094c1c14b0ad9a93ecf08d86d49ead69_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "112 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088675997675688683"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTUyMDY1NCD7ofPVBjAAODBADXITMjA4ODY3NTk5NzY3NTY4ODY4M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 14,
+          "heat_text": "112 万热度",
+          "heat_value": 1120000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088992610811637888",
+      "title": "财政部称将推进消费税征收后移并下划地方，将对地方财力和商品价格产生哪些影响？",
+      "url": "https://www.zhihu.com/question/2088992610811637888",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1791042532.609620",
+        "card_id": "Q_2088992610811637888",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "财政部称将推进消费税征收后移并下划地方，将对地方财力和商品价格产生哪些影响？"
+          },
+          "excerpt_area": {
+            "text": "财政部部长蓝佛安 10 月 1 日发布文章表示，更加注重推进基层财政平稳运行，防范化解地方政府债务风险。推进消费税征收环节后移并稳步下划地方、地方附加税改革等，支持地方拓展税源。扎实推进整合统筹使用转移支付资金试点，赋予地方更多自主权、更好满足实际需要。督促地方加强库款调度和运行监测，确保「三保」不出问题。加快化解存量隐性债务，严肃查处新增隐性债务、虚假化债等违法违规行为，巩固来之不易的化债成果。分类有序推动地方政府融资平台改革转型，坚决剥离政府融资功能，严禁新设或异化产生各类融资平台。 财政部部长蓝佛安：推进消费税征收环节后移并稳步下划地方、地方附加税改革等，支持地方拓展税源"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-30f7fc551ae95f2c3106c365b8937b20.png"
+          },
+          "metrics_area": {
+            "text": "105 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088992610811637888"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTUyNzM3NSDa7/fVBjAAOFdAEHITMjA4ODk5MjYxMDgxMTYzNzg4OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 17,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
+        }
+      ]
+    },
+    {
+      "key": "Q_666246742",
+      "title": "有人说大脑具有终身可塑性，但又有人说压力会导致海马体终身受损，哪个是真的？",
+      "url": "https://www.zhihu.com/question/666246742",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "82 万热度",
+      "latest_heat_value": 820000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1791042532.615966",
+        "card_id": "Q_666246742",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "有人说大脑具有终身可塑性，但又有人说压力会导致海马体终身受损，哪个是真的？"
+          },
+          "excerpt_area": {
+            "text": "非专业人士，网上查阅的碎片信息让我觉得大脑的可塑性和海马体受损的不可逆是矛盾的，真实的情况是什么？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-92f8f36b325b47432212af0a2ec65153_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "82 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/666246742"
+          }
+        },
+        "attached_info": "CkAI+PC91/q7gNBpEAMaCTExMDMzMjc1MSDQ0+O2BjAAOOIBQBNyCTY2NjI0Njc0MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 20,
+          "heat_text": "82 万热度",
+          "heat_value": 820000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089780106344362420",
+      "title": "警方查处孕妇驾驶摩托别车遭脚踹事件，孕妇罚款 200 元，对踹摩托车者予以批评教育，如何看待这一处罚结果？",
+      "url": "https://www.zhihu.com/question/2089780106344362420",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1791042532.616219",
+        "card_id": "Q_2089780106344362420",
+        "feed_specific": {
+          "answer_count": 32
+        },
+        "target": {
+          "title_area": {
+            "text": "警方查处孕妇驾驶摩托别车遭脚踹事件，孕妇罚款 200 元，对踹摩托车者予以批评教育，如何看待这一处罚结果？"
+          },
+          "excerpt_area": {
+            "text": "据新华社记者 10 月 3 日从湖南省衡阳市公安局了解到，日前发生在衡阳市的「女子驾驶摩托别车遭脚踹」事件已有调查处理结果，涉事双方均被依法处理。 据衡阳市公安局交通管理支队相关负责人介绍，9 月 29 日，该支队接到崔某报警，称其驾驶的摩托车遭人脚踹。 民警经调取路面监控、询问当事人等调查取证查明：9 月 28 日 19 时 30 分许，刘某某（男，持 C1 驾驶证）驾驶小型汽车沿蔡伦大道经匝道驶入衡州大道由西向东行驶时，遇崔某（女，持 C1D 驾驶证）驾驶两轮摩托车在前方行驶。双方行驶过程中发生口角，崔某多次故意压低车速别车，刘某某下车脚踹崔某驾驶的摩托车。 经调查取证查实，崔某驾驶两轮摩托车不佩戴安全头盔、驾车时有其他违反道路通行规定、在城市快速路上不按规定车道行驶等违法行为，违反了《中华人民共和国道路交通安全法》第五十一条、第三十八条及《中华人民共和国道路交通安全法实施条例》第四十四条第一款。衡阳市公安局交通管理支队依法对崔某的 3 项交通违法行为分别裁决，合并执行，处以罚款 200 元、驾驶证记 4 分。 刘某某脚踹摩托车的行为未造成人员受伤及财产损失，情节轻微，由属地派出所依法予以批评教育。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-1e16ebfa72a99fa318b57c9d45e7bc0a_b.jpg"
+          },
+          "metrics_area": {
+            "text": "79 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089780106344362420"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTU0ODIyNSDDqoPWBjAAOEZAFHITMjA4OTc4MDEwNjM0NDM2MjQyMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 21,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087549673972167056",
+      "title": "《雍正王朝》里李卫的草根逆袭，是运气好还是真有两把刷子？",
+      "url": "https://www.zhihu.com/question/2087549673972167056",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "76 万热度",
+      "latest_heat_value": 760000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1791042532.617317",
+        "card_id": "Q_2087549673972167056",
+        "feed_specific": {
+          "answer_count": 16
+        },
+        "target": {
+          "title_area": {
+            "text": "《雍正王朝》里李卫的草根逆袭，是运气好还是真有两把刷子？"
+          },
+          "excerpt_area": {
+            "text": "从街头小混混到封疆大吏，李卫没读过书却能把盐政、缉私办得风生水起。 你觉得他的成功靠的是雍正的偏爱，还是自带的江湖智慧？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-afd0da21c547c9c8cae11aa4478f59e4.png"
+          },
+          "metrics_area": {
+            "text": "76 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087549673972167056"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTQ4NzYxNSCD8OLVBjAAOCFAFXITMjA4NzU0OTY3Mzk3MjE2NzA1NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 22,
+          "heat_text": "76 万热度",
+          "heat_value": 760000
+        }
+      ]
+    },
+    {
+      "key": "Q_1924781892516951384",
+      "title": "为什么张纪中版金庸剧能被吹还原原著?",
+      "url": "https://www.zhihu.com/question/1924781892516951384",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1791042532.617680",
+        "card_id": "Q_1924781892516951384",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 48
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么张纪中版金庸剧能被吹还原原著?"
+          },
+          "excerpt_area": {
+            "text": "天龙八部开局把雁门关剧情演了，乔峰击败杀了不少堆丐帮弟子段延庆后拱手欢送，无量剑派剧情阉割，神雕桃花岛剧情阉割，在古墓生活的剧情被原作者公开表明与原著背道而驰，笑傲令狐冲和岳灵珊前往福州打探"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-2264dbfff62c469957f977813dbaf48a.png"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1924781892516951384"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTExNTY4ODQ1NyCzpaLDBjAAOC9AFnITMTkyNDc4MTg5MjUxNjk1MTM4NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 23,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087253111299642165",
+      "title": "明明我们的造梗能力也不差，我国为什么很少做出像《尼古喵喵》这样充满神人和生活气息的作品？",
+      "url": "https://www.zhihu.com/question/2087253111299642165",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1791042532.617976",
+        "card_id": "Q_2087253111299642165",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "明明我们的造梗能力也不差，我国为什么很少做出像《尼古喵喵》这样充满神人和生活气息的作品？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-b268e804ed434cd97fa46c7eb82fe2b9_b.jpg"
+          },
+          "metrics_area": {
+            "text": "74 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087253111299642165"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTQ4MTIzOCDRx97VBjAAOCFAF3ITMjA4NzI1MzExMTI5OTY0MjE2NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 24,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089031753252061813",
+      "title": "辞职写网文半年了，结果连签约都过不了，收藏也只有个位数，自以为写的不错，问题到底出在哪里？",
+      "url": "https://www.zhihu.com/question/2089031753252061813",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "72 万热度",
+      "latest_heat_value": 720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1791042532.618188",
+        "card_id": "Q_2089031753252061813",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "辞职写网文半年了，结果连签约都过不了，收藏也只有个位数，自以为写的不错，问题到底出在哪里？"
+          },
+          "excerpt_area": {
+            "text": "《艾诺迪亚：黑暗之子决定相信光》 艾诺迪亚：黑暗之子决定相信光 - 起点读书 断断续续写一年了，自以为自己写的不错，结果在起点签不了约，番茄可以签约但也没有人看。看了别人写的网络小说，感觉水平都不怎么样，所以认为自己写的能火，可真正动笔写才发现完全不是那么回事，最终 40 万字草草结尾了。 希望各位知乎大神能指点迷津，各位大佬随便喷。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-d057e942e0d07aa09f696c81cbf019fa.png"
+          },
+          "metrics_area": {
+            "text": "72 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089031753252061813"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTUyOTA4NiDOuPjVBjAAOCNAGHITMjA4OTAzMTc1MzI1MjA2MTgxM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 25,
+          "heat_text": "72 万热度",
+          "heat_value": 720000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089377620265910988",
+      "title": "怎么看 Claude Code 发布 Mod，崔添翼说 DSH Plugin 是不是要改叫 Mod ？",
+      "url": "https://www.zhihu.com/question/2089377620265910988",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1791042532.618632",
+        "card_id": "Q_2089377620265910988",
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看 Claude Code 发布 Mod，崔添翼说 DSH Plugin 是不是要改叫 Mod ？"
+          },
+          "excerpt_area": {
+            "text": "Mods 是一小段 TypeScript，可以挂在 Claude Code 的事件上，打包进 plugin，用 /plugin 装到 CLI 或桌面端，然后能改三件事：行为、界面、内置功能。 比如官方例子：Token Weather 把上下文窗口画成天气预报 Blast Radius 在 rm -rf 、 git reset --hard 、 force push 之前弹出影响面 Replay Theater 用 /replay 逐步回放这一轮的文件 diff/diff 和 AGENTS.md 支持就是用 mods 做出来的 然后 Boris 说：每个人干活方式不同，没有理由所有人面对同一个 Claude，然后提到 「just prompting it」，不用手写插件，提示一下就能改行为和外观，再当成 plugin 分享出去，等于是把 hooks 产品化成个人化层。 然后崔天意的回复，这是让 agent harness 可扩展的「cute way」，然后说 Claude Code 里 mods 只是 plugin 的一种，DeepSeek Harness 从第一天就按 「everything is a plugin」 做。 在 DSH 里 模型、工具、 Skills 、 session 、沙箱、文件系统、 agent loop 、编排、 UI 全是插件，能换、能拼、能扩，Creator Mode 里还可以让 agent 检查当前运行时、当场写插件、存下来，连 loop 和编排方式都能热改。 最后开玩笑说，他们原来叫 Plugin Engineering，现在是不是该改口叫 Mod Engineering。 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-3ac0f614cf8f5421508173fc489ca38a_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "59 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089377620265910988"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTUzNzQ5NSDrvP3VBjAAOFNAGXITMjA4OTM3NzYyMDI2NTkxMDk4OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 26,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2076630617412978325",
+      "title": "秋天都有哪些美食？",
+      "url": "https://www.zhihu.com/question/2076630617412978325",
+      "first_seen": "2026-10-03 23:48:52 +0800",
+      "last_seen": "2026-10-03 23:48:52 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "55 万热度",
+      "latest_heat_value": 550000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1791042532.619996",
+        "card_id": "Q_2076630617412978325",
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "秋天都有哪些美食？"
+          },
+          "excerpt_area": {
+            "text": "朋友们提出自己的想法，让这个平凡的秋天更美好"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-c8643805284be3019e2c4b71c7366228_b.jpg"
+          },
+          "metrics_area": {
+            "text": "55 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2076630617412978325"
+          }
+        },
+        "attached_info": "CkkI+PC91/q7gNBpEAMaCTEyMTEwNDk0MSDZ/cPUBjAAODtAG3ITMjA3NjYzMDYxNzQxMjk3ODMyNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-03 23:48:52 +0800",
+          "rank": 28,
+          "heat_text": "55 万热度",
+          "heat_value": 550000
         }
       ]
     }
