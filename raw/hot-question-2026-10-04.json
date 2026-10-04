@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-10-04 07:33:04 +0800",
+  "updated_at": "2026-10-04 12:36:32 +0800",
   "items": [
     {
       "key": "Q_2089722594677055841",
@@ -135,18 +135,18 @@
       "title": "网友称纹身是免疫细胞一辈子的战斗，这是真的吗？对健康会有哪些影响？",
       "url": "https://www.zhihu.com/question/2089414718989365661",
       "first_seen": "2026-10-04 04:39:55 +0800",
-      "last_seen": "2026-10-04 07:33:04 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
       "first_rank": 3,
-      "latest_rank": 6,
-      "latest_heat_text": "74 万热度",
-      "latest_heat_value": 740000,
+      "latest_rank": 25,
+      "latest_heat_text": "56 万热度",
+      "latest_heat_value": 560000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1791070384.73450",
+        "id": "24_1791088592.620036",
         "card_id": "Q_2089414718989365661",
         "feed_specific": {
-          "answer_count": 64
+          "answer_count": 71
         },
         "target": {
           "title_area": {
@@ -159,7 +159,7 @@
             "url": "https://picx.zhimg.com/80/v2-bd07911f482f34c35288fc6e8ba92528_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "74 万热度",
+            "text": "56 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -174,7 +174,7 @@
             "url": "https://www.zhihu.com/question/2089414718989365661"
           }
         },
-        "attached_info": "CkoImfDiqbWe+pEDEAMaCTEyMTUzOTQ2OSD4gf7VBjAAOIUDQAVyEzIwODk0MTQ3MTg5ODkzNjU2NjF4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTUzOTQ2OSD4gf7VBjAAOMEDQBhyEzIwODk0MTQ3MTg5ODkzNjU2NjF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -188,6 +188,12 @@
           "rank": 6,
           "heat_text": "74 万热度",
           "heat_value": 740000
+        },
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 25,
+          "heat_text": "56 万热度",
+          "heat_value": 560000
         }
       ]
     },
@@ -394,23 +400,18 @@
       "title": "网友吐槽美团、高德、大众点评可随意造假评论，自家店铺还没开门就遭差评，该机制合理吗？该怎样应对和改进？",
       "url": "https://www.zhihu.com/question/2089620705260171590",
       "first_seen": "2026-10-04 04:39:55 +0800",
-      "last_seen": "2026-10-04 07:33:04 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
       "first_rank": 7,
-      "latest_rank": 4,
-      "latest_heat_text": "112 万热度",
-      "latest_heat_value": 1120000,
+      "latest_rank": 3,
+      "latest_heat_text": "215 万热度",
+      "latest_heat_value": 2150000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1791070384.71853",
+        "id": "2_1791088592.606154",
         "card_id": "Q_2089620705260171590",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 23
+          "answer_count": 87
         },
         "target": {
           "title_area": {
@@ -423,7 +424,7 @@
             "url": "https://pic2.zhimg.com/v2-dc318f8243290d9c9028deca8273f385_r.jpg"
           },
           "metrics_area": {
-            "text": "112 万热度",
+            "text": "215 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -438,7 +439,7 @@
             "url": "https://www.zhihu.com/question/2089620705260171590"
           }
         },
-        "attached_info": "CkkImfDiqbWe+pEDEAMaCTEyMTU0MjUwMCDPgYHWBjAAODtAA3ITMjA4OTYyMDcwNTI2MDE3MTU5MHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTU0MjUwMCDPgYHWBjAAOPQBQAJyEzIwODk2MjA3MDUyNjAxNzE1OTB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -452,6 +453,12 @@
           "rank": 4,
           "heat_text": "112 万热度",
           "heat_value": 1120000
+        },
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 3,
+          "heat_text": "215 万热度",
+          "heat_value": 2150000
         }
       ]
     },
@@ -714,23 +721,18 @@
       "title": "为什么秦桧之后没人再用桧字取名，但司马懿之后还有无数人叫懿？",
       "url": "https://www.zhihu.com/question/2088675997675688683",
       "first_seen": "2026-10-04 04:39:55 +0800",
-      "last_seen": "2026-10-04 07:33:04 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
       "first_rank": 12,
-      "latest_rank": 12,
+      "latest_rank": 21,
       "latest_heat_text": "59 万热度",
       "latest_heat_value": 590000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "11_1791070384.76259",
+        "id": "20_1791088592.618447",
         "card_id": "Q_2088675997675688683",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 60
+          "answer_count": 96
         },
         "target": {
           "title_area": {
@@ -758,7 +760,7 @@
             "url": "https://www.zhihu.com/question/2088675997675688683"
           }
         },
-        "attached_info": "CkkImfDiqbWe+pEDEAMaCTEyMTUyMDY1NCD7ofPVBjAAOHdAC3ITMjA4ODY3NTk5NzY3NTY4ODY4M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTUyMDY1NCD7ofPVBjAAOLYBQBRyEzIwODg2NzU5OTc2NzU2ODg2ODN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -770,6 +772,12 @@
         {
           "observed_at": "2026-10-04 07:33:04 +0800",
           "rank": 12,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
+        },
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 21,
           "heat_text": "59 万热度",
           "heat_value": 590000
         }
@@ -1873,23 +1881,18 @@
       "title": "如何看待巴勒斯坦球员因一个拇指向下的争议手势向国足道歉，澄清并无不敬之意？",
       "url": "https://www.zhihu.com/question/2089809366375293983",
       "first_seen": "2026-10-04 07:33:04 +0800",
-      "last_seen": "2026-10-04 07:33:04 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
       "first_rank": 2,
-      "latest_rank": 2,
-      "latest_heat_text": "190 万热度",
-      "latest_heat_value": 1900000,
+      "latest_rank": 6,
+      "latest_heat_text": "136 万热度",
+      "latest_heat_value": 1360000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1791070384.70106",
+        "id": "5_1791088592.610002",
         "card_id": "Q_2089809366375293983",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 48
+          "answer_count": 246
         },
         "target": {
           "title_area": {
@@ -1902,7 +1905,7 @@
             "url": "https://pic1.zhimg.com/80/v2-d312f0841bd14d87a949bdf3d50b84bb_1440w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "190 万热度",
+            "text": "136 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1917,7 +1920,7 @@
             "url": "https://www.zhihu.com/question/2089809366375293983"
           }
         },
-        "attached_info": "CkkImfDiqbWe+pEDEAMaCTEyMTU0ODc2NiCD4YPWBjAAOD5AAXITMjA4OTgwOTM2NjM3NTI5Mzk4M3gAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTU0ODc2NiCD4YPWBjAAOMwCQAVyEzIwODk4MDkzNjYzNzUyOTM5ODN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1925,6 +1928,12 @@
           "rank": 2,
           "heat_text": "190 万热度",
           "heat_value": 1900000
+        },
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 6,
+          "heat_text": "136 万热度",
+          "heat_value": 1360000
         }
       ]
     },
@@ -2145,6 +2154,1486 @@
           "rank": 30,
           "heat_text": "52 万热度",
           "heat_value": 520000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089638530678875180",
+      "title": "德国教材「很多中国人没有汽车，出行靠自行车或步行」等内容引争议，这真是现行教材吗？为何会出现这种错误？",
+      "url": "https://www.zhihu.com/question/2089638530678875180",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "2139 万热度",
+      "latest_heat_value": 21390000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1791088592.603253",
+        "card_id": "Q_2089638530678875180",
+        "card_label": {
+          "type": "boiling",
+          "icon": "https://pic1.zhimg.com/80/v2-a8ec286ae756c2ab8377774b27f8ebc7_1440w.png",
+          "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 515
+        },
+        "target": {
+          "title_area": {
+            "text": "德国教材「很多中国人没有汽车，出行靠自行车或步行」等内容引争议，这真是现行教材吗？为何会出现这种错误？"
+          },
+          "excerpt_area": {
+            "text": "德国人 2026 德国教材：很多中国人没有汽车，出行靠自行车或步行，街头遍布自行车十分危险；中国人见面不握手，仅以鞠躬致意。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-b547c761caea86226b2bbce8c27d8af4_r.jpg?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "2139 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089638530678875180"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTU0MjgwMCDpooHWBjAAOJ0GQAByEzIwODk2Mzg1MzA2Nzg4NzUxODB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 1,
+          "heat_text": "2139 万热度",
+          "heat_value": 21390000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089822110499563265",
+      "title": "如何看待深圳一车主连续两次占用应急车道，被按深圳特区法规罚 6000 元？你支持全国推广吗？",
+      "url": "https://www.zhihu.com/question/2089822110499563265",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "437 万热度",
+      "latest_heat_value": 4370000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1791088592.604272",
+        "card_id": "Q_2089822110499563265",
+        "feed_specific": {
+          "answer_count": 210
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待深圳一车主连续两次占用应急车道，被按深圳特区法规罚 6000 元？你支持全国推广吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，深圳一车主连续两次在沈海高速占用应急车道，两天被扣 12 分，罚 6000 元，引发网友热议。有网友建议全国推广这一做法，也有网友不解为何罚这么重？ 相关处罚截图显示，一辆粤 B 号牌车辆在沈海高速同一路段，分别于 9 月 30 日 10 时 44 分和 10 月 1 日 17 时 50 分，被记录两次违法，每次罚款 3000 元，记 6 分。 △刘先生的交通违法处罚截图。 10 月 3 日，潇湘晨报·晨视频记者联系到车主刘先生。他称，当时正值节假日，高速上非常拥堵，自己急着赶去餐饮店上班，对相关法规并不了解，为了赶时间便走了应急车道。刘先生所工作的餐饮店刚刚开业，他表示自己刚来深圳不久，没想到会因此被罚款，也并未留意路上的相关警示。 刘先生称，10 月 1 日下午他便收到了违法处理结果，当时也很震惊，觉得罚款有点重，但他表示「做错了就该罚」。随后，他在社交平台发布视频，提醒大家吸取这个「花重金买来的教训」，千万别抱侥幸心理，应急车道是救援通道，非紧急情况下不要占用应急车道。 3 日下午，潇湘晨报·晨视频记者致电深圳市公安局交通警察局，咨询这一法规背后的依据和出发点，热线工作人员记录问题后表示，将反馈给相关工作人员，届时会有专员回电，但因国庆假期，未给出明确回复期限。截至发稿前，暂未获回应。记者另致电负责对外宣传的深圳市公安局指挥部警察公共关系处，电话无人接听。 △深圳市公安局交通警察局曾就相关问题作出回答。 此前，有市民向深圳市公安局交通警察局咨询：「我在高速路上遇上堵车走应急车道会被交警处罚吗？」该局于 2024 年 1 月 30 日公开回答： 驾驶机动车走应急车道是会被处罚的。根据《深圳经济特区道路交通安全违法行为处罚条例》第二章第二十一条第二款第二项规定：驾驶机动车在高速公路、城市快速干道或者隧道内行驶，有下列行为之一的，处三千元罚款：（一）逆行或者倒退行驶的；（二）非紧急情况占用应急车道、路肩、紧急停靠带的。一年内有前两款行为三次以上的，除罚款外，从第三次起每次并处暂扣机动车驾驶证三个月。根据《道路交通安全违法行为记分管理办法》第二章第十条第十一款规定：驾驶机动车在高速公路或者城市快速路上违法占用应急车道行驶的，一次记 6 分。深圳一车主两次占用应急车道，被扣 12 分罚 6000 元，车主：赶着上班，错了就该罚 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-b6ec4915233b06f2e5a66181536158ff_b.jpg"
+          },
+          "metrics_area": {
+            "text": "437 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089822110499563265"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTU0OTAyNCDi+IPWBjAAOKECQAFyEzIwODk4MjIxMTA0OTk1NjMyNjV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 2,
+          "heat_text": "437 万热度",
+          "heat_value": 4370000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089472053569123120",
+      "title": "景区文创陷入「冤种三件套」，从护手霜到冰箱贴，为啥文创越来越同质化？怎样的景区文创才能让你愿意买单？",
+      "url": "https://www.zhihu.com/question/2089472053569123120",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "153 万热度",
+      "latest_heat_value": 1530000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1791088592.606760",
+        "card_id": "Q_2089472053569123120",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "景区文创陷入「冤种三件套」，从护手霜到冰箱贴，为啥文创越来越同质化？怎样的景区文创才能让你愿意买单？"
+          },
+          "excerpt_area": {
+            "text": "今年中秋、国庆假期，恰逢「请 3 休 13」的超长假期。 携程、同程等在线旅游平台的数据显示，中秋假期前一日及当日出发的跨城出行订单较今年端午同期增长 18%。湖南接待游客 904.22 万，四川景区迎客 408 万，上海中秋当日接待游客 277.38 万人次。 而在人头攒动的各大景区里，往左走是这家店，往右走还是这家店，走到最后甚至会产生一种错觉：这里和家门口的景区，卖的好像是同一批东西。 与此同时，微博话题「现在的景区同质化有多严重」早已收获数千万阅读量，不少年轻人发现，景区越来越像，连景区里的伴手礼，也开始有了固定的「标准答案」。 其中最经典的，大概逃不过这「冤种三件套」。 第一件：护手霜。 一家采用小清新配色、正面墙上罗列着各种香味的护手霜店。截至 2025 年 6 月，该品牌已经在全国 40 余个城市开出 150 多家门店，在上海南京东路、成都春熙路、北京王府井等知名步行街都能看到它的身影。 365 天生日花、十二星座、百家姓…小小一支护手霜，被做出了各种各样的「定制款」。 从「上海限定」到「北京限定」，再到各种城市专属包装，「限定」两个字精准捕获了游客「来都来了」的消费心理。 该图片使用了 AI 生成技术 第二件：城市冰箱贴。 冰箱贴几乎已经成为旅行伴手礼中的「显学」。当游客兴冲冲地寻找一款真正属于这座城市的冰箱贴时，很容易就会发现，全国各地的冰箱贴，好像长得都差不多。 地标建筑，加几个大字，再配上一点地方特色元素。楷体字加地标建筑的组合尤其经典。 长城、故宫、布达拉宫、鼓浪屿…换一个城市，换一座地标，似乎就能重新生成一款「城市限定」。 第三件：文创雪糕。 文创雪糕则负责解决另一个问题：怎么让游客愿意为了拍照，先花这二三十块钱。 从最初的北京玉渊潭公园的樱花雪糕爆火，3 天卖出 4.7 万根；到故宫博物院「脊兽雪糕」现象级出圈，微博话题阅读量近 5 亿，越来越多景区都推出了特色文创雪糕。 然而，造型是出片的，口味却是随机的。25 元一个的清明上河图雪糕凭借哈密瓜草莓味让不少网友叫绝，兵马俑雪糕则因为加了花生酱而被觉得奇怪。 当然，除了经典的「三件套」，景区步行街里还有大量「伴手礼 NPC」。同样一盒糕点，到了庐山叫「云雾茶糕」，到了井冈山就变成「红军糕」。 传说中的景区限定养生花茶也并不少见：包装换一版，名字换一个，仿佛就拥有了独一无二的地方身份。标价几元钱，称出来却需要大几百元，细看才发现几元钱仅一克。 于是，一趟旅行下来，真正让人记住的可能不是当地特产，而是自己到底花了多少钱。 年轻人不是不买了，是越来越会算了。 调查显示，有近五成的受访者都认为景区同质化严重，缺乏本地特色。排在雷同之前的，是价格。 59.2% 的受访者都认为景区伴手礼「定价较高，性价比较低」，比「同质化严重」还高出近 10 个百分点。 同一支护手霜，市区专柜做活动时更便宜；同一个冰箱贴，电商平台上九块九包邮还包磁吸。景区里那点「错过就没了」的紧迫感，早就被比价软件拆得干干净净。 这些账，做设计的人可能比游客算得更清楚。一位自称是「牛马设计师」的网友称，一件文创从创意到上架，要闯过预算、审批、开模、打样、铺货好几道关，每一道都在削掉一点「本地特色」。最后能活下来的，往往是最不容易出错的方案。 在跟甲方的无限交涉中，楷体字加地标建筑的冰箱贴，也变得可以接受。 同时，「义乌制造」也为流水线般的景区伴手礼贡献了一己之力。义乌国际商贸城仅一区，主营冰箱贴的店铺就超过 200 家，是全国最大的冰箱贴产销中心之一。据不完全统计，国庆中秋假期前后，每天有超 100 万个冰箱贴从这里发往全球各地。 你在喀什古城买到的「帕米尔限定」，和你在鼓浪屿买到的「海岛风情限定」，很可能出自同一条流水线，只是换了一版贴纸。 不过，景区也不仅有千篇一律的伴手礼「三件套」，细心发掘总会有一些让人眼前一亮的设计。有人在回喀什的路上买了一个白沙湖透光书签。光线透过书签，流沙般的光影映在书页上，湖水的颜色也随之铺展开来。 也有人在云南古镇发现了一本以树叶作为封面的手账本。每一片树叶都不完全相同，也就意味着，每一本手账都拥有自己的样子。 人们想在景区买走的，往往不是一个写着这个地名的纪念品，而是在这一瞬间，和这一个地方产生的微妙的一点联系。 刘亦琛 责编 刘韵珊逃不过景区「冤种三件套」，年轻人开始只薅不买了 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/v2-d0e9f241a2ba687d2686f36417776885_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "153 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089472053569123120"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTU0MDUyMyDe7P7VBjAAODlAA3ITMjA4OTQ3MjA1MzU2OTEyMzEyMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 4,
+          "heat_text": "153 万热度",
+          "heat_value": 1530000
+        }
+      ]
+    },
+    {
+      "key": "Q_2027421719724311463",
+      "title": "《大明王朝 1566》里「改稻为桑」这么一个虚构出来的议题，本来解决起来很简单，怎么就搞的这么复杂？",
+      "url": "https://www.zhihu.com/question/2027421719724311463",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "137 万热度",
+      "latest_heat_value": 1370000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1791088592.609642",
+        "card_id": "Q_2027421719724311463",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 74
+        },
+        "target": {
+          "title_area": {
+            "text": "《大明王朝 1566》里「改稻为桑」这么一个虚构出来的议题，本来解决起来很简单，怎么就搞的这么复杂？"
+          },
+          "excerpt_area": {
+            "text": "改稻为桑，桑蚕丝比稻谷卖钱多，皇帝还答应税还是按稻谷的税收，农民应该是愿意种的，可实际农民怕的是土地被兼并，那不卖土地不就完了，怕今年没粮吃，朝廷从富商大贾那匀些出来赈灾不就行了，唉！真是看的人费劲"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-7407ee6bf6b2a6e25c3b5cc97b693754_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "137 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2027421719724311463"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTExOTE0MDY4MyD98vfOBjAAOGtABHITMjAyNzQyMTcxOTcyNDMxMTQ2M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 5,
+          "heat_text": "137 万热度",
+          "heat_value": 1370000
+        }
+      ]
+    },
+    {
+      "key": "Q_346045039",
+      "title": "电影《让子弹飞》里的汤师爷是一个什么样的人？",
+      "url": "https://www.zhihu.com/question/346045039",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "134 万热度",
+      "latest_heat_value": 1340000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1791088592.610858",
+        "card_id": "Q_346045039",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 122
+        },
+        "target": {
+          "title_area": {
+            "text": "电影《让子弹飞》里的汤师爷是一个什么样的人？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-3ab4f6b795bae35b9cc1b41627a47ae7_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "134 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/346045039"
+          }
+        },
+        "attached_info": "Cj8IvOD1nLjcrJhiEAMaCDM5MTc2MzU3IKeq9OsFMAA45gRABnIJMzQ2MDQ1MDM5eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 7,
+          "heat_text": "134 万热度",
+          "heat_value": 1340000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089822273524057209",
+      "title": "网传俄罗斯一实验室助理打破试管后感染鼠疫死亡，近 200 人被纳入医学观察，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2089822273524057209",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "113 万热度",
+      "latest_heat_value": 1130000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1791088592.611076",
+        "card_id": "Q_2089822273524057209",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "网传俄罗斯一实验室助理打破试管后感染鼠疫死亡，近 200 人被纳入医学观察，有哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "据当地时间 10 月 3 日的消息称，俄罗斯西伯利亚地区发生一起实验室感染事件，一名年轻的实验室助理不幸去世，当地随即启动防疫措施。 达莉亚·希皮洛娃（Darya Shipilova），是伊尔库茨克防疫研究所的实验室工作人员。据当地媒体报道，她在采集样本时不慎打碎了一支含有活菌的试管，随后出现严重肺炎症状。上个月的 29 日，她被送往舍列霍夫市的医院救治，并被接上呼吸机，但两天后仍不幸去世，终年只有 28 岁。 鼠疫是由鼠疫耶尔森菌引起的，主要分为腺鼠疫、肺鼠疫和败血性鼠疫三种类型。其中肺鼠疫是鼠疫中传染性较强的一种类型，主要通过飞沫传播，若治疗不及时，病情进展可能很快。世界卫生组织指出，这种疾病在早期发现并使用抗生素的情况下，治愈率较高，但一旦延误，风险显著上升。 事件发生后，当地迅速采取行动。与希皮洛娃有过接触的近 200 人被纳入医学观察，其中部分人被安排在医院病房隔离。伊尔库茨克州州长伊戈尔·科布泽夫表示，目前这些接触者均未出现发病症状，相关实验室检测结果为阴性。舍列霍夫区医院也被实施检疫，暂停部分常规工作。 俄罗斯联邦首席卫生医师安娜·波波娃（如图），专程赶往西伯利亚，亲自协调处置。伊尔库茨克地区还召开了紧急卫生防疫会议，并在部分区域加强了口罩佩戴等防护要求。邻近的布里亚特共和国领导人则公开证实，这名女子死于鼠疫。 官方初期对外表述较为谨慎，多使用「特别危险传染病」的说法，直到相关信息逐渐明确。目前，没有报告出现二代病例。当地官员呼吁民众不要传播未经证实的消息，以官方通报为准。 但在罗斯资深流行病学家米哈尔·法沃罗夫看来，波波娃的介入表明情况很严重。 这起事件也让外界再次关注高风险病原体实验室的安全管理。伊尔库茨克防疫研究所本身承担鼠疫等危险传染病的监测与研究工作，试管破碎导致感染的情况，暴露出操作环节可能存在的疏漏。尽管现代医学条件下鼠疫已不再像中世纪那样可怕，但实验室泄漏仍可能引发局部紧张。 目前，隔离观察仍在继续，防疫措施没有放松。有评论指出，希皮洛娃的不幸去世，成为一起警示：即便在专业机构内部，对高致病性病原体的每一次操作，都必须慎之又慎。28 岁俄罗斯女子打破实验室试管后去世，感染了肺鼠疫，近 200 人被隔离观察 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-83b633534fa0d079dcd23d7f1501b824_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "113 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089822273524057209"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTU0OTAzMiCJ+YPWBjAAOFZAB3ITMjA4OTgyMjI3MzUyNDA1NzIwOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 8,
+          "heat_text": "113 万热度",
+          "heat_value": 1130000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087491722213159014",
+      "title": "首部 AI 院线电影《三星堆：未来往事》定档 10 月 23 日上映，对此你有何期待？",
+      "url": "https://www.zhihu.com/question/2087491722213159014",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "92 万热度",
+      "latest_heat_value": 920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1791088592.612661",
+        "card_id": "Q_2087491722213159014",
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "首部 AI 院线电影《三星堆：未来往事》定档 10 月 23 日上映，对此你有何期待？"
+          },
+          "excerpt_area": {
+            "text": "首部 AI 院线电影《三星堆：未来往事》官宣定档 10 月 23 日。在影片的科幻设定中，三千年前三星堆青铜器的刻符，正是破解未来世界由超级 AI 引发的全球危机的密钥。影片构筑出古蜀王都宫廷与大型祭祀场景，并将视野延伸至未来的宇宙。青铜神树、青铜大立人、青铜纵目面具等文物形象，也将以超写实的方式呈现在银幕上。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-f1dfdaed736474c46bb71a8ebc949203_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "92 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087491722213159014"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTQ4NTE2NyCKhOLVBjAAODlACHITMjA4NzQ5MTcyMjIxMzE1OTAxNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 9,
+          "heat_text": "92 万热度",
+          "heat_value": 920000
+        }
+      ]
+    },
+    {
+      "key": "Q_452831241",
+      "title": "省下面的市有正式的简称吗？每个都有吗？",
+      "url": "https://www.zhihu.com/question/452831241",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "86 万热度",
+      "latest_heat_value": 860000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1791088592.613099",
+        "card_id": "Q_452831241",
+        "feed_specific": {
+          "answer_count": 45
+        },
+        "target": {
+          "title_area": {
+            "text": "省下面的市有正式的简称吗？每个都有吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-69c4e50f9b12154eed06fbe909c5634b_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "86 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/452831241"
+          }
+        },
+        "attached_info": "Cj8IvOD1nLjcrJhiEAMaCDYyOTA4Nzk0IKbepIMGMAA4tgFACXIJNDUyODMxMjQxeACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 10,
+          "heat_text": "86 万热度",
+          "heat_value": 860000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089490255774857034",
+      "title": "2026 无畏契约上海全球冠军赛 CN 赛区遭遇大场八连败全军覆没，如何评价各队表现？",
+      "url": "https://www.zhihu.com/question/2089490255774857034",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1791088592.613326",
+        "card_id": "Q_2089490255774857034",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "2026 无畏契约上海全球冠军赛 CN 赛区遭遇大场八连败全军覆没，如何评价各队表现？"
+          },
+          "excerpt_area": {
+            "text": "2026 上海全球冠军赛小组赛败者组，JDG 以 1-2 的比分不敌 T1，止步小组赛，成为第四支淘汰的队伍。至此，2026 上海全球冠军赛 CN 赛区四支代表队伍以大场 0-8，小分 2-16 的战绩结束征程。 大场八连败！2026 上海冠军赛 cn 赛区四支代表队伍全部淘汰"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-09a48d949b33e3911e7237c5b76a1811_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089490255774857034"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTU0MDg5NSDRjv/VBjAAOBRACnITMjA4OTQ5MDI1NTc3NDg1NzAzNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 11,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089644862312400003",
+      "title": "非农公布后现货黄金一度升至 4259 美元附近，涨超 1% 后转跌，核心逻辑是什么？未来趋势如何？",
+      "url": "https://www.zhihu.com/question/2089644862312400003",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1791088592.613807",
+        "card_id": "Q_2089644862312400003",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "非农公布后现货黄金一度升至 4259 美元附近，涨超 1% 后转跌，核心逻辑是什么？未来趋势如何？"
+          },
+          "excerpt_area": {
+            "text": "黄金：非农后一度冲高，涨超 1% 后转跌 黄金同样经历了明显的盘中反转。非农公布后，黄金期货一度升至 4259 美元附近，涨幅超过 1%，现货黄金一度突破 4220 美元；但随着美债收益率反弹，金价回吐涨幅，美股早盘转跌。 到周五收盘，即月合约 COMEX 10 月黄金期货收跌 0.94%，报 4133.7 美元 / 盎司，在三连涨后回落，刷新 8 月 4 日以来收盘低位，本周累跌 3.59% 、创 6 月 5 日一周以来最大单周跌幅。 非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走 V，G7 释储重创原油，金银全周大跌美联储加息预期大降，黄金突破 4220 美元，美元指数走低 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-55e0d435a5ec7c72ff9eff186a0e9616_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "84 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089644862312400003"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTU0MjkyOSDOroHWBjAAOEhAC3ITMjA4OTY0NDg2MjMxMjQwMDAwM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 12,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089117053814663134",
+      "title": "周扬青自嘲脸「馒化」了，什么是「馒化脸」？医美技术发展能避免这种情况吗？",
+      "url": "https://www.zhihu.com/question/2089117053814663134",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "82 万热度",
+      "latest_heat_value": 820000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1791088592.614570",
+        "card_id": "Q_2089117053814663134",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 36
+        },
+        "target": {
+          "title_area": {
+            "text": "周扬青自嘲脸「馒化」了，什么是「馒化脸」？医美技术发展能避免这种情况吗？"
+          },
+          "excerpt_area": {
+            "text": "[视频]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-2e72007cccb5ab066f33d67c57d8aa3b_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "82 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089117053814663134"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTUzMTc5NiC/1/nVBjAAOFRADHITMjA4OTExNzA1MzgxNDY2MzEzNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 13,
+          "heat_text": "82 万热度",
+          "heat_value": 820000
+        }
+      ]
+    },
+    {
+      "key": "Q_1962400059",
+      "title": "为什么蝙蝠可以吊着睡觉？其他动物就不能吊着睡觉呢？",
+      "url": "https://www.zhihu.com/question/1962400059",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1791088592.615007",
+        "card_id": "Q_1962400059",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么蝙蝠可以吊着睡觉？其他动物就不能吊着睡觉呢？"
+          },
+          "excerpt_area": {
+            "text": "为什么蝙蝠可以吊着睡觉？其他动物就不能吊着睡觉呢？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-54576ca0ebc3c1afb255185099f09c44_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1962400059"
+          }
+        },
+        "attached_info": "CkAIvOD1nLjcrJhiEAMaCTExMTM2OTExMiDy0um4BjAAOCtADXIKMTk2MjQwMDA1OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 14,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2087474854505333797",
+      "title": "美联储 10 月还会不会加息？",
+      "url": "https://www.zhihu.com/question/2087474854505333797",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1791088592.615543",
+        "card_id": "Q_2087474854505333797",
+        "feed_specific": {
+          "answer_count": 93
+        },
+        "target": {
+          "title_area": {
+            "text": "美联储 10 月还会不会加息？"
+          },
+          "excerpt_area": {
+            "text": "美联储 9 月 16 日将联邦基金利率上调 25 个基点至 3.75%-4%，为 2023 年来首次加息；最新点阵图显示多数官员预计年内还要再加息一次，10 月会议成为焦点。"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/80/v2-8ebf3b148cfdce4d4b652db1c5d0c614_1440w.webp"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2087474854505333797"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTQ4NDc1MyDU5OHVBjAAOMkBQA5yEzIwODc0NzQ4NTQ1MDUzMzM3OTd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 15,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089621161101489213",
+      "title": "如何看待法国多地爆发学生抗议，部分示威活动逐渐演变成暴力行为？ 背后有哪些原因？",
+      "url": "https://www.zhihu.com/question/2089621161101489213",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1791088592.615961",
+        "card_id": "Q_2089621161101489213",
+        "feed_specific": {
+          "answer_count": 201
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待法国多地爆发学生抗议，部分示威活动逐渐演变成暴力行为？ 背后有哪些原因？"
+          },
+          "excerpt_area": {
+            "text": "2026 年 9 月下旬起，法国多地高中生发起大规模抗议运动，从巴黎郊区的校园逐步蔓延至全国。15 到 18 岁的学生们走上街头，核心诉求集中在解决长期存在的师资短缺、班级人数超标、课表安排过于密集等问题，同时要求改善极端高温天气下教室过热、校舍设施老化的恶劣学习环境，还呼吁为教师提升薪资待遇。 随着事态升级，多地出现学生封锁校园、焚烧垃圾桶的冲突场景，警方与示威者发生对峙并施放催泪瓦斯，截至目前已有数百名未成年学生被拘捕，超过 500 所学校的正常教学秩序受到干扰，部分校园被迫临时关闭。这场运动还进一步向高校蔓延，学生们开始反对 2027 年预算草案中削减大学岗位、冻结住房补贴、缩减奖学金的相关条款。法国政府已成立跨部门危机小组，一边谴责极端暴力行为，一边宣布将和学生代表启动磋商对话。法国学生抗议演变成暴力冲突，女子劝阻反遭喷火装置怼脸袭击 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-57689954ad83482921891c5209a5cd56_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089621161101489213"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTU0MjUwNSC8goHWBjAAOLwEQA9yEzIwODk2MjExNjExMDE0ODkyMTN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 16,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_1994364464208815049",
+      "title": "你见过最朴素的善意是什么？",
+      "url": "https://www.zhihu.com/question/1994364464208815049",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1791088592.616595",
+        "card_id": "Q_1994364464208815049",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "你见过最朴素的善意是什么？"
+          },
+          "excerpt_area": {
+            "text": "周末回乡下老家，躺在热烘烘的土炕上，听母亲指着窗外的柿子树念叨——那是她留给过冬雀鸟的口粮。 周末回到乡下老家，家里很冷，母亲把土炕烧的热热的，我躺在热炕上，母亲对着窗户坐在我一边，我们就这样在室外寒气逼人，室内热烘烘的炕头上聊着天，享受假期的温馨与闲时。老家母亲留一树柿子，喂饱了整个冬天的麻雀。 母亲时不时的看着窗外，又是「走神」又是「跑题」，「你看那些鸟真热闹，一批飞过来吃一阵子柿子飞走了，又飞过来一波」，母亲说这话时，脸上的表情是兴高采烈的，甚至是满足的。我没有当回事，继续和她聊着别的，又听母亲说:「你看这鸟有大的有小的，一定是爹妈带着孩子全家出来在觅食，」见母亲如此热衷于窗外觅食的小鸟，我忍不住坐了起来，顺着她的目光，透过玻璃窗，院里那颗挂满小红灯笼似的柿子树上，一群小鸟欢快的啄着柿子，又不时的飞上别的枝头，有些鸟貌似吃饱飞走了，接着又有其它的鸟叽叽喳喳的飞来，好像在呼朋唤友，「快来吃呀，快来吃呀」好不热闹的场面。我也被小鸟们这种欢快的觅食情景感染，就顺口问母亲：「柿子结的那么繁，怎么就没摘下来些自己吃呢？」母亲答:「没有，冬天下了雪，天白茫茫的，地白晃晃的，鸟儿可怜的都没啥吃，留下柿子给鸟吃吧，村那头你四婶还说我柿子红了都不摘，还不如把树伐了去，我说不伐，一定要留柿子在树上，好让鸟儿过冬」母亲语气平淡且认真的说着，脸上散发着慈爱的光芒。这份不与人说的善意，比满树红柿更暖，也让我读懂了「人间烟火」四个字的重理。 窗外红红的柿子树，欢快的鸟叫声，屋内暖暖的热炕头，此刻，天寒地冻的乡村，树梢上的温暖却让我分外欣喜。"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-fc01aa5cb959fd9913735236e9c43e27_b.jpg"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1994364464208815049"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTExODA0OTc4MCCF7ZbLBjAAOBtAEHITMTk5NDM2NDQ2NDIwODgxNTA0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 17,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_347950727",
+      "title": "洋葱有哪些美味的吃法？",
+      "url": "https://www.zhihu.com/question/347950727",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "76 万热度",
+      "latest_heat_value": 760000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1791088592.617653",
+        "card_id": "Q_347950727",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 20
+        },
+        "target": {
+          "title_area": {
+            "text": "洋葱有哪些美味的吃法？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-2bf2f0b26016bcbcbb523a66fa91d897_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "76 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/347950727"
+          }
+        },
+        "attached_info": "Cj4IvOD1nLjcrJhiEAMaCDM5NjAwMzA1ILfXsuwFMAA4GEARcgkzNDc5NTA3Mjd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 18,
+          "heat_text": "76 万热度",
+          "heat_value": 760000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088246811341468960",
+      "title": "马伯庸是影视化改编最多的作家，但是为什么没有出现几个全民爆款，到底是哪里出问题？",
+      "url": "https://www.zhihu.com/question/2088246811341468960",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "70 万热度",
+      "latest_heat_value": 700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1791088592.617895",
+        "card_id": "Q_2088246811341468960",
+        "feed_specific": {
+          "answer_count": 72
+        },
+        "target": {
+          "title_area": {
+            "text": "马伯庸是影视化改编最多的作家，但是为什么没有出现几个全民爆款，到底是哪里出问题？"
+          },
+          "excerpt_area": {
+            "text": "网上说马伯庸的文字，是有画面感，镜头感的。是为了影视化改编而存在的。这么适配影视，为什么就出不来，像金庸，琼瑶这种全民爆款？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-c1277ea509cb3c58a075f964dc1d0e1b_720w.jpg?source=1940ef5c"
+          },
+          "metrics_area": {
+            "text": "70 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088246811341468960"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTUwNzM2OCDFgu3VBjAAOJABQBJyEzIwODgyNDY4MTEzNDE0Njg5NjB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 19,
+          "heat_text": "70 万热度",
+          "heat_value": 700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088959717880210949",
+      "title": "孩子最近总说「别管我」，父母该继续主动陪伴还是给他空间？",
+      "url": "https://www.zhihu.com/question/2088959717880210949",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "59 万热度",
+      "latest_heat_value": 590000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1791088592.618197",
+        "card_id": "Q_2088959717880210949",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "孩子最近总说「别管我」，父母该继续主动陪伴还是给他空间？"
+          },
+          "excerpt_area": {
+            "text": "我家孩子以前很黏人，最近我一问学校的事就关门，既怕逼太紧，也怕慢慢疏远。"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/100/v2-bfdf85970810eaff394148d859713beb_r.jpg"
+          },
+          "metrics_area": {
+            "text": "59 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088959717880210949"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTUyNjM5MCC3svfVBjAAOCBAE3ITMjA4ODk1OTcxNzg4MDIxMDk0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 20,
+          "heat_text": "59 万热度",
+          "heat_value": 590000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089784720003547983",
+      "title": "东航再通报「空姐下跪」事件，称旅客欧某某涉嫌扰乱民航秩序，严重侵害员工尊严，已报案，此事可能如何定性？",
+      "url": "https://www.zhihu.com/question/2089784720003547983",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1791088592.618734",
+        "card_id": "Q_2089784720003547983",
+        "feed_specific": {
+          "answer_count": 36
+        },
+        "target": {
+          "title_area": {
+            "text": "东航再通报「空姐下跪」事件，称旅客欧某某涉嫌扰乱民航秩序，严重侵害员工尊严，已报案，此事可能如何定性？"
+          },
+          "excerpt_area": {
+            "text": "10 月 3 日，中国东方航空官方微博再发布情况通报称，在 9 月 28 日 MU6741 航班客舱事件前期复盘调查基础上，公司已基本完成证据固定、事实核查与法律评估工作。公司认为，该航班旅客欧某某相关行为涉嫌扰乱民用航空器内秩序，严重侵害公司员工人格尊严和履职权益。针对上述侵权扰序行为，公司已正式向公安机关报案。公司正积极配合有关部门开展调查取证工作，依法维护员工合法权益和公共安全秩序。 依据公司旅客承运管理制度，为确保航班有序运行和旅客良好出行体验，公司已暂停为欧某某提供承运服务。公司对当事乘务员予以关爱慰问、心理疏导和法律援助，对共护公序、据实举证的旅客致以诚挚感谢。 公司坚定支持、全力保障乘务员等一线员工职业尊严与合法权益，着力筑牢安全根基、擦亮服务品牌，用心回馈信赖东航的广大旅客，欢迎社会各界监督指导，共建安全文明、温馨和谐的旅程。 东航通报：针对旅客侵权扰序行为，已正式向公安机关报案"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-55118a4d1e38fc95ca52c3a40a7ecef1_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089784720003547983"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTU0ODMyMSCPs4PWBjAAODxAFXITMjA4OTc4NDcyMDAwMzU0Nzk4M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 22,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_1999057116242154761",
+      "title": "孩子把床上搞得乱七八糟挨骂，弄坏东西、调皮捣蛋又挨骂，反正在家总是挨骂，他什么时候才不被骂？",
+      "url": "https://www.zhihu.com/question/1999057116242154761",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "58 万热度",
+      "latest_heat_value": 580000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1791088592.619366",
+        "card_id": "Q_1999057116242154761",
+        "feed_specific": {
+          "answer_count": 56
+        },
+        "target": {
+          "title_area": {
+            "text": "孩子把床上搞得乱七八糟挨骂，弄坏东西、调皮捣蛋又挨骂，反正在家总是挨骂，他什么时候才不被骂？"
+          },
+          "excerpt_area": {
+            "text": "孩子把床上搞得乱七八糟挨骂，弄坏东西、调皮捣蛋又挨骂，反正在家总是挨骂，他什么时候才不被骂？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-64d3edbabeefc150892cde9b8b35b773_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "58 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/1999057116242154761"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTExODIwMDExNyDlkdvLBjAAOGhAFnITMTk5OTA1NzExNjI0MjE1NDc2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 23,
+          "heat_text": "58 万热度",
+          "heat_value": 580000
+        }
+      ]
+    },
+    {
+      "key": "Q_2079307985957011515",
+      "title": "为什么部分人喝牛奶会腹泻，乳糖不耐受的本质是什么，为什么不同地区人群乳糖耐受能力差异巨大？",
+      "url": "https://www.zhihu.com/question/2079307985957011515",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "56 万热度",
+      "latest_heat_value": 560000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1791088592.619723",
+        "card_id": "Q_2079307985957011515",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么部分人喝牛奶会腹泻，乳糖不耐受的本质是什么，为什么不同地区人群乳糖耐受能力差异巨大？"
+          },
+          "excerpt_area": {
+            "text": "为什么部分人喝牛奶会腹泻，乳糖不耐受的本质是什么，为什么不同地区人群乳糖耐受能力差异巨大？@赵泠"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-da9e7af3461372a19f73a2c5280032be_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "56 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2079307985957011515"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTIwNDM0OCDX+OrUBjAAOGVAF3ITMjA3OTMwNzk4NTk1NzAxMTUxNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 24,
+          "heat_text": "56 万热度",
+          "heat_value": 560000
+        }
+      ]
+    },
+    {
+      "key": "Q_2079351026621093726",
+      "title": "做梦是大脑的什么活动产物，为什么大部分梦境醒来很快就遗忘，梦境的内容是否可以反映大脑真实的思维？",
+      "url": "https://www.zhihu.com/question/2079351026621093726",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "55 万热度",
+      "latest_heat_value": 550000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1791088592.620381",
+        "card_id": "Q_2079351026621093726",
+        "feed_specific": {
+          "answer_count": 43
+        },
+        "target": {
+          "title_area": {
+            "text": "做梦是大脑的什么活动产物，为什么大部分梦境醒来很快就遗忘，梦境的内容是否可以反映大脑真实的思维？"
+          },
+          "excerpt_area": {
+            "text": "做梦是大脑的什么活动产物，为什么大部分梦境醒来很快就遗忘，梦境的内容是否可以反映大脑真实的思维？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-a1c162f4491b4118f704caad31cb0254_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "55 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2079351026621093726"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTIwNTg1MiDtyOvUBjAAOLgBQBlyEzIwNzkzNTEwMjY2MjEwOTM3MjZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 26,
+          "heat_text": "55 万热度",
+          "heat_value": 550000
+        }
+      ]
+    },
+    {
+      "key": "Q_454972775",
+      "title": "兔子有思想么？还是它除了吃只会吃？",
+      "url": "https://www.zhihu.com/question/454972775",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "55 万热度",
+      "latest_heat_value": 550000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1791088592.620691",
+        "card_id": "Q_454972775",
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "兔子有思想么？还是它除了吃只会吃？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-b15cfbb512793668af5d4e4360a512be_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "55 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/454972775"
+          }
+        },
+        "attached_info": "Cj4IvOD1nLjcrJhiEAMaCDYzMzg0ODg1ILjO5YMGMAA4MEAacgk0NTQ5NzI3NzV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 27,
+          "heat_text": "55 万热度",
+          "heat_value": 550000
+        }
+      ]
+    },
+    {
+      "key": "Q_2088525946554954038",
+      "title": "2026 国庆七天长假你是出门旅游还是在家看电影？如果看电影首选哪一部？",
+      "url": "https://www.zhihu.com/question/2088525946554954038",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "55 万热度",
+      "latest_heat_value": 550000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1791088592.620976",
+        "card_id": "Q_2088525946554954038",
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "2026 国庆七天长假你是出门旅游还是在家看电影？如果看电影首选哪一部？"
+          },
+          "excerpt_area": {
+            "text": "十一七天小长假已到，每年国庆大家基本分两拨人： 一拨人早早订好车票酒店，赶着出游打卡，哪怕路上堵车、景区人挤人，也想出门散散心； 另一拨人嫌到处人多，干脆宅在本地，抽空泡电影院，今年国庆档片子选择真的特别全。 大家都是怎么安排呢？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-1c7fb755418ec2c58b9bcf535fb2a2ae_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "55 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2088525946554954038"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTUxNDEzMSC8ivHVBjAAOBtAG3ITMjA4ODUyNTk0NjU1NDk1NDAzOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 28,
+          "heat_text": "55 万热度",
+          "heat_value": 550000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082179878837826929",
+      "title": "没有家庭兜底的普通人，到底该怎么往上走？",
+      "url": "https://www.zhihu.com/question/2082179878837826929",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "55 万热度",
+      "latest_heat_value": 550000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1791088592.621427",
+        "card_id": "Q_2082179878837826929",
+        "feed_specific": {
+          "answer_count": 68
+        },
+        "target": {
+          "title_area": {
+            "text": "没有家庭兜底的普通人，到底该怎么往上走？"
+          },
+          "excerpt_area": {
+            "text": "何超琼 5 岁开始被训练责任、 17 岁跟着父亲学商业判断、凌晨三点起床吃早餐——她的从容是几十年的系统训练换来的。 但大多数普通人没有这种家庭。父母教的是「求稳」「别惹事」「忍一忍就过去了」，因为他们知道自己兜不住你掉下来。 那问题来了：没有兜底的人，到底该怎么走？没有资源、没有背景、没有试错资本，普通人往上走的路到底在哪里？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-7cf2f5ba911f1d5d1e9f9025edf89573_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "55 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082179878837826929"
+          }
+        },
+        "attached_info": "CkkIvOD1nLjcrJhiEAMaCTEyMTMwNjQxOCCA3pTVBjAAOHRAHHITMjA4MjE3OTg3ODgzNzgyNjkyOXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 29,
+          "heat_text": "55 万热度",
+          "heat_value": 550000
+        }
+      ]
+    },
+    {
+      "key": "Q_2082027137297654561",
+      "title": "有没有人一生坚持只做一份工作不跳槽的？",
+      "url": "https://www.zhihu.com/question/2082027137297654561",
+      "first_seen": "2026-10-04 12:36:32 +0800",
+      "last_seen": "2026-10-04 12:36:32 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "54 万热度",
+      "latest_heat_value": 540000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1791088592.621915",
+        "card_id": "Q_2082027137297654561",
+        "feed_specific": {
+          "answer_count": 70
+        },
+        "target": {
+          "title_area": {
+            "text": "有没有人一生坚持只做一份工作不跳槽的？"
+          },
+          "excerpt_area": {
+            "text": "除了有编制的公务员事业编。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-df241f9ace8a44b69ad90b009f746d17_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "54 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2082027137297654561"
+          }
+        },
+        "attached_info": "CkoIvOD1nLjcrJhiEAMaCTEyMTI5OTM3MiC/wZLVBjAAOIcBQB1yEzIwODIwMjcxMzcyOTc2NTQ1NjF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-10-04 12:36:32 +0800",
+          "rank": 30,
+          "heat_text": "54 万热度",
+          "heat_value": 540000
         }
       ]
     }
