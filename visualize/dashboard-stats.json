@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-09 18:08:26 +0800",
+  "generated_at": "2026-10-10 02:01:16 +0800",
   "totals": {
-    "day_count": 216,
-    "topic_record_count": 12643,
-    "unique_topic_count": 10619,
-    "history_point_count": 20250,
-    "v2_file_count": 91,
+    "day_count": 217,
+    "topic_record_count": 12673,
+    "unique_topic_count": 10634,
+    "history_point_count": 20280,
+    "v2_file_count": 92,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -2054,6 +2054,15 @@
       "history_point_count": 90,
       "top_topic_title": "耐克取消大中华独立大区，市值大幅蒸发近 15000 亿，怎样看待这一调整？背后的核心原因是什么？",
       "top_topic_url": "https://www.zhihu.com/question/2090569820035143607"
+    },
+    {
+      "date": "2026-10-10",
+      "total_heat_value": 38840000,
+      "max_heat_value": 5680000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
+      "top_topic_url": "https://www.zhihu.com/question/2091831158468244988"
     }
   ]
 }
