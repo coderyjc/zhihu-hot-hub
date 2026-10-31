@@ -6,20 +6,20 @@ on:
   workflow_dispatch:     # 新增：允许手动触发
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       TZ: Asia/Shanghai
 
     steps:
       # 克隆仓库
       - name: Clone repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
 
       # 配置python环境
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.9"
+          python-version: "3.11"
 
       # 安装python依赖
       - name: Install dependencies
