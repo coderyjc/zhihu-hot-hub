@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-11-11 06:53:55 +0800",
+  "updated_at": "2026-11-11 12:56:24 +0800",
   "items": [
     {
       "key": "Q_2102801912580067910",
@@ -1851,23 +1851,18 @@
       "title": "如何评价学院命名冗余的现象？比如「数学学院」「化学学院」，以前都是简单的「数学院」「化学院」？",
       "url": "https://www.zhihu.com/question/2093992462004102216",
       "first_seen": "2026-11-11 06:53:55 +0800",
-      "last_seen": "2026-11-11 06:53:55 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "105 万热度",
-      "latest_heat_value": 1050000,
+      "latest_rank": 18,
+      "latest_heat_text": "225 万热度",
+      "latest_heat_value": 2250000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1794351235.269452",
+        "id": "17_1794372984.419002",
         "card_id": "Q_2093992462004102216",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 19
+          "answer_count": 51
         },
         "target": {
           "title_area": {
@@ -1877,10 +1872,10 @@
             "text": ""
           },
           "image_area": {
-            "url": ""
+            "url": "https://pica.zhimg.com/v2-f4a9def7d6e861ba3696cb5e5669b306.png"
           },
           "metrics_area": {
-            "text": "105 万热度",
+            "text": "225 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1895,7 +1890,7 @@
             "url": "https://www.zhihu.com/question/2093992462004102216"
           }
         },
-        "attached_info": "CkkIhuSH6+nTi+4gEAMaCTEyMTY1OTA3MiDT0MDWBjAAOCJAA3ITMjA5Mzk5MjQ2MjAwNDEwMjIxNngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTY1OTA3MiDT0MDWBjAAOIQBQBFyEzIwOTM5OTI0NjIwMDQxMDIyMTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1903,6 +1898,12 @@
           "rank": 4,
           "heat_text": "105 万热度",
           "heat_value": 1050000
+        },
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 18,
+          "heat_text": "225 万热度",
+          "heat_value": 2250000
         }
       ]
     },
@@ -1911,15 +1912,15 @@
       "title": "山姆现 20 元一包泡面，含肉量 60 克以上，只能下锅煮不能开水泡，被吐槽太贵不方便，你怎么看？觉得值吗？",
       "url": "https://www.zhihu.com/question/2103546819556762789",
       "first_seen": "2026-11-11 06:53:55 +0800",
-      "last_seen": "2026-11-11 06:53:55 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
       "first_rank": 11,
-      "latest_rank": 11,
-      "latest_heat_text": "90 万热度",
-      "latest_heat_value": 900000,
+      "latest_rank": 1,
+      "latest_heat_text": "623 万热度",
+      "latest_heat_value": 6230000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "10_1794351235.278237",
+        "id": "0_1794372984.387257",
         "card_id": "Q_2103546819556762789",
         "card_label": {
           "type": "hot",
@@ -1927,7 +1928,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 29
+          "answer_count": 280
         },
         "target": {
           "title_area": {
@@ -1940,7 +1941,7 @@
             "url": "https://pic2.zhimg.com/50/v2-39351a51b8c2c201fad3bc3dcf49f7ab_b.jpg"
           },
           "metrics_area": {
-            "text": "90 万热度",
+            "text": "623 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -1955,7 +1956,7 @@
             "url": "https://www.zhihu.com/question/2103546819556762789"
           }
         },
-        "attached_info": "CkkIhuSH6+nTi+4gEAMaCTEyMTkyMzM2NyCD1cvXBjAAOCdACnITMjEwMzU0NjgxOTU1Njc2Mjc4OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkyMzM2NyCD1cvXBjAAOL4DQAByEzIxMDM1NDY4MTk1NTY3NjI3ODl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -1963,6 +1964,12 @@
           "rank": 11,
           "heat_text": "90 万热度",
           "heat_value": 900000
+        },
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 1,
+          "heat_text": "623 万热度",
+          "heat_value": 6230000
         }
       ]
     },
@@ -2248,6 +2255,1601 @@
           "rank": 30,
           "heat_text": "67 万热度",
           "heat_value": 670000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103438593268238305",
+      "title": "女子卡里近 26 万元消失，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？",
+      "url": "https://www.zhihu.com/question/2103438593268238305",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "492 万热度",
+      "latest_heat_value": 4920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1794372984.389522",
+        "card_id": "Q_2103438593268238305",
+        "feed_specific": {
+          "answer_count": 92
+        },
+        "target": {
+          "title_area": {
+            "text": "女子卡里近 26 万元消失，6 天内被分多笔转走，交易短信提醒被取消，手机曾莫名闪烁，这是什么情况？"
+          },
+          "excerpt_area": {
+            "text": "近日，湖南湘潭的周女士向媒体反映，自己 10 月 25 日买早餐时，支付 7 元被提示余额不足，才惊觉银行卡内近 26 万元不翼而飞。 周女士表示，钱款在六天内被分多笔转走，10 月 17 日凌晨 3 点，自己原本设置的交易短信提醒突然被取消。女子回忆，事发后，自己的手机曾出现莫名闪烁的异常情况。 银行表示，初步判断疑似电信诈骗，建议周女士立刻报警。目前周女士已报警。 公安提醒：不轻信陌生来电短信，不点不明链接二维码，不下载不明软件，不刷单、不泄露验证码和银行卡密码，转账前多核实，被骗立即拨 110 或 96110。 湖南湘潭女子花 7 元买早餐余额不足，发现卡里近 26 万元消失：6 天内被分多笔转走，交易短信提醒被取消，手机曾出现莫名闪烁"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-b2697c0c3b365f695762cafc703873d0.png"
+          },
+          "metrics_area": {
+            "text": "492 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103438593268238305"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkxNzQ5NSC4i8rXBjAAONgCQAFyEzIxMDM0Mzg1OTMyNjgyMzgzMDV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 2,
+          "heat_text": "492 万热度",
+          "heat_value": 4920000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103478076222826262",
+      "title": "幼儿园、小学、初中学龄人口已经达峰，对教育行业意味着什么？哪些新变化值得关注？",
+      "url": "https://www.zhihu.com/question/2103478076222826262",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "421 万热度",
+      "latest_heat_value": 4210000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1794372984.391516",
+        "card_id": "Q_2103478076222826262",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 84
+        },
+        "target": {
+          "title_area": {
+            "text": "幼儿园、小学、初中学龄人口已经达峰，对教育行业意味着什么？哪些新变化值得关注？"
+          },
+          "excerpt_area": {
+            "text": "11 月 10 日，国家发展改革委社会发展司副司长黄玮茹在新闻发布会上表示，从全国层面看，目前幼儿园、小学、初中学龄人口已经达峰，高中和高等教育学龄人口还在持续增长，对资源配置提出了新的要求。第一，适应学龄人口总量下行趋势，优化学前和义务教育资源配置。第二，适应学龄人口结构变化，多渠道增加普通高中和高等教育学位供给。第三，适应学龄人口区域分化，更好保障城乡各类群体平等接受教育的权利。国家发改委：幼儿园、小学、初中学龄人口已经达峰"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-c8716a468f938088df7028f6eed719f6.png"
+          },
+          "metrics_area": {
+            "text": "421 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103478076222826262"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkyMDAzOSD+1MrXBjAAOJgCQAJyEzIxMDM0NzgwNzYyMjI4MjYyNjJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 3,
+          "heat_text": "421 万热度",
+          "heat_value": 4210000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103428607267885143",
+      "title": "如何看待网友晒「上海和平饭店 6 人餐花费 51 万元的天价小票」，饭店辟谣称小票系伪造，警方目前已介入？",
+      "url": "https://www.zhihu.com/question/2103428607267885143",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "304 万热度",
+      "latest_heat_value": 3040000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1794372984.393176",
+        "card_id": "Q_2103428607267885143",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 87
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待网友晒「上海和平饭店 6 人餐花费 51 万元的天价小票」，饭店辟谣称小票系伪造，警方目前已介入？"
+          },
+          "excerpt_area": {
+            "text": "一个菜品 1288 元、一瓶酒水 23 万元、服务费 4.7 万多元…11 月 8 日，有网友通过社交平台晒出的一张 6 人餐花费 51 万多元的天价消费小票，引发广泛关注。对此，涉事的上海和平饭店辟谣称，相关消费小票系网友伪造，警方表示会跟进处置。 网友晒出的消费小票显示，该餐消费时间为今年 11 月 3 日，用餐人数 6 人，共有 9 道菜，3 样酒水，总消费金额 51.7 万余元。其中，菜品最贵的单价均为 1288 元，一款单价 23 万元、标称「1997 年某帝」的酒水总消费金额达 46 万元。此外，小票还显示饭店有服务费 4.7 万余元。 对此，有网友认为贵得离谱，可信度不高；也有网友认为，只要明码标价，不存在欺诈消费，不管多贵都无可厚非。对其来源及真实性，11 月 8 日，记者通过私信联系该网友，截至发稿时未有回复。 11 月 8 日和 9 日，记者先后两次致电上海和平饭店。工作人员最终明确回应，网络上这些天价消费小票均不真实，系网友虚构，饭店方面会通过公关部门应对处置。 11 月 9 日，上海市公安局 110 报警服务台工作人员在了解情况后告诉记者，他们会指派相关警种介入处置。上海市黄浦区市场监督管理局办公室相关人士接受电话采访时表示，他们只接受书面采访，未予置评。 公开资料显示，上海和平饭店原名华懋饭店，20 世纪 30 年代是当时上海最负盛名的酒店，被盛赞为「远东第一楼」，至今历经近百年，是上海的传奇地标。网友晒「上海和平饭店 6 人餐花费 51 万元的天价小票」：酒水消费就达 46 万元；饭店辟谣：小票系伪造，警方已介入"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-0692bb00c9c24a81e24099869ae4e379.png"
+          },
+          "metrics_area": {
+            "text": "304 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103428607267885143"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkxNzE1MSDr+MnXBjAAOI0BQANyEzIxMDM0Mjg2MDcyNjc4ODUxNDN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 4,
+          "heat_text": "304 万热度",
+          "heat_value": 3040000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103658788679173413",
+      "title": "5 元换电池能解决的燃气灶问题要 260 元，记者暗访 5 位上门维修师傅仅 2 人说实话，为什么上门维修总有套路？",
+      "url": "https://www.zhihu.com/question/2103658788679173413",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "288 万热度",
+      "latest_heat_value": 2880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1794372984.395184",
+        "card_id": "Q_2103658788679173413",
+        "feed_specific": {
+          "answer_count": 48
+        },
+        "target": {
+          "title_area": {
+            "text": "5 元换电池能解决的燃气灶问题要 260 元，记者暗访 5 位上门维修师傅仅 2 人说实话，为什么上门维修总有套路？"
+          },
+          "excerpt_area": {
+            "text": "11 月 10 日（发布），小莉帮忙调查上门维修乱象，为了摸清如今上门维修是否真的「小病大修、无病乱修」，记者做了个实测，一台好好的燃气灶，只把其中一节电池换成没电的，成本不过几块钱。下单报修，上门师傅连电池都没查，张口就说电路故障、总成有问题，如见上显示维修开关总成报价 316 元，打折后收 260 元。随后记者借故离开厨房，师傅自己掀开灶盖脱口一句「没电了」。花 5 块钱买节电池就能解决问题，却最后一套表演下来收了 260 元，三十分钟上门的效率，全用在算计消费者身上了。 11 月 10 日，记者卧底啄木鸟家庭维修，去当维修工，负责人教用话术包装故障，「主要在沟通！其实说多了就是骗，」维修师傅：我收 188 元换过针，70 元也换过，网点要求收款客单价不能低于 100 元 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-6479692c4cd1ae5cdab7e6a8c7d8c73a_b.jpg"
+          },
+          "metrics_area": {
+            "text": "288 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103658788679173413"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkyNTcyMyDLpc3XBjAAOFFABHITMjEwMzY1ODc4ODY3OTE3MzQxM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 5,
+          "heat_text": "288 万热度",
+          "heat_value": 2880000
+        }
+      ]
+    },
+    {
+      "key": "Q_32167913",
+      "title": "如果在床边放一碗血，晚上蚊子还会来咬我吗？",
+      "url": "https://www.zhihu.com/question/32167913",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "279 万热度",
+      "latest_heat_value": 2790000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1794372984.396884",
+        "card_id": "Q_32167913",
+        "feed_specific": {
+          "answer_count": 361
+        },
+        "target": {
+          "title_area": {
+            "text": "如果在床边放一碗血，晚上蚊子还会来咬我吗？"
+          },
+          "excerpt_area": {
+            "text": "如题 // 偶然间看到这个问题， 蚊子是吸血的， 那么晚上睡觉前在床前放一碗血， 是不是蚊子就不来咬我，去吸碗里的血去了？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-437b47631bc645aeceae550f9fd107b4.png"
+          },
+          "metrics_area": {
+            "text": "279 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/32167913"
+          }
+        },
+        "attached_info": "Cj0IvsHZs8vpvOVKEAMaBzUwNjY2MzQgnt6NrQUwADieEkAFcggzMjE2NzkxM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 6,
+          "heat_text": "279 万热度",
+          "heat_value": 2790000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103425545253778677",
+      "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
+      "url": "https://www.zhihu.com/question/2103425545253778677",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "275 万热度",
+      "latest_heat_value": 2750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1794372984.398348",
+        "card_id": "Q_2103425545253778677",
+        "feed_specific": {
+          "answer_count": 143
+        },
+        "target": {
+          "title_area": {
+            "text": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？"
+          },
+          "excerpt_area": {
+            "text": "快科技 11 月 10 日消息，10 月份 20 万元以上新能源汽车零售销量排行榜出炉，小米汽车这次可以说是相当抢眼，旗下 3 款车型直接包揽榜单前三名，把不少老牌车企都甩在了后面。 从榜单来看，小米澎程 N70 以 14545 辆的成绩拿下第一名，小米 SU7 以 12954 辆排名第二，小米澎程 N90 则以 12587 辆排名第三。 也就是说，10 月份国内 20 万元以上新能源汽车市场，销量前三名全部来自小米汽车。 雷军还强调，10 月份新能源汽车零售榜 (20 万以上车型)，小米 4 款车全部上榜！小米 YU7 以 10037 辆排名第八。也就是说，除了前三名之外，小米还有一款车型进入榜单前十。 如果把这 4 款车放在一起看，小米在 20 万元以上新能源市场已经形成了轿车、纯电 SUV 和增程 SUV 同时发力的产品布局。 这份成绩单还有一个值得关注的地方，那就是小米已经不再单纯依靠 SU7 一款车撑场面。 此前，小米 SU7 凭借较高的市场关注度，在 20 万元以上纯电轿车市场站稳了脚跟。如今，随着澎程系列加入，小米又把产品线延伸到了 SUV 和增程市场。 其中，澎程 N70 是一款中大型 5 座增程 SUV，售价 20.99 万元起，N90 则定位大型 7 座增程 SUV，售价 26.99 万元起。两款车型覆盖了不同的家庭用车需求，也让小米在中大型 SUV 市场有了新的销量支撑。 从交付数据来看，澎程系列 10 月份单月交付 27132 辆，其中 N70 为 14545 辆，N90 为 12587 辆。这也是澎程系列开启交付后的首个完整交付月，能够取得这样的成绩，确实有些出乎意料。 再看榜单其他车型，方程豹钛 7 EV 以 12152 辆排名第四，比亚迪大唐 EV 以 11658 辆排名第五，方程豹钛 7 PHEV 以 11511 辆排名第六。长城 H10 、小米 YU7 、理想 L6 和问界 M6 也进入了前十。 当然，单月销量排名并不意味着市场竞争已经尘埃落定。新能源汽车市场变化很快，后续新车上市、产能爬坡以及交付节奏，都会影响各家车企的排名。 但至少从 10 月份这份榜单来看，小米汽车已经证明，自己不只是能把一款车卖好，而是开始具备多款车型同时冲击市场的能力。 对于小米来说，这或许比单款车型拿下销量冠军更有意义。 前三名全是小米！10 月 20 万元以上新能源车销量榜出炉 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-b78662a380e4c5663ba0912a135b8ce0.png"
+          },
+          "metrics_area": {
+            "text": "275 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103425545253778677"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkxNzAyNyCR88nXBjAAOI8CQAZyEzIxMDM0MjU1NDUyNTM3Nzg2Nzd4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 7,
+          "heat_text": "275 万热度",
+          "heat_value": 2750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103077996768800812",
+      "title": "S16 半决赛 Doran 选出 VN 对线 Bin 的鳄鱼发挥失常，这手选人有哪些不合理之处？",
+      "url": "https://www.zhihu.com/question/2103077996768800812",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "271 万热度",
+      "latest_heat_value": 2710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1794372984.401497",
+        "card_id": "Q_2103077996768800812",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 38
+        },
+        "target": {
+          "title_area": {
+            "text": "S16 半决赛 Doran 选出 VN 对线 Bin 的鳄鱼发挥失常，这手选人有哪些不合理之处？"
+          },
+          "excerpt_area": {
+            "text": "T1 绝境之中，Doran 上单 VN 登场了，能拯救队伍吗？答案是否定的，对线就被 Bin 鳄鱼完美应对了，先锋团也没作用，打到后面怎么和 Bin 鳄鱼比？为什么 T1 这么相信 Doran 啊？#Doran 上单 VN##Doran 绝境 VN# #BLG 对战 T1#"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-228f8146c6a1382031812186fbec81ca.png"
+          },
+          "metrics_area": {
+            "text": "271 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103077996768800812"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkwNjg5NSDj68TXBjAAOC5AB3ITMjEwMzA3Nzk5Njc2ODgwMDgxMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 8,
+          "heat_text": "271 万热度",
+          "heat_value": 2710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2101027531482833408",
+      "title": "张卫健和周星驰的差距在哪儿？",
+      "url": "https://www.zhihu.com/question/2101027531482833408",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "271 万热度",
+      "latest_heat_value": 2710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1794372984.402656",
+        "card_id": "Q_2101027531482833408",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 63
+        },
+        "target": {
+          "title_area": {
+            "text": "张卫健和周星驰的差距在哪儿？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-362523c29402d1ca22da0120a20e3370.png"
+          },
+          "metrics_area": {
+            "text": "271 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2101027531482833408"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTg1MjY1MCC+gKfXBjAAOFxACHITMjEwMTAyNzUzMTQ4MjgzMzQwOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 9,
+          "heat_text": "271 万热度",
+          "heat_value": 2710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2100972233611130066",
+      "title": "回头看考研那段日子，有什么事是你当时很焦虑，后来才发现不必那么担心的？",
+      "url": "https://www.zhihu.com/question/2100972233611130066",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "270 万热度",
+      "latest_heat_value": 2700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1794372984.404103",
+        "card_id": "Q_2100972233611130066",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 57
+        },
+        "target": {
+          "title_area": {
+            "text": "回头看考研那段日子，有什么事是你当时很焦虑，后来才发现不必那么担心的？"
+          },
+          "excerpt_area": {
+            "text": "考研路上，总有一些让人反复纠结的事：复习进度、模考成绩、择校选择，或是对最终结果的担忧。但真正走过这段路才发现，有些当时放不下的焦虑，后来回头看其实没那么重要。 如果重新回看考研那段日子，有哪些事是你当时很焦虑，后来才发现不必那么担心的？ 欢迎考研过来人结合亲身经历，分享当时焦虑的具体场景、后来发生的变化，以及自己从中获得的经验和感悟，也给正在备考的人一些参考与宽慰。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-6c93f8b3b6a97c541e204119310fdb31.png"
+          },
+          "metrics_area": {
+            "text": "270 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2100972233611130066"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTg0OTgzNiC+mabXBjAAOIMBQAlyEzIxMDA5NzIyMzM2MTExMzAwNjZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 10,
+          "heat_text": "270 万热度",
+          "heat_value": 2700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2102985385932502468",
+      "title": "拼多多新规「商家若违背上门承诺将未履约每单赔付十元」，为什么要将责任转给商家？落地最大的难点是什么？",
+      "url": "https://www.zhihu.com/question/2102985385932502468",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "270 万热度",
+      "latest_heat_value": 2700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1794372984.405361",
+        "card_id": "Q_2102985385932502468",
+        "feed_specific": {
+          "answer_count": 67
+        },
+        "target": {
+          "title_area": {
+            "text": "拼多多新规「商家若违背上门承诺将未履约每单赔付十元」，为什么要将责任转给商家？落地最大的难点是什么？"
+          },
+          "excerpt_area": {
+            "text": "11 月 11 日消息，拼多多新版《送货上门服务条款》已于 10 月 28 日公示，并将于 11 月 13 日正式生效，昨天突然在微博等平台登上热搜。 根据新规，针对带有专属标识的订单，商家若违背上门承诺将未履约每单赔付 10 元，且诱导放代收点等行为均被明确界定为违约。 另外，新规的核心变化不仅在于 10 元 / 单的赔付金额，而在于将「送货上门」从一项模糊的服务描述，变成了附带举证责任转移与经营性处罚的可追责条款。 适用范围有明确边界：新规只约束商品页面带有「送货上门」绿色标识的订单，没有该标识的包裹仍按原有方式配送。商家在服务模板中自行勾选支持上门的区域，才构成承诺；未勾选的区域不受此条款约束。 10 元赔付是明面上的代价，以有效期 50 年的无门槛平台优惠券形式发放给消费者，平台有权直接从商家及其关联店铺资金中扣划。 IT 之家注：无门槛优惠券指不设最低消费金额、可在平台内多数商品中直接抵扣的券种，与「满减券」不同。 对商家而言，更重的后果来自配套的经营性处罚：违规记录可能触发商品降权、屏蔽、下架、禁售、提高保证金、限制提现，情节严重的可终止合作。 旧规则下，物流显示「已签收」即默认送达完成，消费者若主张未收到，需要自行证明一个否定事实，操作上极为困难。新规将举证义务转移至商家：系统回传「送货上门」签收状态，但实际未完成上门履约的，商家需拿出配送凭证证明已履行承诺，拿不出即判定违约。 新规同时明确了两类此前难以追责的灰色操作。一是配送方通过哄劝、催促、施压或欺诈等手段，诱导消费者「同意」将包裹放入代收点 —— 这类「同意」不再作数；二是包裹未到门口、系统却回传「已签收」的虚假履约。商家服务人员的范围被扩大至自有、委托或合作的实际配送人员，快递员违规，商家承担连带责任，「配送归快递公司」不再构成免责理由。 免责条款也同步收窄。旧版明确列举的「商品尺寸过大无法通过楼道电梯」以及「天气、自然灾害、临时交通管制」等情形，被从新版的明确免责清单中删除；但地址不详或错误导致无法派送的，服务人员完成两次电话联系、暂存网点超三日仍无法联系后按流程退回，可免于赔付。删除的是列举式豁免，不是将所有不可抗力一笔勾销，抬升的是商家在配送安排上的注意义务。拼多多送货上门新规 11 月 13 日生效：拒绝履约每单赔付 10 元 _ 腾讯新闻 拼多多公示了修订后的《送货上门服务条款》，11 月 13 日正式生效。原来的条款管三种情况：没提供送货上门、超时履约、额外收费。这次新增两类。一类是 「 通过欺诈、胁迫等不正当手段诱导用户同意把包裹放代收点 」。另一类是 「 系统回传送货上门签收，但实际没有上门 」。第二类值得单独说一说。以前系统里显示 「 已签收 」，默认就是送到了。现在要把签收类型和实际履约对上。我做电商那几年，最难缠的纠纷不是货坏了，是 「 我明明没收到 」。 快递显示签收，客户说没见着，钱谁出。那时候的处理办法是打电话问快递员，快递员说放门口了，客户说门口没有。最后只能自己认赔。整个链条上没有一个人能拿出证据。新规动的就是这个。签收这个动作，往后要能回答三个问题：谁签的、在哪签的、是不是本人要求的。对商家的影响比对平台大。送货上门的成本，和放代收点的成本，差得不小。一个快递员一天送两百件，全放代收点，两小时能送完；全送上门，跑一天也送不完。这个差价最后落在派费上，派费再落到包邮门槛上。 所以新规一生效，低客单价商品那套 「9 块 9 包邮 」 的账，得重算一遍。要么提门槛，要么单独收送货上门的钱。对消费者是好事，但有个前提：得真的执行。这类规则最怕的是投诉入口藏得深、举证责任全压在买家身上。做电商的都知道，平台规则的分量不看措辞多严，看判罚快不快。判罚快，商家就改；判罚慢，规则就是一张纸。还有一层容易被忽略：这条规则把成本从买家转到了商家和快递之间。买家不用再为丢件扯皮，商家要开始为 「 送没送到 」 付费。 我的判断是，这条规则的真正意义不在处罚，在于它把 「 送到哪 」 从模糊地带拉到了可核验的范围。可核验，才有后面的责任划分。一个包裹放不放代收点，你们那边有没有默认就直接投驿站的？因为这事跟快递员掰扯过、或者赔过钱吗？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-aa643a3e3eb4831ba1aef73f9ab989b4.png"
+          },
+          "metrics_area": {
+            "text": "270 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2102985385932502468"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkwNTA1NiCjv8PXBjAAOF5ACnITMjEwMjk4NTM4NTkzMjUwMjQ2OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 11,
+          "heat_text": "270 万热度",
+          "heat_value": 2700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103576505762820339",
+      "title": "怎么看路透社表示 Anthropic  IPO 估值下调到 1 万亿美元，目标募集 643.5 亿美元？",
+      "url": "https://www.zhihu.com/question/2103576505762820339",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "269 万热度",
+      "latest_heat_value": 2690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1794372984.407360",
+        "card_id": "Q_2103576505762820339",
+        "feed_specific": {
+          "answer_count": 75
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看路透社表示 Anthropic  IPO 估值下调到 1 万亿美元，目标募集 643.5 亿美元？"
+          },
+          "excerpt_area": {
+            "text": "Anthropico 公司 IPO 目标募集资金高达 643.5 亿美元 ， 据路透社看到的 Anthropic 最新招股说明书草案显示，该公司计划以每股 70 至 78 美元的价格发行 8.25 亿股股票。 公开募股：577.5 亿美元至 643.5 亿美元 参考股价：70-78 美元 Cornerstone 私募融资：260 亿美元 基石投资者：AMD 、博通、谷歌、美光、微软、英伟达和台积电合作伙伴 Anthropic 的目标上市估值上限约为 1.02 万亿美元。 "
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-39ae48638f6ff7e27684bc7373428241.png"
+          },
+          "metrics_area": {
+            "text": "269 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103576505762820339"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkyNDA1OSCpjMzXBjAAOMMBQAtyEzIxMDM1NzY1MDU3NjI4MjAzMzl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 12,
+          "heat_text": "269 万热度",
+          "heat_value": 2690000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103443808469741832",
+      "title": "一名校毕业生为泄私愤向境外机构匿名举报，诬陷同事是「间谍」，会造成多大不良影响？诬告人将付出什么代价？",
+      "url": "https://www.zhihu.com/question/2103443808469741832",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "268 万热度",
+      "latest_heat_value": 2680000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1794372984.408393",
+        "card_id": "Q_2103443808469741832",
+        "feed_specific": {
+          "answer_count": 91
+        },
+        "target": {
+          "title_area": {
+            "text": "一名校毕业生为泄私愤向境外机构匿名举报，诬陷同事是「间谍」，会造成多大不良影响？诬告人将付出什么代价？"
+          },
+          "excerpt_area": {
+            "text": "记者从国家安全部获悉，近期，国家安全机关依法处置了一起因发泄不满情绪，恶意向某境外机构举报同事为间谍的案件。 一封指向「间谍」的匿名举报信 刘某是某名牌大学的高才生，2018 年研究生毕业后，进入某事业单位工作，工作表现优异。2024 年，该单位发布外派某国的岗位报名通知，刘某和同事李某某均报名参加，彼此成为竞争对手。刘某自恃工作能力在李某某之上，信心满满，志在必得。当他得知单位最终确定李某某为外派人选后，内心极度不满，强烈的嫉妒心让刘某彻底丧失了理智。为了报复，他竟向某境外机构投递了一封编造李某某是「间谍」的匿名举报信，企图给李某某制造麻烦。 一纸诬告，将付出怎样的代价？ 经查，刘某诬告他人是为发泄个人不满情绪，虽无危害国家安全的主观意愿，但其行为已对我国国家安全产生了不良影响。依据《中华人民共和国反间谍法实施细则》第八条规定，国家安全机关依法给予刘某行政警告处罚。刘某为自己的冲动和无知付出了代价，他懊悔地表示：「不应让嫉妒蒙了双眼，做出有损他人利益和国家安全的行为！」 国家安全机关提示 刘某的案例警示我们，切勿因一时冲动而触碰法律红线，更不可将国家安全当作儿戏。捏造事实、散布虚假信息，将个人情绪凌驾于国家安全之上的行为，必将受到法律的制裁。广大人民群众如发现任何危害国家安全的可疑情况，请及时通过 12339 国家安全机关举报受理电话、网络举报受理平台（www.12339.gov.cn）、国家安全部微信公众号举报受理渠道或者直接向当地国家安全机关进行举报。更多资讯请下载央视新闻客户端"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-2542012f948368729d256793c2ad1f16_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "268 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103443808469741832"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkxNzc2OCCUlcrXBjAAOM0BQAxyEzIxMDM0NDM4MDg0Njk3NDE4MzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 13,
+          "heat_text": "268 万热度",
+          "heat_value": 2680000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103601001592615161",
+      "title": "梁家辉凭《捕风追影》傅隆生一角拿下金鸡影帝，成为第二位三金大满贯得主，他在片中的表现如何？",
+      "url": "https://www.zhihu.com/question/2103601001592615161",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "263 万热度",
+      "latest_heat_value": 2630000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1794372984.409848",
+        "card_id": "Q_2103601001592615161",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 43
+        },
+        "target": {
+          "title_area": {
+            "text": "梁家辉凭《捕风追影》傅隆生一角拿下金鸡影帝，成为第二位三金大满贯得主，他在片中的表现如何？"
+          },
+          "excerpt_area": {
+            "text": "第 39 届中国电影金鸡奖最佳男主角：梁家辉（《捕风追影》饰傅隆生）。 ​​​ 梁家辉凭借电影《捕风追影》荣获第 39 届中国电影金鸡奖最佳男主角，成为华语影史第二位集齐金鸡奖、金像奖、金马奖最佳男主角的「三金」影帝！此前达成这一成就的影人为梁朝伟 梁家辉此前已手握 5 座金像奖和 1 座金马奖，拿下金鸡奖后，梁家辉成为华语影坛罕见的「三金」大满贯得主。梁家辉发表获奖感言时说：「从影四十多年，第一次获得金鸡奖提名，而且现在把奖拿在手里，感觉很奇妙、很梦幻，但我会想起来你们对于我作为演员的肯定，不仅肯定我在戏里的演出，也提醒了我接下来要好好演。拿了奖不代表能收工，我们开工啦！」 金鸡奖最佳男主角 《捕风追影》 金像奖最佳男主角 《捕风追影》《寒战》《黑社会》《92 黑玫瑰对黑玫瑰》《垂帘听政》 金马奖最佳男主角 《爱在别乡的季节》 梁家辉获第 39 届中国电影金鸡奖最佳男主角"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-2cc73501f9b31930eb2c76e7c85a95ea_b.jpg"
+          },
+          "metrics_area": {
+            "text": "263 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103601001592615161"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkyNDY5MiD5uczXBjAAOFFADXITMjEwMzYwMTAwMTU5MjYxNTE2MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 14,
+          "heat_text": "263 万热度",
+          "heat_value": 2630000
+        }
+      ]
+    },
+    {
+      "key": "Q_2097817981103490754",
+      "title": "有人认为「方言在有形无形中增加沟通成本和不必要的误会，应统一说话标准避免歧义。」你怎么看待此观点？",
+      "url": "https://www.zhihu.com/question/2097817981103490754",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "248 万热度",
+      "latest_heat_value": 2480000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1794372984.412014",
+        "card_id": "Q_2097817981103490754",
+        "feed_specific": {
+          "answer_count": 78
+        },
+        "target": {
+          "title_area": {
+            "text": "有人认为「方言在有形无形中增加沟通成本和不必要的误会，应统一说话标准避免歧义。」你怎么看待此观点？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-6ba96abeeb6261c3cbaaafb3f3f4c42a.png"
+          },
+          "metrics_area": {
+            "text": "248 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2097817981103490754"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTc2Njg1NSCepvjWBjAAOGdADnITMjA5NzgxNzk4MTEwMzQ5MDc1NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 15,
+          "heat_text": "248 万热度",
+          "heat_value": 2480000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103072899493885070",
+      "title": "S16 决赛 BLG vs GEN，你觉得 BLG 能夺冠吗？",
+      "url": "https://www.zhihu.com/question/2103072899493885070",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "233 万热度",
+      "latest_heat_value": 2330000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1794372984.413922",
+        "card_id": "Q_2103072899493885070",
+        "feed_specific": {
+          "answer_count": 102
+        },
+        "target": {
+          "title_area": {
+            "text": "S16 决赛 BLG vs GEN，你觉得 BLG 能夺冠吗？"
+          },
+          "excerpt_area": {
+            "text": "直播吧 11 月 09 日讯 随着 BLG 在半决赛以 3 比 1 击败 T1 晋级，S16 决赛将在 BLG 与 GEN 之间进行，这是 S 赛决赛舞台自 S3 以来第七次上演中韩对决。 此前六次的比分是：S3 决赛 SKT 以 3 比 0 击败皇族 RYL，S4 决赛 SSW 以 3 比 1 击败皇族 SHR，S10 决赛 DWG 以 3 比 1 击败 SN，S13 决赛 T1 以 3 比 0 击败 WBG，S14 决赛 T1 以 3 比 2 击败 BLG。LPL 唯一一次赢下的中韩决赛是 S11，EDG 在决赛以 3 比 2 击败 DK 夺冠。 对 LPL 来说，这次决赛的意义不止于第七次交锋：如果 BLG 夺冠，将是 LPL 第四座 S 赛冠军，也是时隔五年再次在中韩决赛中赢下 LCK；如果落败，LPL 在中韩决赛的战绩将变成 1 胜 6 负。决赛定于 11 月 15 日在纽约布鲁克林进行，BLG 能否改写这份账本，届时见分晓。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-105bbffdb81f9939f0757127568f600b.png"
+          },
+          "metrics_area": {
+            "text": "233 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103072899493885070"
+          }
+        },
+        "attached_info": "CkoIvsHZs8vpvOVKEAMaCTEyMTkwNjcyMiCk4sTXBjAAOI4BQA9yEzIxMDMwNzI4OTk0OTM4ODUwNzB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 16,
+          "heat_text": "233 万热度",
+          "heat_value": 2330000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103222658078696264",
+      "title": "玛莎拉蒂将与尊界合作，将通过江淮进行制造，此次合作能给三方带来什么？同一款车两套身份，谁在薅谁羊毛？",
+      "url": "https://www.zhihu.com/question/2103222658078696264",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "228 万热度",
+      "latest_heat_value": 2280000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1794372984.416155",
+        "card_id": "Q_2103222658078696264",
+        "feed_specific": {
+          "answer_count": 40
+        },
+        "target": {
+          "title_area": {
+            "text": "玛莎拉蒂将与尊界合作，将通过江淮进行制造，此次合作能给三方带来什么？同一款车两套身份，谁在薅谁羊毛？"
+          },
+          "excerpt_area": {
+            "text": "IT 之家 11 月 9 日消息，据第一财经报道，玛莎拉蒂与尊界的合作项目名为「玛莎拉蒂 Design」，该项目为华为、江淮和 Stellantis 的三方合作。目前，新车外观已确认，规划明年第四季度有进一步量产动态。 知情人士表示：「由于玛莎拉蒂国内生产资质问题，该项目将通过江淮进行制造，华为赋能的形式进行。」同时，该合作将分国内、国外两条路径走，国内以「尊界」为销售主体，国外则仍以玛莎拉蒂标识出售。 据财联社今日早些时候报道，知情人士透露，尊界或将推出一个全新子品牌，定价区间在 40-50 万左右，车型主打 SUV。尊界与玛莎拉蒂的合作分属于两个项目，目前（子品牌）具体细节尚未正式确定。 IT 之家注：尊界是华为与江淮汽车采用鸿蒙智行模式合作推出的豪华汽车品牌，有市场传闻称，玛莎拉蒂母公司 Stellantis 、华为、江淮三方合作接近落地，目前规划两款全新纯电车型，整车将由尊界超级工厂负责制造。新车分别是中大型纯电 SUV 和大型纯电 GT。曝玛莎拉蒂与尊界新车外观确认！华为赋能，国外挂「三叉戟」_ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-1166ea523e37f06b9256f7909b33268f_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "228 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103222658078696264"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkxNDA1MCCd+cbXBjAAOEJAEHITMjEwMzIyMjY1ODA3ODY5NjI2NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 17,
+          "heat_text": "228 万热度",
+          "heat_value": 2280000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103427446250762464",
+      "title": "Claude Fable 5.2 、 GPT-6 Astra 的发展，会对具身智能产生哪些实际影响？",
+      "url": "https://www.zhihu.com/question/2103427446250762464",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "198 万热度",
+      "latest_heat_value": 1980000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1794372984.419903",
+        "card_id": "Q_2103427446250762464",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "Claude Fable 5.2 、 GPT-6 Astra 的发展，会对具身智能产生哪些实际影响？"
+          },
+          "excerpt_area": {
+            "text": "Anthropic 于 2026 年 11 月 9 日正式发布 Claude Fable 5.2，近期围绕 GPT-6 Astra 的讨论也很多 GPT-6 Astra 会给具身行业带来哪些影响？ 通用模型的持续发展，会给机器人带来哪些实质性的变化？ 模型在数字世界中表现出的理解、推理和规划能力，有多少能够迁移到真实的物理交互中？具身智能会更多采用「通用模型＋专用控制模型」的架构，还是仍然需要独立训练面向物理世界的基座模型？ 对于正在做具身智能的团队，这些进展是否会改变技术路线和研发投入的重点？哪些能力可以直接借用通用模型，哪些仍需依靠机器人本体与真实环境的交互来获得？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-b8c9e3e65ced46d5619c3f7d1bbaba2b_b.jpg"
+          },
+          "metrics_area": {
+            "text": "198 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103427446250762464"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkxNzEwMCDW9snXBjAAOG5AEnITMjEwMzQyNzQ0NjI1MDc2MjQ2NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 19,
+          "heat_text": "198 万热度",
+          "heat_value": 1980000
+        }
+      ]
+    },
+    {
+      "key": "Q_2015970790319875143",
+      "title": "为啥老有人说李亚鹏版令狐冲成天愁眉苦脸才最符合原著令狐冲形象，理由是令狐冲本身就是个「拧巴」的人？",
+      "url": "https://www.zhihu.com/question/2015970790319875143",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "197 万热度",
+      "latest_heat_value": 1970000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1794372984.421134",
+        "card_id": "Q_2015970790319875143",
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "为啥老有人说李亚鹏版令狐冲成天愁眉苦脸才最符合原著令狐冲形象，理由是令狐冲本身就是个「拧巴」的人？"
+          },
+          "excerpt_area": {
+            "text": "基本是看到给李亚鹏演的令狐冲洗地时会看到这种说法，说令狐冲本来就是个拧巴的人，因为他很想回华山而求不得，且很想和小师妹在一起而求不得，所以他「处于一种极度撕裂的状态中」，「就这两种思绪在他心里打得来，像要把他撕成两个人一样。」所以想要准确还原出原著令狐冲的内心性格，就该成天戴着痛苦纠结拧巴的表情。所以李亚鹏版的恰恰才是最好的、最符合原著的令狐冲。"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-aaaa4eaf1572839299393b0273d1719f.png"
+          },
+          "metrics_area": {
+            "text": "197 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2015970790319875143"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTExODc0NTA5NSD7odHNBjAAOCJAE3ITMjAxNTk3MDc5MDMxOTg3NTE0M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 20,
+          "heat_text": "197 万热度",
+          "heat_value": 1970000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103428518323475771",
+      "title": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛 7 逆向工程抄袭卫士？",
+      "url": "https://www.zhihu.com/question/2103428518323475771",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "197 万热度",
+      "latest_heat_value": 1970000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1794372984.422662",
+        "card_id": "Q_2103428518323475771",
+        "feed_specific": {
+          "answer_count": 25
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待外媒曝比亚迪荷兰办公室遭突击搜查，相关电子记录被封存，捷豹路虎指控方程豹钛 7 逆向工程抄袭卫士？"
+          },
+          "excerpt_area": {
+            "text": "据外媒报道，捷豹路虎在荷兰海牙法院起诉比亚迪，怀疑比亚迪拆解路虎卫士，通过逆向工程获取相关技术来开发方程豹钛 7。法院已经下令，执法人员突击搜查比亚迪荷兰办公室、封存相关电子记录。比亚迪方面认为这次搜查取证范围过大，属于过度取证。 11 月 11 日海牙法院会给出初步裁定，该裁定只判定本次查封取证程序是否合法，并不会直接认定比亚迪是否构成侵权，钛 7 计划 2027 年 1 月在英国上市路虎真慌了！起诉比亚迪钛 7 抄袭卫士，网友：挑了个最不像的 _ 易车 。"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-dde8c39faa410448ff253c7d2719952b_b.jpg"
+          },
+          "metrics_area": {
+            "text": "197 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103428518323475771"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkxNzE0NSDW+MnXBjAAODRAFHITMjEwMzQyODUxODMyMzQ3NTc3MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 21,
+          "heat_text": "197 万热度",
+          "heat_value": 1970000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103599871219299802",
+      "title": "高叶凭《南京照相馆》林毓秀一角拿下金鸡影后，首提即中，她在片中的表现如何？",
+      "url": "https://www.zhihu.com/question/2103599871219299802",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "182 万热度",
+      "latest_heat_value": 1820000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1794372984.423974",
+        "card_id": "Q_2103599871219299802",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "高叶凭《南京照相馆》林毓秀一角拿下金鸡影后，首提即中，她在片中的表现如何？"
+          },
+          "excerpt_area": {
+            "text": "第 39 届中国电影金鸡奖颁奖典礼 11 月 10 日晚在福建厦门举行。@高叶 ChLoe 凭借电影《南京照相馆》中的精彩表现，获得最佳女主角奖。高叶获得金鸡奖最佳女主角奖"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-cfe92edda6f33bfe1415abc1b36abf89_b.jpg"
+          },
+          "metrics_area": {
+            "text": "182 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103599871219299802"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkyNDY1OSDst8zXBjAAOCNAFXITMjEwMzU5OTg3MTIxOTI5OTgwMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 22,
+          "heat_text": "182 万热度",
+          "heat_value": 1820000
+        }
+      ]
+    },
+    {
+      "key": "Q_2102172380546033346",
+      "title": "为什么《后会友期》中厉娜许飞这对最出圈，甚至带火一众品牌收获「大芒果」？是因为中国观众爱看恨海情天吗？",
+      "url": "https://www.zhihu.com/question/2102172380546033346",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "169 万热度",
+      "latest_heat_value": 1690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1794372984.424784",
+        "card_id": "Q_2102172380546033346",
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么《后会友期》中厉娜许飞这对最出圈，甚至带火一众品牌收获「大芒果」？是因为中国观众爱看恨海情天吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，芒果 TV 推出的综艺《后会友期》爆火出圈。公开资料显示，《后会友期》是芒果 TV 推出的纪实真人秀，聚焦曾经亲密、后来疏远的朋友关系，以旧友重逢和共同旅行为主要内容。 节目火爆出圈后，嘉宾厉娜、许飞在节目中提到的零食鸭舌受到关注。11 月 5 日，绝味鸭脖官方账号宣布，厉娜正式成为品牌「鲜推官」。厉娜在社交平台也转发了自己的「鲜推官」海报，配文「绝味鸭舌，厉娜」。厉娜还表示，大家喊话的商务接到了，很高兴成为绝味鸭脖的「鲜推官」，把这份新鲜美味分享给大家。 绝味食品官方客服介绍，绝味产品均由工厂统一生产，不同生产批次会存在细微口味差别。其还称，品牌会根据各地饮食偏好做口味微调，比如湖南地区的产品整体偏辣，广东地区的产品辣度会更低。 另一对嘉宾白小纯与青稚则接连带火袁记云饺与 999 感冒灵毛毯。11 月 2 日，袁记云饺推出的纯稚同款套餐，仅抖音平台的团购销量已超过 7 万。999 感冒灵推出的同款沙发毯在电商平台上显示已经售罄。 作为火爆全网的现象级综艺，11 月 5 日中午，大量观众集中涌入芒果 TV 观看《后会友期》第四期更新，导致服务器过载、大面积登录故障，好在故障很快就被修复。 「绝味鸭舌，厉娜」，《后会友期》带火多款商品：厉娜成品牌鲜推官，纯稚带火袁记云饺和毛毯 _ 平台 _ 网友 _ 官方「绝味鸭舌，厉娜」，《后会友期》带火多款商品：厉娜成品牌鲜推官，纯稚带火袁记云饺和毛毯"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-8db5372fc2d65457e3e958bb16e60b8b_b.jpg"
+          },
+          "metrics_area": {
+            "text": "169 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2102172380546033346"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTg4NjEzOSD41LfXBjAAOCRAFnITMjEwMjE3MjM4MDU0NjAzMzM0NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 23,
+          "heat_text": "169 万热度",
+          "heat_value": 1690000
+        }
+      ]
+    },
+    {
+      "key": "Q_2101414093768937810",
+      "title": "是不是体型越小的动物越不可能摔死？",
+      "url": "https://www.zhihu.com/question/2101414093768937810",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "165 万热度",
+      "latest_heat_value": 1650000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1794372984.426545",
+        "card_id": "Q_2101414093768937810",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "是不是体型越小的动物越不可能摔死？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-1ad10b55002cc813fe30ef08833a41fb_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "165 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2101414093768937810"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTg2Mzk1MSDC0KzXBjAAODVAF3ITMjEwMTQxNDA5Mzc2ODkzNzgxMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 24,
+          "heat_text": "165 万热度",
+          "heat_value": 1650000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103387580813113150",
+      "title": "网友扒出《后会友期》白小纯与王子璇疑似恋情，具体情况如何？你觉得是真的吗？",
+      "url": "https://www.zhihu.com/question/2103387580813113150",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "163 万热度",
+      "latest_heat_value": 1630000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1794372984.427510",
+        "card_id": "Q_2103387580813113150",
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "网友扒出《后会友期》白小纯与王子璇疑似恋情，具体情况如何？你觉得是真的吗？"
+          },
+          "excerpt_area": {
+            "text": "[6 张图片]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-5c7c449774f1357728a0573404469ac3.png"
+          },
+          "metrics_area": {
+            "text": "163 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103387580813113150"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkxNjA3NiC2rMnXBjAAOBlAGHITMjEwMzM4NzU4MDgxMzExMzE1MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 25,
+          "heat_text": "163 万热度",
+          "heat_value": 1630000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103666307413680604",
+      "title": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
+      "url": "https://www.zhihu.com/question/2103666307413680604",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "162 万热度",
+      "latest_heat_value": 1620000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1794372984.428786",
+        "card_id": "Q_2103666307413680604",
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？"
+          },
+          "excerpt_area": {
+            "text": "北京时间 11 月 11 日凌晨，Google DeepMind 宣布旗下最强前沿模型 Gemini 4 Carbon 结束定向内测，正式向开发者、企业、科研人员及普通用户全面开放。 官方公布的核心看点包括： 定位与规格：专为长周期智能体工程（Long-horizon Agentic Workflows）、复杂代码调试与前沿科学推理打造，支持 1M 上下文窗口与最高 1M 连续输出。 性能与跑分：登顶 Artificial Analysis Intelligence Index v5 总榜第一，在 CursorBench 4.0 、 Perplexity WANDR 、 Zapier AutomationBench 上均排名第一，且单任务成本比第二名低 50% 以上。 多智能体与安全：Google Antigravity 同步上线 /swarm 多智能体实时协同功能；在 SEC-bench Pro 漏洞挖掘测试中拿到 88.2% 的 SOTA 成绩，并配合 AlphaProof Code 完成了 Signal 协议核心代码的数学形式化验证。 价格与渠道：目前已上线 Google AI Studio 付费 API 、 OpenRouter 以及 Google AI Ultra（Gemini App / Antigravity）。11 月 30 日前享首发半价：$2 / 百万输入 Token 、 $10 / 百万输出 Token（缓存输入享 95% 折扣），后续恢复 $4 / $20。Gemini 4 Carbon is now available"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-e06875179cab84f11b76e880ee28f22f.png"
+          },
+          "metrics_area": {
+            "text": "162 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103666307413680604"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkyNTc2OCDLs83XBjAAODhAGXITMjEwMzY2NjMwNzQxMzY4MDYwNHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 26,
+          "heat_text": "162 万热度",
+          "heat_value": 1620000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103136590931260382",
+      "title": "Bin 淘汰 T1 后喊话决赛队，称 GEN 不如 T1，认为会比 T1 更好打，怎么看待他的说法？",
+      "url": "https://www.zhihu.com/question/2103136590931260382",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "148 万热度",
+      "latest_heat_value": 1480000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1794372984.430797",
+        "card_id": "Q_2103136590931260382",
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "Bin 淘汰 T1 后喊话决赛队，称 GEN 不如 T1，认为会比 T1 更好打，怎么看待他的说法？"
+          },
+          "excerpt_area": {
+            "text": "[图片]"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-0a28fe6e19eff2679d9673621fb51432_b.jpg"
+          },
+          "metrics_area": {
+            "text": "148 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103136590931260382"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkxMDE2NiD12MXXBjAAOCBAGnITMjEwMzEzNjU5MDkzMTI2MDM4MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 27,
+          "heat_text": "148 万热度",
+          "heat_value": 1480000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103751438463493043",
+      "title": "11 月 11 日江苏扬州发生 3.9 级地震，目前情况如何？你那边有震感吗？",
+      "url": "https://www.zhihu.com/question/2103751438463493043",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "144 万热度",
+      "latest_heat_value": 1440000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1794372984.431993",
+        "card_id": "Q_2103751438463493043",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "11 月 11 日江苏扬州发生 3.9 级地震，目前情况如何？你那边有震感吗？"
+          },
+          "excerpt_area": {
+            "text": "中国地震台网正式测定：2026 年 11 月 11 日 06 时 15 分 08 秒在江苏扬州市江都区 (东经 119.60 度, 北纬 32.62 度) 发生 3.9 级地震, 震源深度 20 千米中国地震台网正式测定：2026 年 11 月 11 日 06 时 15 分 08 秒在江苏扬州市江都区 (东经 119.60 度, 北纬 32.62 度) 发生 3.9 级地震, 震源深度 20 千米"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-60459183a34b1fea1523a62717e3186c.png"
+          },
+          "metrics_area": {
+            "text": "144 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103751438463493043"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkyNjI0MCCU0s7XBjAAOCFAG3ITMjEwMzc1MTQzODQ2MzQ5MzA0M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 28,
+          "heat_text": "144 万热度",
+          "heat_value": 1440000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103778427635606130",
+      "title": "乔治 36 分抢戏，塔图姆 21+6，布朗 13 分，绿军 123:101 76 人，如何评价这场比赛？",
+      "url": "https://www.zhihu.com/question/2103778427635606130",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "120 万热度",
+      "latest_heat_value": 1200000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1794372984.433837",
+        "card_id": "Q_2103778427635606130",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 58
+        },
+        "target": {
+          "title_area": {
+            "text": "乔治 36 分抢戏，塔图姆 21+6，布朗 13 分，绿军 123:101 76 人，如何评价这场比赛？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-21ae4c91a8819d66d967feeb76ac6fe6_b.jpg"
+          },
+          "metrics_area": {
+            "text": "120 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103778427635606130"
+          }
+        },
+        "attached_info": "CkkIvsHZs8vpvOVKEAMaCTEyMTkyNjgxMyC3hM/XBjAAODZAHHITMjEwMzc3ODQyNzYzNTYwNjEzMHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 29,
+          "heat_text": "120 万热度",
+          "heat_value": 1200000
+        }
+      ]
+    },
+    {
+      "key": "Q_24217258",
+      "title": "如何评价电影《战争子午线》？",
+      "url": "https://www.zhihu.com/question/24217258",
+      "first_seen": "2026-11-11 12:56:24 +0800",
+      "last_seen": "2026-11-11 12:56:24 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "109 万热度",
+      "latest_heat_value": 1090000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1794372984.434929",
+        "card_id": "Q_24217258",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 82
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价电影《战争子午线》？"
+          },
+          "excerpt_area": {
+            "text": "冯小宁导演的。 我还很小的时候看过这部影片，只记得一个小女孩为了躲避日本兵的搜捕，躲到了悬崖下，却发现自己再也没有力气爬上悬崖的那一幕。看完以后很心痛，不敢再看第二遍。在这里冒昧问一下，如何评价其艺术价值和在中国抗战电影中的地位。"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-9683193e3c9414966b11888416b5c001_b.jpg"
+          },
+          "metrics_area": {
+            "text": "109 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/24217258"
+          }
+        },
+        "attached_info": "Cj0IvsHZs8vpvOVKEAMaBzE4Njg3NTEg0v+PnQUwADiQAkAdcggyNDIxNzI1OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-11 12:56:24 +0800",
+          "rank": 30,
+          "heat_text": "109 万热度",
+          "heat_value": 1090000
         }
       ]
     }
