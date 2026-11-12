@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "global",
-  "updated_at": "2026-11-12 22:58:40 +0800",
+  "updated_at": "2026-11-13 05:48:33 +0800",
   "items": [
     {
       "key": "Q_2058959918087018226",
@@ -279270,18 +279270,18 @@
       "title": "餐饮店用来「过油」的油，炸了那么多不同种类的食物，再用来炒菜难道不会串味吗?",
       "url": "https://www.zhihu.com/question/2014321032002036362",
       "first_seen": "2026-08-31 20:51:47 +0800",
-      "last_seen": "2026-09-01 04:40:38 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 8,
-      "latest_rank": 8,
-      "latest_heat_text": "59 万热度",
-      "latest_heat_value": 590000,
+      "latest_rank": 23,
+      "latest_heat_text": "76 万热度",
+      "latest_heat_value": 760000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1788208838.709890",
+        "id": "22_1794520113.72776",
         "card_id": "Q_2014321032002036362",
         "feed_specific": {
-          "answer_count": 28
+          "answer_count": 30
         },
         "target": {
           "title_area": {
@@ -279294,7 +279294,7 @@
             "url": "https://picx.zhimg.com/80/v2-5420caf18eca59f2f260680f006033a0_720w.webp?source=1def8aca"
           },
           "metrics_area": {
-            "text": "59 万热度",
+            "text": "76 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -279309,7 +279309,7 @@
             "url": "https://www.zhihu.com/question/2014321032002036362"
           }
         },
-        "attached_info": "CkoIu+PgmuqixvVeEAMaCTExODY4NzUzOCCGobnNBjAAOLwBQAdyEzIwMTQzMjEwMzIwMDIwMzYzNjJ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTExODY4NzUzOCCGobnNBjAAOOMBQBZyEzIwMTQzMjEwMzIwMDIwMzYzNjJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -279323,6 +279323,12 @@
           "rank": 8,
           "heat_text": "59 万热度",
           "heat_value": 590000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 23,
+          "heat_text": "76 万热度",
+          "heat_value": 760000
         }
       ]
     },
@@ -497948,18 +497954,18 @@
       "title": "10 月 20 万元以上新能源车销量榜出炉，前三名全是小米，哪些数据值得关注？当前市场格局如何？",
       "url": "https://www.zhihu.com/question/2103425545253778677",
       "first_seen": "2026-11-11 12:56:24 +0800",
-      "last_seen": "2026-11-12 05:53:16 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 7,
-      "latest_rank": 24,
-      "latest_heat_text": "79 万热度",
-      "latest_heat_value": 790000,
+      "latest_rank": 29,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "23_1794433995.899357",
+        "id": "28_1794520113.86849",
         "card_id": "Q_2103425545253778677",
         "feed_specific": {
-          "answer_count": 198
+          "answer_count": 200
         },
         "target": {
           "title_area": {
@@ -497972,7 +497978,7 @@
             "url": "https://pica.zhimg.com/v2-b78662a380e4c5663ba0912a135b8ce0.png"
           },
           "metrics_area": {
-            "text": "79 万热度",
+            "text": "74 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -497987,7 +497993,7 @@
             "url": "https://www.zhihu.com/question/2103425545253778677"
           }
         },
-        "attached_info": "CkoI1IXc/7nUu54SEAMaCTEyMTkxNzAyNyCR88nXBjAAOKEDQBdyEzIxMDM0MjU1NDUyNTM3Nzg2Nzd4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkxNzAyNyCR88nXBjAAOKgDQBxyEzIxMDM0MjU1NDUyNTM3Nzg2Nzd4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -498001,6 +498007,12 @@
           "rank": 24,
           "heat_text": "79 万热度",
           "heat_value": 790000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 29,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
         }
       ]
     },
@@ -500092,23 +500104,18 @@
       "title": "中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？",
       "url": "https://www.zhihu.com/question/2102940552853448626",
       "first_seen": "2026-11-11 21:39:53 +0800",
-      "last_seen": "2026-11-12 05:53:16 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 18,
-      "latest_rank": 6,
-      "latest_heat_text": "132 万热度",
-      "latest_heat_value": 1320000,
+      "latest_rank": 30,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1794433995.885162",
+        "id": "29_1794520113.90138",
         "card_id": "Q_2102940552853448626",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 35
+          "answer_count": 43
         },
         "target": {
           "title_area": {
@@ -500121,7 +500128,7 @@
             "url": "https://picx.zhimg.com/50/v2-b9abe3cff3efa88a2f16c0ce90168f51_b.jpg"
           },
           "metrics_area": {
-            "text": "132 万热度",
+            "text": "74 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -500136,7 +500143,7 @@
             "url": "https://www.zhihu.com/question/2102940552853448626"
           }
         },
-        "attached_info": "CkoI1IXc/7nUu54SEAMaCTEyMTkwNDg4OSDi68LXBjAAOLIBQAVyEzIxMDI5NDA1NTI4NTM0NDg2MjZ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkwNDg4OSDi68LXBjAAOOQBQB1yEzIxMDI5NDA1NTI4NTM0NDg2MjZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -500150,6 +500157,12 @@
           "rank": 6,
           "heat_text": "132 万热度",
           "heat_value": 1320000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 30,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
         }
       ]
     },
@@ -500799,18 +500812,18 @@
       "title": "某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？",
       "url": "https://www.zhihu.com/question/2103844614528395225",
       "first_seen": "2026-11-12 05:53:16 +0800",
-      "last_seen": "2026-11-12 05:53:16 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 13,
-      "latest_rank": 13,
-      "latest_heat_text": "101 万热度",
-      "latest_heat_value": 1010000,
+      "latest_rank": 27,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "12_1794433995.891605",
+        "id": "26_1794520113.79390",
         "card_id": "Q_2103844614528395225",
         "feed_specific": {
-          "answer_count": 20
+          "answer_count": 56
         },
         "target": {
           "title_area": {
@@ -500823,7 +500836,7 @@
             "url": "https://pic3.zhimg.com/50/v2-7e51ec65500b514ad69da3ee383d985c_b.jpg"
           },
           "metrics_area": {
-            "text": "101 万热度",
+            "text": "75 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -500838,7 +500851,7 @@
             "url": "https://www.zhihu.com/question/2103844614528395225"
           }
         },
-        "attached_info": "CkkI1IXc/7nUu54SEAMaCTEyMTkzMDAyMiDb/8/XBjAAOEJADHITMjEwMzg0NDYxNDUyODM5NTIyNXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzMDAyMiDb/8/XBjAAOPEBQBpyEzIxMDM4NDQ2MTQ1MjgzOTUyMjV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -500846,6 +500859,12 @@
           "rank": 13,
           "heat_text": "101 万热度",
           "heat_value": 1010000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 27,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
         }
       ]
     },
@@ -500964,18 +500983,18 @@
       "title": "妈妈嫌儿子预测身高 1 米 75「没法见人」要求拔高，背后原因有哪些？",
       "url": "https://www.zhihu.com/question/2099720105420763944",
       "first_seen": "2026-11-12 05:53:16 +0800",
-      "last_seen": "2026-11-12 05:53:16 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 20,
-      "latest_rank": 20,
-      "latest_heat_text": "91 万热度",
-      "latest_heat_value": 910000,
+      "latest_rank": 28,
+      "latest_heat_text": "74 万热度",
+      "latest_heat_value": 740000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1794433995.897520",
+        "id": "27_1794520113.83336",
         "card_id": "Q_2099720105420763944",
         "feed_specific": {
-          "answer_count": 43
+          "answer_count": 81
         },
         "target": {
           "title_area": {
@@ -500988,7 +501007,7 @@
             "url": "https://pic2.zhimg.com/50/v2-d785b5ad94050386f269b68a79c8ea77_b.jpg"
           },
           "metrics_area": {
-            "text": "91 万热度",
+            "text": "74 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -501003,7 +501022,7 @@
             "url": "https://www.zhihu.com/question/2099720105420763944"
           }
         },
-        "attached_info": "CkkI1IXc/7nUu54SEAMaCTEyMTgxODM4MSCc/ZPXBjAAOEBAE3ITMjA5OTcyMDEwNTQyMDc2Mzk0NHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTgxODM4MSCc/ZPXBjAAOHlAG3ITMjA5OTcyMDEwNTQyMDc2Mzk0NHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -501011,6 +501030,12 @@
           "rank": 20,
           "heat_text": "91 万热度",
           "heat_value": 910000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 28,
+          "heat_text": "74 万热度",
+          "heat_value": 740000
         }
       ]
     },
@@ -502118,18 +502143,18 @@
       "title": "如何看待马志明收郭德纲为义子？",
       "url": "https://www.zhihu.com/question/2103957347660051158",
       "first_seen": "2026-11-12 13:58:07 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 14,
       "latest_rank": 18,
-      "latest_heat_text": "128 万热度",
-      "latest_heat_value": 1280000,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "17_1794495520.385862",
+        "id": "17_1794520113.61834",
         "card_id": "Q_2103957347660051158",
         "feed_specific": {
-          "answer_count": 679
+          "answer_count": 709
         },
         "target": {
           "title_area": {
@@ -502142,7 +502167,7 @@
             "url": "https://picx.zhimg.com/v2-ac13af1b15dfb727cf85b57cfe235cad.png"
           },
           "metrics_area": {
-            "text": "128 万热度",
+            "text": "81 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -502157,7 +502182,7 @@
             "url": "https://www.zhihu.com/question/2103957347660051158"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzNDU3MSDZ0dHXBjAAOJYHQBFyEzIxMDM5NTczNDc2NjAwNTExNTh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzNDU3MSDZ0dHXBjAAONgHQBFyEzIxMDM5NTczNDc2NjAwNTExNTh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -502171,6 +502196,12 @@
           "rank": 18,
           "heat_text": "128 万热度",
           "heat_value": 1280000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 18,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
         }
       ]
     },
@@ -502234,18 +502265,18 @@
       "title": "港媒曝霍启山与娜然喜帖，二人 12 月 12 日将在香港办婚礼，哪些细节值得关注？",
       "url": "https://www.zhihu.com/question/2103921611434939660",
       "first_seen": "2026-11-12 13:58:07 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 16,
       "latest_rank": 16,
-      "latest_heat_text": "130 万热度",
-      "latest_heat_value": 1300000,
+      "latest_heat_text": "84 万热度",
+      "latest_heat_value": 840000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "15_1794495520.381589",
+        "id": "15_1794520113.58661",
         "card_id": "Q_2103921611434939660",
         "feed_specific": {
-          "answer_count": 131
+          "answer_count": 156
         },
         "target": {
           "title_area": {
@@ -502258,7 +502289,7 @@
             "url": "https://picx.zhimg.com/v2-3fd22384a7bc37c6d824d7d1e4d367c0.png"
           },
           "metrics_area": {
-            "text": "130 万热度",
+            "text": "84 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -502273,7 +502304,7 @@
             "url": "https://www.zhihu.com/question/2103921611434939660"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzMzY2MiCRj9HXBjAAOMQCQA9yEzIxMDM5MjE2MTE0MzQ5Mzk2NjB4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzMzY2MiCRj9HXBjAAOJcDQA9yEzIxMDM5MjE2MTE0MzQ5Mzk2NjB4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -502287,6 +502318,12 @@
           "rank": 16,
           "heat_text": "130 万热度",
           "heat_value": 1300000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 16,
+          "heat_text": "84 万热度",
+          "heat_value": 840000
         }
       ]
     },
@@ -502806,23 +502843,18 @@
       "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
       "url": "https://www.zhihu.com/question/2103845113960952123",
       "first_seen": "2026-11-12 13:58:07 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 28,
-      "latest_rank": 10,
-      "latest_heat_text": "182 万热度",
-      "latest_heat_value": 1820000,
+      "latest_rank": 19,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "9_1794495520.375918",
+        "id": "18_1794520113.63727",
         "card_id": "Q_2103845113960952123",
-        "card_label": {
-          "type": "hot",
-          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
-          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 72
+          "answer_count": 80
         },
         "target": {
           "title_area": {
@@ -502835,7 +502867,7 @@
             "url": "https://picx.zhimg.com/v2-2fd011df5e4d64fc312cc2049a31284b.png"
           },
           "metrics_area": {
-            "text": "182 万热度",
+            "text": "80 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -502850,7 +502882,7 @@
             "url": "https://www.zhihu.com/question/2103845113960952123"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzMDA0NSDSgNDXBjAAOPYBQAlyEzIxMDM4NDUxMTM5NjA5NTIxMjN4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzMDA0NSDSgNDXBjAAONsCQBJyEzIxMDM4NDUxMTM5NjA5NTIxMjN4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -502864,6 +502896,12 @@
           "rank": 10,
           "heat_text": "182 万热度",
           "heat_value": 1820000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 19,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
         }
       ]
     },
@@ -502927,23 +502965,18 @@
       "title": "网传腾讯裁员 15-20%，腾讯辟谣「裁员 50%」的说法，实际什么情况？可能涉及哪些业务？",
       "url": "https://www.zhihu.com/question/2104132164308530649",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 1,
-      "latest_rank": 1,
-      "latest_heat_text": "5067 万热度",
-      "latest_heat_value": 50670000,
+      "latest_rank": 4,
+      "latest_heat_text": "200 万热度",
+      "latest_heat_value": 2000000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "0_1794495520.367390",
+        "id": "3_1794520113.46992",
         "card_id": "Q_2104132164308530649",
-        "card_label": {
-          "type": "boiling",
-          "icon": "https://pic1.zhimg.com/80/v2-a8ec286ae756c2ab8377774b27f8ebc7_1440w.png",
-          "night_icon": "https://pic1.zhimg.com/80/v2-022e7c409e51515f784aa70403aef8d4_1440w.png"
-        },
         "feed_specific": {
-          "answer_count": 577
+          "answer_count": 656
         },
         "target": {
           "title_area": {
@@ -502956,7 +502989,7 @@
             "url": "https://pic1.zhimg.com/v2-068b54fb4dbe116e5e5294c350d7df0f.png"
           },
           "metrics_area": {
-            "text": "5067 万热度",
+            "text": "200 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -502971,7 +503004,7 @@
             "url": "https://www.zhihu.com/question/2104132164308530649"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzNjgxMSCol9TXBjAAOIUQQAByEzIxMDQxMzIxNjQzMDg1MzA2NDl4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzNjgxMSCol9TXBjAAOPMSQANyEzIxMDQxMzIxNjQzMDg1MzA2NDl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -502979,6 +503012,12 @@
           "rank": 1,
           "heat_text": "5067 万热度",
           "heat_value": 50670000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 4,
+          "heat_text": "200 万热度",
+          "heat_value": 2000000
         }
       ]
     },
@@ -503102,18 +503141,23 @@
       "title": "德芙因七夕广告宣扬错误婚恋观，代运营方被罚 80 万，怎样看待这一结果？",
       "url": "https://www.zhihu.com/question/2104239650290098778",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 6,
-      "latest_rank": 6,
-      "latest_heat_text": "371 万热度",
-      "latest_heat_value": 3710000,
+      "latest_rank": 5,
+      "latest_heat_text": "192 万热度",
+      "latest_heat_value": 1920000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1794495520.372352",
+        "id": "4_1794520113.48187",
         "card_id": "Q_2104239650290098778",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 67
+          "answer_count": 120
         },
         "target": {
           "title_area": {
@@ -503126,7 +503170,7 @@
             "url": "https://pica.zhimg.com/50/v2-a44d933e911a99a640ceb226ecffd924_b.jpg"
           },
           "metrics_area": {
-            "text": "371 万热度",
+            "text": "192 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503141,7 +503185,7 @@
             "url": "https://www.zhihu.com/question/2104239650290098778"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTk0MTcwNiDD39XXBjAAOJABQAVyEzIxMDQyMzk2NTAyOTAwOTg3Nzh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTk0MTcwNiDD39XXBjAAOK8CQARyEzIxMDQyMzk2NTAyOTAwOTg3Nzh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503149,6 +503193,12 @@
           "rank": 6,
           "heat_text": "371 万热度",
           "heat_value": 3710000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 5,
+          "heat_text": "192 万热度",
+          "heat_value": 1920000
         }
       ]
     },
@@ -503157,15 +503207,15 @@
       "title": "女子在西西弗书店买了 200 元的书，想坐咖啡区却被拒，店方称需另行消费才能入座，这一规定合理吗？",
       "url": "https://www.zhihu.com/question/2104110182112482058",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 8,
       "latest_rank": 8,
-      "latest_heat_text": "308 万热度",
-      "latest_heat_value": 3080000,
+      "latest_heat_text": "128 万热度",
+      "latest_heat_value": 1280000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "7_1794495520.373990",
+        "id": "7_1794520113.51970",
         "card_id": "Q_2104110182112482058",
         "card_label": {
           "type": "hot",
@@ -503173,7 +503223,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 84
+          "answer_count": 130
         },
         "target": {
           "title_area": {
@@ -503186,7 +503236,7 @@
             "url": "https://pica.zhimg.com/50/v2-65cb63b4cb28bfc3305f8a2921d31ea0_b.jpg"
           },
           "metrics_area": {
-            "text": "308 万热度",
+            "text": "128 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503201,7 +503251,7 @@
             "url": "https://www.zhihu.com/question/2104110182112482058"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzNjQyNiCv7tPXBjAAOKEBQAdyEzIxMDQxMTAxODIxMTI0ODIwNTh4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzNjQyNiCv7tPXBjAAOIQCQAdyEzIxMDQxMTAxODIxMTI0ODIwNTh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503209,6 +503259,12 @@
           "rank": 8,
           "heat_text": "308 万热度",
           "heat_value": 3080000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 8,
+          "heat_text": "128 万热度",
+          "heat_value": 1280000
         }
       ]
     },
@@ -503217,15 +503273,15 @@
       "title": "荷兰法院已驳回捷豹路虎突击调取比亚迪研发资料的申请，还有哪些信息值得关注？这一裁定意味着什么？",
       "url": "https://www.zhihu.com/question/2104195756106019708",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 9,
-      "latest_rank": 9,
-      "latest_heat_text": "231 万热度",
-      "latest_heat_value": 2310000,
+      "latest_rank": 1,
+      "latest_heat_text": "444 万热度",
+      "latest_heat_value": 4440000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "8_1794495520.374825",
+        "id": "0_1794520113.44535",
         "card_id": "Q_2104195756106019708",
         "card_label": {
           "type": "hot",
@@ -503233,7 +503289,7 @@
           "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
         },
         "feed_specific": {
-          "answer_count": 31
+          "answer_count": 72
         },
         "target": {
           "title_area": {
@@ -503246,7 +503302,7 @@
             "url": "https://pic1.zhimg.com/50/v2-2e9acff268a906593091fd3ec98a66e0_b.jpg"
           },
           "metrics_area": {
-            "text": "231 万热度",
+            "text": "444 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503261,7 +503317,7 @@
             "url": "https://www.zhihu.com/question/2104195756106019708"
           }
         },
-        "attached_info": "CkkIjZDBpIKFmaYZEAMaCTEyMTk0MDA0OCDijdXXBjAAOFJACHITMjEwNDE5NTc1NjEwNjAxOTcwOHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTk0MDA0OCDijdXXBjAAON0BQAByEzIxMDQxOTU3NTYxMDYwMTk3MDh4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503269,6 +503325,12 @@
           "rank": 9,
           "heat_text": "231 万热度",
           "heat_value": 2310000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 1,
+          "heat_text": "444 万热度",
+          "heat_value": 4440000
         }
       ]
     },
@@ -503277,18 +503339,18 @@
       "title": "如何看待马化腾在腾讯 28 周年庆全员会上的讲话？",
       "url": "https://www.zhihu.com/question/2104232899662669796",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 11,
-      "latest_rank": 11,
-      "latest_heat_text": "173 万热度",
-      "latest_heat_value": 1730000,
+      "latest_rank": 12,
+      "latest_heat_text": "98 万热度",
+      "latest_heat_value": 980000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "10_1794495520.378448",
+        "id": "11_1794520113.54267",
         "card_id": "Q_2104232899662669796",
         "feed_specific": {
-          "answer_count": 188
+          "answer_count": 250
         },
         "target": {
           "title_area": {
@@ -503301,7 +503363,7 @@
             "url": "https://pica.zhimg.com/v2-f99c3f80eba7bfb6ba98e4f1161aec2a.png"
           },
           "metrics_area": {
-            "text": "173 万热度",
+            "text": "98 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503316,7 +503378,7 @@
             "url": "https://www.zhihu.com/question/2104232899662669796"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTk0MTI2MiD60tXXBjAAOOwGQApyEzIxMDQyMzI4OTk2NjI2Njk3OTZ4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTk0MTI2MiD60tXXBjAAOJIKQAtyEzIxMDQyMzI4OTk2NjI2Njk3OTZ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503324,6 +503386,12 @@
           "rank": 11,
           "heat_text": "173 万热度",
           "heat_value": 1730000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 12,
+          "heat_text": "98 万热度",
+          "heat_value": 980000
         }
       ]
     },
@@ -503507,18 +503575,18 @@
       "title": "网红「疯狂小马哥」离世，家人称是「打 PK」被要求喝 20 瓶酒中途猝死，连麦者与平台应承担责任吗？",
       "url": "https://www.zhihu.com/question/2103943866126525715",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 19,
-      "latest_rank": 19,
-      "latest_heat_text": "125 万热度",
-      "latest_heat_value": 1250000,
+      "latest_rank": 26,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "18_1794495520.387746",
+        "id": "25_1794520113.76976",
         "card_id": "Q_2103943866126525715",
         "feed_specific": {
-          "answer_count": 52
+          "answer_count": 60
         },
         "target": {
           "title_area": {
@@ -503531,7 +503599,7 @@
             "url": "https://pica.zhimg.com/50/v2-e75858f9c9ce45fabf2b45afb913abc4_b.jpg"
           },
           "metrics_area": {
-            "text": "125 万热度",
+            "text": "75 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503546,7 +503614,7 @@
             "url": "https://www.zhihu.com/question/2103943866126525715"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzNDE5OCDLuNHXBjAAOLUBQBJyEzIxMDM5NDM4NjYxMjY1MjU3MTV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzNDE5OCDLuNHXBjAAONwBQBlyEzIxMDM5NDM4NjYxMjY1MjU3MTV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503554,6 +503622,12 @@
           "rank": 19,
           "heat_text": "125 万热度",
           "heat_value": 1250000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 26,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
         }
       ]
     },
@@ -503562,15 +503636,15 @@
       "title": "GPT-6.2 开启首测，有网友称其性能可压倒 Opus5.5，二者实际体验差距有多大？",
       "url": "https://www.zhihu.com/question/2103125335730669300",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 20,
-      "latest_rank": 20,
-      "latest_heat_text": "124 万热度",
-      "latest_heat_value": 1240000,
+      "latest_rank": 22,
+      "latest_heat_text": "77 万热度",
+      "latest_heat_value": 770000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "19_1794495520.389941",
+        "id": "21_1794520113.69909",
         "card_id": "Q_2103125335730669300",
         "feed_specific": {
           "answer_count": 16
@@ -503583,10 +503657,10 @@
             "text": "就在刚刚，GPT-6.2 Sol 悄悄「灰度」上线了！ 很多人发现，自己被悄悄路由到了 GPT-6.2 Sol，感受就是——强大得离谱。 现在，X 上到处都是实测 demo 的刷屏。 网友都玩儿疯了，直接登上国外社交媒体热搜—— 仅凭一句话，GPT-6.2 So 就能无中生有完整的 3D 交互场景，所有复杂的 Three.js 代码，都完美打包进一个 HTML 文件。 它不用 Blender，不用外部素材，能给你直接在网页里，跑出 3D 游戏级别的画面！ 权威基准机构 Artificial Analysis 最新榜单显示，GPT-6.2 Sol 直接空降榜首，Claude Opus 5.5 迎来真正对手！ OpenAI Dev 账号，已经发了一个视频，标题是——Tomorrow。快了，真的快了！ 一句 Prompt，炸出一个宇宙 这次风暴中的核心爆料者，就是 X 大 V Token Gremlin 了。 他的评价是：我等太久了，我们终于看到能跟 Opus 5.5 掰手腕的模型了。 玩了一会儿之后，他改口说：GPT-6.2 Sol 已经完胜 Opus 5.5！ 它在设计和 3D 上太疯狂，下面这个 demo，是他见过最好的 AI 黑洞。 他激动地表示：从没想到 GPT-6.2 Sol 会比 GPT-6 Astra 好这么多，还便宜这么多。不可思议，OpenAI 又回来了！ 的确，从黑洞对比图来看，GPT-6.2 Sol 确实完胜 Opus 5.5。 葛饰北斋的名画，被做成了引人入胜的 3D 场景，没用到任何外部素材。 大 V 的评价是， GPT-6.2 Sol 相对 6.1 有巨大飞跃，也优于 GPT-6 Astra。而且非常舌根额度，十来次才消耗了 200 美元 Pro 的不到 10%。 总结来说就是：GPT-6.2 Sol > Opus 5.5。 给奥特曼上色的 demo，是这样的。 有人用 GPT-6.2 Sol 做了一个 3D 帆船，效果惊艳。 和 Opus 5.5 的对比，是这样的。你感觉哪个好？"
           },
           "image_area": {
-            "url": ""
+            "url": "https://pic1.zhimg.com/v2-0d20686207cdda22478ff49845beb135.png"
           },
           "metrics_area": {
-            "text": "124 万热度",
+            "text": "77 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503601,7 +503675,7 @@
             "url": "https://www.zhihu.com/question/2103125335730669300"
           }
         },
-        "attached_info": "CkkIjZDBpIKFmaYZEAMaCTEyMTkwOTQ5MyD6w8XXBjAAOClAE3ITMjEwMzEyNTMzNTczMDY2OTMwMHgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTkwOTQ5MyD6w8XXBjAAOG9AFXITMjEwMzEyNTMzNTczMDY2OTMwMHgAqgEJYmlsbGJvYXJk0gEA"
       },
       "history": [
         {
@@ -503609,6 +503683,12 @@
           "rank": 20,
           "heat_text": "124 万热度",
           "heat_value": 1240000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 22,
+          "heat_text": "77 万热度",
+          "heat_value": 770000
         }
       ]
     },
@@ -503617,18 +503697,18 @@
       "title": "如何看待女子称产后患血小板减少症遭丈夫拒之门外导致其流离失所，后男方因涉遗弃罪被捕？这是怎样的病症？",
       "url": "https://www.zhihu.com/question/2104178867791292079",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 21,
       "latest_rank": 21,
-      "latest_heat_text": "124 万热度",
-      "latest_heat_value": 1240000,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "20_1794495520.392027",
+        "id": "20_1794520113.68558",
         "card_id": "Q_2104178867791292079",
         "feed_specific": {
-          "answer_count": 41
+          "answer_count": 48
         },
         "target": {
           "title_area": {
@@ -503641,7 +503721,7 @@
             "url": "https://picx.zhimg.com/50/v2-e66c7c861198a6311bb482e428cc0bed_b.jpg"
           },
           "metrics_area": {
-            "text": "124 万热度",
+            "text": "79 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503656,7 +503736,7 @@
             "url": "https://www.zhihu.com/question/2104178867791292079"
           }
         },
-        "attached_info": "CkkIjZDBpIKFmaYZEAMaCTEyMTkzOTA0OSCn7tTXBjAAOF9AFHITMjEwNDE3ODg2Nzc5MTI5MjA3OXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzOTA0OSCn7tTXBjAAOI0BQBRyEzIxMDQxNzg4Njc3OTEyOTIwNzl4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503664,39 +503744,50 @@
           "rank": 21,
           "heat_text": "124 万热度",
           "heat_value": 1240000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 21,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
         }
       ]
     },
     {
       "key": "Q_2104153189284931494",
-      "title": "苹果公司前 CEO 蒂姆·库克被提名作为英伟达现任一把手潜在继任者，库克成为英伟达新掌门的概率大吗？",
+      "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
       "url": "https://www.zhihu.com/question/2104153189284931494",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 22,
-      "latest_rank": 22,
-      "latest_heat_text": "124 万热度",
-      "latest_heat_value": 1240000,
+      "latest_rank": 11,
+      "latest_heat_text": "102 万热度",
+      "latest_heat_value": 1020000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "21_1794495520.393287",
+        "id": "10_1794520113.53529",
         "card_id": "Q_2104153189284931494",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 175
+          "answer_count": 219
         },
         "target": {
           "title_area": {
-            "text": "苹果公司前 CEO 蒂姆·库克被提名作为英伟达现任一把手潜在继任者，库克成为英伟达新掌门的概率大吗？"
+            "text": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？"
           },
           "excerpt_area": {
-            "text": "Polymarket 在社交媒体发文称，前苹果公司 CEO 蒂姆·库克据报道被提名作为英伟达 CEO 的潜在继任者。 蒂姆·库克据报被提名作为英伟达现任 CEO 潜在继任者"
+            "text": "美国总统特朗普表示，库克应接替黄仁勋担任英伟达首席执行官。他表示，「英伟达首席执行官黄仁勋表现出色，但他现已辞职，唯一能接替他的人选只有苹果的执行董事长库克。」美国总统特朗普：建议蒂姆·库克接替黄仁勋担任英伟达首席执行官 Polymarket 在社交媒体发文称，前苹果公司 CEO 蒂姆·库克据报道被提名作为英伟达 CEO 的潜在继任者。 蒂姆·库克据报被提名作为英伟达现任 CEO 潜在继任者"
           },
           "image_area": {
             "url": "https://picx.zhimg.com/v2-ffab76953cf8ac0842d7dfc0c68b6d0a.png"
           },
           "metrics_area": {
-            "text": "124 万热度",
+            "text": "102 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503711,7 +503802,7 @@
             "url": "https://www.zhihu.com/question/2104153189284931494"
           }
         },
-        "attached_info": "CkoIjZDBpIKFmaYZEAMaCTEyMTkzNzUxNiC9vtTXBjAAOJUDQBVyEzIxMDQxNTMxODkyODQ5MzE0OTR4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTkzNzUxNiC9vtTXBjAAOMQEQApyEzIxMDQxNTMxODkyODQ5MzE0OTR4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503719,6 +503810,12 @@
           "rank": 22,
           "heat_text": "124 万热度",
           "heat_value": 1240000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 11,
+          "heat_text": "102 万热度",
+          "heat_value": 1020000
         }
       ]
     },
@@ -503907,18 +504004,23 @@
       "title": "房子已经过剩，为什么一直还在新盖楼盘？",
       "url": "https://www.zhihu.com/question/2075640740537963785",
       "first_seen": "2026-11-12 22:58:40 +0800",
-      "last_seen": "2026-11-12 22:58:40 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
       "first_rank": 27,
-      "latest_rank": 27,
-      "latest_heat_text": "109 万热度",
-      "latest_heat_value": 1090000,
+      "latest_rank": 9,
+      "latest_heat_text": "120 万热度",
+      "latest_heat_value": 1200000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "26_1794495520.401234",
+        "id": "8_1794520113.52772",
         "card_id": "Q_2075640740537963785",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 57
+          "answer_count": 68
         },
         "target": {
           "title_area": {
@@ -503931,7 +504033,7 @@
             "url": "https://pic1.zhimg.com/50/v2-ccbef798666d91e2e848d9edeb8bd0c0_b.jpg"
           },
           "metrics_area": {
-            "text": "109 万热度",
+            "text": "120 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -503946,7 +504048,7 @@
             "url": "https://www.zhihu.com/question/2075640740537963785"
           }
         },
-        "attached_info": "CkkIjZDBpIKFmaYZEAMaCTEyMTA3MDM3MiD0ybXUBjAAOH5AGnITMjA3NTY0MDc0MDUzNzk2Mzc4NXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTA3MDM3MiD0ybXUBjAAOOIBQAhyEzIwNzU2NDA3NDA1Mzc5NjM3ODV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -503954,6 +504056,12 @@
           "rank": 27,
           "heat_text": "109 万热度",
           "heat_value": 1090000
+        },
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 9,
+          "heat_text": "120 万热度",
+          "heat_value": 1200000
         }
       ]
     },
@@ -504119,6 +504227,681 @@
           "rank": 30,
           "heat_text": "98 万热度",
           "heat_value": 980000
+        }
+      ]
+    },
+    {
+      "key": "Q_2104319975074656932",
+      "title": "刘欢死因首次曝光，系感染性休克，生前与膀胱癌斗争十几年，膀胱癌有多危险？该怎样预防？",
+      "url": "https://www.zhihu.com/question/2104319975074656932",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "323 万热度",
+      "latest_heat_value": 3230000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1794520113.45879",
+        "card_id": "Q_2104319975074656932",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 34
+        },
+        "target": {
+          "title_area": {
+            "text": "刘欢死因首次曝光，系感染性休克，生前与膀胱癌斗争十几年，膀胱癌有多危险？该怎样预防？"
+          },
+          "excerpt_area": {
+            "text": "11 月 12 日，水均益账号发布视频：《他是这样的人》——谨致所有对刘欢或喜爱、或怀念、或尊重的人。视频中称：大家爱戴的音乐家刘欢先生已于 11 月 12 日安葬北京，长眠于长城脚下。受刘欢夫人卢璐女士的委托，特转发卢璐女士的一封公开信。 水均益：《他是这样的人》—谨致所有对刘欢或喜爱、或怀念、或尊重的人"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-f294bcb155f6e56af38e560ec90cd03f.png"
+          },
+          "metrics_area": {
+            "text": "323 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2104319975074656932"
+          }
+        },
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTk0NTE1OSCS9dbXBjAAOLkBQAFyEzIxMDQzMTk5NzUwNzQ2NTY5MzJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 2,
+          "heat_text": "323 万热度",
+          "heat_value": 3230000
+        }
+      ]
+    },
+    {
+      "key": "Q_2104342766322808640",
+      "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
+      "url": "https://www.zhihu.com/question/2104342766322808640",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "308 万热度",
+      "latest_heat_value": 3080000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1794520113.46659",
+        "card_id": "Q_2104342766322808640",
+        "feed_specific": {
+          "answer_count": 42
+        },
+        "target": {
+          "title_area": {
+            "text": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "308 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2104342766322808640"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTk0NTgxMiDMn9fXBjAAOG5AAnITMjEwNDM0Mjc2NjMyMjgwODY0MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 3,
+          "heat_text": "308 万热度",
+          "heat_value": 3080000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103997936267019794",
+      "title": "如何看待 28 岁中国留学毕业生在墨尔本遇袭，两根手指被砍断，膝盖被砍伤，还遭朋友卷走 5.4 万澳元医药费？",
+      "url": "https://www.zhihu.com/question/2103997936267019794",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "150 万热度",
+      "latest_heat_value": 1500000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1794520113.49626",
+        "card_id": "Q_2103997936267019794",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 38
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待 28 岁中国留学毕业生在墨尔本遇袭，两根手指被砍断，膝盖被砍伤，还遭朋友卷走 5.4 万澳元医药费？"
+          },
+          "excerpt_area": {
+            "text": "11 月 11 日，一名在澳大利亚墨尔本的中国留学毕业生在社交媒体发文称，他在当地遭人持刀袭击后，还被朋友劳拉（中文化名：吴某某）骗走了 54000 澳元，「这笔钱是我的手术和医药费用，目前朋友已卷款跑路失联，我已在当地报警，并尝试联系中国驻墨尔本总领馆寻求帮助。」 方先生被砍伤照片 方先生被砍伤照片 该名留学生方先生告诉极目新闻记者，他是石家庄人，今年 28 岁，此前在墨尔本蒙纳士大学留学，目前已经毕业了。11 月 8 日凌晨，他受邀来到房东的公寓打扑克，其间因为经济纠纷和房东发生了一些小的争执，房东邀请的其他朋友为替房东出头就和方先生打了起来，其中一人冲进厨房拿刀砍伤了方先生的膝盖，并砍断了他的两根手指。方先生表示，袭击他的人林某此前有犯罪前科，还上过当地的新闻。事发后，林某就逃跑了，目前警方还在追查其下落。 事发后，方先生向家人朋友筹集医药费用 54000 澳元，「我在澳大利亚只有一张当地的银行卡，并且之前丢失了一直没有去补办，我就让家人朋友先将这笔钱转到了劳拉的银行账号中，想着让她帮我交一下医药费用，没想到她收到钱之后就再也联系不上了。」方先生表示，劳拉是他在当地认识的一名中国留学生，已经认识有四五个月的时间，此前他们两人关系一直比较好，对她也比较信任，没想到对方会做这样的事情。记者随后尝试加劳拉的微信，但对方一直没有通过，其在国内的家人手机也处于关机状态。 劳拉代收方先生的钱转账截图 方先生和劳拉的聊天记录 方先生和劳拉的聊天记录 方先生和劳拉的聊天记录 方先生的朋友 suki 表示，事发后她一直在医院照顾方先生的日常生活，并帮他联系对接当地警方，进行案件调查，抓捕袭击者林某，追回被骗钱款。之后她还向记者展示了她与警方的邮件往来。邮件中，suki 向警方讲述了事件的前因后果，警方回复称，等方先生身体状况好之后，需要来墨尔本西区警察局做笔录，会帮其追回被骗钱款。 方先生朋友和澳大利亚警方邮件记录 方先生朋友和警方邮件记录 方先生朋友和警方邮件记录 28 岁中国留学毕业生在墨尔本遇袭，两根手指被砍断，膝盖被砍伤，事后又遭朋友背刺，亲友筹集的 54000 澳元医药费被对方卷走 _ 腾讯新闻"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/v2-5d8a17552238cc08b679aed254d5bf10_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "150 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103997936267019794"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTkzNTUyMiCmndLXBjAAOGxABXITMjEwMzk5NzkzNjI2NzAxOTc5NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 6,
+          "heat_text": "150 万热度",
+          "heat_value": 1500000
+        }
+      ]
+    },
+    {
+      "key": "Q_2104130661825122762",
+      "title": "杨世光 2026-11-11 确切的说国产 EUV2027 年 8 月发布，如何看待这个消息？",
+      "url": "https://www.zhihu.com/question/2104130661825122762",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "135 万热度",
+      "latest_heat_value": 1350000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1794520113.51632",
+        "card_id": "Q_2104130661825122762",
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "杨世光 2026-11-11 确切的说国产 EUV2027 年 8 月发布，如何看待这个消息？"
+          },
+          "excerpt_area": {
+            "text": "明年发布之后，2028 年量产，2030 年开始量产两纳米芯片。同时表示台积电股票会腰斩在腰斩。"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "135 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2104130661825122762"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTkzNjc4MiDClNTXBjAAOE9ABnITMjEwNDEzMDY2MTgyNTEyMjc2MngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 7,
+          "heat_text": "135 万热度",
+          "heat_value": 1350000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103258099138172807",
+      "title": "如何看待 2026 年 10 月特斯拉国内销量暴跌？",
+      "url": "https://www.zhihu.com/question/2103258099138172807",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "105 万热度",
+      "latest_heat_value": 1050000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1794520113.53047",
+        "card_id": "Q_2103258099138172807",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 54
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待 2026 年 10 月特斯拉国内销量暴跌？"
+          },
+          "excerpt_area": {
+            "text": "2026 年 10 月，国内特斯拉销量仅有 8817 辆，相比于 9 月的 64837 辆，下降幅度高达 86.5%，仅有上个月的七分之一。 整个特斯拉品牌的总销量仅略高于零跑的十分之一，甚至不及东风旗下的岚图和早就半死不活的长安马自达。 其中，Model Y 销量仅有 7807，Model 3 销量仅有 1010。"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "105 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103258099138172807"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTkxNDkyNSCfu8fXBjAAOEpACXITMjEwMzI1ODA5OTEzODE3MjgwN3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 10,
+          "heat_text": "105 万热度",
+          "heat_value": 1050000
+        }
+      ]
+    },
+    {
+      "key": "Q_2101800244514121260",
+      "title": "成都成中国唯一入选美国《国家地理》全球最佳旅行地城市，凭什么吸引世界目光？",
+      "url": "https://www.zhihu.com/question/2101800244514121260",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "92 万热度",
+      "latest_heat_value": 920000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1794520113.54746",
+        "card_id": "Q_2101800244514121260",
+        "feed_specific": {
+          "answer_count": 31
+        },
+        "target": {
+          "title_area": {
+            "text": "成都成中国唯一入选美国《国家地理》全球最佳旅行地城市，凭什么吸引世界目光？"
+          },
+          "excerpt_area": {
+            "text": "近日，美国《国家地理》（National Geographic）公布了「2027 年全球最佳旅行目的地」（Best of the World 2027）榜单。由全球旅行撰稿人、摄影师、探险家及编辑共同甄选 25 个目的地，横跨六大洲。其中，成都成功入选，成为唯一上榜的中国城市！ 从挪威的峡湾，到埃及的古老神庙，再到中国成都的千年文明，世界各地的独特风景与文化魅力，构成了这份 2027 年的环球旅行灵感清单。 提起成都，海外游客首先想到的，或是憨态可掬的大熊猫，或是麻辣鲜香的火锅。但这一次，美国《国家地理》将目光投向了成都更为深远的历史。文章以古蜀文明为切入点，讲述了一段跨越千年的考古传奇。广汉的一次偶然发现，让神秘的古蜀文明逐渐重现于世人面前。三星堆出土的黄金面具、青铜立人像、象牙等珍贵文物，以令人惊叹的造型和工艺，向世界展示了古蜀先民非凡的想象力与创造力。在金沙遗址，距今约 3000 年的太阳神鸟金饰，则以四只神鸟环绕太阳飞翔的精美图案，成为中国文化遗产的重要象征。 资料图 从三星堆到金沙，这些穿越千年的文明印记，正吸引着越来越多来自世界各地的探索者。来到成都，不仅是看一座城市，更是开启一场跨越千年的文明探索。 美国《国家地理》笔下的成都，是一座充满烟火气、昼夜不息的城市。从有着 160 多年历史的陈麻婆豆腐，到深夜依然排着长队的五里关火锅；从令人拍案叫绝的川剧变脸，到融合本地风味与创意调酒的城市酒吧…成都的魅力，藏在每一种味道、每一处街巷、每一个寻常而生动的生活瞬间里。 从大熊猫到火锅，从三星堆到金沙，从传统川剧到创意餐饮…美国《国家地理》的此次推荐，让世界看到了一个更加立体、多元的成都。这里既有值得探寻的古老文明，也有触手可及的现代生活；既能让人惊叹于历史的深邃，也能让人沉浸于当下的美好。 对于全球旅行者而言，成都不仅是一座值得打卡的旅游城市，更是一座值得放慢脚步、深入体验的生活之城。 中国唯一！成都上榜美国《国家地理》 「2027 年全球最佳旅行目的地」"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "92 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2101800244514121260"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTg3NTA1NiDjn7LXBjAAOElADHITMjEwMTgwMDI0NDUxNDEyMTI2MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 13,
+          "heat_text": "92 万热度",
+          "heat_value": 920000
+        }
+      ]
+    },
+    {
+      "key": "Q_2089365159668093568",
+      "title": "你支持小区取消物业，实行业主自治管理吗？",
+      "url": "https://www.zhihu.com/question/2089365159668093568",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1794520113.56822",
+        "card_id": "Q_2089365159668093568",
+        "feed_specific": {
+          "answer_count": 121
+        },
+        "target": {
+          "title_area": {
+            "text": "你支持小区取消物业，实行业主自治管理吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2089365159668093568"
+          }
+        },
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTUzNjg4NSDQpf3VBjAAOI0BQA1yEzIwODkzNjUxNTk2NjgwOTM1Njh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 14,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103879116948771823",
+      "title": "怎么看 Anthropic IPO 提到 Claude 适配全芯片训练和推理，接入 AMD 只用 3 天？",
+      "url": "https://www.zhihu.com/question/2103879116948771823",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1794520113.57755",
+        "card_id": "Q_2103879116948771823",
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看 Anthropic IPO 提到 Claude 适配全芯片训练和推理，接入 AMD 只用 3 天？"
+          },
+          "excerpt_area": {
+            "text": "Claude 已经在 4 大主流芯片上训练和运行：AWS TrainiumGoogle TPUsNVIDIA GPUsAMD GPUs 他们把这些不同厂商、不同架构的芯片当成一个「可互换的算力池」（Fungible compute pool），按性价比灵活调度，不再被单一供应商绑死。 之前用 Mythos 第一次接入 AMD GPU 的时候，只用了大约 3 天 就把模型跑通了，几乎不需要人工干预（内核几乎是 Claude 自己移植 / 重写的）。 "
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-83e72e7b35f14c450d71205be35a0147_b.jpg"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103879116948771823"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTkzMTUyNSD9v9DXBjAAOExADnITMjEwMzg3OTExNjk0ODc3MTgyM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 15,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2104242987278546098",
+      "title": "如何评价黄仁勋任职英伟达 CEO 期间的全部贡献？",
+      "url": "https://www.zhihu.com/question/2104242987278546098",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "82 万热度",
+      "latest_heat_value": 820000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1794520113.59836",
+        "card_id": "Q_2104242987278546098",
+        "feed_specific": {
+          "answer_count": 96
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价黄仁勋任职英伟达 CEO 期间的全部贡献？"
+          },
+          "excerpt_area": {
+            "text": "英伟达董事会批准黄仁勋辞任 CEO，印度裔高管 Jay Puri 将接任 加利福尼亚州圣克拉拉，11 月 12 日电 ——据知情人士透露，英伟达（NASDAQ：NVDA）董事会已于当地时间周三早些时候召开特别会议，正式批准公司联合创始人黄仁勋辞去首席执行官职务的申请，并一致投票决定，由印度裔高级管理人员 Jay Puri 接任公司首席执行官，该任命将于董事会完成相关交接程序后正式生效。 据悉，黄仁勋在内部会议上表示，随着英伟达逐步从传统半导体制造商转型为全球人工智能基础设施的核心供应商，公司需要一位能够适应下一阶段战略发展的领导者。Jay Puri 随后发表简短声明，对黄仁勋的决定表示充分尊重，并感谢董事会给予的信任。他强调，英伟达现有的人工智能发展战略不会发生根本性改变，公司将继续致力于加速计算、数据中心及生成式人工智能领域的长期投资。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-a6ab6a43ed1e871031b8fec9012eb329.png"
+          },
+          "metrics_area": {
+            "text": "82 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2104242987278546098"
+          }
+        },
+        "attached_info": "CkoI16iWwuPthbB6EAMaCTEyMTk0MTg4MCDf5dXXBjAAOIoCQBByEzIxMDQyNDI5ODcyNzg1NDYwOTh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 17,
+          "heat_text": "82 万热度",
+          "heat_value": 820000
+        }
+      ]
+    },
+    {
+      "key": "Q_2078455553186125475",
+      "title": "关羽傲，张飞烈，这两个人为何从未真正「合不来」？",
+      "url": "https://www.zhihu.com/question/2078455553186125475",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "80 万热度",
+      "latest_heat_value": 800000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1794520113.67865",
+        "card_id": "Q_2078455553186125475",
+        "feed_specific": {
+          "answer_count": 30
+        },
+        "target": {
+          "title_area": {
+            "text": "关羽傲，张飞烈，这两个人为何从未真正「合不来」？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "80 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2078455553186125475"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTE3MDA0NCDzxN7UBjAAODZAE3ITMjA3ODQ1NTU1MzE4NjEyNTQ3NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 20,
+          "heat_text": "80 万热度",
+          "heat_value": 800000
+        }
+      ]
+    },
+    {
+      "key": "Q_667695423",
+      "title": "虾真正好吃的做法是什么？",
+      "url": "https://www.zhihu.com/question/667695423",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "76 万热度",
+      "latest_heat_value": 760000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1794520113.74511",
+        "card_id": "Q_667695423",
+        "feed_specific": {
+          "answer_count": 44
+        },
+        "target": {
+          "title_area": {
+            "text": "虾真正好吃的做法是什么？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-25a7c1c81552d8c476157e9dac0a53b9_b.jpg"
+          },
+          "metrics_area": {
+            "text": "76 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/667695423"
+          }
+        },
+        "attached_info": "Cj8I16iWwuPthbB6EAMaCTExMDY1NDY4NSDag7W3BjAAOFlAF3IJNjY3Njk1NDIzeACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 24,
+          "heat_text": "76 万热度",
+          "heat_value": 760000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103951417606252068",
+      "title": "张雪称员工今年工资大概率普涨 10%，每年固定普涨，这样的薪酬机制优势在哪？",
+      "url": "https://www.zhihu.com/question/2103951417606252068",
+      "first_seen": "2026-11-13 05:48:33 +0800",
+      "last_seen": "2026-11-13 05:48:33 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1794520113.75929",
+        "card_id": "Q_2103951417606252068",
+        "feed_specific": {
+          "answer_count": 17
+        },
+        "target": {
+          "title_area": {
+            "text": "张雪称员工今年工资大概率普涨 10%，每年固定普涨，这样的薪酬机制优势在哪？"
+          },
+          "excerpt_area": {
+            "text": "11 月 11 日，张雪表示：「张雪机车今年工资大概率会普涨 10%。普涨是每年固定的，但今年会拉得稍微高一点。」 据央视财经报道，张雪机车第 10 万台整车在重庆生产基地正式下线，提前实现今年 9 月摩博会提出的年末 10 万台产量目标。自 2025 年 3 月首台量产车下线以来，张雪机车产能持续爬坡：首月产量 1723 台，2025 年 11 月达 3000 台，2026 年 4 月达 5000 台，6 月突破 1 万台。 近日，张雪机车校招年薪 10 万起被嫌低一事，也冲上热搜。 据 21 世纪经济报道此前消息，11 月初，张雪在重庆大学校招时，薪资方案在现场引发部分学生质疑，被认为低于预期。张雪举例「老员工十年逆袭、持股估值 3000 万」的案例证明长期成长空间后，部分媒体评价称其「透着一种错位的傲慢」。11 月 3 日，张雪发布视频称：「还傲慢上了。难道选择不是双向的吗？你不能逼我把应届生工资提到 20 万，就像我不能逼你来上班一样。」 谈及此次舆论风波，他认为「这就是有些主播为了流量而狂奔制造出来的热搜事件」。在他看来，实际上根本就不存在学生高傲，企业傲慢的问题。张雪称员工今年工资大概率普涨 10%，普涨是每年固定的；此前张雪机车校招被指傲慢，张雪回怼：你不能逼我把应届生工资提到 20 万元"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103951417606252068"
+          }
+        },
+        "attached_info": "CkkI16iWwuPthbB6EAMaCTEyMTkzNDM4OCDTxtHXBjAAOBdAGHITMjEwMzk1MTQxNzYwNjI1MjA2OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-13 05:48:33 +0800",
+          "rank": 25,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
         }
       ]
     }
