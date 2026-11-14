@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14 21:01:49 +0800",
+  "generated_at": "2026-11-15 03:44:29 +0800",
   "totals": {
-    "day_count": 234,
-    "topic_record_count": 13940,
-    "unique_topic_count": 11669,
-    "history_point_count": 21900,
-    "v2_file_count": 109,
+    "day_count": 235,
+    "topic_record_count": 13970,
+    "unique_topic_count": 11681,
+    "history_point_count": 21930,
+    "v2_file_count": 110,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -2216,6 +2216,15 @@
       "history_point_count": 90,
       "top_topic_title": "美国因出现特殊情况及安全原因，所有航班一度暂停起飞，目前停飞令已解除，具体情况如何？造成影响有多大？",
       "top_topic_url": "https://www.zhihu.com/question/2104838863910690956"
+    },
+    {
+      "date": "2026-11-15",
+      "total_heat_value": 35100000,
+      "max_heat_value": 4990000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "多地网约车司机称被特惠车、一口价订单逼「疯」，不开特惠单就变少，怎样才能让乘客打车实惠、司机有单可接？",
+      "top_topic_url": "https://www.zhihu.com/question/2104661988609614131"
     }
   ]
 }
