@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19 19:11:36 +0800",
+  "generated_at": "2026-11-20 04:00:50 +0800",
   "totals": {
-    "day_count": 239,
-    "topic_record_count": 14291,
-    "unique_topic_count": 11972,
-    "history_point_count": 22320,
-    "v2_file_count": 114,
+    "day_count": 240,
+    "topic_record_count": 14321,
+    "unique_topic_count": 11984,
+    "history_point_count": 22350,
+    "v2_file_count": 115,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -2261,6 +2261,15 @@
       "history_point_count": 90,
       "top_topic_title": "为什么大家这么关注 APEC 会议？",
       "top_topic_url": "https://www.zhihu.com/question/2105936986515171184"
+    },
+    {
+      "date": "2026-11-20",
+      "total_heat_value": 98150000,
+      "max_heat_value": 33660000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "中俄美元首发表和平宣言，三国元首重申核战争打不赢也打不得，哪些信息值得重点关注？",
+      "top_topic_url": "https://www.zhihu.com/question/2106822157141534109"
     }
   ]
 }
