@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20 18:58:04 +0800",
+  "generated_at": "2026-11-21 03:39:45 +0800",
   "totals": {
-    "day_count": 240,
-    "topic_record_count": 14368,
-    "unique_topic_count": 12030,
-    "history_point_count": 22410,
-    "v2_file_count": 115,
+    "day_count": 241,
+    "topic_record_count": 14398,
+    "unique_topic_count": 12045,
+    "history_point_count": 22440,
+    "v2_file_count": 116,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -90,6 +90,16 @@
       "heat_value": 57970000
     },
     {
+      "date": "2026-11-21",
+      "title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+      "url": "https://www.zhihu.com/question/2107239235015263538",
+      "key": "Q_2107239235015263538",
+      "rank": 1,
+      "observed_at": "2026-11-21 03:39:43 +0800",
+      "heat_text": "5752 万热度",
+      "heat_value": 57520000
+    },
+    {
       "date": "2026-09-27",
       "title": "中美达成八点成果共识，达成「300 亿美元」对等降税安排，哪些信息值得重点关注？",
       "url": "https://www.zhihu.com/question/2087214676530525535",
@@ -98,16 +108,6 @@
       "observed_at": "2026-09-27 11:58:54 +0800",
       "heat_text": "5581 万热度",
       "heat_value": 55810000
-    },
-    {
-      "date": "2026-04-24",
-      "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
-      "url": "https://www.zhihu.com/question/2030963929510310856",
-      "key": "Q_2030963929510310856",
-      "rank": 1,
-      "observed_at": "2026-04-24 00:00:00 +0800",
-      "heat_text": "5519 万热度",
-      "heat_value": 55190000
     }
   ],
   "daily_series": [
@@ -2270,6 +2270,15 @@
       "history_point_count": 90,
       "top_topic_title": "如何看待马斯克离开深圳，突访上海？",
       "top_topic_url": "https://www.zhihu.com/question/2106907755730814315"
+    },
+    {
+      "date": "2026-11-21",
+      "total_heat_value": 104320000,
+      "max_heat_value": 57520000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
+      "top_topic_url": "https://www.zhihu.com/question/2107239235015263538"
     }
   ]
 }
