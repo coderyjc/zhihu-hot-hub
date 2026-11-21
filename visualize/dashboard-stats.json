@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21 18:41:06 +0800",
+  "generated_at": "2026-11-22 02:45:33 +0800",
   "totals": {
-    "day_count": 241,
-    "topic_record_count": 14441,
-    "unique_topic_count": 12087,
-    "history_point_count": 22500,
-    "v2_file_count": 116,
+    "day_count": 242,
+    "topic_record_count": 14471,
+    "unique_topic_count": 12101,
+    "history_point_count": 22530,
+    "v2_file_count": 117,
     "legacy_file_count": 125
   },
   "top_heat_points": [
@@ -2279,6 +2279,15 @@
       "history_point_count": 90,
       "top_topic_title": "数学家称与 AI 合作证明了黎曼猜想，证明稿超 25 万页，黎曼猜想真的被解决了吗？",
       "top_topic_url": "https://www.zhihu.com/question/2107239235015263538"
+    },
+    {
+      "date": "2026-11-22",
+      "total_heat_value": 59860000,
+      "max_heat_value": 7150000,
+      "topic_count": 30,
+      "history_point_count": 30,
+      "top_topic_title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
+      "top_topic_url": "https://www.zhihu.com/question/2107262299765306294"
     }
   ]
 }
