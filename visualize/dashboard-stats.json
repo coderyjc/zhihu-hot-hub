@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22 02:45:33 +0800",
+  "generated_at": "2026-11-22 08:58:43 +0800",
   "totals": {
     "day_count": 242,
-    "topic_record_count": 14471,
-    "unique_topic_count": 12101,
-    "history_point_count": 22530,
+    "topic_record_count": 14487,
+    "unique_topic_count": 12117,
+    "history_point_count": 22560,
     "v2_file_count": 117,
     "legacy_file_count": 125
   },
@@ -2282,12 +2282,12 @@
     },
     {
       "date": "2026-11-22",
-      "total_heat_value": 59860000,
-      "max_heat_value": 7150000,
-      "topic_count": 30,
-      "history_point_count": 30,
-      "top_topic_title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
-      "top_topic_url": "https://www.zhihu.com/question/2107262299765306294"
+      "total_heat_value": 68850000,
+      "max_heat_value": 14040000,
+      "topic_count": 46,
+      "history_point_count": 60,
+      "top_topic_title": "Lean 与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+      "top_topic_url": "https://www.zhihu.com/question/2107620110105932525"
     }
   ]
 }
