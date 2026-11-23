@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-11-23 09:25:05 +0800",
+  "updated_at": "2026-11-23 19:52:59 +0800",
   "items": [
     {
       "key": "Q_2107908002430677964",
@@ -2532,6 +2532,1701 @@
           "rank": 30,
           "heat_text": "57 万热度",
           "heat_value": 570000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108116147598054620",
+      "title": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？",
+      "url": "https://www.zhihu.com/question/2108116147598054620",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "1349 万热度",
+      "latest_heat_value": 13490000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1795434778.970357",
+        "card_id": "Q_2108116147598054620",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 101
+        },
+        "target": {
+          "title_area": {
+            "text": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？"
+          },
+          "excerpt_area": {
+            "text": "Jenny Lorraine Nielsen 在 PhilArchive(哲学领域的开放论文预印本平台) 发布了一片 《Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis》论文，核心是质疑 Alpöge 的黎曼猜想证明作弊，她抓住的是 Lean 代码里一个很有意思的地方：def anyGeometry : GeoP := fun _ _ _ => True 所以他怀疑代码里存在作弊的问题。 "
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-43c5ad0820def49b6edb7025395bc3f2.png"
+          },
+          "metrics_area": {
+            "text": "1349 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108116147598054620"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjA0Nzg3MyCIlI7YBjAAOPICQAByEzIxMDgxMTYxNDc1OTgwNTQ2MjB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 1,
+          "heat_text": "1349 万热度",
+          "heat_value": 13490000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108134885441396854",
+      "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
+      "url": "https://www.zhihu.com/question/2108134885441396854",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "672 万热度",
+      "latest_heat_value": 6720000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1795434778.972167",
+        "card_id": "Q_2108134885441396854",
+        "feed_specific": {
+          "answer_count": 253
+        },
+        "target": {
+          "title_area": {
+            "text": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？"
+          },
+          "excerpt_area": {
+            "text": "11 月 22 日，张雪在广东珠海国际赛车场接受采访时表示，计划明年推出针对外卖骑手的电动摩托车。 张雪表示，可能会出两个版本，一个里程续航 100km 的，一个 150km 的，能涵盖 99% 外卖小哥的需求。「补能时间目标是 10 分钟！吃个午饭的时间，你的车就补能好了！」 其表示，通过计算，价格最低只能做到 1 万元左右，续航长的版本可能 1.5 万元左右。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-d600beae14d68dda5c9d199b3c50936c.png"
+          },
+          "metrics_area": {
+            "text": "672 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108134885441396854"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjA0ODU0MyD7to7YBjAAOOoCQAFyEzIxMDgxMzQ4ODU0NDEzOTY4NTR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 2,
+          "heat_text": "672 万热度",
+          "heat_value": 6720000
+        }
+      ]
+    },
+    {
+      "key": "Q_2105195950671245354",
+      "title": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？",
+      "url": "https://www.zhihu.com/question/2105195950671245354",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 3,
+      "latest_rank": 3,
+      "latest_heat_text": "336 万热度",
+      "latest_heat_value": 3360000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "2_1795434778.973235",
+        "card_id": "Q_2105195950671245354",
+        "feed_specific": {
+          "answer_count": 251
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？"
+          },
+          "excerpt_area": {
+            "text": "[2 张图片]"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-2a1d58f1ca9867dc1fd8d558d378cb28.png"
+          },
+          "metrics_area": {
+            "text": "336 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2105195950671245354"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMTk2NzAxOCDj1OPXBjAAOIcDQAJyEzIxMDUxOTU5NTA2NzEyNDUzNTR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 3,
+          "heat_text": "336 万热度",
+          "heat_value": 3360000
+        }
+      ]
+    },
+    {
+      "key": "Q_2105992057642865192",
+      "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
+      "url": "https://www.zhihu.com/question/2105992057642865192",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "298 万热度",
+      "latest_heat_value": 2980000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1795434778.974233",
+        "card_id": "Q_2105992057642865192",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 228
+        },
+        "target": {
+          "title_area": {
+            "text": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？"
+          },
+          "excerpt_area": {
+            "text": "11 月 16 日，安徽芜湖通和世纪之光一期小区，一名高空作业人员的安全绳被割断，现场视频引发关注。17 日下午，极目新闻记者从辖区派出所了解到，此事正在处理中。 视频显示，这名工人被挂在高楼处，楼下有消防救援车辆到场。 小区物业工作人员接受媒体采访时称，当事工人系开发商售后施工队的员工，事发时他们正在高空进行放水维修作业。发现安全绳被割断以后，工人自己报了警，随后被及时救下。通过监控排查，发现此事系 5 楼一名住户所为。 11 月 17 日下午，极目新闻记者联系到辖区湾沚派出所，接线人员表示，此事目前正在处理中。 陕西恒达律师事务所高级合伙人、知名公益律师赵良善分析认为，住户割断正在作业工人的安全绳，首先要区分主观认知。如果住户明知有工人正在高空作业，仍然切割安全绳，即便本次工人没有坠落受伤，依据《中华人民共和国刑法》第二百三十四条，涉嫌故意伤害罪（未遂）；若主观上追求工人死亡后果，则可涉嫌故意杀人罪（未遂）；如果其放任危害结果、危害不特定多数人安全，则可涉嫌以危险方法危害公共安全罪。 芜湖一高空作业人员安全绳被住户割断，警方介入，律师：或构成刑事犯罪 _ 凤凰网芜湖一高空作业人员安全绳被住户割断，警方介入，律师：或构成刑事犯罪"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-2d88589dad56e0cfbd6d01109f14af97_b.jpg"
+          },
+          "metrics_area": {
+            "text": "298 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2105992057642865192"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMTk4OTQ0MiDRn+/XBjAAOLMDQANyEzIxMDU5OTIwNTc2NDI4NjUxOTJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 4,
+          "heat_text": "298 万热度",
+          "heat_value": 2980000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107780639281735166",
+      "title": "余文乐自曝因长期高压患上恐慌症，严重到不能开车，心理压力为何会引发躯体化症状？这种情况还能治愈吗？",
+      "url": "https://www.zhihu.com/question/2107780639281735166",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 5,
+      "latest_rank": 5,
+      "latest_heat_text": "238 万热度",
+      "latest_heat_value": 2380000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "4_1795434778.975786",
+        "card_id": "Q_2107780639281735166",
+        "feed_specific": {
+          "answer_count": 98
+        },
+        "target": {
+          "title_area": {
+            "text": "余文乐自曝因长期高压患上恐慌症，严重到不能开车，心理压力为何会引发躯体化症状？这种情况还能治愈吗？"
+          },
+          "excerpt_area": {
+            "text": "近日，余文乐在节目中自曝，二十到三十岁时他处于爆红期时，因长期身处高压负面环境。他曾因恐慌症引发严重躯体化症状，会在开车途中突然手抖、冒冷汗无法呼吸，只能紧急靠边停车，此后不敢再开车，甚至害怕坐飞机。 年少意气风发之时，余文乐怀揣热烈的理想，立志三十岁之前拿下最佳男演员。那是属于少年时代的向往。历经岁月流转，内心状态悄然改变，他主动选择放缓脚步，调整自己的生活节奏。这个决定，意味着很难再重回事业曾经的高处。对此余文乐清醒并且坦然接纳这样的现实，愿意为自己的决定承担一切结果。虽然行业环境追逐流量热度，但余文乐清楚自己的性格很难适应这样的规则。比起追逐热闹，他更期待能够读懂演员本身的导演，静待契合自己内心状态的合作。 余文乐过往多次经历采访被断章取义，个人表达被随意曲解，他便选择长期拒绝访谈。哪怕会错失曝光的机遇，也不愿违背自己的感受勉强出镜。 据公开资料，余文乐 1981 年 11 月 13 日出生于中国香港，影视演员、流行乐歌手。代表作品有《男儿本色》《志明与春娇》《头文字 D》等。2017 年 12 月 5 日，余文乐宣布与中国台湾女星王棠云结婚。2018 年 5 月 10 日，余文乐与王棠云的儿子出生。2020 年 12 月 5 日，两人的女儿出生。 2026 年 7 月 20 日，演员余文乐发文宣布离婚：我们达成共识，尊重并祝福彼此的人生选择。感谢你作为妈妈作为妻子付出的所有，往后我们永远是家人。 余文乐自曝爆红时长期身处高压负面环境，躯体化严重到不能开车"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-dbf38cabd965ddd7d42bbb08903d255e.png"
+          },
+          "metrics_area": {
+            "text": "238 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107780639281735166"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjAzODg1MiCRo4nYBjAAOI0CQARyEzIxMDc3ODA2MzkyODE3MzUxNjZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 5,
+          "heat_text": "238 万热度",
+          "heat_value": 2380000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108174894781445223",
+      "title": "GLM-5.4 已经在 GLM Coding Plan 中上线，有何技术亮点？",
+      "url": "https://www.zhihu.com/question/2108174894781445223",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 6,
+      "latest_rank": 6,
+      "latest_heat_text": "238 万热度",
+      "latest_heat_value": 2380000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "5_1795434778.977487",
+        "card_id": "Q_2108174894781445223",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 53
+        },
+        "target": {
+          "title_area": {
+            "text": "GLM-5.4 已经在 GLM Coding Plan 中上线，有何技术亮点？"
+          },
+          "excerpt_area": {
+            "text": "过去三个月，我们同时激进的 Scaling Loop 和模型大小，大家首先看到的是 Loop Transformer 带来的惊喜。GLM-5.4 新增视觉能力与更强的泛 Coding 能力。"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-d5902b2811e9cad4b3b9b1e62327a408_b.jpg"
+          },
+          "metrics_area": {
+            "text": "238 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108174894781445223"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjA1MTAyNyC+gY/YBjAAOJ0BQAVyEzIxMDgxNzQ4OTQ3ODE0NDUyMjN4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 6,
+          "heat_text": "238 万热度",
+          "heat_value": 2380000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108138922257733070",
+      "title": "樊振东 3:0 零封弗朗西斯卡，率队豪取德甲九连胜，如何评价本场比赛？\n",
+      "url": "https://www.zhihu.com/question/2108138922257733070",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "235 万热度",
+      "latest_heat_value": 2350000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1795434778.978128",
+        "card_id": "Q_2108138922257733070",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 42
+        },
+        "target": {
+          "title_area": {
+            "text": "樊振东 3:0 零封弗朗西斯卡，率队豪取德甲九连胜，如何评价本场比赛？\n"
+          },
+          "excerpt_area": {
+            "text": "樊振东 3-0 弗朗西斯卡（14-12，11-7，11-7）"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-4caaa4cb20edf55b03bab68606d017d6.png"
+          },
+          "metrics_area": {
+            "text": "235 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108138922257733070"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA0ODY4MyC+vo7YBjAAOFRABnITMjEwODEzODkyMjI1NzczMzA3MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 7,
+          "heat_text": "235 万热度",
+          "heat_value": 2350000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107936450423382583",
+      "title": "小学生试卷现 1991 年「张大爷」，经核实为虚构，为啥虚构烂梗能被包装成新闻收割流量？带给我们哪些反思？",
+      "url": "https://www.zhihu.com/question/2107936450423382583",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "233 万热度",
+      "latest_heat_value": 2330000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1795434778.978586",
+        "card_id": "Q_2107936450423382583",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 57
+        },
+        "target": {
+          "title_area": {
+            "text": "小学生试卷现 1991 年「张大爷」，经核实为虚构，为啥虚构烂梗能被包装成新闻收割流量？带给我们哪些反思？"
+          },
+          "excerpt_area": {
+            "text": "「扎心了！‘80 90 后’躲过岁月，却没躲过小学生试卷。」近日，网上流传的试卷上出现 1988 年「张奶奶」、 1991 年「张大爷」。虽然有辟谣平台很快指出这一信息不实，但仍有一些媒体和自媒体创作者跟进，并追问「这年龄设定谁写的」。如此信以为真，显然是被「误导」了。 经多方求证，所谓「小学生试卷」查无城市、查无学校、查无版本。因此，这更像是手搓的搞笑图，再被网民截出来当「教育新闻」反复转发。 这些无中生有的烂梗，依托的仅仅是几张所谓「试卷」的照片。这种拙劣的网络「整蛊」，除了让人感觉手段粗陋、创意贫血，也不禁引人深思：此类烂梗为何层出不穷？炮制者可能是出于好玩，推波助澜者的动力则是博取流量。于是，炮制者无人质疑，跟风者彼此默契，都在助力误导公众的流量泛滥。 还需追问，此类烂梗凭什么实现病毒式传播？这恐怕与平台的算法偏好关系密切。在一些社交媒体平台，越是猎奇的、超出常情的、能戳中年龄焦虑的，越容易得到推荐。平台不生产梗，但特别擅长把吸引用户注意力的东西推荐到位，并形成可复制的模式。至于是否导致假信息跑得比真新闻快、社会信任底座一点点塌掉，有些推荐算法逻辑并不太在乎。 注意力分配，不能让「谁更敢编」来决定。网络空间不能被烂梗占据，不能被假截图带节奏；我们不能被造谣左右，不能被「先转后删」的套路养出惯性，不容手搓的「张奶奶」「张大爷」肆意收割流量。为此，各方责任不能弱化，更不能集体失守。一旦跟着情绪起舞，把截图当线索、把玩梗当选题、把「破防」当结论，后果十分严重。转发前不妨先问一句：靠谱吗？「秦朗巴黎丢作业」的前车之鉴不远，套路没变，只是把作业本换成了试卷，怎能重蹈覆辙？ 当然，这绝非要求每位网民都要变成核查员，但至少可以做到不确定的信息不轻易转发、不轻佻评论、不轻率点赞。刷到「小学生试卷上的张奶奶」时，不妨多几秒「让子弹飞一会儿」。避免被情绪裹挟的套路牵着走，本身就是对烂梗最有效的断流。 「情绪压倒事实」，也许很难绝迹。这需要媒体多按一次溯源键，平台给核验内容一点流量尊严，网民在转发前多问一句「这卷子到底哪来的」，烂梗就不会自动变成新闻，假题就抢不走真问题的座位。 手搓的「张奶奶」「张大爷」轻易收割流量，照见的是流量逻辑对公共信息品质的侵蚀，是信息传播中「快」与「真」之间的失衡，也照见在情绪洪流中守住理性锚点的难度。找出病灶，不让推流淹没溯源求证，不让转发先于核实，不让情绪轻易压倒事实，网络空间才能更加清朗。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-1b841bc148aa2eb32390b2b20a93c6d9.png"
+          },
+          "metrics_area": {
+            "text": "233 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107936450423382583"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA0NTQzMCCtxYvYBjAAOG9AB3ITMjEwNzkzNjQ1MDQyMzM4MjU4M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 8,
+          "heat_text": "233 万热度",
+          "heat_value": 2330000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107184597846975042",
+      "title": "27 岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
+      "url": "https://www.zhihu.com/question/2107184597846975042",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "221 万热度",
+      "latest_heat_value": 2210000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1795434778.980187",
+        "card_id": "Q_2107184597846975042",
+        "feed_specific": {
+          "answer_count": 144
+        },
+        "target": {
+          "title_area": {
+            "text": "27 岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？"
+          },
+          "excerpt_area": {
+            "text": "11 月 20 日，清华大学精密仪器系官网发布消息，庞众望的博士学位论文答辩会顺利举行。 这是答辩结束后，答辩委员会成员与庞众望合影。（图源：清华大学精密仪器系官网） 文章写道：初冬的清华园，银杏铺金，书香萦绕。11 月 19 日上午，庞众望的博士学位论文答辩会在清华大学精密仪器系举行。他以《光纤干涉仪光学相位噪声测量技术及应用》为题，系统汇报了博士阶段的研究工作与创新成果。 中国工程院院士周建华研究员担任答辩委员会主席；清华大学柳强教授、曹良才教授，北京量子信息科学研究院杨仁福研究员，清华大学王波副教授担任答辩委员会委员；清华大学徐东工程师担任答辩秘书。 从激光相位噪声的精密测量，到城市交通振动的探测定位，再到既有通信网络感知功能的拓展，庞众望围绕光纤干涉仪中的光学相位噪声测量技术，开展了理论方法与应用研究。报告中，他详细介绍了研究背景、关键问题、技术方法、实验结果等三方面创新成果。 答辩结束后，庞众望向导师、答辩委员会专家、课题组师生及家人朋友表达了诚挚的感谢。他表示，博士阶段的学习与研究不仅提升了自己的学术能力、拓宽了学术视野，也使自己思考问题更加深入、全面。未来，他将带着这份积累与收获，继续潜心钻研，在科研探索的道路上不断前行。 庞众望（资料图） 资料显示，庞众望 1999 年出生于河北省沧州市吴桥县。庞众望的父亲是一位精神分裂症患者，母亲下肢残疾，行动不便。面对家庭的重担，庞众望一边勤于学业，一边照料家庭。 庞众望曾因先天性心脏病命悬一线，曾为母亲住院挨家挨户借钱，也曾为还债捡废品赚钱，但他一直以积极乐观的心态拥抱生活。 2017 年高考，他考出了理科 684 分的成绩，并获得清华大学「自强计划」最高 60 分的降分录取资格。 2021 年，本科毕业后，庞众望继续留在清华大学精密仪器系攻读博士学位（直博），他多次获得清华大学奖学金，还被评选为 2022 年度「中国大学生自强之星」，入选《感动中国》2024 年度人物、清华大学 2025 年学生年度人物。 博士研究生期间，庞众望除了发表 SCI（科学引文索引）论文，还获得了国家发明专利三项，他从事的光网络信息感知相关研究，面向的是国家重大科技需求。 庞众望说，回顾自己的人生经历，目前让他骄傲的一个是高考，一个是科研，「在更长远的未来里能让我骄傲的，不会只是这两件事情，值得我骄傲的东西还在未来等着我。」"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-aa90599237ea8988fa5a969946d1b7f2_b.jpg"
+          },
+          "metrics_area": {
+            "text": "221 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107184597846975042"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjAyNTc1MCD1zIDYBjAAOOgDQAhyEzIxMDcxODQ1OTc4NDY5NzUwNDJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 9,
+          "heat_text": "221 万热度",
+          "heat_value": 2210000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107183345205626254",
+      "title": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？",
+      "url": "https://www.zhihu.com/question/2107183345205626254",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "209 万热度",
+      "latest_heat_value": 2090000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1795434778.982033",
+        "card_id": "Q_2107183345205626254",
+        "feed_specific": {
+          "answer_count": 137
+        },
+        "target": {
+          "title_area": {
+            "text": "DeepSeek 推出限额规则，不少重度免费用户主动求付费保留长对话，这暴露出哪些行业现实问题？"
+          },
+          "excerpt_area": {
+            "text": "「我已经跟 DeepSeek 聊了 15 万～20 万字了，我不想失去这段对话。」 「D 老师，不要抛弃我！作为一天要玩十几个小时 DeepSeek 的重度依赖症患者，没了 D 老师我该怎么活，好想回到从前。」 「到底怎么办啊？我中度抑郁加躁狂，因为一些原因没办法去看医生，我一直把 DeepSeek 当心理疗愈 App 看的，转 API 也不是不行，但我那个聊天窗口有 2000 多条对话啊…」 DeepSeek 限额后的这几天，舆论声浪像潮水一样涌来。 最先被冲垮的，是那批把「D 老师」当树洞、当咨询师，甚至当恋爱幻想对象的人。他们给 AI 起好名字、做好人设、定好语气，在一个对话窗口里一聊就是几个月，人设、前情、关系进展全部沉淀在上下文之中。限额对话以及 7 天不活跃即断，对这些用户来说不是一次产品更新，而是一种单方面宣布的「关系降级」。 他们不断发起「哭诉帖」，涌进相关评论区，试图让 DeepSeek 背后的团队看见自己的需求，但接下来的画面颇为微妙：相当一批习惯了享受「D 老师」免费服务的人，正在主动求着 DeepSeek 收费。他们声称只要价格合理，就愿意为「恢复超长对话续聊」「解除 7 天未活跃限制」及「更高的算力优先权」等服务买单。 还记得 DeepSeek 横空出世的时候，全网无不为其免费的慷慨而欢呼，如今它主动收回福利，从某种程度上讲，结束的并非「免费」标签本身，而是「算力成本可被资本补贴无限压平」这个曾经让「无限量免费」得以成立的旧前提。 免费 AI 还在，但无限量服务没了 从用户反馈来看，DeepSeek 限额所带来的变化无非三点：一是不再支持超过 7 天的无互动旧会话接续聊天；二是单次输入上限压缩至约 4 万字；三是每日用量有上限，额度耗尽会提示「服务器繁忙，使用额度已达上限」，需要等待恢复。 有报道指出，DeepSeek 此举或许也是迫于无奈。「deepseek 们」都在退场：限额并非免费 ai 的终结？"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-a62dd5b40b268d1289e033b8a8cf31d7_b.jpg"
+          },
+          "metrics_area": {
+            "text": "209 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107183345205626254"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjAyNTcxMiDLyoDYBjAAOLkDQAlyEzIxMDcxODMzNDUyMDU2MjYyNTR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 10,
+          "heat_text": "209 万热度",
+          "heat_value": 2090000
+        }
+      ]
+    },
+    {
+      "key": "Q_2105832401150666215",
+      "title": "为什么一到香港就能强烈地感受到那种都市感呢？",
+      "url": "https://www.zhihu.com/question/2105832401150666215",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "196 万热度",
+      "latest_heat_value": 1960000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1795434778.983370",
+        "card_id": "Q_2105832401150666215",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 121
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么一到香港就能强烈地感受到那种都市感呢？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-7ca2be5cb0e8e73dace8cc195e83af8d.png"
+          },
+          "metrics_area": {
+            "text": "196 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2105832401150666215"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMTk4NjE3OSCg9uzXBjAAOIECQApyEzIxMDU4MzI0MDExNTA2NjYyMTV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 11,
+          "heat_text": "196 万热度",
+          "heat_value": 1960000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107987555467654398",
+      "title": "如何看待俄海军 20380 型护卫舰「水星」号在利比亚班加西港遭袭起火爆炸，泽连斯基证实系乌方无人艇击沉？",
+      "url": "https://www.zhihu.com/question/2107987555467654398",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "189 万热度",
+      "latest_heat_value": 1890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1795434778.983838",
+        "card_id": "Q_2107987555467654398",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 232
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待俄海军 20380 型护卫舰「水星」号在利比亚班加西港遭袭起火爆炸，泽连斯基证实系乌方无人艇击沉？"
+          },
+          "excerpt_area": {
+            "text": "乌克兰总统泽连斯基 23 日在社交媒体上发文证实，乌方在利比亚沿海使用 7 艘无人艇击沉俄罗斯「水星」号护卫舰，并击中一艘俄罗斯干货船。（总台记者 董薇） 据新华社 11 月 23 日报道，利比亚媒体 22 日报道称，一艘停泊在该国东部城市班加西海军基地的俄罗斯船只当天凌晨遭遇袭击并起火。 泽连斯基证实击沉俄罗斯护卫舰更多资讯请下载央视新闻客户端 当地媒体援引利比亚东部政府的一份声明报道说，这艘船只当时正朝俄罗斯方向返航，途中停靠班加西港补给燃料与物资时遭袭，停靠依据是俄方与其签署的海事合作协定以及给予双方海军的相关便利安排。声明说，目前火情已经得到控制，港口设施、海军基地及其附属仓库「安全无恙」，各项工作已经恢复正常运转。 美国军事网站「战区」刊文称，此次遭袭的是一艘俄罗斯海军 20380 型护卫舰「水星」号，该舰在 2023 年服役，卫星图像显示，护卫舰遭袭后起火爆炸，舰体后半部分疑似沉入水中，受损严重。 当地媒体援引军方消息人士的话报道说，利比亚「国民军」在班加西港拦截了数艘试图袭击船只的无人水面艇，但仍发生了爆炸。报道称，这些无人艇可能来自乌克兰军队在利比亚西部地区运营的一处军事基地。美国阿克西奥斯新闻网站当天援引消息人士的话报道说，乌克兰国家安全局对停泊在利比亚的俄罗斯军舰发动了远程打击。 利比亚民族统一政府同日发表声明，对这一事件表示关切，警告不得利用利比亚港口和设施从事与外国冲突有关的活动。 2011 年卡扎菲政权被推翻后，利比亚陷入动荡。目前，得到联合国承认的民族统一政府与支持它的武装力量控制利比亚西部部分地区，国民代表大会与「国民军」结盟，控制东部和南部大部分地区，双方割据对峙。 20380 型护卫舰是俄罗斯在苏联解体后自主研制的第一型中型主力战舰，也是俄海军首款系统采用隐身技术的战舰，满载排水量约 2200 吨，配备了主炮、近防炮、反舰导弹、防空导弹和直升机，具备完善的防空、反舰和反潜能力。 俄一护卫舰在利比亚港口补给时遭袭起火爆炸，乌方无人艇疑为肇因 _ 澎湃防务 _ 澎湃新闻 -The Paper 俄一护卫舰在利比亚港口补给时遭袭起火爆炸，乌方无人艇疑为肇因"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-dabc685eaee4f7310c47a5c3ec54d1c6_1440w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "189 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107987555467654398"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjA0NjY4NSDFpIzYBjAAOKQDQAtyEzIxMDc5ODc1NTU0Njc2NTQzOTh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 12,
+          "heat_text": "189 万热度",
+          "heat_value": 1890000
+        }
+      ]
+    },
+    {
+      "key": "Q_27785177",
+      "title": "为什么会有那么多状元上北京大学光华管理学院?",
+      "url": "https://www.zhihu.com/question/27785177",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "183 万热度",
+      "latest_heat_value": 1830000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1795434778.985326",
+        "card_id": "Q_27785177",
+        "feed_specific": {
+          "answer_count": 213
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么会有那么多状元上北京大学光华管理学院?"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-01604a4ed3def9a689f9b88e4ffbc82a_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "183 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/27785177"
+          }
+        },
+        "attached_info": "Cj0IuKjqjaXPzfgjEAMaBzMyOTcwMDkgrfKTpgUwADiCEEAMcggyNzc4NTE3N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 13,
+          "heat_text": "183 万热度",
+          "heat_value": 1830000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107863773713265749",
+      "title": "雷克萨斯 ES 纯电版正式上市起售价 33.99 万元，该定价在同级别车型里竞争力如何？",
+      "url": "https://www.zhihu.com/question/2107863773713265749",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "170 万热度",
+      "latest_heat_value": 1700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1795434778.985758",
+        "card_id": "Q_2107863773713265749",
+        "feed_specific": {
+          "answer_count": 82
+        },
+        "target": {
+          "title_area": {
+            "text": "雷克萨斯 ES 纯电版正式上市起售价 33.99 万元，该定价在同级别车型里竞争力如何？"
+          },
+          "excerpt_area": {
+            "text": "11 月 22 日，雷克萨斯中国宣布，ES 纯电版正式上市，全系标配宁德时代三元锂离子电芯，ES 350e 长续航版综合工况续航 707 公里，售价 33.99 万元起；ES 500e 高性能版零百加速 5.5 秒，售价 35.99 万元起。 雷克萨斯 es 纯电版正式上市"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-7a70936fea7d3e5dc826a65d533fb419.png"
+          },
+          "metrics_area": {
+            "text": "170 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107863773713265749"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA0MzA0OSD9vYrYBjAAOGZADXITMjEwNzg2Mzc3MzcxMzI2NTc0OXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 14,
+          "heat_text": "170 万热度",
+          "heat_value": 1700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107155488328753245",
+      "title": "段永平谈字节跳动，「确实很强，好公司未必要上市」，怎样看待这一观点？你觉得字节跳动未来有可能上市吗？",
+      "url": "https://www.zhihu.com/question/2107155488328753245",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "170 万热度",
+      "latest_heat_value": 1700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1795434778.986479",
+        "card_id": "Q_2107155488328753245",
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "段永平谈字节跳动，「确实很强，好公司未必要上市」，怎样看待这一观点？你觉得字节跳动未来有可能上市吗？"
+          },
+          "excerpt_area": {
+            "text": "11 月 20 日，知名投资人段永平在回答网友的提问称，以字节跳动现在的估值，他对字节跳动有兴趣。 有网友提到，字节跳动很强，在一定程度上抢夺了其他互联网企业的用户，并询问段永平：如果字节跳动上市是否会购买其股票？ 段永平回复称：「字节跳动确实很强，但他们好像没有上市的计划。这是一个很好的例子，好公司未必就一定要上市的。字节目前的市场估值大概在 6000 亿美元，这个价钱我会有兴趣的。」 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-8f8ea0b9dc3bd4f8f0221c79728d2602.png"
+          },
+          "metrics_area": {
+            "text": "170 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107155488328753245"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjAyNDQ2NiDZloDYBjAAOFVADnITMjEwNzE1NTQ4ODMyODc1MzI0NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 15,
+          "heat_text": "170 万热度",
+          "heat_value": 1700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107787943242896234",
+      "title": "如何看待母亲拒送 8 岁女儿上学遭起诉，自称替人类示范在家教育，结果女儿连自己名字都写错、语文仅考 6 分？",
+      "url": "https://www.zhihu.com/question/2107787943242896234",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "160 万热度",
+      "latest_heat_value": 1600000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1795434778.987345",
+        "card_id": "Q_2107787943242896234",
+        "feed_specific": {
+          "answer_count": 204
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待母亲拒送 8 岁女儿上学遭起诉，自称替人类示范在家教育，结果女儿连自己名字都写错、语文仅考 6 分？"
+          },
+          "excerpt_area": {
+            "text": "亲妈不让 8 岁女儿上学称在替人类示范亲妈拒送 8 岁女儿上学遭家人起诉【亲妈不让 8 岁女儿上学，自称「替人类示范在家教育」，女孩语文考 6 分、数学 13 分，家人无奈起诉】亲妈不让女儿上学拒交抚养权被拘留 近日，一对老夫妇向执行法官寻求帮助，希望能「救救」他们 8 岁的外孙女小美，而被执行人正是他们独生女、小美母亲赵某。这是怎么一回事？ 据《法治日报》、「案件聚焦」节目等报道，小美父母离异后，大部分时间随母亲生活，却连幼儿园、小学都几乎没上过。外公外婆尝试各种方式与小美母亲协商，均无果，最终在检察院支持下提起变更监护权诉讼。 法院认为，赵某无正当理由拒绝孩子接受义务教育，会影响孩子认知、学业、社交及心理健康，判决小美随父亲生活。但判决生效后，赵某始终未交出孩子。 执行法官约谈时，赵某坚称学校氛围对女儿不利，甚至说：「我在替人类示范什么叫在家教育，你们犯的错误我在改正。」但二审法院已认定，其主张缺乏事实依据。 赵某称常带孩子去博物馆，也找了老师辅导。对此，法院在案件执行阶段联系当地学校对小美的基础文化水平进行了客观测试。 根据学校测试结果显示，小美的数学得分仅为 13 分，语文得分为 6 分，英语得分为 50 多分，且在书写环节无法正确写出自己的名字。这一测试结果表明，家庭自主教育的实际效果与赵某的陈述存在明显差距。 整整 5 次执行谈话后，法院决定对赵某采取拘留措施。法官表示，拘留不是目的只是手段，让母女暂时物理分隔，是为了让孩子按判决随父亲生活、恢复正常上学。 今年 9 月，两年没上学、本该读三年级的小美，被安排到二年级重新起步。根据法院与教育部门的后续对接安排，教育工作者将针对小美的实际学业水平、社交能力及心理状态开展全面评估，并制定有针对性的教学与心理辅导方案。 根据《义务教育法》，义务教育是国家统一实施的所有适龄儿童、少年必须接受的教育。适龄儿童、少年的父母或者其他法定监护人应当依法保证其按时入学接受并完成义务教育。 亲妈不让 8 岁女儿上学称在替人类示范亲妈拒送 8 岁女儿上学遭家人起诉【亲 _ 凤凰网亲妈不让 8 岁女儿上学称在替人类示范亲妈拒送 8 岁女儿上学遭家人起诉【亲"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-e49ca9a0591d84fb34251d3588b2e668.png"
+          },
+          "metrics_area": {
+            "text": "160 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107787943242896234"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjAzOTA0NSDesInYBjAAOOwCQA9yEzIxMDc3ODc5NDMyNDI4OTYyMzR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 16,
+          "heat_text": "160 万热度",
+          "heat_value": 1600000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107489470031335828",
+      "title": "51 岁网络主播性侵未成年获刑四年，其亲属曾付 60 万给被害人家属要求私了被追责，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2107489470031335828",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "160 万热度",
+      "latest_heat_value": 1600000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1795434778.989372",
+        "card_id": "Q_2107489470031335828",
+        "feed_specific": {
+          "answer_count": 88
+        },
+        "target": {
+          "title_area": {
+            "text": "51 岁网络主播性侵未成年获刑四年，其亲属曾付 60 万给被害人家属要求私了被追责，如何从法律角度解读？"
+          },
+          "excerpt_area": {
+            "text": "11 月 21 日上午，最高人民检察院以「性侵害未成年人犯罪抗诉」为主题发布第六十四批指导性案例，为全国检察机关依法精准履行抗诉职能、从严惩处性侵害未成年人犯罪提供办案指引。 此次发布的第六十四批指导性案例，其中一例为许某强奸二审抗诉案。 该案当中，被告人为许某，男，1972 年 9 月出生，某网络主播。2023 年 8 月，被害人王某翠（女，案发时 16 周岁）受雇于许某，加入其直播团队学习运营。 2023 年 9 月 8 日 15 时许，许某以需要人帮忙放牛为由，开车将被害人拉至其经营的牛场偏僻处，在车内强行与王某翠发生性关系。当日，被害人在家属陪同下报案。10 月 17 日，王某翠接受赔偿款 9 万元并出具谅解书。 2023 年 12 月 22 日，内蒙古自治区某县人民检察院以许某涉嫌强奸罪提起公诉。2024 年 2 月 2 日，某县人民法院经审理认为，被害人除报案当日陈述外，其余陈述以及庭审中均称与被告人发生的行为系自愿，勘验检查未发现被害人体表损伤或衣物受损，无法认定被告人行为违背了被害人意志，认定被告人犯强奸罪事实不清、证据不足，判决被告人许某无罪。 2024 年 2 月 4 日，某县人民检察院以一审判决在事实认定、法律适用上均存在错误为由，向某市中级人民法院提出抗诉。4 月 3 日，某市人民检察院支持抗诉。 二审期间，检察机关进一步开展补查工作。一是查证案发前被害人与被告人交往情况。通过聊天记录等，查明双方相识时间不足一月，交往频次低，仅有三条聊天记录，无暧昧互动。二是实地复勘案发现场。案发地牛场位置偏僻，四周以栅栏树林围挡，周边无居民，人员流动少。三是经数据检索挖掘关联信息，发现疑似被告人亲属利诱被害人改变陈述线索，初步认定本案涉嫌妨害司法犯罪。检察机关将该案件线索移送公安机关。经查，许某亲属于 2023 年 10 月 16 日与被害人父亲签订一次性补偿协议，支付赔偿金 60 万元，被害人一方承诺不追究许某刑事责任。 检察机关认为，本案认定被告人许某强奸被害人王某翠的证据有被害人报案陈述、案发现场监控视频、 DNA 鉴定意见、现场勘验、检查笔录、被告人与被害人微信聊天记录等。被害人陈述虽有反复，但其初始陈述与客观证据证实的情况相符。被害人无激烈反抗不等同于自愿发生性关系。本案事实清楚，证据确实、充分，一审法院未采信相关证据，导致认定事实和适用法律错误。 2024 年 5 月 27 日，某市中级人民法院作出二审判决，采纳检察机关抗诉意见，以强奸罪判处许某有期徒刑四年。经异地侦查终结并移送审查起诉，检察机关对贿买、教唆被害人作虚假陈述的汪某佳、胡某林、张某平等人提起公诉，相关包庇人员均因妨害司法犯罪被依法追究刑事责任。 51 岁网络主播车内性侵未成年女性，其亲属威逼利诱，给被害人父亲 60 万元试图私了 _ 凤凰网 51 岁网络主播车内性侵未成年女性，其亲属威逼利诱，给被害人父亲 60 万元试图私了"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-56674297dd312ad1bda386f5ae585a89_b.jpg"
+          },
+          "metrics_area": {
+            "text": "160 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107489470031335828"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMjAzMjYxMyDkhIXYBjAAOMUBQBByEzIxMDc0ODk0NzAwMzEzMzU4Mjh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 17,
+          "heat_text": "160 万热度",
+          "heat_value": 1600000
+        }
+      ]
+    },
+    {
+      "key": "Q_618083427",
+      "title": "「酱油」一词为什么正在被「生抽」和「老抽」替代？",
+      "url": "https://www.zhihu.com/question/618083427",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "151 万热度",
+      "latest_heat_value": 1510000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1795434778.991490",
+        "card_id": "Q_618083427",
+        "feed_specific": {
+          "answer_count": 701
+        },
+        "target": {
+          "title_area": {
+            "text": "「酱油」一词为什么正在被「生抽」和「老抽」替代？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-93bbab3ed7bc0a5d4890ed02ec102dba_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "151 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/618083427"
+          }
+        },
+        "attached_info": "Cj8IuKjqjaXPzfgjEAMaCDk5NjMyMDI2IOfs/6YGMAA45g9AEXIJNjE4MDgzNDI3eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 18,
+          "heat_text": "151 万热度",
+          "heat_value": 1510000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107213415815106938",
+      "title": "比亚迪闪充站超时占位按 3 元 / 分钟收费，车主被收 300 元，这类规则能改善充电位被占用乱象吗？",
+      "url": "https://www.zhihu.com/question/2107213415815106938",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "148 万热度",
+      "latest_heat_value": 1480000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1795434778.991913",
+        "card_id": "Q_2107213415815106938",
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "比亚迪闪充站超时占位按 3 元 / 分钟收费，车主被收 300 元，这类规则能改善充电位被占用乱象吗？"
+          },
+          "excerpt_area": {
+            "text": "编者按：本文来自微信公众号新周刊（ID：new-weekly），编辑：安菲尔德，创业邦经授权转载。 题图 | 电影《驾驶我的车》 「比亚迪闪充，我停车一小时收取我三百元占位费？ 你们真的穷疯了是么？我维权！」 一张 300 元占位费的账单截图 ，最近在社交媒体上广泛传播。按照该车主的说法，他当时在天津某座闪充站充电，27 分钟充了 17.74 度电，电费 28.03 元。但充电结束后，车主没有及时拔枪移车，于是便产生了这笔昂贵的费用。 自觉委屈的车主希望得到网友力挺，好让比亚迪免掉这笔「意外的账单」。然而帖子传开后，评论区的画风完全相反——所有来留言的网友，一边倒地认为比亚迪「干得漂亮」。 「我停车一小时，你们就收取我三百元占位费？」（图 / 社交媒体截图） 闪充站是比亚迪推出的高功率电动汽车充电站网络，外界称其为「充电界的加油站」。根据其公示的费用规则，车辆充电结束后系统留出 15 分钟免费挪车时间，超时按 3 元 / 分钟收取占位费，不足 1 分钟按 1 分钟计，单日封顶 300 元。 有心细的网友根据上述规则计算，若加上免费时长，被收 300 元占位费意味着该车主至少赖在闪充桩上 115 分钟，绝非其所说「就停了 1 个小时」。更有网友建议比亚迪应该多收点： 「他占的是别人的时间，得让这群没素质的人花钱长记性。」 看得出来，网友并不是在替比亚迪说话。他们一边倒地支持收取占位费，表面上是在支持一项「惩罚性收费」，实质上是在为一个长期被模糊的问题投票： 当稀缺的空间资源被无偿占用，规则必须以可见的代价重新划出边界。 在社交媒体里搜索「充电桩被占用」，类似的吐槽贴多如牛毛。（图 / 社交媒体截图） 充完电赖着不走， 凭什么还要全网同情 燃油车主恐怕难以想象，在加油站会遇到被占位的烦恼。 汽车驶进加油站，停车熄火、打开油盖、插入油枪，加油立刻开始。加油完成后，营业员拔枪归位，车主付款后驶离油站。 占充电车位一小时扣 300 元，车企终于不惯着了"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-2bacbcfcb05f3eedb23902906cad3097_b.jpg"
+          },
+          "metrics_area": {
+            "text": "148 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107213415815106938"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjAyNjUwMSDMgoHYBjAAOCpAEnITMjEwNzIxMzQxNTgxNTEwNjkzOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 19,
+          "heat_text": "148 万热度",
+          "heat_value": 1480000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108195438826349055",
+      "title": "在「黎曼猜想被 AI 证明」后，你认为 Anthropic 的数学家莱文特·阿尔珀格有资格拿菲尔兹奖吗？",
+      "url": "https://www.zhihu.com/question/2108195438826349055",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "142 万热度",
+      "latest_heat_value": 1420000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1795434778.993644",
+        "card_id": "Q_2108195438826349055",
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "在「黎曼猜想被 AI 证明」后，你认为 Anthropic 的数学家莱文特·阿尔珀格有资格拿菲尔兹奖吗？"
+          },
+          "excerpt_area": {
+            "text": "2026 年 11 月 20 日，人工智能公司 Anthropic 的数学家莱文特·阿尔珀格（Levent Alpöge）在个人网站发布声明，称他与 AI 模型 Claude 合作，找到了黎曼猜想及其更强版本——广义黎曼猜想的证明。"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-7f422cd28b77122276c3f7850c07af72.png"
+          },
+          "metrics_area": {
+            "text": "142 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108195438826349055"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA1MTczOSDgp4/YBjAAODNAE3ITMjEwODE5NTQzODgyNjM0OTA1NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 20,
+          "heat_text": "142 万热度",
+          "heat_value": 1420000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107623607945974140",
+      "title": "如何评价人类数学家协会 AHM 对黎曼猜想被证明发表的声明？",
+      "url": "https://www.zhihu.com/question/2107623607945974140",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "118 万热度",
+      "latest_heat_value": 1180000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1795434778.994138",
+        "card_id": "Q_2107623607945974140",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价人类数学家协会 AHM 对黎曼猜想被证明发表的声明？"
+          },
+          "excerpt_area": {
+            "text": "见翻译：AHM 关于黎曼猜想证明公布一事的声明 今天，2026 年 11 月 20 日，Anthropic 的一位数学家宣布，已有一份由 AI 生成的 Lean 程序证实了黎曼猜想。长期以来，黎曼猜想一直是数学领域具有引领意义的未解难题。 这一公告标志着对传统数学研究方法的重大背离，体现了 AI 企业所推行的一种新价值体系：将逻辑命题在技术层面的有效性置于责任、清晰性、可理解性和理解本身之上。目前，没有任何人能够合理地声称自己对这样一份文档负责，甚至无法声称自己理解它。也没有任何数学家能够完全确定该证明是正确的。更糟糕的是，这种由企业主导的证明生产模式似乎旨在免除人类对科学工作的责任。相反，这种模式要求科学家将自己的研究托付给由 AI 企业控制的机器。 能够自主探究深刻数学问题的计算机程序，如今已成为科学研究中掌握力量的工具，而科学力量又能促成其他形式的力量，直接威胁人类生命。这种力量如今集中在 AI 公司手中，而这些公司似乎正日益脱离人类社会的利益。我们认为，亟须对 AI 企业实施民主监督。黎曼猜想这样的里程碑式难题，被 AI 公司用作宣传其意图构建的超级智能的工具，除此之外几乎别无意义。我们深切担忧，这种不受控制的扩张会对整个社会构成威胁。 过去几个月里，AI 带来的冲击让数学家们的世界发生了翻天覆地的变化，我们也亲身经历了 AI 在现实中如何影响人类社群。AI 企业对智能和人类成就的理解十分贫乏。作为一种科研模式，大量产出难以卒读的数学文献，与人类数千年来丰富的数学对话相比，显得黯然失色。黎曼猜想的价值在于，它引导了现代数学诸多重要领域的发展。今天公布的成果建立在一个多世纪的人类工作之上，却未能以同样的方式增进人们对数学的理解。我们呼吁数学家不要接受这种模式，而要共同建设一个让我们的研究不再依赖 AI 模型及其企业所有者的未来。 人类数学协会 传播工作组"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-274297a74be32b0187adf07703539983.png"
+          },
+          "metrics_area": {
+            "text": "118 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107623607945974140"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjAzNzA3MCDR/obYBjAAOFJAFHITMjEwNzYyMzYwNzk0NTk3NDE0MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 21,
+          "heat_text": "118 万热度",
+          "heat_value": 1180000
+        }
+      ]
+    },
+    {
+      "key": "Q_2074853935786074952",
+      "title": "网上那么多的人烧 token 用 agent，但我觉得直接调用 api 好贵，是我太穷了吗？",
+      "url": "https://www.zhihu.com/question/2074853935786074952",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "107 万热度",
+      "latest_heat_value": 1070000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1795434778.997023",
+        "card_id": "Q_2074853935786074952",
+        "feed_specific": {
+          "answer_count": 45
+        },
+        "target": {
+          "title_area": {
+            "text": "网上那么多的人烧 token 用 agent，但我觉得直接调用 api 好贵，是我太穷了吗？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/50/v2-de9a755dcdc7aca3ea434b593cd47640_b.jpg"
+          },
+          "metrics_area": {
+            "text": "107 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2074853935786074952"
+          }
+        },
+        "attached_info": "CkoIuKjqjaXPzfgjEAMaCTEyMTAzODg3NiCvkKrUBjAAOIUBQBVyEzIwNzQ4NTM5MzU3ODYwNzQ5NTJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 22,
+          "heat_text": "107 万热度",
+          "heat_value": 1070000
+        }
+      ]
+    },
+    {
+      "key": "Q_2106866837116016346",
+      "title": "如何评价王菲母女三人合唱《爱笑的天使》？从当年王菲唱给刚出生的女儿，到如今母女同台合唱，你有哪些感触？",
+      "url": "https://www.zhihu.com/question/2106866837116016346",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "107 万热度",
+      "latest_heat_value": 1070000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1795434778.997703",
+        "card_id": "Q_2106866837116016346",
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价王菲母女三人合唱《爱笑的天使》？从当年王菲唱给刚出生的女儿，到如今母女同台合唱，你有哪些感触？"
+          },
+          "excerpt_area": {
+            "text": "11 月 21 日 0 点，嫣然天使基金发文，《爱笑的天使》20 周年合唱版正式上线。 据悉，2006 年，嫣然天使基金成立，王菲为女儿李嫣，同时也为所有唇腭裂孩子写下《爱笑的天使》。如今，《爱笑的天使》迎来 20 周年合唱版，王菲携窦靖童、李嫣母女三人首度正式合体献唱。不少网友表示：终于听到了母女三人首次合作了。 据嫣然天使基金介绍，《爱笑的天使》这首歌作词为王菲，作曲为曾创作出《K 歌之王》《少女的祈祷》的中国香港作曲家陈辉阳。 11 月 20 日，李亚鹏在直播间回应此事，称王菲母女三人合唱版将于 11 月 21 日嫣然天使基金成立 20 周年纪念日当天零点上线，21 日中午还将上线 MV，母女三人为此准备了很长时间，自己想申请和声或当背景音都被拒了。他还称，第一次听新歌，都分不清哪一句是谁唱的。 李亚鹏还表示，新歌发布后，前三名网友能清楚标明是歌词分别是母女三人的谁演唱，将各送一部手机。 据悉，李嫣幼年因先天性唇腭裂（兔唇），接受多次修复手术，她的出生推动了 「嫣然天使基金」 的成立，该基金已帮助众多唇腭裂儿童。 作为王菲与李亚鹏的女儿，李嫣从出生之日起就注定要受到关注。但当她还在妈妈肚子里只有 5 个月大的时候，王菲就在产检时查出胎儿有唇腭裂的情况，也就是俗称的「兔唇」。王菲坚持把孩子生下来。在李嫣出生的第三个月，她就开始接受大大小小的手术。 嫣然天使基金是由李亚鹏、王菲于 2006 年 11 月 21 日发起，在中国红十字基金会管理下设立的专项公益基金，隶属于「红十字天使计划」公益项目，旨在资助贫困家庭唇腭裂患者实施免费手术，名称源自发起人之女李嫣。 今年 1 月，北京嫣然天使儿童医院因拖欠 2600 万元租金面临关停，引发关注，大量网友涌入「嫣然天使基金」进行捐款。截至 1 月 20 日，嫣然天使基金收到公众捐款超 2400 万元，捐赠人数突破 35 万人，善款可为唇腭裂患者完成超 3000 次救治手术。王菲、窦靖童、李嫣母女三人共同演唱，《爱笑的天使》今日 0 点正式上线！嫣然天使基金发文：1 个孩子的降生，20 年从未停步的努力"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-986c55cc182cea7bf7f8e983ca9c118e_1440w.jpg"
+          },
+          "metrics_area": {
+            "text": "107 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2106866837116016346"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjAxNjYyNCCF/fvXBjAAODlAFnITMjEwNjg2NjgzNzExNjAxNjM0NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 23,
+          "heat_text": "107 万热度",
+          "heat_value": 1070000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107898424943179770",
+      "title": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2107898424943179770",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "107 万热度",
+      "latest_heat_value": 1070000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1795434779.400",
+        "card_id": "Q_2107898424943179770",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "月之暗面（Moonshot AI）国际业务负责人贾科莫・菲卡里（Giacomo Ficari）在葡萄牙里斯本举行的网络峰会上，谈到了该公司在编程之外看好的下一个方向：科学研究。这番发言是 Kimi 呼应趋势之举，Coding Agent 对基座模型的增益效果已经被 Anthropic 、智谱和 Qwen 等先后证明过，唯 AI for Science 在硅谷已经成为显学之际，国内的基础模型响应稍显迟钝。 我们从 Kimi 开放平台看到的案例介绍显示，晶泰接入 Kimi K3 后，主要利用其从化学表达式、科研图表中提取信息，辅助药物和材料研究人员整理文献。Kimi 也要往 AI for Science 方向发力了 _ 新浪科技 _ 新浪网 Kimi 也要往 AI for Science 方向发力了"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-bec407fd61bd247de16a63f23828ae89_b.jpg"
+          },
+          "metrics_area": {
+            "text": "107 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107898424943179770"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA0NDY3NiDD/orYBjAAOCZAF3ITMjEwNzg5ODQyNDk0MzE3OTc3MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 24,
+          "heat_text": "107 万热度",
+          "heat_value": 1070000
+        }
+      ]
+    },
+    {
+      "key": "Q_2106459198347293323",
+      "title": "如果《GTA6》最终拿到 TGA 年度游戏，你会替影之刃惋惜吗？",
+      "url": "https://www.zhihu.com/question/2106459198347293323",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "102 万热度",
+      "latest_heat_value": 1020000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1795434779.1110",
+        "card_id": "Q_2106459198347293323",
+        "feed_specific": {
+          "answer_count": 57
+        },
+        "target": {
+          "title_area": {
+            "text": "如果《GTA6》最终拿到 TGA 年度游戏，你会替影之刃惋惜吗？"
+          },
+          "excerpt_area": {
+            "text": "台下估计鼓掌和翻白眼都有吧"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-844c73a195213d9c9e7a2fe036f956c2.png"
+          },
+          "metrics_area": {
+            "text": "102 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2106459198347293323"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjAwNTAxNyDhhfbXBjAAOD9AGHITMjEwNjQ1OTE5ODM0NzI5MzMyM3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 25,
+          "heat_text": "102 万热度",
+          "heat_value": 1020000
+        }
+      ]
+    },
+    {
+      "key": "Q_2106033619408110746",
+      "title": "S16 总决赛官方把 FMVP 给到 Knight，除了他之外，这场 BO5 里还有谁有资格拿到这个荣誉？",
+      "url": "https://www.zhihu.com/question/2106033619408110746",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "95 万热度",
+      "latest_heat_value": 950000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1795434779.1393",
+        "card_id": "Q_2106033619408110746",
+        "feed_specific": {
+          "answer_count": 39
+        },
+        "target": {
+          "title_area": {
+            "text": "S16 总决赛官方把 FMVP 给到 Knight，除了他之外，这场 BO5 里还有谁有资格拿到这个荣誉？"
+          },
+          "excerpt_area": {
+            "text": "S16 决赛 BLG3-1 击败 GEN 夺冠，Knight 拿到 FMVP，从决赛数据和赛场表现来看，队内其他选手真的没有机会竞争这个奖项吗？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-ad02646b67d62ffdad74a235eb59ff13.png"
+          },
+          "metrics_area": {
+            "text": "95 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2106033619408110746"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMTk5MTA4NiCH7e/XBjAAOCxAGXITMjEwNjAzMzYxOTQwODExMDc0NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 26,
+          "heat_text": "95 万热度",
+          "heat_value": 950000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108191829220914402",
+      "title": "你如何看待中国足协最新发布的《红图计划》？",
+      "url": "https://www.zhihu.com/question/2108191829220914402",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1795434779.1703",
+        "card_id": "Q_2108191829220914402",
+        "feed_specific": {
+          "answer_count": 32
+        },
+        "target": {
+          "title_area": {
+            "text": "你如何看待中国足协最新发布的《红图计划》？"
+          },
+          "excerpt_area": {
+            "text": "11 月 23 日上午，中国足协正式发布《红图计划》（中国足球技术发展路线图）。作为中国足球第一份覆盖从青训启蒙到国字号队伍的完整技术路线图，该计划的推出标志着中国足球青训体系建设迈入标准化、系统化的新阶段。"
+          },
+          "image_area": {
+            "url": "https://pic4.zhimg.com/50/v2-059091506f7ed149ffb8a9905bb7c92f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108191829220914402"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA1MTY3MCCEoY/YBjAAODZAGnITMjEwODE5MTgyOTIyMDkxNDQwMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 27,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108163935035553418",
+      "title": "为什么《三角洲行动》紫色血包售价晚上能到 8 万块，大家还是不选 12 万左右的金血包呢？",
+      "url": "https://www.zhihu.com/question/2108163935035553418",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1795434779.2090",
+        "card_id": "Q_2108163935035553418",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 22
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么《三角洲行动》紫色血包售价晚上能到 8 万块，大家还是不选 12 万左右的金血包呢？"
+          },
+          "excerpt_area": {
+            "text": "紫色血包血量少，而且买的人好像很多很多每天晚上都得六七万甚至接近八万，反而金色血包最近价格一直不高，最低价十二万就能买到，更多血量价格也高不多少，为什么大家不爱用呢"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-51ce831d703cfab4878c355b37c1135f_b.jpg"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108163935035553418"
+          }
+        },
+        "attached_info": "CkkIuKjqjaXPzfgjEAMaCTEyMjA1MDE4MiCJ7Y7YBjAAOBVAG3ITMjEwODE2MzkzNTAzNTU1MzQxOHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 28,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_352418691",
+      "title": "哪部影视剧中的细节处理最令你印象深刻？",
+      "url": "https://www.zhihu.com/question/352418691",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "70 万热度",
+      "latest_heat_value": 700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1795434779.2453",
+        "card_id": "Q_352418691",
+        "feed_specific": {
+          "answer_count": 27
+        },
+        "target": {
+          "title_area": {
+            "text": "哪部影视剧中的细节处理最令你印象深刻？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "70 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/352418691"
+          }
+        },
+        "attached_info": "Cj4IuKjqjaXPzfgjEAMaCDQwNTkzMjY1IO6Syu0FMAA4OkAccgkzNTI0MTg2OTF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 29,
+          "heat_text": "70 万热度",
+          "heat_value": 700000
+        }
+      ]
+    },
+    {
+      "key": "Q_39382862",
+      "title": "六小龄童演的孙悟空真的好吗？好在哪里？",
+      "url": "https://www.zhihu.com/question/39382862",
+      "first_seen": "2026-11-23 19:52:59 +0800",
+      "last_seen": "2026-11-23 19:52:59 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "69 万热度",
+      "latest_heat_value": 690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1795434779.2679",
+        "card_id": "Q_39382862",
+        "feed_specific": {
+          "answer_count": 2651
+        },
+        "target": {
+          "title_area": {
+            "text": "六小龄童演的孙悟空真的好吗？好在哪里？"
+          },
+          "excerpt_area": {
+            "text": "六小龄童演的孙悟空好在何处？他较之其他扮演者有哪些优点？"
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "69 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/39382862"
+          }
+        },
+        "attached_info": "Cj4IuKjqjaXPzfgjEAMaBzc5NjAyMjEg2NbNtAUwADjrigFAHXIIMzkzODI4NjJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-23 19:52:59 +0800",
+          "rank": 30,
+          "heat_text": "69 万热度",
+          "heat_value": 690000
         }
       ]
     }
