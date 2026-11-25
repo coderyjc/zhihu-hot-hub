@@ -1,7 +1,7 @@
 {
   "version": 2,
   "scope": "daily",
-  "updated_at": "2026-11-25 03:58:22 +0800",
+  "updated_at": "2026-11-25 11:58:00 +0800",
   "items": [
     {
       "key": "Q_2106818758044030504",
@@ -63,18 +63,23 @@
       "title": "特朗普称黄仁勋是「国家瑰宝」，若在美遇不公可去中国，黄仁勋未来若来华可能有哪些选择？",
       "url": "https://www.zhihu.com/question/2108601916930225865",
       "first_seen": "2026-11-25 03:58:22 +0800",
-      "last_seen": "2026-11-25 03:58:22 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
       "first_rank": 2,
-      "latest_rank": 2,
-      "latest_heat_text": "397 万热度",
-      "latest_heat_value": 3970000,
+      "latest_rank": 6,
+      "latest_heat_text": "205 万热度",
+      "latest_heat_value": 2050000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "1_1795550302.411275",
+        "id": "5_1795579080.185986",
         "card_id": "Q_2108601916930225865",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
         "feed_specific": {
-          "answer_count": 73
+          "answer_count": 293
         },
         "target": {
           "title_area": {
@@ -87,7 +92,7 @@
             "url": "https://pic3.zhimg.com/50/v2-72051055e2073a147f657e612511244c_b.jpg"
           },
           "metrics_area": {
-            "text": "397 万热度",
+            "text": "205 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -102,7 +107,7 @@
             "url": "https://www.zhihu.com/question/2108601916930225865"
           }
         },
-        "attached_info": "CkoIwd3imLritp4LEAMaCTEyMjA2NjMwNSDwnJXYBjAAOJwCQAFyEzIxMDg2MDE5MTY5MzAyMjU4NjV4AKoBCWJpbGxib2FyZNIBAA=="
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA2NjMwNSDwnJXYBjAAONoHQAVyEzIxMDg2MDE5MTY5MzAyMjU4NjV4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -110,6 +115,12 @@
           "rank": 2,
           "heat_text": "397 万热度",
           "heat_value": 3970000
+        },
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 6,
+          "heat_text": "205 万热度",
+          "heat_value": 2050000
         }
       ]
     },
@@ -173,18 +184,18 @@
       "title": "AI 短剧《丑狐》爆火后引发大量讨论，它能戳中观众的核心原因是什么？",
       "url": "https://www.zhihu.com/question/2108451365806776772",
       "first_seen": "2026-11-25 03:58:22 +0800",
-      "last_seen": "2026-11-25 03:58:22 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
       "first_rank": 4,
-      "latest_rank": 4,
-      "latest_heat_text": "201 万热度",
-      "latest_heat_value": 2010000,
+      "latest_rank": 3,
+      "latest_heat_text": "282 万热度",
+      "latest_heat_value": 2820000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "3_1795550302.414955",
+        "id": "2_1795579080.182437",
         "card_id": "Q_2108451365806776772",
         "feed_specific": {
-          "answer_count": 39
+          "answer_count": 186
         },
         "target": {
           "title_area": {
@@ -197,7 +208,7 @@
             "url": "https://pic1.zhimg.com/50/v2-49968c84b0bcd6542ea305a0f2cedca8_b.jpg"
           },
           "metrics_area": {
-            "text": "201 万热度",
+            "text": "282 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -212,7 +223,7 @@
             "url": "https://www.zhihu.com/question/2108451365806776772"
           }
         },
-        "attached_info": "CkkIwd3imLritp4LEAMaCTEyMjA1OTA5NCC6hJPYBjAAOGFAA3ITMjEwODQ1MTM2NTgwNjc3Njc3MngAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA1OTA5NCC6hJPYBjAAOPkDQAJyEzIxMDg0NTEzNjU4MDY3NzY3NzJ4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -220,6 +231,12 @@
           "rank": 4,
           "heat_text": "201 万热度",
           "heat_value": 2010000
+        },
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 3,
+          "heat_text": "282 万热度",
+          "heat_value": 2820000
         }
       ]
     },
@@ -283,18 +300,18 @@
       "title": "高志凯称欧洲在人工智能发展中的作用几乎是零，这一观点是否站得住脚？",
       "url": "https://www.zhihu.com/question/2104246988380418941",
       "first_seen": "2026-11-25 03:58:22 +0800",
-      "last_seen": "2026-11-25 03:58:22 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
       "first_rank": 6,
-      "latest_rank": 6,
-      "latest_heat_text": "111 万热度",
-      "latest_heat_value": 1110000,
+      "latest_rank": 5,
+      "latest_heat_text": "223 万热度",
+      "latest_heat_value": 2230000,
       "latest_item": {
         "type": "hot_list_feed",
         "style_type": "1",
-        "id": "5_1795550302.416670",
+        "id": "4_1795579080.184617",
         "card_id": "Q_2104246988380418941",
         "feed_specific": {
-          "answer_count": 29
+          "answer_count": 204
         },
         "target": {
           "title_area": {
@@ -304,10 +321,10 @@
             "text": "专题：全球网络峰会 Web Summit Lisbon 2026 郝倩 发自葡萄牙里斯本「人工智能将改变一切、塑造一切、重新创造一切。在这样一场历史级的技术革命面前，欧洲究竟在做什么？」在 2026 全球网络峰会（Web Summit）期间，全球化智库副主任高志凯独家对话新浪财经时表示，全球 AI 竞争已经不只是模型和算法的竞争，而是能源、数据、算力、半导体、制造业和应用场景的综合较量。在全球人工智能竞争日益激烈的背景下，中国、美国和欧洲正在呈现出不同的发展路径。 对欧洲而言，真正紧迫的问题不是如何利用 AI，而是如何重新找到自己在 AI 时代的位置。高志凯认为，中国和美国目前处于全球人工智能发展的第一梯队，但双方在技术路线和产业理念上存在明显差异。中国更加重视开源和合作，美国则以闭源模型和技术优势为重要竞争手段。相比之下，欧洲虽然各国都在积极推动人工智能发展，但在高志凯看来，欧洲更多是在思考如何利用 AI 改造现有产业，而不是如何成为 AI 技术和产业发展的引领者。「欧洲很可悲，到现在它在人工智能发展中的作用几乎是零。」 这一判断颇为尖锐。在他看来，欧洲需要正视自身与中美之间的差距，并尽快作出战略选择。他甚至提出一个鲜明判断：「人工智能发展，开源必胜，闭源必败。」AI 竞争不是单纯的模型竞争，而是综合国力竞争高志凯认为，理解全球人工智能竞争，不能只看大模型参数、算法和技术指标，而应该将 AI 拆解为多个相互关联的产业板块，包括能源、电力、数据、稀土、半导体、算力、量子计算以及具身智能和制造业。人工智能并不是脱离实体经济而独立存在的技术。 没有能源和电力，算力基础设施就无法运转；没有高质量数据，模型训练就缺乏基础；没有半导体和制造业，算法能力也难以转化为现实产品。从这一角度看，高志凯认为，不能简单得出美国领先、中国落后的结论。他特别强调中国在能源、稀土和制造业方面的优势。 对话高志凯：欧洲很可悲，在人工智能发展中的作用几乎是零"
           },
           "image_area": {
-            "url": ""
+            "url": "https://pica.zhimg.com/13e388fe4.jpg?source=57bbeac9"
           },
           "metrics_area": {
-            "text": "111 万热度",
+            "text": "223 万热度",
             "font_color": "",
             "background": "",
             "weight": ""
@@ -322,7 +339,7 @@
             "url": "https://www.zhihu.com/question/2104246988380418941"
           }
         },
-        "attached_info": "CkkIwd3imLritp4LEAMaCTEyMTk0MjEzOSCZ7dXXBjAAODdABXITMjEwNDI0Njk4ODM4MDQxODk0MXgAqgEJYmlsbGJvYXJk0gEA"
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMTk0MjEzOSCZ7dXXBjAAOKgDQARyEzIxMDQyNDY5ODgzODA0MTg5NDF4AKoBCWJpbGxib2FyZNIBAA=="
       },
       "history": [
         {
@@ -330,6 +347,12 @@
           "rank": 6,
           "heat_text": "111 万热度",
           "heat_value": 1110000
+        },
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 5,
+          "heat_text": "223 万热度",
+          "heat_value": 2230000
         }
       ]
     },
@@ -1665,6 +1688,1546 @@
           "rank": 30,
           "heat_text": "61 万热度",
           "heat_value": 610000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108654680351797564",
+      "title": "神舟二十四号载人飞船发射取得圆满成功，中国空间站迎来首位外籍航天员，此次发射任务还有哪些看点？",
+      "url": "https://www.zhihu.com/question/2108654680351797564",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 1,
+      "latest_rank": 1,
+      "latest_heat_text": "749 万热度",
+      "latest_heat_value": 7490000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "0_1795579080.179283",
+        "card_id": "Q_2108654680351797564",
+        "feed_specific": {
+          "answer_count": 87
+        },
+        "target": {
+          "title_area": {
+            "text": "神舟二十四号载人飞船发射取得圆满成功，中国空间站迎来首位外籍航天员，此次发射任务还有哪些看点？"
+          },
+          "excerpt_area": {
+            "text": "最新进展 神舟二十四号载人飞船与火箭成功分离，进入预定轨道，航天员乘组状态良好，发射取得圆满成功。 更多资讯请下载央视新闻客户端 搭载神舟二十四号载人飞船的长征二号 F 遥二十四运载火箭在酒泉卫星发射中心点火发射。新华社分享页 神舟二十四号载人飞行任务新闻发布会在酒泉卫星发射中心召开。 发言人介绍，飞行乘组由汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里组成，汤洪波担任指令长。 3 名航天员分别为航天驾驶员、航天飞行工程师和载荷专家。航天员汤洪波执行过神舟十二号、神舟十七号载人飞行任务，即将成为首位三次到访「天宫」的航天员。航天员武毅来自我国第三批航天员，将首次执行飞行任务。巴基斯坦航天员穆罕默德·齐尚·阿里将成为首位到访「天宫」的外籍航天员。 目前，任务各项准备工作正在稳步推进，执行此次发射任务的长征二号 F 遥二十四运载火箭即将加注推进剂。「天宫」将迎来首位外籍航天员 神二十四乘组名单公布"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-62cf9024baefd566e9c514820750f44a.png"
+          },
+          "metrics_area": {
+            "text": "749 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108654680351797564"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA2ODMzOCCU/5XYBjAAOOUBQAByEzIxMDg2NTQ2ODAzNTE3OTc1NjR4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 1,
+          "heat_text": "749 万热度",
+          "heat_value": 7490000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108516619337064991",
+      "title": "年轻人开始劝父母卖县城空房，换成现金收利息，空置多年的房子有必要留吗？",
+      "url": "https://www.zhihu.com/question/2108516619337064991",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 2,
+      "latest_rank": 2,
+      "latest_heat_text": "425 万热度",
+      "latest_heat_value": 4250000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "1_1795579080.181374",
+        "card_id": "Q_2108516619337064991",
+        "feed_specific": {
+          "answer_count": 162
+        },
+        "target": {
+          "title_area": {
+            "text": "年轻人开始劝父母卖县城空房，换成现金收利息，空置多年的房子有必要留吗？"
+          },
+          "excerpt_area": {
+            "text": "是留着县城空房寻求一种「安全感」，还是把房换成现金？近日，山西青年赵钢力劝父母卖掉县城婚房的行为在社交平台上引发争论。赵钢常年在外地工作，父母准备的备婚房已空置 8 年。赵钢最终通过经济账说服父母卖房，转为配置红利等收息资产。也有人认为，父母一辈有自己的价值衡量标准，房子的价值始终还在。调研显示，三四线城市房产去化周期达 31.6 个月，大量县城房产长期闲置，物业费、维护成本持续支出，两代人的认知分歧也越来越大：父母把房产视作安全感和面子，而对很多年轻人而言，现金流和它带来的实实在在的收益才是真的安全感。 住不上的房子要留吗？年轻人开始劝父母卖县城空房收息"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-58efab05ca5f827e33d3438377cdc9aa_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "425 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108516619337064991"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA2MTAwNCCA/pPYBjAAOPgCQAFyEzIxMDg1MTY2MTkzMzcwNjQ5OTF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 2,
+          "heat_text": "425 万热度",
+          "heat_value": 4250000
+        }
+      ]
+    },
+    {
+      "key": "Q_365957338",
+      "title": "为什么我觉得憨豆先生的表演非常庸俗幼稚，一点儿也不可笑？是中西文化的不同么？",
+      "url": "https://www.zhihu.com/question/365957338",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 4,
+      "latest_rank": 4,
+      "latest_heat_text": "252 万热度",
+      "latest_heat_value": 2520000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "3_1795579080.184098",
+        "card_id": "Q_365957338",
+        "feed_specific": {
+          "answer_count": 163
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么我觉得憨豆先生的表演非常庸俗幼稚，一点儿也不可笑？是中西文化的不同么？"
+          },
+          "excerpt_area": {
+            "text": "是中西文化的不同么？为什么我觉得憨豆先生的表演非常庸俗幼稚，一点儿也不可笑？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-ad174c7949fc458d9e61e478bce0daef_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "252 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/365957338"
+          }
+        },
+        "attached_info": "Cj8I74bnxovG5ZULEAMaCDQzNjAxOTU4ILmz6/AFMAA49wFAA3IJMzY1OTU3MzM4eACqAQliaWxsYm9hcmTSAQA="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 4,
+          "heat_text": "252 万热度",
+          "heat_value": 2520000
+        }
+      ]
+    },
+    {
+      "key": "Q_2051218257361761408",
+      "title": "亲戚要借车到北京玩，我想拒绝，因为对方几乎没开过高速，但是不知道怎么说才不得罪人？",
+      "url": "https://www.zhihu.com/question/2051218257361761408",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 7,
+      "latest_rank": 7,
+      "latest_heat_text": "186 万热度",
+      "latest_heat_value": 1860000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "6_1795579080.190388",
+        "card_id": "Q_2051218257361761408",
+        "feed_specific": {
+          "answer_count": 262
+        },
+        "target": {
+          "title_area": {
+            "text": "亲戚要借车到北京玩，我想拒绝，因为对方几乎没开过高速，但是不知道怎么说才不得罪人？"
+          },
+          "excerpt_area": {
+            "text": "感觉年轻人真的不会替别人考虑，没车就坐高铁不也挺好的吗，新手小白都敢开车去北京."
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-d834a4325bbbb23d3ad398bac575eae9_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "186 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2051218257361761408"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMDA0NTc1OSC+l9LRBjAAOKACQAZyEzIwNTEyMTgyNTczNjE3NjE0MDh4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 7,
+          "heat_text": "186 万热度",
+          "heat_value": 1860000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107834692301071129",
+      "title": "如何看待《两京十五日》火烧太庙、射太祖画像的剧情？",
+      "url": "https://www.zhihu.com/question/2107834692301071129",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 8,
+      "latest_rank": 8,
+      "latest_heat_text": "178 万热度",
+      "latest_heat_value": 1780000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "7_1795579080.190839",
+        "card_id": "Q_2107834692301071129",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 211
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待《两京十五日》火烧太庙、射太祖画像的剧情？"
+          },
+          "excerpt_area": {
+            "text": "太抽象了吧，吴起也不过是拿先王尸体挡箭。 《明史·铁铉传》载「铉书高皇帝神牌悬城上，燕兵不敢击」"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/80/v2-31306c2f183779b4417c5c02fded64e0_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "178 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107834692301071129"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA0MTQxMSDoh4rYBjAAOKECQAdyEzIxMDc4MzQ2OTIzMDEwNzExMjl4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 8,
+          "heat_text": "178 万热度",
+          "heat_value": 1780000
+        }
+      ]
+    },
+    {
+      "key": "Q_2106383813853159640",
+      "title": "黄多多贝儿先后官宣出道，星二代扎堆进圈会挤压普通新人发展机会吗？",
+      "url": "https://www.zhihu.com/question/2106383813853159640",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 9,
+      "latest_rank": 9,
+      "latest_heat_text": "170 万热度",
+      "latest_heat_value": 1700000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "8_1795579080.191286",
+        "card_id": "Q_2106383813853159640",
+        "feed_specific": {
+          "answer_count": 109
+        },
+        "target": {
+          "title_area": {
+            "text": "黄多多贝儿先后官宣出道，星二代扎堆进圈会挤压普通新人发展机会吗？"
+          },
+          "excerpt_area": {
+            "text": "#黄多多正式进圈#黄多多正式踏入演艺圈的消息一出，很快就引来不少讨论。这么多年，她一直是被大众看着长大的孩子，从儿时跟着父母出现在公众视野，每一次露面都伴随着极高的关注度，褒奖和争议始终如影随形。和很多仓促出道的新人不一样，她很早就开始接触艺术相关内容，在外求学期间深耕导演方向，也陆续参与朗读、时尚相关的活动，这次亮相，更像是长久积累之后，选择主动走向台前。星二代的身份给了她更高的起点，有资源、有渠道，省去了很多新人摸索的过程，但这同样是一份沉重的枷锁。 旁人会不自觉拿她和黄磊、孙莉对比，她的穿搭、谈吐、作品，都会被放在放大镜下审视，一点不足就容易被无限放大。有人期待她能走出一条不一样的路，用作品证明自己不只是「黄磊的女儿」；也有人会抱有顾虑，担心她在嘈杂的舆论环境里，很难守住自己的节奏。进入娱乐圈只是一个起点，红毯亮相、时尚资源都只是加分项，想要长久走下去，最终还是要靠扎实的作品说话。前路的考验才刚刚开始，不必急着下定论，不妨多给这个年轻的女孩一些空间，看看她能不能跳出身份的标签，走出属于自己的道路。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-0e2f116e92a2c22d71f34be26fe78ae0_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "170 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2106383813853159640"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjAwMDk1NiCr+fTXBjAAOKMBQAhyEzIxMDYzODM4MTM4NTMxNTk2NDB4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 9,
+          "heat_text": "170 万热度",
+          "heat_value": 1700000
+        }
+      ]
+    },
+    {
+      "key": "Q_2104591108315378480",
+      "title": "方言中有哪些不为人知的语言学冷知识？",
+      "url": "https://www.zhihu.com/question/2104591108315378480",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 10,
+      "latest_rank": 10,
+      "latest_heat_text": "89 万热度",
+      "latest_heat_value": 890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "9_1795579080.192237",
+        "card_id": "Q_2104591108315378480",
+        "feed_specific": {
+          "answer_count": 18
+        },
+        "target": {
+          "title_area": {
+            "text": "方言中有哪些不为人知的语言学冷知识？"
+          },
+          "excerpt_area": {
+            "text": "讲讲你知道方言冷知识"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-aee958b6f5ed0fe75e54638d27e96513_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "89 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2104591108315378480"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMTk1MTg2OSCV7trXBjAAODNACXITMjEwNDU5MTEwODMxNTM3ODQ4MHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 10,
+          "heat_text": "89 万热度",
+          "heat_value": 890000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108823980911977684",
+      "title": "特朗普公开提及一道配了漂亮「帽子」的中国菜，直呼好吃却叫不出名字，可能是哪一道菜？",
+      "url": "https://www.zhihu.com/question/2108823980911977684",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 11,
+      "latest_rank": 11,
+      "latest_heat_text": "89 万热度",
+      "latest_heat_value": 890000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "10_1795579080.192656",
+        "card_id": "Q_2108823980911977684",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "特朗普公开提及一道配了漂亮「帽子」的中国菜，直呼好吃却叫不出名字，可能是哪一道菜？"
+          },
+          "excerpt_area": {
+            "text": "「我想我喜欢中国菜。你知道吗？（在深圳）我吃到了很棒的中国菜，但不知道叫什么。不过真的很好吃，（那道菜）还配了漂亮的‘帽子’。」——近日，美国总统特朗普在谈及最喜欢的中国菜时说到。 从深圳回到美国好几天了，特朗普似乎还在「戒断」。 当地时间 11 月 23 日，特朗普接受了近一小时的专访，主要谈论黄仁勋复职。聊着聊着，他突然又夸起了深圳。 「我得告诉你们，那座城市非常干净，一尘不染。」特朗普感叹，看看美国一些城市的现状，实在令人难过。 他再次强调深圳的整洁，并称这是一次令人惊叹的旅行。 当地时间 11 月 22 日，特朗普在弗吉尼亚州出席晚宴时，还向来宾展示自己抵达中国深圳时的照片。 现场有人问，「你的中国之行怎么样？开心吗？」他回答：「非常好。」 此前，在白宫举行的新闻发布会上，美国总统特朗普谈起深圳时给予了高度评价。特朗普表示：「当你在那里 (深圳) 的时候，你可以看到这个城市拥有惊人的能量。这个城市干净无瑕，它是在短时间内建成的，已经 40 年了，曾经那只是一片小渔村。」 特朗普结束中国深圳的行程返回美国后，在个人社交账号连发 30 多张照片，回味深圳之行。特朗普回国好几天还在回味：你知道吗，在深圳我吃到了很棒的中国菜，那道「戴帽子」的菜简直绝了！"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-674536957e7b0b53d98fee541d81e0dd_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "89 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108823980911977684"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA3MDc1MSDBupjYBjAAODtACnITMjEwODgyMzk4MDkxMTk3NzY4NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 11,
+          "heat_text": "89 万热度",
+          "heat_value": 890000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108665221980148805",
+      "title": "如何看待 Anthropic 价格跌破发行价？",
+      "url": "https://www.zhihu.com/question/2108665221980148805",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 12,
+      "latest_rank": 12,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "11_1795579080.194129",
+        "card_id": "Q_2108665221980148805",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 101
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待 Anthropic 价格跌破发行价？"
+          },
+          "excerpt_area": {
+            "text": "当地时间 11 月 24 日，Anthropic 盘前价格跌破发行价，报 82.303 美元 / 股，盘前跌超 6%。 Anthropic 于上周四在纳斯达克上市，当天股价一度冲高至 115 美元，收报 97.17 美元，较 83 美元的发行价上涨 17.1%；上周五和本周一则分别收跌 8.5% 和 1.43%。 "
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-0dcd6dc118f46771d8695207441dd73e_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108665221980148805"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA2ODY3MyDmkpbYBjAAOPkBQAtyEzIxMDg2NjUyMjE5ODAxNDg4MDV4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 12,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107744019908400678",
+      "title": "为什么历史网络小说对于游牧政权的描写都不正确？",
+      "url": "https://www.zhihu.com/question/2107744019908400678",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 13,
+      "latest_rank": 13,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "12_1795579080.195049",
+        "card_id": "Q_2107744019908400678",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 33
+        },
+        "target": {
+          "title_area": {
+            "text": "为什么历史网络小说对于游牧政权的描写都不正确？"
+          },
+          "excerpt_area": {
+            "text": "历史上但凡搭建强点的游牧部族哪怕没有侵占中原主要农耕区靠北方的哪些耕地，在更北方的河核心区域隔着一整个草原的那种河谷地带，也是会有大面积的耕地的，比如色楞格 - 鄂尔浑河谷农耕区，斡耳朵八里（喀拉巴拉哈逊）和哈拉和林（和林）所在地，还有什么科布多河谷的称海城农耕区（西部军屯核心），唐努乌梁海（图瓦）叶尼塞上游河谷农耕区对应黠戛斯汗国牙帐赌蒲城，克鲁伦河中游河谷农耕区对应可敦城（青托罗盖古城），实际上以历史角度来看开发了这些地区后，草原政权就能做到农牧 55 开，甚至有可能 64 开，你要是给他们上个西伯利亚土豆 buff 甚至有机会 73 开，但那些历史文就经常纯粹把游牧政权写的在草原上跑，有没有不这么写的文章？"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/100/v2-f93dbfb7998aa0794c756361e1b3950a_r.jpg"
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107744019908400678"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjAzODA4NSD23ojYBjAAOFpADHITMjEwNzc0NDAxOTkwODQwMDY3OHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 13,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2103807449383883036",
+      "title": "《西游记》中孙悟空大闹天宫后，为何没有被直接处死？",
+      "url": "https://www.zhihu.com/question/2103807449383883036",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 14,
+      "latest_rank": 14,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "13_1795579080.195791",
+        "card_id": "Q_2103807449383883036",
+        "card_label": {
+          "type": "hot",
+          "icon": "https://pic2.zhimg.com/80/v2-266e83dbee46dce23b718e0531cb7d3a_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-c89199839c237b87e52f010bb5e7d773_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 28
+        },
+        "target": {
+          "title_area": {
+            "text": "《西游记》中孙悟空大闹天宫后，为何没有被直接处死？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/80/v2-3825369d65a53477e2f2de1f1adcf397_720w.webp"
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2103807449383883036"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMTkyNzk2MiC+us/XBjAAOBxADXITMjEwMzgwNzQ0OTM4Mzg4MzAzNngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 14,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107879530920678195",
+      "title": "如何看待曾毓群说「因为宁德时代在撑着这个价钱，只要我们把价钱低下来，它（锂电行业）比光伏还惨」？",
+      "url": "https://www.zhihu.com/question/2107879530920678195",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 15,
+      "latest_rank": 15,
+      "latest_heat_text": "88 万热度",
+      "latest_heat_value": 880000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "14_1795579080.196072",
+        "card_id": "Q_2107879530920678195",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "如何看待曾毓群说「因为宁德时代在撑着这个价钱，只要我们把价钱低下来，它（锂电行业）比光伏还惨」？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": ""
+          },
+          "metrics_area": {
+            "text": "88 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107879530920678195"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA0NDA3NCCq24rYBjAAOBtADnITMjEwNzg3OTUzMDkyMDY3ODE5NXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 15,
+          "heat_text": "88 万热度",
+          "heat_value": 880000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108326762346017716",
+      "title": "黄仁勋「熹妃回宫」特朗普帮了多大的忙？对特朗普会有哪些好处？",
+      "url": "https://www.zhihu.com/question/2108326762346017716",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 16,
+      "latest_rank": 16,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "15_1795579080.196378",
+        "card_id": "Q_2108326762346017716",
+        "feed_specific": {
+          "answer_count": 100
+        },
+        "target": {
+          "title_area": {
+            "text": "黄仁勋「熹妃回宫」特朗普帮了多大的忙？对特朗普会有哪些好处？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/v2-9a1af5b429e610a9167722620513d1ba.png"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108326762346017716"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA1NzY4OSCunJHYBjAAON4BQA9yEzIxMDgzMjY3NjIzNDYwMTc3MTZ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 16,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108210685716820377",
+      "title": "因开塞露含甘油，自媒体宣传其可保湿淡纹、功效逼近大牌面霜，真这么管用吗？有其他体面一点的护肤办法吗？",
+      "url": "https://www.zhihu.com/question/2108210685716820377",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 17,
+      "latest_rank": 17,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "16_1795579080.196617",
+        "card_id": "Q_2108210685716820377",
+        "feed_specific": {
+          "answer_count": 59
+        },
+        "target": {
+          "title_area": {
+            "text": "因开塞露含甘油，自媒体宣传其可保湿淡纹、功效逼近大牌面霜，真这么管用吗？有其他体面一点的护肤办法吗？"
+          },
+          "excerpt_area": {
+            "text": "进入秋冬季节，空气干燥，不少人都在寻找高性价比的保湿方案。社交平台上出现了不少偏方，其中之一就是用「开塞露平替面霜」。 在一些短视频里，原本几块钱一支、用于缓解便秘的外用药品开塞露，因为含有和护肤品相同的保湿成分甘油，被冠上了「大牌面霜平替」的称号，还衍生出搭配生理盐水湿敷、混合身体乳涂抹等所谓「进阶偏方」。开塞露真的能直接用来涂脸吗？几块钱的「网络偏方」背后，藏着哪些容易被忽视的健康隐患？ 在各大短视频和社交平台上，搜索「开塞露护肤」，能看到大量标榜「低成本护肤」的教程和体验分享。有人将开塞露和生理盐水调匀后泡开面膜纸敷在脸上，宣称能够迅速改善皮肤干燥、卡粉和起皮。甚至还有人推荐将开塞露与红霉素软膏结合，号称可以淡化细纹。 因为都含甘油 开塞露就能平替护肤品了吗？更多资讯请下载央视新闻客户端"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-5b0d6fafa3c80402850b91e0a8de507e_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108210685716820377"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA1MjIwMiCUxI/YBjAAOHNAEHITMjEwODIxMDY4NTcxNjgyMDM3N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 17,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2106329177578271782",
+      "title": "摩根大通发布《中国房地产，只有幸存者才能生存》研报，如何解读其中的内容？",
+      "url": "https://www.zhihu.com/question/2106329177578271782",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 18,
+      "latest_rank": 18,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "17_1795579080.197371",
+        "card_id": "Q_2106329177578271782",
+        "feed_specific": {
+          "answer_count": 35
+        },
+        "target": {
+          "title_area": {
+            "text": "摩根大通发布《中国房地产，只有幸存者才能生存》研报，如何解读其中的内容？"
+          },
+          "excerpt_area": {
+            "text": "摩根大通发了一份名字叫《中国房地产，只有幸存者才能生存》的研报。"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-267fb63601002d9b4202d0a89b24465a_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2106329177578271782"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMTk5ODM2MCDJk/TXBjAAOLsBQBFyEzIxMDYzMjkxNzc1NzgyNzE3ODJ4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 18,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108153080378123763",
+      "title": "孩子用 AI 写小说遭父亲质疑非原创与之起争执，你认为用 AI 辅助写作算原创吗？若是你会怎样解答孩子的困惑？",
+      "url": "https://www.zhihu.com/question/2108153080378123763",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 19,
+      "latest_rank": 19,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "18_1795579080.197767",
+        "card_id": "Q_2108153080378123763",
+        "feed_specific": {
+          "answer_count": 79
+        },
+        "target": {
+          "title_area": {
+            "text": "孩子用 AI 写小说遭父亲质疑非原创与之起争执，你认为用 AI 辅助写作算原创吗？若是你会怎样解答孩子的困惑？"
+          },
+          "excerpt_area": {
+            "text": "跟老二爆发了巨大的冲突。 TA 最近看了很多柯南，沉迷写侦探小说，用一个小本本写了很多。 虽然情节简单、笔法稚嫩，但我还是很鼓励 TA 写，并且无论写得再差，都夸赞写得好。 今天 TA 突然摸出厚厚一沓打印稿，说是自己写的侦探小说，要我认真阅读。 我随手翻了几页，情节文笔远超 TA 的水平，排版格式更不可能是一个小学生的水平。 我问 TA 是不是用了 AI 写作，TA 说是，自己出的提纲，AI 完善的情节。 我说这种尝试值得鼓励，但爸爸还是想看你写在小本本上的小说。 TA 问是因为小本本写得更好吗？我说不是。 TA 问那为什么你更喜欢小本本呢？我说因为那是你写的。 TA 愣了一下，怯生生的问，你是说这一本不是我写的吗？ 我说是你带着 AI 写的，你出的提纲，AI 写的。 TA 说那就是我写的呀。 我说不是的，一部艺术作品，分为思想价值和形式价值，你构思提供的是思想价值，但形式价值确实不是你提供的，你的文笔没有那么好。 TA 哇的一声哭出来，撕心裂肺的嚎说我花了一下午时间跟 AI 讨论，打印了 50 多页，结果不是我的，我的努力全都白费了！我还打算明天带去学校给同学们看，不是我的我还带什么啊！ 我说这是你和 AI 共创的作品，也不能说不是你的啊，但也并不全是你写的，你可以跟同学们说是你带着 AI 写的，你构思和修改，AI 写作润色。 TA 坚持说这么说同学们就会认为是 AI 写的，不是 TA 写的。 我有些恼了，说如果你是希望爸爸承认这是你写的，那很抱歉，爸爸是不会这么说的，因为作品的价值来自于谁是很严肃的事，爸爸不可能为了让你开心就把不是你的成果硬说成是你的。你的这本东西，里面的文字不是你自己写出来的，那就不能说成是你写出来的。 TA 哭得更厉害了，一直说自己的努力都白费了，再也不想写小说了。 说实话我也觉得挺伤心，孩子好不容易创作点东西，满心以为会得到爸爸的表扬，没想到爸爸不仅不表扬，竟然还说作品不是自己的，这种打击对一个小学生来说是巨大的。 但我认为我不能为了孩子的自尊心就一味夸赞，让 TA 将 AI 带给作品的价值误以为是自己的能力，去享受他人的崇拜，迷失其中。如果认清现实会打击 TA 创作的积极性，那只能说明这种积极性是不真实的，是披着创作热情的虚荣心罢了，这种「热情」，不要也罢。 太太看到老二在我房间迟迟不出来，进来询问。我把前因后果跟她说了后，她也支持我的态度，说确实不应该把 AI 写的漂亮文字硬说成是自己的。 我们又一起安慰孩子，告诉 TA 任何成果，并不是说不是自己独立完成的就毫无价值，这世上大多数成就，都是合作的结果，导演需要编剧、演员需要导演、摄影师和漫画家都需要助理。你现在最喜欢的柯南，其中的案件情节，也并不都是青山刚昌一个人想出来的，甚至连他画的漫画，也是有助理帮忙处理细节的。只是在你的这部小说中，你的合作者不是人，而是 AI 罢了。「这部作品是我和 AI 合作写出来的」这句话，并不丢人。 那如果同学们说用了 AI 就是 AI 做的，我怎么办呢？TA 问我。 你可以让他们回家用 AI 生成一部侦探小说带到学校来，看看同学们更喜欢谁的，我相信仅凭一句话生成的作品，不太可能合小学生的胃口——而且你的作品里不是把同学们都写进去了吗，AI 可做不到。 如果他们不听我说，一直说是 AI 做的怎么办呢？ 那他们是傻瓜，你不用让每个傻瓜都认可你。爸爸在网上经常遇到这种人。 开导了一阵，总算把孩子劝住，让太太带回去睡觉了。 我坐在电脑前，回想刚才的对话，突然想到——在 AI 出现之前，是不存在「智力代工的成果该属于谁」这样的争议的，而在未来，可能我们每个人都会面临这个问题的拷问。 虽然从我的严格定义出发，孩子用 AI 润色的作品不应该完全宣称是 TA 的成果，但站在实用主义的角度，现在的网文站点，大量 AI 辅助写作的作品广受欢迎。读者们不会在意作品是作者手搓还是 AI 辅助，只要好看，就会买单，并认可封面上那个人类的作者身份。从这个角度说，AI 辅助生成的作品，就是作者本人的所有物，作者也享受读者们为享受作品价值而支付的利益。 我对这个问题过于严格的定义，会不会打击孩子使用 AI 的积极性，使 TA 在 AI 时代被束缚住手脚，这个问题让我感到忧心。 一般人可能很少会把一个小小的问题上升到原则意义的高度，但对我来说，这确实是一个无法避而不谈的大问题。 唉，庸人自扰啊！"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-c68ba9acc06164675447fe2626354e29_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108153080378123763"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA0OTI1MCDt2I7YBjAAOHRAEnITMjEwODE1MzA4MDM3ODEyMzc2M3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 19,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2071607223839731944",
+      "title": "大家都用 Deepseek Harness 了嘛，感受如何？",
+      "url": "https://www.zhihu.com/question/2071607223839731944",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 20,
+      "latest_rank": 20,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "19_1795579080.200726",
+        "card_id": "Q_2071607223839731944",
+        "feed_specific": {
+          "answer_count": 21
+        },
+        "target": {
+          "title_area": {
+            "text": "大家都用 Deepseek Harness 了嘛，感受如何？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/50/v2-02a3fa4e22fd27048a674a93a8d5eff6_b.jpg"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2071607223839731944"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMDkxNDAyMSDy8PrTBjAAOGVAE3ITMjA3MTYwNzIyMzgzOTczMTk0NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 20,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107872963349451154",
+      "title": "金价大幅回撤，银行和交易所都在风险提示，避险逻辑失效，黄金还能不能作为保值资产？",
+      "url": "https://www.zhihu.com/question/2107872963349451154",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 21,
+      "latest_rank": 21,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "20_1795579080.202237",
+        "card_id": "Q_2107872963349451154",
+        "feed_specific": {
+          "answer_count": 24
+        },
+        "target": {
+          "title_area": {
+            "text": "金价大幅回撤，银行和交易所都在风险提示，避险逻辑失效，黄金还能不能作为保值资产？"
+          },
+          "excerpt_area": {
+            "text": "本周国际金价迎来剧烈杀跌，伦敦金单周跌幅达 8.9%，3800 、 3700 、 3600 美元关口接连失守，现货黄金最低触及 3502 美元 / 盎司，创 14 个月新低。今年 1 月，国际金价一度冲高到 5598 美元 / 盎司的历史高点，不到十个月又回撤了 37%。国内金价同步走弱，品牌金饰价格相比年初每克降了 500 多元。市场情绪也分化明显，有人想赶紧卖出，也有人觉得是个抄底的机会。到底应该怎么看当前的黄金价格走势？"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/v2-55e0d435a5ec7c72ff9eff186a0e9616_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107872963349451154"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA0MzU5NiCMz4rYBjAAODFAFHITMjEwNzg3Mjk2MzM0OTQ1MTE1NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 21,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107833017746060384",
+      "title": "中俄美《和平宣言》如何解读？",
+      "url": "https://www.zhihu.com/question/2107833017746060384",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 22,
+      "latest_rank": 22,
+      "latest_heat_text": "87 万热度",
+      "latest_heat_value": 870000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "21_1795579080.203936",
+        "card_id": "Q_2107833017746060384",
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "中俄美《和平宣言》如何解读？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-2886368c9450c37fc3a4e5de5e075fd0.png"
+          },
+          "metrics_area": {
+            "text": "87 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107833017746060384"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA0MTM0MSDZhIrYBjAAODVAFXITMjEwNzgzMzAxNzc0NjA2MDM4NHgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 22,
+          "heat_text": "87 万热度",
+          "heat_value": 870000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108513690165188147",
+      "title": "34 米路绿灯 12 秒行人被撞亡，法院判定双方同等责任的依据是什么？",
+      "url": "https://www.zhihu.com/question/2108513690165188147",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 23,
+      "latest_rank": 23,
+      "latest_heat_text": "86 万热度",
+      "latest_heat_value": 860000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "22_1795579080.204415",
+        "card_id": "Q_2108513690165188147",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "34 米路绿灯 12 秒行人被撞亡，法院判定双方同等责任的依据是什么？"
+          },
+          "excerpt_area": {
+            "text": "【#法院回应 34 米路绿灯 12 秒行人被撞亡#】#绿灯变红灯残疾男子加速过马路被撞亡#一条长约 34 米的人行横道，仅给行人留下 12 秒的通行时间。2024 年 6 月 16 日深夜，腿部 4 级残疾的翟建设（化名）在加速通过该人行横道时，被正常直行的摩托车撞倒后医治无效身亡。事发后，肇事的摩托车驾驶员黄海峰（化名）被判定承担此次交通事故的主要责任，翟建设承担次要责任。此外，黄海峰因涉嫌交通肇事罪被采取刑事强制措施，最终因事实不清、证据不足，被成都市新津区检察院不起诉。 2025 年 2 月，翟建设的家属将黄海峰起诉至新津区法院，要求黄海峰赔偿医疗费、死亡赔偿金等共计近 129 万元。经新津区法院一审、成都市中级法院二审发回重审、新津区法院重审、成都市中院二审维持，最终认定黄海峰与翟建设承担事故的同等责任，判令黄海峰赔偿 77 万余元，保险公司赔偿 18 万元。法院认为，当信号灯为红灯时，翟建设应当在道路中央安全区域等待，确保安全后再通过，而不应当在红灯亮起时采用跑步快速通过。黄海峰则应在通过路口时减速慢行并仔细观察。 对于红绿灯时间短、事故路段照明不足等问题，则没有证据证明存在违法，且对翟建设的死亡没有因果关系。在事故发生后，该人行横道的通行时间已被提升至 28 秒。但据黄海峰观察，普通人仍然要快步才能通过该路口。#34 米路仅 12 秒绿灯已调整为 28 秒#（来源：澎湃新闻、看看新闻；编辑小小）"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-a789f4e930db2e3bdaee786c44a50084_b.jpg"
+          },
+          "metrics_area": {
+            "text": "86 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108513690165188147"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA2MDgxNyDG+JPYBjAAOBVAFnITMjEwODUxMzY5MDE2NTE4ODE0N3gAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 23,
+          "heat_text": "86 万热度",
+          "heat_value": 860000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107005680506892816",
+      "title": "长期在生源差的学校教学对老师有什么影响？",
+      "url": "https://www.zhihu.com/question/2107005680506892816",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 24,
+      "latest_rank": 24,
+      "latest_heat_text": "85 万热度",
+      "latest_heat_value": 850000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "23_1795579080.206240",
+        "card_id": "Q_2107005680506892816",
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "长期在生源差的学校教学对老师有什么影响？"
+          },
+          "excerpt_area": {
+            "text": ""
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/50/v2-16d8509e171b3a7f279edd36ebba9187_b.jpg"
+          },
+          "metrics_area": {
+            "text": "85 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107005680506892816"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjAxODA4MiDU//3XBjAAODNAF3ITMjEwNzAwNTY4MDUwNjg5MjgxNngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 24,
+          "heat_text": "85 万热度",
+          "heat_value": 850000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108847221840012102",
+      "title": "如何评价华为新发布的 Mate 90 Air，轻薄旗舰能带来哪些优势体验？",
+      "url": "https://www.zhihu.com/question/2108847221840012102",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 25,
+      "latest_rank": 25,
+      "latest_heat_text": "81 万热度",
+      "latest_heat_value": 810000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "24_1795579080.210250",
+        "card_id": "Q_2108847221840012102",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 26
+        },
+        "target": {
+          "title_area": {
+            "text": "如何评价华为新发布的 Mate 90 Air，轻薄旗舰能带来哪些优势体验？"
+          },
+          "excerpt_area": {
+            "text": "11 月 24 日，华为 Mate 90 Air 正式发布。它作为华为最薄 Mate 直板机，打破了轻薄机型往往要牺牲硬件能力的固有印象。想听听大家的看法，这款新机相比常规旗舰，在日常生活中能够带来哪些差异化的优势体验？"
+          },
+          "image_area": {
+            "url": "https://pic3.zhimg.com/50/v2-28508a8cf0db55d6a1a11ffac9cca652_b.jpg"
+          },
+          "metrics_area": {
+            "text": "81 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108847221840012102"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA3MTI3MiDm5ZjYBjAAOBxAGHITMjEwODg0NzIyMTg0MDAxMjEwMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 25,
+          "heat_text": "81 万热度",
+          "heat_value": 810000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107565403664823571",
+      "title": "本田因安全气囊存在破裂风险，将在美国召回超过 80 万辆汽车，哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2107565403664823571",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 26,
+      "latest_rank": 26,
+      "latest_heat_text": "79 万热度",
+      "latest_heat_value": 790000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "25_1795579080.211362",
+        "card_id": "Q_2107565403664823571",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 23
+        },
+        "target": {
+          "title_area": {
+            "text": "本田因安全气囊存在破裂风险，将在美国召回超过 80 万辆汽车，哪些信息值得关注？"
+          },
+          "excerpt_area": {
+            "text": "央视新闻消息，当地时间 11 月 20 日，央视记者获悉，美国国家公路交通安全管理局当日表示，由于高田安全气囊充气装置存在破裂风险，本田将在美国召回 810592 辆讴歌和本田品牌汽车。因安全气囊存在破裂风险 本田将在美国召回超过 80 万辆汽车"
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-761e484e03bd5a928a66c1fd195439fa_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "79 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107565403664823571"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjAzNTY1OSCckobYBjAAOCFAGXITMjEwNzU2NTQwMzY2NDgyMzU3MXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 26,
+          "heat_text": "79 万热度",
+          "heat_value": 790000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107770677130547266",
+      "title": "如何理解黎曼猜想，NS 等纯数学难题的现实意义？它们的现实重要性主要体现在哪里？",
+      "url": "https://www.zhihu.com/question/2107770677130547266",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 27,
+      "latest_rank": 27,
+      "latest_heat_text": "75 万热度",
+      "latest_heat_value": 750000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "26_1795579080.212307",
+        "card_id": "Q_2107770677130547266",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 15
+        },
+        "target": {
+          "title_area": {
+            "text": "如何理解黎曼猜想，NS 等纯数学难题的现实意义？它们的现实重要性主要体现在哪里？"
+          },
+          "excerpt_area": {
+            "text": "我能理解这些 big name 在数学理论内部的重要性，但对于为什么它被视为人类最重要的数学难题之一，仍然有些困惑。 尤其想请教几个问题：如果明天黎曼猜想被证明了，它究竟会给科技（尤其是 X＝非理论物理 化学 生物 材料 机械 这些最实的）带来哪些实质性的进展？ 除了让现有的一些条件性定理得到确认，它会给其他研究领域带来什么新的能力吗？能给 computational X 砍掉 computational cost？如何评价一个纯数学问题的重要性？ 是取决于它在数学理论体系中的中心地位、证明难度、可能催生的新方法，还是潜在的现实应用？纯数学领域内部的学术重要性，与更广义的科学价值、社会价值之间，通常是怎样建立联系的？ 有没有一些历史案例，能说明这种联系是如何逐渐形成的，真的非得是几百年以后才能投入生产？ 我对前沿 pure math 了解比较有限，可能尚未理解黎曼猜想真正深刻的地方。希望能听听数学专业人士的解释，尤其是具体的研究案例和历史经验。 也很好奇：如果暂时不考虑一个问题的历史声望和攻克难度，数学家通常会如何判断它本身值得投入多少研究资源？GPT，Claude，Gemini 都问完了没个靠谱回答，故寄希望于 human experts."
+          },
+          "image_area": {
+            "url": "https://pica.zhimg.com/v2-351d57389cf50b002a20606caac645cf_qhd.jpg?source=57bbeac9"
+          },
+          "metrics_area": {
+            "text": "75 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107770677130547266"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjAzODU2OSDJkInYBjAAOClAGnITMjEwNzc3MDY3NzEzMDU0NzI2NngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 27,
+          "heat_text": "75 万热度",
+          "heat_value": 750000
+        }
+      ]
+    },
+    {
+      "key": "Q_2108587364545197121",
+      "title": "赤马年将连续三个月出现超级月亮，11 月 24 日迎来首个超级月亮，三连超级月亮有多罕见？你拍到了吗？",
+      "url": "https://www.zhihu.com/question/2108587364545197121",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 28,
+      "latest_rank": 28,
+      "latest_heat_text": "73 万热度",
+      "latest_heat_value": 730000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "27_1795579080.214494",
+        "card_id": "Q_2108587364545197121",
+        "feed_specific": {
+          "answer_count": 36
+        },
+        "target": {
+          "title_area": {
+            "text": "赤马年将连续三个月出现超级月亮，11 月 24 日迎来首个超级月亮，三连超级月亮有多罕见？你拍到了吗？"
+          },
+          "excerpt_area": {
+            "text": "11 月 24 日晚上，超级月亮将现身夜空。今年 12 月和明年 1 月还会各出现一次超级月亮，构成十分罕见的跨年度「三连超级月亮」，届时天空中还会上演「月掩昴星团」天象。三连超级月亮要来了！看哪里将上演皓月当空"
+          },
+          "image_area": {
+            "url": "https://picx.zhimg.com/80/v2-07fce01099849fb36ecd1a0aba674c7f_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "73 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2108587364545197121"
+          }
+        },
+        "attached_info": "CkoI74bnxovG5ZULEAMaCTEyMjA2NTI1MCDjgZXYBjAAOIgBQBtyEzIxMDg1ODczNjQ1NDUxOTcxMjF4AKoBCWJpbGxib2FyZNIBAA=="
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 28,
+          "heat_text": "73 万热度",
+          "heat_value": 730000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107863107414356815",
+      "title": "博士卧底当主播 6 月，经历 PK 和羞辱惩罚，至今仍有心理阴影，暴露出哪些问题？PK 为何沦为主播出丑的生意？",
+      "url": "https://www.zhihu.com/question/2107863107414356815",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 29,
+      "latest_rank": 29,
+      "latest_heat_text": "71 万热度",
+      "latest_heat_value": 710000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "28_1795579080.215026",
+        "card_id": "Q_2107863107414356815",
+        "feed_specific": {
+          "answer_count": 29
+        },
+        "target": {
+          "title_area": {
+            "text": "博士卧底当主播 6 月，经历 PK 和羞辱惩罚，至今仍有心理阴影，暴露出哪些问题？PK 为何沦为主播出丑的生意？"
+          },
+          "excerpt_area": {
+            "text": "长久以来，公众对秀场直播的印象，常常和 PK 、打赏绑定。这条门槛不高的赛道，曾经野蛮生长，可对很多普通人而言，直播间是谋生的通道。他们在这里寻找灵活就业的机会，却也深陷行业复杂的规则。 在持续规范的行业里，主播真实的生存状态是什么？流量、商业交织之下，他们要面对哪些风险？ 不靠「打赏」靠「打劫」！ 李海燕是 00 后女生，2024 年与成都一家直播公司签约，成为一名网络秀场主播——主打才艺展示、情感陪伴。按照合同约定，试播期三个月，每天播不低于六个小时、每月不低于 22.5 天，就能领到一万元保底扶持金。李海燕原本以为，这是给自己兜底的保障，却没想到一年后，她不但没领到钱，还被直播公司起诉十万元违约金。 「聊聊天就能赚钱」，这是秀场主播在外人看来的样子。但入行后的李海燕才发现，她每天都需要不停找话题、热场子，并承受直播间没人气、公司任务难以达标等压力。「每天下播后我要伤心两小时，很多主播都是这样。」身心俱疲的李海燕只好请假去医院输液，她本以为有病假申请，事后也补足了直播时长，却不想这次「停播」成为违约的证据。 「公司起诉主播索赔的时候，大部分主播都是失败的，有律师也没用」，李海燕后来才知道事情的严重性。幸运的是，法院后来在审理中发现直播公司由于内斗等原因导致李海燕先后签了阴阳合同，因此原告起诉她违约的合同不具备法律效力，李海燕逃过一劫。 倒逼直播行业进步 法官判直播纠纷 跳出合同看穿套路 律师刘思言从 2018 年开始处理直播行业的各类纠纷，他坦言，直播经济合同纠纷中，主播胜诉并不常见，因为他们所面对的合同往往是看似正常，却处处苛刻。 他向记者展示了一份行业合同模板，其中除了两条权利外，全是义务：主播因身体疾病不能参加活动，需要在当天内告知，并出具诊断证明；主播生育需要提书面申请…义务越多，触发违约金的条件自然更多。其根本原因在于，这个行业用工是灵活的，管理却是强控制的，传统的二元框架，要么是劳动关系，要么是民事合作，怎么套都不合身。 直播行业跑得太快，与劳动者权益相关的制度建设，却没能同步跟上。朱舸是李海燕一案的承办法官，她认为从合同表面上看李海燕确实违约，但法官要做的就是通过证据还原生活事实，这样的裁判才公正。「一个案子不可能改变行业，但可以在每个个案中倒逼网络直播行业，规范合同文本，提升服务质量。让这个行业最终回归到靠内容、靠运营、靠服务而获利，而不是靠批量签约主播，通过收割高额违约金来获利。」 王怡霖是人文社会科学的学者，七年前，她发现当下越来越多的年轻女孩，会选择网络主播作为自己的职业。为了了解网络直播的真实生态，她以研究者的身份「卧底」进入秀场直播行业，在一家 MCN 机构做了六个月全职主播。而这段经历至今仍让她心有余悸，其中最让她感到压力的是平台安排的「新手任务」。 直播公司给新人提供的机会，是每月一次登上直播首页的曝光机会。在这段「流量」时光里，运营会要求主播打 PK。PK 是指两个主播连线，在限定时间里，谁收的礼物多谁就能赢，输的必须接受惩罚。许多看热闹的人，这时候便多了一个掏钱的理由：要么帮自己喜欢的主播赢，要么想看对面的主播出丑。而约定的惩罚，可以一次比一次猎奇。 「他说你敢不敢玩一些比较刺激的，我们输了的，就拿一瓶水往身上浇。我会觉得为什么人会那么悲哀，你为了挣一点这样的一个线上的礼物，你会把自己的自尊，就是感觉踩在脚底下一样。」 在研究中王怡霖发现，这样的屈辱并非少数人的遭遇，那么既然如此痛苦不堪，他们为什么不选择离开？「还是生计问题，对于他们现有的资源条件，他们拥有的技能，直播可能是他们在当下最好的选择。」「敢不敢玩一些刺激的，输了就往身上浇水」，女博士卧底 6 个月当主播至今仍有心理阴影…央视调查透视秀场主播的机遇与风险"
+          },
+          "image_area": {
+            "url": "https://pic1.zhimg.com/80/v2-068b96a1ee972d9c4c3db49bd8c2da05_720w.webp?source=1def8aca"
+          },
+          "metrics_area": {
+            "text": "71 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107863107414356815"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjA0Mjk5NSDfvIrYBjAAOFxAHHITMjEwNzg2MzEwNzQxNDM1NjgxNXgAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 29,
+          "heat_text": "71 万热度",
+          "heat_value": 710000
+        }
+      ]
+    },
+    {
+      "key": "Q_2107282240573129612",
+      "title": "二岁孩子，做事儿总是急躁，没有耐心，做不好就发脾气怎么办？",
+      "url": "https://www.zhihu.com/question/2107282240573129612",
+      "first_seen": "2026-11-25 11:58:00 +0800",
+      "last_seen": "2026-11-25 11:58:00 +0800",
+      "first_rank": 30,
+      "latest_rank": 30,
+      "latest_heat_text": "69 万热度",
+      "latest_heat_value": 690000,
+      "latest_item": {
+        "type": "hot_list_feed",
+        "style_type": "1",
+        "id": "29_1795579080.217787",
+        "card_id": "Q_2107282240573129612",
+        "card_label": {
+          "type": "new",
+          "icon": "https://pic2.zhimg.com/80/v2-a4b0b52b561281109c51e4957cb20130_1440w.png",
+          "night_icon": "https://pic3.zhimg.com/80/v2-10ef6526c602e55a8c606e46aa0cc586_1440w.png"
+        },
+        "feed_specific": {
+          "answer_count": 19
+        },
+        "target": {
+          "title_area": {
+            "text": "二岁孩子，做事儿总是急躁，没有耐心，做不好就发脾气怎么办？"
+          },
+          "excerpt_area": {
+            "text": "无论什么事儿，孩子总想自己动手，但是只要试个三两次，不成功，就发脾气，引导慢慢来也不管用，该怎么办？"
+          },
+          "image_area": {
+            "url": "https://pic2.zhimg.com/50/v2-b22156526847486bea1a539999ef87bb_b.jpg"
+          },
+          "metrics_area": {
+            "text": "69 万热度",
+            "font_color": "",
+            "background": "",
+            "weight": ""
+          },
+          "label_area": {
+            "type": "trend",
+            "trend": 0,
+            "night_color": "#B7302D",
+            "normal_color": "#F1403C"
+          },
+          "link": {
+            "url": "https://www.zhihu.com/question/2107282240573129612"
+          }
+        },
+        "attached_info": "CkkI74bnxovG5ZULEAMaCTEyMjAyODE2OSDlgoLYBjAAOBtAHXITMjEwNzI4MjI0MDU3MzEyOTYxMngAqgEJYmlsbGJvYXJk0gEA"
+      },
+      "history": [
+        {
+          "observed_at": "2026-11-25 11:58:00 +0800",
+          "rank": 30,
+          "heat_text": "69 万热度",
+          "heat_value": 690000
         }
       ]
     }
